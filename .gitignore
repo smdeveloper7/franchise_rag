@@ -2,9 +2,9 @@
 app.log
 .env
 __pycache__/
-*/vector_db/*
-**/vector_db/
-/vector_db/*
+# */vector_db/*
+# **/vector_db/
+# /vector_db/*
 /venv
 convert_pdf.log
 /tmp/
