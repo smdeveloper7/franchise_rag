@@ -52,7 +52,7 @@ for i, q_item in enumerate(questions_data[:5]):
     results.append(result)
 
 
-output_path = Path("./data/result/test_data2.json").resolve()
+output_path = Path("./data/result/test_data.json").resolve()
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
 
