@@ -1,0 +1,3 @@
+langchain_chroma
+langchain_huggingface
+pydantic_settings
