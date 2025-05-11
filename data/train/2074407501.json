@@ -1,0 +1,2302 @@
+[
+    {
+        "LRN_DTIN_MNNO": "207440106469643750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "101007501",
+            "KORN_ATTRB_NM": "1. 가맹본부의 일반 정보",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 1. 가맹본부의 일반 정보\n당사의 일반 정보는 다음과 같습니다.<table><tr><td>상호</td><td>영업표지</td><td>주소</td></tr><tr><td>주식회사옥면가</td><td>옥면가</td><td>서울특별시 *** ****** **** 1층</td></tr><tr><td>법인 설립등기일</td><td>사업자등록일</td><td>대표자</td><td>대표전화번호</td><td>대표팩스번호</td></tr><tr><td>2019.11.21.</td><td>2019.12.01.</td><td>신진욱</td><td>070)8822-5773</td><td>02-3454-1153</td></tr><tr><td>법인등록번호</td><td>110111-7299690</td><td>사업자등록번호</td><td>304-88-01476</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)옥면가\n- **브랜드명**: 옥면가\n- **상호**: 주식회사옥면가\n- **영업표지**: 옥면가\n- **주소**: 서울특별시 마포구 ****** **** 1층\n- **법인 설립등기일**: 2019.11.21.\n- **사업자등록일**: 2019.12.01.\n- **대표자**: 신진욱\n- **대표전화번호**: 070)8822-5773\n- **대표팩스번호**: 02-3454-1153\n- **법인등록번호**: 110111-7299690\n- **사업자등록번호**: 304-88-01476",
+            "ABSTRACTED_SUMMARY_TEXT": "**가맹본부 정보 요약:**\n\n- **가맹본부명:** (주)옥면가\n- **브랜드명:** 옥면가\n\n**일반 정보:**\n- **상호:** 주식회사옥면가\n- **영업표지:** 옥면가\n- **주소:** 서울특별시 마포구 ****** **** 1층\n- **법인 설립 등기일:** 2019.11.21.\n- **사업자 등록일:** 2019.12.01.\n- **대표자:** 신진욱\n- **대표 전화번호:** 070) 8822-5773\n- **대표 팩스번호:** 02-3454-1153\n- **법인 등록번호:** 110111-7299690\n- **사업자 등록번호:** 304-88-01476",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부인 (주)옥면가는 어떤 상호를 사용하나요?",
+                    "ANSWER": "(주)옥면가는 '주식회사옥면가'라는 상호를 사용하고 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가의 영업표지는 무엇인가요?",
+                    "ANSWER": "옥면가는 '옥면가'라는 영업표지를 사용하고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부의 주소는 어디인가요?",
+                    "ANSWER": "가맹본부의 주소는 서울특별시 마포구 ****** **** 1층입니다."
+                },
+                {
+                    "QUESTION": "가맹본부 (주)옥면가의 설립일은 언제인가요?",
+                    "ANSWER": "(주)옥면가는 2019년 11월 21일에 법인 설립 등기가 이루어졌습니다."
+                },
+                {
+                    "QUESTION": "옥면가의 사업자는 언제 등록되었나요?",
+                    "ANSWER": "(주)옥면가는 2019년 12월 1일에 사업자 등록이 이루어졌습니다."
+                },
+                {
+                    "QUESTION": "현재 (주)옥면가의 대표자는 누구인가요?",
+                    "ANSWER": "(주)옥면가의 대표자는 신진욱입니다."
+                },
+                {
+                    "QUESTION": "(주)옥면가의 대표전화번호는 무엇인가요?",
+                    "ANSWER": "(주)옥면가의 대표 전화번호는 070)8822-5773입니다."
+                },
+                {
+                    "QUESTION": "(주)옥면가의 팩스번호는 무엇인가요?",
+                    "ANSWER": "(주)옥면가의 대표 팩스번호는 02-3454-1153입니다."
+                },
+                {
+                    "QUESTION": "가맹본부 (주)옥면가의 법인등록번호는 무엇인가요?",
+                    "ANSWER": "(주)옥면가의 법인등록번호는 110111-7299690입니다."
+                },
+                {
+                    "QUESTION": "옥면가의 사업자등록번호는 어떻게 되나요?",
+                    "ANSWER": "(주)옥면가의 사업자등록번호는 304-88-01476입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440704974855750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "103007501",
+            "KORN_ATTRB_NM": "3. 가맹본부의 인수ㆍ합병 내역",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 3. 가맹본부의 인수ㆍ합병 내역\n당사는 최근 3년 동안 다른 기업(가맹사업 영업표지를 포함하여 가맹사업을 경영한 기업)을 인수ㆍ합병(다른 기업의 가맹 관련 사업을 양수 또는 양도한 경우도 포함)하거나 다른 기업에 인수ㆍ합병된 적이 없습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n인수ㆍ합병 내역: 최근 3년 동안 다른 기업을 인수하거나 합병한 적이 없음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n인수ㆍ합병 내역: 최근 3년 동안 다른 기업과의 인수ㆍ합병이 없으며, 가맹사업 관련 사업의 양수 또는 양도도 없습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부인 (주)옥면가는 최근 3년간 인수합병을 진행한 적이 있나요?",
+                    "ANSWER": "(주)옥면가는 최근 3년 동안 다른 기업을 인수하거나 합병한 적이 없습니다."
+                },
+                {
+                    "QUESTION": "(주)옥면가가 가맹사업 영업표지를 포함한 기업과의 인수합병 이력이 있나요?",
+                    "ANSWER": "(주)옥면가는 가맹사업 영업표지를 포함하여 최근 3년 동안 인수합병을 진행한 이력이 없습니다."
+                },
+                {
+                    "QUESTION": "다른 기업에 인수되거나 합병된 적이 있는 가맹본부는 어떤 곳이 있나요?",
+                    "ANSWER": "(주)옥면가는 최근 3년간 다른 기업에 인수되거나 합병된 적이 없습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440933668643750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "106007501",
+            "KORN_ATTRB_NM": "6. 가맹본부의 임원 명단 및 사업경력",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 6. 가맹본부의 임원 명단 및 사업경력\n당사의 임원 내역은 다음과 같습니다.<table><tr><td>관련여부</td><td>이름</td><td>현 직위</td><td>사업경력</td></tr><tr><td>기간</td><td>직위</td><td>담당 업무</td></tr><tr><td>가맹사업 관련임원</td><td>신진욱</td><td>사내이사</td><td>2019.12.~현재</td><td>주식회사 옥면가 사내이사</td><td>가맹사업 총괄</td></tr><tr><td>가맹사업 관련임원</td><td>이요셉</td><td>감사</td><td>2019.12.~현재</td><td>주식회사 옥면가 감사</td><td>가맹사업 감독</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)옥면가  \n**브랜드명:** 옥면가  \n\n**임원 명단 및 사업경력:**\n\n1. **신진욱**\n   - **현 직위:** 사내이사\n   - **사업경력:** 2019.12.~현재\n   - **담당 업무:** 가맹사업 총괄\n\n2. **이요셉**\n   - **현 직위:** 감사\n   - **사업경력:** 2019.12.~현재\n   - **담당 업무:** 가맹사업 감독",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n임원 명단 및 사업경력:\n- **신진욱**: 사내이사, 2019년 12월부터 현재까지 주식회사 옥면가에서 가맹사업 총괄.\n- **이요셉**: 감사, 2019년 12월부터 현재까지 주식회사 옥면가에서 가맹사업 감독.",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부 (주)옥면가의 사내이사는 누구이며, 어떤 경력을 가지고 있나요?",
+                    "ANSWER": "사내이사는 신진욱이며, 2019년 12월부터 현재까지 가맹사업을 총괄하고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부 (주)옥면가의 감사는 어떤 역할을 수행하고 있나요?",
+                    "ANSWER": "감사는 이요셉이며, 2019년 12월부터 현재까지 가맹사업의 감독 역할을 수행하고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹사업 관련 임원의 현 직위는 어떻게 됩니까?",
+                    "ANSWER": "가맹사업 관련 임원으로는 신진욱 사내이사와 이요셉 감사가 있습니다."
+                },
+                {
+                    "QUESTION": "신진욱 사내이사는 언제부터 가맹사업을 총괄하고 있나요?",
+                    "ANSWER": "신진욱 사내이사는 2019년 12월부터 가맹사업을 총괄하고 있습니다."
+                },
+                {
+                    "QUESTION": "이요셉 감사는 어떤 방식으로 가맹사업을 감독하나요?",
+                    "ANSWER": "이요셉 감사는 주식회사 옥면가의 감사로서 가맹사업의 감독을 맡고 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440933668836750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "106007501",
+            "KORN_ATTRB_NM": "6. 가맹본부의 임원 명단 및 사업경력",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 6. 가맹본부의 임원 명단 및 사업경력\n<table><tr><td>시점</td><td>임원수(명)</td><td>직원수(명)</td></tr><tr><td>상근</td><td>비상근</td></tr><tr><td>2023. 12. 31.</td><td>2</td><td>-</td><td>1</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 2023. 12. 31. 임원 수: 상근 2명, 비상근 1명, 총 직원 수: 1명",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n2023년 12월 31일 기준 임원 및 직원 수:  \n- 상근 임원: 2명  \n- 비상근 임원: 없음  \n- 직원: 1명  ",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부인 (주)옥면가의 임원 수는 얼마인가요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 (주)옥면가에는 2명의 상근 임원이 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부인 (주)옥면가의 직원 수는 얼마인가요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 (주)옥면가에는 1명의 직원이 있습니다."
+                },
+                {
+                    "QUESTION": "2023년 12월 31일 기준으로 (주)옥면가의 비상근 임원 수는 얼마인가요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 (주)옥면가는 비상근 임원이 없습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440558069710750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "108007501",
+            "KORN_ATTRB_NM": "8. 가맹본부 및 가맹본부의 특수관계인의 가맹사업 경영 사실",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 8. 가맹본부 및 가맹본부의 특수관계인의 가맹사업 경영 사실\n이력 없음.",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n가맹사업 경영 사실: 이력 없음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n가맹본부 및 특수관계인의 가맹사업 경영 이력: 없음.",
+            "QAs": [
+                {
+                    "QUESTION": "(주)옥면가는 가맹사업 경영에 대해 어떤 내용을 가지고 있나요?",
+                    "ANSWER": "현재 (주)옥면가는 가맹사업 경영에 대한 이력이 없습니다."
+                },
+                {
+                    "QUESTION": "(주)옥면가의 가맹사업에 특수관계인의 경영 사실이 포함되어 있나요?",
+                    "ANSWER": "(주)옥면가는 특수관계인의 가맹사업 경영 사실에 대한 이력이 없습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440875961553750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "109007501",
+            "KORN_ATTRB_NM": "9. 사용을 허용하는 지식재산권",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 9. 사용을 허용하는 지식재산권\n당사가 귀하에게 사용을 허용하는 지식재산권은 다음과 같습니다.<table><tr><td>명칭</td><td>권리내용</td><td>등록일</td><td>등록번호</td><td>소유자(등록신청자)</td><td>존속기간만료일</td></tr><tr><td>옥면가(상표)</td><td></td><td>2021.11.17</td><td>40-1800432</td><td>㈜옥면가</td><td>2031.11.17.</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 사용 허용 지식재산권:\n  - 명칭: 옥면가(상표)\n  - 권리내용: 해당 내용 없음\n  - 등록일: 2021.11.17\n  - 등록번호: 40-1800432\n  - 소유자: ㈜옥면가\n  - 존속기간 만료일: 2031.11.17",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n사용 허용 지식재산권:  \n- 명칭: 옥면가(상표)  \n- 권리내용:  \n- 등록일: 2021.11.17  \n- 등록번호: 40-1800432  \n- 소유자: ㈜옥면가  \n- 존속기간 만료일: 2031.11.17.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜옥면가의 상표 사용 권리에 대한 정보는 어디서 확인할 수 있나요?",
+                    "ANSWER": "㈜옥면가는 '옥면가'라는 상표에 대한 사용 허가를 제공하고 있으며, 해당 상표는 2021년 11월 17일에 등록되었고 등록번호는 40-1800432입니다."
+                },
+                {
+                    "QUESTION": "옥면가 상표의 존속기간은 언제까지인가요?",
+                    "ANSWER": "'옥면가' 상표의 존속기간은 2031년 11월 17일까지입니다."
+                },
+                {
+                    "QUESTION": "옥면가 상표의 등록자는 누구인가요?",
+                    "ANSWER": "'옥면가' 상표의 등록자는 ㈜옥면가입니다."
+                },
+                {
+                    "QUESTION": "옥면가 상표의 등록일은 언제인가요?",
+                    "ANSWER": "'옥면가' 상표는 2021년 11월 17일에 등록되었습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440875961865750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "109007501",
+            "KORN_ATTRB_NM": "9. 사용을 허용하는 지식재산권",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 9. 사용을 허용하는 지식재산권\n◈ 당사의 지식재산권 내용은 한국특허정보원 특허정보검색서비스(http://www.kipris.or.kr/)에서 확인할 수 있습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 사용 허용 지식재산권: 한국특허정보원 특허정보검색서비스에서 확인 가능 (http://www.kipris.or.kr/)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가, 브랜드명: 옥면가. 지식재산권은 한국특허정보원에서 확인 가능.",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부인 (주)옥면가는 어떤 지식재산권을 보유하고 있나요?",
+                    "ANSWER": "가맹본부인 (주)옥면가의 지식재산권은 한국특허정보원 특허정보검색서비스에서 확인할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점주로서 (주)옥면가의 지식재산권에 접근하려면 어떻게 해야 하나요?",
+                    "ANSWER": "가맹점주는 한국특허정보원 특허정보검색서비스(http://www.kipris.or.kr/)를 통해 (주)옥면가의 지식재산권 내용을 확인할 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440910514041750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "201007501",
+            "KORN_ATTRB_NM": "1. [BRD]을 시작한 날",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 1. [옥면가]을 시작한 날\n[직영점 시작 한 날 : 2020년 07월 29일]",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 가맹사업 시작한 날: 가맹계약 체결사실 없음\n- 직영점 시작 한 날: 2020년 07월 29일",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n- 가맹사업 시작한 날: 가맹계약 체결사실 없음.  \n- 직영점 시작한 날: 2020년 07월 29일  ",
+            "QAs": [
+                {
+                    "QUESTION": "[옥면가]의 직영점은 언제 시작되었나요?",
+                    "ANSWER": "[옥면가]의 직영점은 2020년 07월 29일에 시작되었습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440844827013750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "202007501",
+            "KORN_ATTRB_NM": "2. [BRD] 연혁",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 2. [옥면가] 연혁\n<table><tr><td attr=\"HIST_0001\" attr_type=\"header\">가맹본부 상호</td><td attr=\"HIST_0002\" attr_type=\"header\">영업표지</td><td attr=\"HIST_0003\" attr_type=\"header\">대표자</td><td attr=\"HIST_0004\" attr_type=\"header\">가맹사업 경영 기간</td><td attr=\"HIST_0005\" attr_type=\"header\">주된 사무소 소재지</td></tr><tr><td attr=\"HIST_0001\" id=\"TBL01300000\">주식회사 옥면가</td><td attr=\"HIST_0002\" id=\"TBL01300001\">옥면가</td><td attr=\"HIST_0003\" id=\"TBL01300002\">신진욱</td><td attr=\"HIST_0004\" id=\"TBL01300003\">가맹사업 예정</td><td attr=\"HIST_0005\" id=\"TBL01300004\">서울특별시 *** ****** **** 1층</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 연혁:\n  - 가맹본부 상호: 주식회사 옥면가\n  - 영업표지: 옥면가\n  - 대표자: 신진욱\n  - 가맹사업 경영 기간: 가맹사업 예정\n  - 주된 사무소 소재지: 서울특별시 마포구 ****** **** 1층",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n연혁:\n- 가맹본부 상호: 주식회사 옥면가  \n- 영업표지: 옥면가  \n- 대표자: 신진욱  \n- 가맹사업 경영 기간: 가맹사업 예정  \n- 주된 사무소 소재지: 서울특별시 마포구 ****** **** 1층  ",
+            "QAs": [
+                {
+                    "QUESTION": "주식회사 옥면가는 어떤 영업표지를 사용하나요?",
+                    "ANSWER": "주식회사 옥면가는 '옥면가'라는 영업표지를 사용합니다."
+                },
+                {
+                    "QUESTION": "주식회사 옥면가의 대표자는 누구인가요?",
+                    "ANSWER": "주식회사 옥면가의 대표자는 신진욱입니다."
+                },
+                {
+                    "QUESTION": "가맹사업은 언제 시작될 예정인가요?",
+                    "ANSWER": "주식회사 옥면가는 가맹사업을 예정하고 있습니다."
+                },
+                {
+                    "QUESTION": "주식회사 옥면가의 주된 사무소 소재지는 어디인가요?",
+                    "ANSWER": "주식회사 옥면가의 주된 사무소는 서울특별시 마포구 ****** **** 1층에 위치하고 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440043067623750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "203007501",
+            "KORN_ATTRB_NM": "3. [BRD] 업종",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 3. [옥면가] 업종\n<table><tr><td attr=\"INDUTY_0001\" attr_type=\"header\">영업표지</td><td attr=\"NOT_MATCHED\" id=\"TBL01400000\">업종</td></tr><tr><td attr=\"INDUTY_0001\" id=\"TBL01400001\">옥면가</td><td attr=\"INDUTY_0002\" attr_type=\"header\">대분류</td><td attr=\"INDUTY_0003\" attr_type=\"header\">소분류(주요상품)</td></tr><tr><td attr=\"INDUTY_0002\" id=\"TBL01400002\">한식</td><td attr=\"INDUTY_0003\" id=\"TBL01400003\">우사골옥면, 기름떡볶이등</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 업종: 한식\n- 주요 상품: 우사골옥면, 기름떡볶이 등",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n업종: 한식  \n주요 상품: 우사골옥면, 기름떡볶이 등  ",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가는 어떤 업종에 속하나요?",
+                    "ANSWER": "옥면가는 한식 업종에 속합니다."
+                },
+                {
+                    "QUESTION": "옥면가의 주요 상품은 무엇인가요?",
+                    "ANSWER": "옥면가의 주요 상품에는 우사골옥면과 기름떡볶이가 포함됩니다."
+                },
+                {
+                    "QUESTION": "옥면가는 어떤 영업표지를 사용하나요?",
+                    "ANSWER": "옥면가는 '옥면가'라는 영업표지를 사용합니다."
+                },
+                {
+                    "QUESTION": "옥면가는 한식 카테고리에서 어떤 소분류의 상품을 제공하나요?",
+                    "ANSWER": "옥면가는 한식 카테고리에서 우사골옥면과 기름떡볶이 등의 소분류 상품을 제공합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440079888237750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "204007501",
+            "KORN_ATTRB_NM": "4. 바로 전 3년간 사업연도 말 영업 중인 [BRD] 가맹점 및 직영점의 총 수",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 4. 바로 전 3년간 사업연도 말 영업 중인 [옥면가] 가맹점 및 직영점의 총 수\n<table><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" attr_type=\"header\">지역</td><td attr=\"NOT_MATCHED\" id=\"TBL01500000\">2021.12.31.</td><td attr=\"NOT_MATCHED\" id=\"TBL01500001\">2022.12.31.</td><td attr=\"NOT_MATCHED\" id=\"TBL01500002\">2023.12.31.</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" attr_type=\"header\">전체</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" attr_type=\"header\">가맹점수</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" attr_type=\"header\">직영점수</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" attr_type=\"header\">전체</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" attr_type=\"header\">가맹점수</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" attr_type=\"header\">직영점수</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" attr_type=\"header\">전체</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" attr_type=\"header\">가맹점수</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" attr_type=\"header\">직영점수</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500003\">전체</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500004\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500005\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500006\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500007\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500008\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500009\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500010\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500011\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500012\">1</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500013\">서울</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500014\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500015\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500016\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500017\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500018\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500019\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500020\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500021\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500022\">1</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500023\">부산</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500024\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500025\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500026\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500027\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500028\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500029\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500030\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500031\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500032\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500033\">대구</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500034\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500035\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500036\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500037\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500038\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500039\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500040\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500041\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500042\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500043\">인천</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500044\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500045\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500046\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500047\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500048\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500049\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500050\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500051\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500052\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500053\">광주</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500054\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500055\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500056\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500057\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500058\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500059\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500060\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500061\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500062\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500063\">대전</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500064\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500065\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500066\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500067\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500068\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500069\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500070\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500071\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500072\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500073\">울산</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500074\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500075\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500076\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500077\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500078\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500079\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500080\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500081\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500082\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500083\">세종</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500084\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500085\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500086\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500087\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500088\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500089\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500090\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500091\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500092\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500093\">경기</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500094\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500095\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500096\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500097\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500098\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500099\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500100\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500101\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500102\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500103\">강원</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500104\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500105\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500106\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500107\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500108\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500109\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500110\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500111\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500112\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500113\">충북</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500114\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500115\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500116\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500117\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500118\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500119\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500120\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500121\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500122\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500123\">충남</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500124\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500125\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500126\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500127\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500128\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500129\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500130\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500131\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500132\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500133\">전북</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500134\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500135\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500136\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500137\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500138\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500139\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500140\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500141\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500142\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500143\">전남</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500144\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500145\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500146\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500147\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500148\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500149\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500150\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500151\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500152\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500153\">경북</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500154\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500155\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500156\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500157\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500158\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500159\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500160\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500161\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500162\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500163\">경남</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500164\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500165\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500166\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500167\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500168\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500169\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500170\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500171\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500172\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01500173\">제주</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01500174\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01500175\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01500176\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01500177\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01500178\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01500179\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01500180\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01500181\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01500182\">-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n최근 3년간 영업 중인 가맹점 및 직영점 총 수 (2021-2023):\n- **전체**: \n  - 2021: 1 가맹점\n  - 2022: 1 가맹점\n  - 2023: 1 가맹점\n- **서울**: \n  - 2021: 1 가맹점\n  - 2022: 1 가맹점\n  - 2023: 1 가맹점\n- **부산, 대구, 인천, 광주, 대전, 울산, 세종, 경기, 강원, 충북, 충남, 전북, 전남, 경북, 경남, 제주**: 모두 0 가맹점 및 직영점\n\n기타 지역은 영업 중인 가맹점 및 직영점이 없음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n최근 3년간 사업연도 말 기준 영업 중인 가맹점 및 직영점 수는 다음과 같습니다:\n\n- **2021.12.31.**: 전체 1개 (가맹점 1개, 직영점 0개)\n- **2022.12.31.**: 전체 1개 (가맹점 1개, 직영점 0개)\n- **2023.12.31.**: 전체 1개 (가맹점 1개, 직영점 0개)\n\n지역별로는 서울에만 가맹점이 있으며, 부산, 대구, 인천, 광주, 대전, 울산, 세종, 경기, 강원, 충북, 충남, 전북, 전남, 경북, 경남, 제주 지역은 모두 가맹점이 없거나 직영점이 없음.",
+            "QAs": [
+                {
+                    "QUESTION": "2021년 옥면가 가맹점과 직영점의 총 수는 얼마인가요?",
+                    "ANSWER": "2021년 12월 31일 기준으로 옥면가의 가맹점 수는 1개이며, 직영점은 없습니다."
+                },
+                {
+                    "QUESTION": "2022년에는 옥면가의 가맹점 수가 어떻게 변화했나요?",
+                    "ANSWER": "2022년 12월 31일 기준으로 옥면가의 가맹점 수는 1개로, 직영점은 없습니다."
+                },
+                {
+                    "QUESTION": "옥면가의 2023년 가맹점 수는 얼마인가요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 옥면가의 가맹점 수는 1개이며, 직영점은 없습니다."
+                },
+                {
+                    "QUESTION": "서울에 위치한 옥면가의 가맹점 수는 2021년, 2022년, 2023년 중 몇 개인가요?",
+                    "ANSWER": "서울에 위치한 옥면가의 가맹점 수는 2021년, 2022년, 2023년 모두 1개입니다."
+                },
+                {
+                    "QUESTION": "부산, 대구, 인천, 광주, 대전, 울산, 세종, 경기, 강원, 충북, 충남, 전북, 전남, 경북, 경남, 제주 지역의 옥면가 가맹점 수는 어떻게 되나요?",
+                    "ANSWER": "부산, 대구, 인천, 광주, 대전, 울산, 세종, 경기, 강원, 충북, 충남, 전북, 전남, 경북, 경남, 제주 지역에는 모두 옥면가의 가맹점이 없습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440217488211750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "205007501",
+            "KORN_ATTRB_NM": "5. 바로 전 3년간 [BRD] 가맹점 수",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 5. 바로 전 3년간 [옥면가] 가맹점 수\n<table><tr><td attr=\"RB_TTYR_FRCS_CNT_0001\" attr_type=\"header\">연도</td><td attr=\"RB_TTYR_FRCS_CNT_0002\" attr_type=\"header\">연초</td><td attr=\"RB_TTYR_FRCS_CNT_0003\" attr_type=\"header\">신규개점</td><td attr=\"RB_TTYR_FRCS_CNT_0004\" attr_type=\"header\">계약종료</td><td attr=\"RB_TTYR_FRCS_CNT_0005\" attr_type=\"header\">계약해지</td><td attr=\"RB_TTYR_FRCS_CNT_0006\" attr_type=\"header\">명의변경</td><td attr=\"RB_TTYR_FRCS_CNT_0007\" attr_type=\"header\">연말</td></tr><tr><td attr=\"RB_TTYR_FRCS_CNT_0001\" id=\"TBL01600000\">2021</td><td attr=\"RB_TTYR_FRCS_CNT_0002\" id=\"TBL01600001\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0003\" id=\"TBL01600002\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0004\" id=\"TBL01600003\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0005\" id=\"TBL01600004\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0006\" id=\"TBL01600005\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0007\" id=\"TBL01600006\">-</td></tr><tr><td attr=\"RB_TTYR_FRCS_CNT_0001\" id=\"TBL01600007\">2022</td><td attr=\"RB_TTYR_FRCS_CNT_0002\" id=\"TBL01600008\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0003\" id=\"TBL01600009\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0004\" id=\"TBL01600010\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0005\" id=\"TBL01600011\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0006\" id=\"TBL01600012\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0007\" id=\"TBL01600013\">-</td></tr><tr><td attr=\"RB_TTYR_FRCS_CNT_0001\" id=\"TBL01600014\">2023</td><td attr=\"RB_TTYR_FRCS_CNT_0002\" id=\"TBL01600015\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0003\" id=\"TBL01600016\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0004\" id=\"TBL01600017\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0005\" id=\"TBL01600018\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0006\" id=\"TBL01600019\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0007\" id=\"TBL01600020\">-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n**가맹점 수 (최근 3년)**  \n- 2021년: 모든 항목 '-'  \n- 2022년: 모든 항목 '-'  \n- 2023년: 모든 항목 '-'  ",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n최근 3년간 가맹점 수:\n- 2021년: 모든 항목에서 데이터 없음  \n- 2022년: 모든 항목에서 데이터 없음  \n- 2023년: 모든 항목에서 데이터 없음  \n\n결과적으로, 3년간 가맹점 수에 대한 정보는 제공되지 않음.",
+            "QAs": [
+                {
+                    "QUESTION": "2021년, 2022년, 2023년 동안 [옥면가] 브랜드의 신규 가맹점은 몇 개였나요?",
+                    "ANSWER": "[옥면가] 브랜드는 2021년, 2022년, 2023년 동안 신규 가맹점을 개점하지 않았습니다."
+                },
+                {
+                    "QUESTION": "[옥면가] 브랜드의 계약 종료는 2021년부터 2023년까지 몇 건이 있었나요?",
+                    "ANSWER": "[옥면가] 브랜드는 2021년, 2022년, 2023년 동안 계약 종료가 없었습니다."
+                },
+                {
+                    "QUESTION": "2021년, 2022년, 2023년 동안 [옥면가] 브랜드의 연초 가맹점 수는 어떻게 되나요?",
+                    "ANSWER": "[옥면가] 브랜드는 2021년, 2022년, 2023년 연초에 가맹점 수가 없었습니다."
+                },
+                {
+                    "QUESTION": "[옥면가] 브랜드는 과거 3년간 가맹점 운영에서 어떤 변화를 겪었나요?",
+                    "ANSWER": "[옥면가] 브랜드는 2021년부터 2023년 사이에 가맹점 수의 변화가 없었습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440217488557750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "205007501",
+            "KORN_ATTRB_NM": "5. 바로 전 3년간 [BRD] 가맹점 수",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 5. 바로 전 3년간 [옥면가] 가맹점 수\n● 해당사항 없습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 최근 3년간 가맹점 수: 해당사항 없음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n최근 3년간 가맹점 수: 해당사항 없음.  ",
+            "QAs": [
+                {
+                    "QUESTION": "[옥면가]의 최근 3년간 가맹점 수는 어떻게 되나요?",
+                    "ANSWER": "[옥면가]의 최근 3년간 가맹점 수는 해당사항이 없습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440720328513750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "206007501",
+            "KORN_ATTRB_NM": "6. [BRD]외에 가맹본부가 경영하거나 특수관계인이 경영하는 가맹사업 현황",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 6. [옥면가]외에 가맹본부가 경영하거나 특수관계인이 경영하는 가맹사업 현황\n당사는 [옥면가]이외의 가맹사업을 경영하고 있지 않으며, 당사의 특수관계인도 가맹사업을 경영하고 있지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 기타 가맹사업 현황: [옥면가] 외에 다른 가맹사업이 없으며, 특수관계인도 가맹사업을 운영하지 않음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n가맹사업 현황: 당사는 옥면가 외의 가맹사업을 경영하지 않으며, 특수관계인 또한 가맹사업을 운영하지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "[옥면가] 이외에 다른 가맹본부에 대한 정보는 무엇인가요?",
+                    "ANSWER": "[옥면가] 이외의 가맹사업을 경영하고 있는 가맹본부는 없습니다."
+                },
+                {
+                    "QUESTION": "특수관계인이 경영하는 가맹사업에 대해 알 수 있나요?",
+                    "ANSWER": "특수관계인도 가맹사업을 경영하고 있지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹본부 [옥면가]의 가맹사업 현황은 어떻게 되나요?",
+                    "ANSWER": "[옥면가]는 현재 다른 가맹사업을 운영하고 있지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹본부에 소속된 특수관계인들은 어떤 가맹사업을 운영하나요?",
+                    "ANSWER": "특수관계인은 가맹사업을 운영하고 있지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440755099087750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "208007501",
+            "KORN_ATTRB_NM": "8. [BRD] 가맹점의 평균 영업기간",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 8. [옥면가] 가맹점의 평균 영업기간\n<table><tr><td>연도</td><td>영업중인 가맹점 수</td><td>평균 영업기간</td></tr><tr><td>2023</td><td>해당사항 없습니다.</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 2023년 영업중인 가맹점 수: 해당사항 없습니다. \n- 평균 영업기간: 해당사항 없음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n2023년 기준 영업중인 가맹점 수는 해당사항이 없으며, 평균 영업기간에 대한 데이터도 제공되지 않았습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "2023년 옥면가 브랜드의 가맹점 평균 영업기간은 얼마인가요?",
+                    "ANSWER": "2023년에는 영업중인 가맹점이 없기 때문에 평균 영업기간에 대한 정보는 없습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440731908416750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "212007501",
+            "KORN_ATTRB_NM": "12. 가맹점사업자피해보상보험 등의 체결 내역",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 12. 가맹점사업자피해보상보험 등의 체결 내역\n당사는 가맹금 예치제도를 시행하고 있어, 해당사항이 없습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 가맹점사업자피해보상보험 체결 내역: 해당사항 없음 (가맹금 예치제도 시행)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n12. 가맹점사업자 피해보상보험 등의 체결 내역: 당사는 가맹금 예치제도를 시행하고 있어 해당사항이 없습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부인 (주)옥면가는 가맹점사업자피해보상보험을 체결하고 있나요?",
+                    "ANSWER": "가맹본부인 (주)옥면가는 가맹금 예치제도를 시행하고 있어, 가맹점사업자피해보상보험은 해당사항이 없습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440764709687750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "402037501",
+            "KORN_ATTRB_NM": "3) 가맹점사업자에 대한 감독",
+            "UP_ATTRB_MNNO": "402007501",
+            "KORN_UP_ATRB_NM": "2. 영업 중의 부담"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 3) 가맹점사업자에 대한 감독\n<table><tr><td>감독 항목</td><td>내용</td><td>시기</td><td>비고</td></tr><tr><td>상품 및 재고관리</td><td>가맹점사업자의 상품 및 재고상품의 보관상태 등 점검</td><td>분기 별</td><td>문의: 가맹사업팀(070)8822-5773)※ 사정에 따라변경될 수있습니다.</td></tr><tr><td>각종 설비관리</td><td>가맹점사업자의 각종 설비관리 상태 점검</td></tr><tr><td>접객 및 교육상태</td><td>직원 복장 및 고객응대방법 점검</td></tr><tr><td>회계처리</td><td>가맹점사업자의 매출에 대한 회계조사</td></tr><tr><td>기 타</td><td>종업원 코칭 상담, 마케팅 및 서비스 운영 체계 컨설팅,본사 직급교육 실행 및 공동 매뉴얼 운영 관리 </td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n### 감독 항목\n1. **상품 및 재고관리**\n   - 내용: 상품 및 재고상품의 보관상태 점검\n   - 시기: 분기 별\n   - 비고: 문의 - 가맹사업팀 (070)8822-5773, 사정에 따라 변경 가능\n\n2. **각종 설비관리**\n   - 내용: 각종 설비관리 상태 점검\n\n3. **접객 및 교육상태**\n   - 내용: 직원 복장 및 고객응대 방법 점검\n\n4. **회계처리**\n   - 내용: 가맹점사업자의 매출에 대한 회계조사\n\n5. **기타**\n   - 내용: 종업원 코칭 상담, 마케팅 및 서비스 운영 체계 컨설팅, 본사 직급 교육 실행 및 공동 매뉴얼 운영 관리",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가, 브랜드명: 옥면가  \n가맹점사업자에 대한 감독 내용:  \n1. **상품 및 재고관리**: 가맹점의 상품 및 재고 보관 상태 점검 (분기별, 문의: 070-8822-5773)  \n2. **각종 설비관리**: 설비 관리 상태 점검  \n3. **접객 및 교육상태**: 직원 복장 및 고객 응대 방법 점검  \n4. **회계처리**: 가맹점 매출에 대한 회계 조사  \n5. **기타**: 종업원 코칭 상담, 마케팅 및 서비스 운영 컨설팅, 본사 직급 교육 및 공동 매뉴얼 관리  \n\n**비고**: 사정에 따라 감독 내용 및 시기 변경 가능.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가는 가맹점사업자의 상품 및 재고관리를 얼마나 자주 점검하나요?",
+                    "ANSWER": "분기별로 가맹점사업자의 상품 및 재고상품의 보관 상태를 점검합니다."
+                },
+                {
+                    "QUESTION": "옥면가는 가맹점사업자의 각종 설비관리를 어떻게 진행하나요?",
+                    "ANSWER": "가맹점사업자의 각종 설비관리 상태를 점검하여 관리합니다."
+                },
+                {
+                    "QUESTION": "가맹점의 접객 및 교육상태는 어떻게 점검되나요?",
+                    "ANSWER": "직원 복장 및 고객응대 방법을 점검하여 가맹점의 접객 및 교육상태를 평가합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자의 회계처리는 어떻게 이루어지나요?",
+                    "ANSWER": "가맹점사업자의 매출에 대해 회계조사를 진행하여 회계처리를 확인합니다."
+                },
+                {
+                    "QUESTION": "옥면가는 가맹점사업자를 위한 기타 지원 사항은 무엇이 있나요?",
+                    "ANSWER": "종업원 코칭 상담, 마케팅 및 서비스 운영 체계 컨설팅, 본사 직급 교육 실행 및 공동 매뉴얼 운영 관리 등이 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 감독 항목에 대한 문의는 어디에 해야 하나요?",
+                    "ANSWER": "가맹사업팀에 문의하시면 됩니다. 전화번호는 (070)8822-5773입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440611691794750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504017501",
+            "KORN_ATTRB_NM": "1) 독점적ㆍ배타적 영업지역 설정",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 1) 독점적ㆍ배타적 영업지역 설정\n당사는 가맹사업거래의 공정화에 관한 법률 제12조의4에 의거 가맹계약 체결시 가맹점 사업자의 영업지역을 설정하여 가맹계약서에 영업지역을 명시하고 있습니다.<table><tr><td>동일한 업종 범위</td><td>동일한 업종 영업표지</td></tr><tr><td>가맹본부</td><td>계열회사</td></tr><tr><td>사골육수를 전문으로 하는 면조리 식품 등 한식 가맹사업</td><td>옥면가</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n- 독점적ㆍ배타적 영업지역 설정: 가맹계약 체결 시 영업지역 명시  \n- 동일한 업종 범위: 사골육수를 전문으로 하는 면조리 식품 등 한식 가맹사업  \n- 동일한 업종 영업표지: 옥면가  ",
+            "ABSTRACTED_SUMMARY_TEXT": "(주)옥면가는 '옥면가' 브랜드를 통해 가맹사업을 운영하며, 가맹계약 시 독점적 및 배타적 영업지역을 설정하고 이를 계약서에 명시합니다. 이 가맹사업은 사골육수를 전문으로 하는 한식 면조리 식품 관련 사업입니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 영업지역은 어떻게 설정되나요?",
+                    "ANSWER": "가맹계약 체결 시 가맹점 사업자의 영업지역을 설정하여 계약서에 명시하고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 설정한 영업지역의 범위는 무엇인가요?",
+                    "ANSWER": "영업지역은 사골육수를 전문으로 하는 면조리 식품 등 한식 가맹사업에 해당하는 범위로 설정됩니다."
+                },
+                {
+                    "QUESTION": "옥면가의 동일한 업종 영업표지와 계열회사와의 관계는 어떻게 되나요?",
+                    "ANSWER": "옥면가는 동일한 업종으로 사골육수를 전문으로 하는 면조리 식품 등을 제공하고 있으며, 계열회사는 해당 업종에 속하지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹본부의 관계사와 동일한 업종의 경쟁은 발생하나요?",
+                    "ANSWER": "가맹본부는 영업지역을 설정한 만큼 동일한 업종의 경쟁은 발생하지 않도록 관리하고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹계약서에 명시된 영업지역의 의미는 무엇인가요?",
+                    "ANSWER": "가맹계약서에 명시된 영업지역은 해당 지역 내에서 가맹점이 독점적으로 운영될 수 있는 권리를 의미합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440938002921750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504027501",
+            "KORN_ATTRB_NM": "2) 영업지역 설정기준",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 2) 영업지역 설정기준\n<table><tr><td>설정 기준</td><td>설정방법</td></tr><tr><td>점포를 중심으로 반경 1km</td><td>가맹계약서에표시</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n\n**영업지역 설정 기준:**\n- 설정 기준: 점포를 중심으로 반경 1km\n- 설정 방법: 가맹계약서에 표시",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n영업지역 설정 기준:  \n- 설정 기준: 점포를 중심으로 반경 1km  \n- 설정 방법: 가맹계약서에 표시",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가 브랜드의 영업 지역 설정 기준은 무엇인가요?",
+                    "ANSWER": "옥면가 브랜드는 점포를 중심으로 반경 1km를 영업 지역으로 설정합니다."
+                },
+                {
+                    "QUESTION": "영업 지역 설정 방법은 어떻게 되나요?",
+                    "ANSWER": "옥면가 브랜드의 영업 지역은 가맹계약서에 표시된 방법에 따라 설정됩니다."
+                },
+                {
+                    "QUESTION": "가맹점의 영업 지역 반경은 얼마인가요?",
+                    "ANSWER": "옥면가 브랜드의 가맹점은 영업 지역으로 점포를 중심으로 반경 1km를 설정합니다."
+                },
+                {
+                    "QUESTION": "옥면가의 점포는 어떤 기준으로 영업 지역을 결정하나요?",
+                    "ANSWER": "옥면가 브랜드는 점포를 중심으로 반경 1km를 기준으로 영업 지역을 결정합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440938003539750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504027501",
+            "KORN_ATTRB_NM": "2) 영업지역 설정기준",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 2) 영업지역 설정기준\n① 가맹본부는 영업지역을 구분하고 가맹점사업자는 자신의 책임하에 점포의 입지를 선정합니다. 입지선정과 관련하여 가맹본부는 해당지역의 행정구역상의 구분, 시장의 특성, 업종특성에 따른 매출성향 등을 고려하여 가맹점사업자에게 조언을 할 수 있습니다.② 가맹점사업자의 입지선정과 관련하여 가맹본부가 조언한 경우라도 최종 의사 결정은 가맹점사업자가 하며 점포의 매출액 및 수익은 가맹점사업자의 관리능력이나 여건의 변화에 의하여 변동될 수 있음과 점포의 하자, 점포 개점과 관련된 인허가 사항 및 상가규약 등의 확인은 가맹점사업자의 책임임을 확약합니다.③ 가맹점사업자가 선택하는 영업지역에 대하여 지역적 특성 등을 고려하여 그 범위 [해당 구]를 지도로 표시하여 첨부하고 그 범위 내에서 배타적 가맹점 운영권을 가집니다.④ 가맹본부는 전항의 가맹점사업자의 영업지역에 있어서 가맹점사업자에게 배타적이고 독점적인 영업을 실시할 권리를 보장하며, 가맹계약기간 중에는 정당한 사유 없이 가맹점 사업자의 영업지역 내에 동일한 업종의 직영점 및 가맹점을 추가 개설하지 않습니다.⑤ 가맹사업법 제12조의4에 따르는 영업지역을 재조정할 수 있는 사유로는 재건축, 재개발, 신도시 건설 등 대규모개발로 인하여 상권의 급격한 변동이 발생하는 경우, 해당 상권의 거주인구 또는 유동인구가 현저히 변동되는 경우, 소비자의 기호변화 등으로 인하여 해당 상품, 용역에 대한 수요가 현저히 변동되는 경우, 위의 사유에 준하는 사유로 인하여 영업지역을 그대로 유지하는 것이 현저히 불합리하다고 인정되는 경우이며, 이 경우 가맹계약을 갱신하는 시점에 “을”과 합의하여 영업지역 변경을 할 수 있습니다. ⑥ 해당영업 지역이 백화점, 대형마트, 쇼핑몰, 시장, 지하상가, 지하철역 사내상가, 종합병원, 공항, 호텔 등에 상응하는 별도의 독립상권이 존재하는 경우 해당상권 (이하\"특수상권“이라 함)은 제외합니다. 가맹점사업자의 점포가 \"특수상권\"내에 있는 경우에는, \"특수상권\"을 가맹점사업자의 영업지역으로 한다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n\n**영업지역 설정 기준 요약:**\n1. 가맹본부는 영업지역을 구분하며, 가맹점사업자는 책임 하에 입지를 선정. 가맹본부는 행정구역, 시장 특성, 업종 특성 등을 고려하여 조언 가능.\n2. 최종 의사 결정은 가맹점사업자에게 있으며, 매출 및 수익 변동은 관리능력에 따라 달라짐. 점포 하자 및 인허가 사항 확인은 가맹점사업자의 책임.\n3. 가맹점사업자는 선택한 영업지역을 지도에 표시하고, 해당 범위 내에서 배타적 가맹점 운영권 보장.\n4. 가맹본부는 가맹점사업자의 영업지역 내 동일 업종의 직영점 및 가맹점 추가 개설을 금지.\n5. 영업지역 재조정 사유: 대규모 개발, 인구 변화, 소비자 기호 변화 등. 재조정은 가맹계약 갱신 시 합의 가능.\n6. 특수상권(백화점, 대형마트 등)은 제외되며, 해당 점포는 그 상권을 영업지역으로 설정.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n1. **영업지역 설정 기준**\n   - 가맹본부는 영업지역을 구분하며, 가맹점사업자는 점포 입지를 선정. \n   - 가맹본부는 지역 특성에 대한 조언 제공 가능, 최종 결정은 가맹점사업자.\n   - 가맹점사업자는 선택한 지역에서 배타적 가맹점 운영권 보장.\n\n2. **가맹본부의 권리 및 의무**\n   - 가맹본부는 가맹점사업자의 영업지역 내에 동일 업종의 추가 개설 금지.\n   - 영업지역 재조정 사유: 대규모 개발, 인구 변화, 소비 기호 변화 등.\n   - 특수상권(백화점, 대형마트 등) 내 점포는 해당 상권을 영업지역으로 포함.\n\n3. **기타 조건**\n   - 가맹점사업자는 점포 매출 및 수익 변동에 대한 책임. \n   - 점포 개점 및 인허가 확인은 가맹점사업자의 책임. \n\n이 조건들은 가맹점사업자의 영업지역 운영을 지원하고, 가맹본부의 권한을 명확히 함.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가 가맹본부는 영업지역의 특성과 관련하여 어떤 조언을 가맹점사업자에게 제공하나요?",
+                    "ANSWER": "옥면가 가맹본부는 해당 지역의 행정구역, 시장 특성, 업종 특성에 따른 매출 성향 등을 고려하여 가맹점사업자에게 입지선정에 대한 조언을 제공할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 영업지역을 선정할 때 어떤 책임이 있는가요?",
+                    "ANSWER": "가맹점사업자는 자신의 책임하에 점포의 입지를 선정해야 하며, 최종 의사결정 역시 가맹점사업자가 해야 합니다. 점포의 매출액 및 수익은 가맹점사업자의 관리능력이나 여건 변화에 따라 달라질 수 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가의 영업지역에 대한 배타적 운영권은 어떻게 보호되나요?",
+                    "ANSWER": "옥면가 가맹본부는 가맹점사업자에게 선택한 영업지역 내에서 배타적이고 독점적인 영업을 실시할 권리를 보장하며, 계약 기간 동안 정당한 사유 없이 동일한 업종의 직영점 및 가맹점을 추가 개설하지 않습니다."
+                },
+                {
+                    "QUESTION": "영업지역이 재조정되는 사유는 어떤 것들이 있나요?",
+                    "ANSWER": "영업지역은 재건축, 재개발, 신도시 건설 등 대규모 개발에 따른 상권 변동, 거주인구 또는 유동인구의 현저한 변화, 소비자의 기호 변화 등으로 인해 재조정될 수 있으며, 이 경우에는 가맹계약 갱신 시 합의하여 변경할 수 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가 브랜드의 가맹점사업자가 영업지역을 '특수상권'으로 지정할 수 있는 경우는 언제인가요?",
+                    "ANSWER": "가맹점사업자가 점포를 운영하는 지역이 백화점, 대형마트, 쇼핑몰 등 '특수상권' 내에 있을 경우, 해당 상권을 가맹점사업자의 영업지역으로 간주할 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440338081724750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504057501",
+            "KORN_ATTRB_NM": "5) 가맹점사업자가 취급하는 상품이나 용역 등이 가맹점사업자의 영업지역내의 대리점 등 다른 유통채널을 통해 공급되는지 여부",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 5) 가맹점사업자가 취급하는 상품이나 용역 등이 가맹점사업자의 영업지역내의 대리점 등 다른 유통채널을 통해 공급되는지 여부\n당사는 [옥면가]가맹점사업자의 영업지역 내에서 대리점, 다른 영업표지를 사용한 가맹점 등을 통해 가맹점사업자가 판매하는 상품이나 용역과 대체재 관계에 놓일 수 있는 동일ㆍ유사한 상품이나 용역을 공급하지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n가맹점사업자가 취급하는 상품이나 용역이 가맹점사업자의 영업지역 내에서 대리점 등을 통해 공급되는지 여부:  \n당사는 [옥면가] 가맹점사업자의 영업지역 내에서 대리점 및 다른 영업표지를 사용한 가맹점 등을 통해 가맹점사업자가 판매하는 상품이나 용역과 대체재 관계에 놓일 수 있는 동일ㆍ유사한 상품이나 용역을 공급하지 않습니다.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)옥면가이며, 브랜드명은 옥면가입니다. 가맹점사업자가 취급하는 상품이나 용역은 영업지역 내의 대리점이나 다른 유통채널을 통해 공급되지 않으며, 동일하거나 유사한 상품이나 용역을 공급하지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "가맹점사업자는 옥면가의 상품을 영업지역 내 다른 대리점이나 가맹점을 통해 공급할 수 있나요?",
+                    "ANSWER": "가맹점사업자는 옥면가의 상품을 영업지역 내 다른 대리점이나 가맹점을 통해 공급할 수 없습니다."
+                },
+                {
+                    "QUESTION": "옥면가는 가맹점사업자가 판매하는 상품과 대체재 관계에 있는 상품을 영업지역 내에서 공급하나요?",
+                    "ANSWER": "옥면가는 가맹점사업자가 판매하는 상품과 대체재 관계에 있는 동일ㆍ유사한 상품이나 용역을 영업지역 내에서 공급하지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440282948574750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504067501",
+            "KORN_ATTRB_NM": "6) 가맹점사업자가 취급하는 상품이나 용역 등이 온라인, 홈쇼핑, 전화권유판매 등 다른 유통채널을 통해 공급되는지 여부",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 6) 가맹점사업자가 취급하는 상품이나 용역 등이 온라인, 홈쇼핑, 전화권유판매 등 다른 유통채널을 통해 공급되는지 여부\n당사는 온라인, 홈쇼핑, 전화권유판매 등을 통해 가맹점사업자가 판매하는 상품이나 용역과 대체재 관계에 놓일 수 있는 동일ㆍ유사한 상품이나 용역을 공급하지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 가맹점사업자가 취급하는 상품이나 용역의 유통채널: 온라인, 홈쇼핑, 전화권유판매\n- 공급 내용: 동일 및 유사한 상품이나 용역을 공급하지 않음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)옥면가로, 브랜드명은 옥면가입니다. 가맹점사업자가 취급하는 상품이나 용역은 온라인, 홈쇼핑, 전화권유판매 등 다른 유통채널을 통해 공급되지 않으며, 동일하거나 유사한 상품이나 용역은 공급되지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가 브랜드의 가맹점사업자가 판매하는 상품은 온라인에서 함께 판매될 수 있나요?",
+                    "ANSWER": "옥면가 브랜드의 가맹점사업자가 판매하는 상품이나 용역은 온라인, 홈쇼핑, 전화권유판매 등 다른 유통채널을 통해 공급되지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 취급하는 상품의 유통채널에는 어떤 것들이 포함되나요?",
+                    "ANSWER": "가맹점사업자가 취급하는 상품의 유통채널에는 온라인, 홈쇼핑, 전화권유판매 등이 포함됩니다."
+                },
+                {
+                    "QUESTION": "옥면가 브랜드의 가맹점사업자는 대체재 상품을 어떤 채널을 통해서도 공급받을 수 있나요?",
+                    "ANSWER": "옥면가 브랜드는 가맹점사업자가 판매하는 상품이나 유사한 대체재를 다른 유통채널을 통해 공급하지 않습니다."
+                },
+                {
+                    "QUESTION": "옥면가 가맹본부는 가맹점사업자에게 어떤 유통채널을 통해 상품을 공급하지 않나요?",
+                    "ANSWER": "옥면가 가맹본부는 가맹점사업자에게 온라인, 홈쇼핑, 전화권유판매 등을 통한 상품 공급을 하지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440991026729750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "505017501",
+            "KORN_ATTRB_NM": "1) 바로 전 사업연도 말 기준 연간 국내 매출액 중 온라인과 오프라인 매출액 비중",
+            "UP_ATTRB_MNNO": "505007501",
+            "KORN_UP_ATRB_NM": "5. 가맹본부의 온라인·오프라인 판매에 관한 사항"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 1) 바로 전 사업연도 말 기준 연간 국내 매출액 중 온라인과 오프라인 매출액 비중\n연도국내 온라인·오프라인 판매 매출액 비중오프라인 판매 매출액 비중온라인 판매 매출액 비중가맹점기타 오프라인자사 온라인몰기타 온라인20230%100%0%0%<table><tr><td>연도</td><td>국내 온라인·오프라인 판매 매출액 비중</td></tr><tr><td>오프라인 판매 매출액 비중</td><td>온라인 판매 매출액 비중</td></tr><tr><td>가맹점</td><td>기타 오프라인</td><td>자사 온라인몰</td><td>기타 온라인</td></tr><tr><td>2023</td><td>0%</td><td>100%</td><td>0%</td><td>0%</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)옥면가\n- **브랜드명**: 옥면가\n- **2023년 매출액 비중**:\n  - **오프라인 판매 매출액 비중**: 100%\n  - **온라인 판매 매출액 비중**: 0%\n  - **기타**: 가맹점 0%, 자사 온라인몰 0%, 기타 온라인 0%",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n2023년 국내 매출액 비중:  \n- 오프라인 판매 매출액 비중: 100%  \n- 온라인 판매 매출액 비중: 0%  \n- 가맹점: 0%  \n- 기타 오프라인: 0%  \n- 자사 온라인몰: 0%  \n- 기타 온라인: 0%  ",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부 (주)옥면가는 2023년의 매출에서 온라인과 오프라인의 비중은 어떻게 되나요?",
+                    "ANSWER": "가맹본부 (주)옥면가는 2023년 기준으로 오프라인 판매 매출액 비중은 0%, 온라인 판매 매출액 비중은 100%입니다."
+                },
+                {
+                    "QUESTION": "옥면가 브랜드의 2023년 온라인 매출액은 얼마나 되나요?",
+                    "ANSWER": "옥면가 브랜드는 2023년 동안 온라인 판매 매출액 비중이 100%로, 전체 매출액에서 온라인 매출이 전부를 차지하고 있습니다."
+                },
+                {
+                    "QUESTION": "2023년 옥면가의 가맹점 관련 매출 비중은 어떻게 되나요?",
+                    "ANSWER": "2023년 옥면가의 가맹점 관련 매출 비중은 0%이며, 오프라인 매출이 없고 온라인 매출만 100%입니다."
+                },
+                {
+                    "QUESTION": "옥면가 브랜드는 2023년에 다른 온라인 판매 경로를 통해 매출을 발생시키지 않았나요?",
+                    "ANSWER": "2023년 옥면가는 기타 온라인 판매를 통해 매출을 발생시키지 않았으며, 오프라인과 기타 온라인 모두 0% 비중입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440059932074750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "505027501",
+            "KORN_ATTRB_NM": "2) 바로 전 사업연도 말 기준 국내 판매상품 중 온라인과 오프라인 전용 판매상품의 비중",
+            "UP_ATTRB_MNNO": "505007501",
+            "KORN_UP_ATRB_NM": "5. 가맹본부의 온라인·오프라인 판매에 관한 사항"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 2) 바로 전 사업연도 말 기준 국내 판매상품 중 온라인과 오프라인 전용 판매상품의 비중\n<table><tr><td>연도</td><td>오프라인 전용상품 비중</td><td>온라인 전용상품 비중</td></tr><tr><td>2023</td><td>0%</td><td>0%</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 2023년 기준:\n  - 오프라인 전용상품 비중: 0%\n  - 온라인 전용상품 비중: 0%",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n2023년 기준으로 국내 판매상품 중 오프라인 전용상품과 온라인 전용상품의 비중은 각각 0%로 나타났습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가 브랜드의 2023년 오프라인 전용상품 비중은 얼마인가요?",
+                    "ANSWER": "2023년 옥면가 브랜드의 오프라인 전용상품 비중은 0%입니다."
+                },
+                {
+                    "QUESTION": "2023년 옥면가 브랜드의 온라인 전용상품 비중은 어떻게 되나요?",
+                    "ANSWER": "2023년 옥면가 브랜드의 온라인 전용상품 비중도 0%입니다."
+                },
+                {
+                    "QUESTION": "2023년 기준 옥면가 브랜드의 오프라인과 온라인 전용상품 비중은 동일한가요?",
+                    "ANSWER": "네, 2023년 기준 옥면가 브랜드의 오프라인 전용상품 비중과 온라인 전용상품 비중은 모두 0%로 동일합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440059932251750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "505027501",
+            "KORN_ATTRB_NM": "2) 바로 전 사업연도 말 기준 국내 판매상품 중 온라인과 오프라인 전용 판매상품의 비중",
+            "UP_ATTRB_MNNO": "505007501",
+            "KORN_UP_ATRB_NM": "5. 가맹본부의 온라인·오프라인 판매에 관한 사항"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 2) 바로 전 사업연도 말 기준 국내 판매상품 중 온라인과 오프라인 전용 판매상품의 비중\n*해당사항 없습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 온라인과 오프라인 전용 판매상품 비중: 해당사항 없습니다.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가, 브랜드명: 옥면가. 최근 사업연도 말 기준으로 온라인과 오프라인 전용 판매상품의 비중에 해당사항 없음.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 온라인과 오프라인 전용 판매상품의 비중은 어떻게 되나요?",
+                    "ANSWER": "해당사항이 없습니다."
+                },
+                {
+                    "QUESTION": "가맹본부인 (주)옥면가는 온라인과 오프라인 판매상품 비중에 대한 정보를 제공하나요?",
+                    "ANSWER": "해당사항이 없습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440054266589750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506017501",
+            "KORN_ATTRB_NM": "1) 가맹계약 및 갱신 기간",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 1) 가맹계약 및 갱신 기간\n[옥면가]가맹사업의 계약기간은 계약체결일로부터[2]년이며, 가맹계약 갱신시 계약기간은 계약갱신일로부터[1]년입니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 계약기간: 2년 (가맹계약 체결일 기준)\n- 갱신 기간: 1년 (가맹계약 갱신일 기준)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가, 브랜드명: 옥면가  \n가맹계약 및 갱신 기간: 계약체결일로부터 2년, 갱신 시 1년.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 가맹계약 기간은 어떻게 되나요?",
+                    "ANSWER": "옥면가의 가맹계약 기간은 계약체결일로부터 2년입니다."
+                },
+                {
+                    "QUESTION": "옥면가의 가맹계약 갱신 기간은 얼마인가요?",
+                    "ANSWER": "옥면가의 가맹계약 갱신 시 계약기간은 갱신일로부터 1년입니다."
+                },
+                {
+                    "QUESTION": "옥면가의 가맹계약이 2년 후에는 자동으로 갱신되나요?",
+                    "ANSWER": "옥면가의 가맹계약은 2년 후 자동 갱신이 아니라, 계약 갱신 시 1년 동안 유효한 새 계약을 체결해야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가 가맹점의 첫 계약 기간이 종료된 후, 갱신은 어떻게 이루어지나요?",
+                    "ANSWER": "옥면가 가맹점의 첫 계약 기간이 종료되면 계약 갱신이 이루어지며, 이 경우 계약은 갱신일로부터 1년 동안 유효합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440396974921750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506027501",
+            "KORN_ATTRB_NM": "2) 계약 연장이나 재계약, 또는 계약 종료에 필요한 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 2) 계약 연장이나 재계약, 또는 계약 종료에 필요한 절차\n가맹사업거래의 공정화에 관한 법률 제13조 및 같은 법 시행령 제14조에 따라 귀하에게는 가맹계약의 갱신을 요구할 수 있는 권리가 최초 계약일로부터 10년간 주어집니다.구체적인 절차는 다음과 같습니다.<table><tr><td>순서</td><td>기간(계약만료일: D-day)</td></tr><tr><td>① 가맹점사업자가 계약갱신을 요구하였습니까? (예→②, 아니오→⑦)</td><td>D-180 ～ D-90</td></tr><tr><td>② (3)에서 정한 계약갱신 거절 사유에 해당합니까? (예→④, 아니오→③)</td><td>D-180 ～ D-90</td></tr><tr><td>③ 가맹본부가 계약조건 변경을 서면으로 통지하였습니까? (예→⑤, 아니오→A)</td><td>D-180 ～ D-90</td></tr><tr><td>④가맹본부가 가맹점사업자에게 거절 사유를 적은 서면으로 거절 통지를 하였습니까? (예→B, 아니오→A)</td><td>①+15일 이내</td></tr><tr><td>⑤ 가맹점사업자가 계약조건 변경에 동의하였습니까? (예→C, 아니오→⑥)</td><td>-</td></tr><tr><td>⑥ 변경된 계약조건이 다른 가맹점사업자에게 통상적으로 적용되는 계약조건입니까? (예→B, 아니오→D)</td><td>-</td></tr><tr><td>⑦ 가맹본부가 계약갱신을 하지 않겠다는 사실을 서면으로 통지하였습니까? (예→B, 아니오→⑧)</td><td>D-180 ～ D-90</td></tr><tr><td>⑧ 가맹점사업자가 계약갱신 또는 계약조건에 대하여 이의를 제기하였습니까? (예→E, 아니오→A)</td><td>D-60일 이전</td></tr><tr><td>A. 종전과 같은 조건으로 다시 가맹계약 체결</td><td>D-day</td></tr><tr><td>B. 계약기간이 만료되는 날 계약 종료</td><td>D-day</td></tr><tr><td>C. 변경된 조건으로 다시 가맹계약 체결</td><td>D-day</td></tr><tr><td>D. 양자가 합의하여 계약조건을 바꾸어야 함(가맹본부가 계약 변경을 강행할경우 불공정거래행위에 해당할 수 있음)</td><td>-</td></tr><tr><td>E. 양자가 합의하여 계약을 만료하거나 변경된 조건으로 다시 가맹계약 체결(민사상 문제로 가맹사업법에서 특별하게 제한하는 규정 없음)</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)옥면가  \n**브랜드명:** 옥면가  \n\n**계약 갱신 절차 요약:**\n\n1. 가맹점사업자가 계약갱신을 요구 (D-180 ~ D-90)\n   - 예: 다음 단계 진행\n   - 아니오: 7단계로 진행\n\n2. 계약갱신 거절 사유 해당 여부 (D-180 ~ D-90)\n   - 예: 4단계로 진행\n   - 아니오: 3단계로 진행\n\n3. 계약조건 변경 서면 통지 여부 (D-180 ~ D-90)\n   - 예: 5단계로 진행\n   - 아니오: A\n\n4. 거절 사유 서면 통지 여부 (1+15일 이내)\n   - 예: B\n   - 아니오: A\n\n5. 계약조건 변경 동의 여부\n   - 예: C\n   - 아니오: 6단계로 진행\n\n6. 변경된 계약조건의 통상 적용 여부\n   - 예: B\n   - 아니오: D\n\n7. 계약갱신 불가 서면 통지 여부 (D-180 ~ D-90)\n   - 예: B\n   - 아니오: 8단계로 진행\n\n8. 계약갱신 또는 조건 이의 제기 여부 (D-60 이전)\n   - 예: E\n   - 아니오: A\n\n**결과:**\n- A: 종전 조건으로 계약 체결\n- B: 계약 종료\n- C: 변경 조건으로 계약 체결\n- D: 조건 변경 합의 필요\n- E: 합의 후 계약 만료 또는 변경 조건으로 계약 체결",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)옥면가로, 브랜드명은 옥면가입니다. 가맹계약 갱신에 대한 절차는 공정화법에 따라 최초 계약일로부터 10년간 요구 가능하며, 계약 만료일(D-day) 기준으로 다음과 같은 단계가 포함됩니다:\n\n1. 가맹점사업자가 계약갱신 요구: D-180 ~ D-90\n2. 계약갱신 거절 사유 확인: D-180 ~ D-90\n3. 가맹본부의 계약조건 변경 통지 여부: D-180 ~ D-90\n4. 거절 사유 서면 통지: ①+15일 이내\n5. 계약조건 변경에 동의 여부: - \n6. 변경된 조건의 통상 적용 여부: -\n7. 가맹본부의 계약갱신 불가 통지: D-180 ~ D-90\n8. 계약갱신 또는 조건에 대한 이의 제기: D-60일 이전\n\n결과적으로:\n- A: 종전 조건으로 재계약\n- B: 계약 종료\n- C: 변경된 조건으로 재계약\n- D: 조건 변경 합의 필요\n- E: 계약 만료 또는 변경된 조건으로 재계약\n\n각 단계에 따라 최종 결정이 이루어집니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가 브랜드의 가맹계약 갱신을 요구할 수 있는 기간은 언제인가요?",
+                    "ANSWER": "가맹계약의 갱신을 요구할 수 있는 기간은 최초 계약일로부터 10년 동안입니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 계약갱신을 요구할 수 있는 시점은 언제인가요?",
+                    "ANSWER": "가맹점사업자는 계약 만료일인 D-day의 180일 전부터 90일 전인 D-180에서 D-90 사이에 계약갱신을 요구할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 계약조건 변경을 서면으로 통지해야 하는 경우는 어떤 상황인가요?",
+                    "ANSWER": "가맹본부가 계약조건 변경을 서면으로 통지한 경우에는 가맹점사업자가 변경된 조건으로 계약을 체결할지 여부를 결정해야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가 브랜드의 계약 갱신 절차에서 가맹본부가 서면으로 계약갱신을 거절할 경우, 어떤 절차가 이어지나요?",
+                    "ANSWER": "가맹본부가 가맹점사업자에게 거절 사유를 적은 서면으로 통지하면, 그 후 15일 이내에 거절 통지가 이루어져야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 계약조건 변경에 동의하지 않을 경우 어떤 결과가 발생하나요?",
+                    "ANSWER": "가맹점사업자가 계약조건 변경에 동의하지 않을 경우, 가맹본부가 제시한 변경된 계약조건이 다른 가맹점사업자에게 통상적으로 적용되는 조건인지 확인해야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가 브랜드의 가맹점사업자가 계약갱신에 이의를 제기할 수 있는 시점은 언제인가요?",
+                    "ANSWER": "가맹점사업자는 계약 만료일 D-day의 60일 이전인 D-60일 이전에 계약갱신 또는 계약조건에 대하여 이의를 제기할 수 있습니다."
+                },
+                {
+                    "QUESTION": "계약조건을 변경하는 경우 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "계약조건을 변경하기 위해서는 양자가 합의하여 계약조건을 바꾸거나, 가맹본부가 제시한 조건이 다른 가맹점사업자에게 통상적으로 적용되어야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440513578455750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506037501",
+            "KORN_ATTRB_NM": "3) 계약 갱신 거절(종료) 사유",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 3) 계약 갱신 거절(종료) 사유\n<table><tr><td>갱신요구 거절 사유</td><td>관련 계약조문</td></tr><tr><td>○ 가맹계약상의 가맹금 등의 지급의무를 지키지 아니한 경우</td><td>제8조</td></tr><tr><td>○ 다른 가맹점사업자에게 통상적으로 적용되는 계약조건이나 영업방침을 귀하가 수락하지아니한 경우</td></tr><tr><td>○ 가맹점 운영에 필요한 점포ㆍ설비의 확보나 법령상 필요한 자격ㆍ면허ㆍ허가의 취득을하지 못한 경우</td></tr><tr><td>○ 판매하는 상품이나 용역의 품질을 유지하기 위하여 필요한 제조공법 또는서비스기법을지키지 않은 경우</td></tr><tr><td>○ [옥면가]경영에 필수적인 지식재산권을 보호하기 위한 방침을 지키지않은 경우</td></tr><tr><td>○ 가맹점사업자에게 정기 또는 부정기적으로 실시하는 교육ㆍ훈련의 준수에 관한 사항을이행하지 않은 경우 (다만, 교육ㆍ훈련비용이 같은 업종의 다른 가맹본부가 통상적으로요구하는 비용보다 뚜렷하게 높은 경우는 제외합니다.)</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n**계약갱신 거절(종료) 사유:**\n\n1. 가맹계약상의 가맹금 등의 지급의무 불이행 (제8조)\n2. 다른 가맹점사업자에게 적용되는 계약조건이나 영업방침 불수락\n3. 점포ㆍ설비 확보 또는 법령상 필요한 자격ㆍ면허ㆍ허가 미취득\n4. 상품이나 용역의 품질 유지를 위한 제조공법 또는 서비스기법 불이행\n5. 경영에 필수적인 지식재산권 보호 방침 불이행\n6. 정기 또는 부정기적 교육ㆍ훈련 준수 불이행 (단, 교육비용이 다른 가맹본부보다 현저히 높은 경우 제외)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가, 브랜드명: 옥면가. 계약갱신 거절 사유는 다음과 같습니다:\n\n1. 가맹금 등의 지급 의무 불이행 (제8조)\n2. 다른 가맹점사업자의 계약조건 또는 영업방침 불수용\n3. 점포 및 설비 확보 또는 법적 자격 미취득\n4. 품질 유지를 위한 제조공법 또는 서비스기법 미준수\n5. 지식재산권 보호 방침 미준수\n6. 정기 교육 및 훈련 불이행 (단, 비용이 다른 가맹본부보다 현저히 높은 경우 제외)",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 가맹 계약 갱신이 거절될 수 있는 사유는 무엇인가요?",
+                    "ANSWER": "갱신 거절 사유로는 가맹금 등의 지급 의무를 지키지 않은 경우, 다른 가맹점사업자의 계약조건이나 영업방침 수락을 거부한 경우, 점포 및 설비 확보 또는 필요한 자격과 허가 취득 실패, 상품이나 서비스의 품질 유지 실패, 옥면가 경영에 필수적인 지식재산권 보호 방침 미준수, 교육 훈련 이행 미비 등이 있습니다."
+                },
+                {
+                    "QUESTION": "가맹 계약 갱신이 거절될 수 있는 경우는 어떤 법령이 관련되나요?",
+                    "ANSWER": "가맹 계약 갱신 거절 사유와 관련된 법령은 제8조에 명시되어 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점주가 교육 훈련을 이행하지 않으면 옥면가와의 계약 갱신에 어떤 영향을 미치나요?",
+                    "ANSWER": "가맹점주가 정기 또는 부정기적으로 실시하는 교육 및 훈련을 이행하지 않는 경우, 옥면가와의 계약 갱신이 거절될 수 있습니다. 단, 교육 훈련 비용이 다른 가맹본부에 비해 지나치게 높은 경우는 제외됩니다."
+                },
+                {
+                    "QUESTION": "옥면가 브랜드를 운영하는 가맹점에서 법령상 자격이나 허가를 취득하지 못하면 어떤 결과가 발생하나요?",
+                    "ANSWER": "법령상 필요한 자격이나 면허, 허가를 확보하지 못할 경우, 옥면가와의 가맹 계약 갱신이 거절될 수 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가 브랜드 가맹점주가 계약 조건을 수락하지 않으면 어떻게 되나요?",
+                    "ANSWER": "가맹점주가 다른 가맹점사업자에게 통상적으로 적용되는 계약 조건이나 영업 방침을 수락하지 않으면, 옥면가와의 계약 갱신이 거절될 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440568603296750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506047501",
+            "KORN_ATTRB_NM": "4) 계약 해지 사유 및 그 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 4) 계약 해지 사유 및 그 절차\n당사가 귀하와의 가맹계약을 해지할 수 있는 사유는 크게 합의해지, 일반해지, 즉시해지 등 3가지로 사유 및 절차의 자세한 내용은 다음과 같습니다.1) 합의해지 사유 및 그 절차당사 또는 귀하가 가맹점 개점 이후, 본 계약기간에도 불구하고 상호 문서에 의하여 합의 해지 약정을 체결하고 본 계약을 중도해지 할 수 있습니다. 이의 경우, 당사 또는 귀하는 본 계약의 상대방에게 2개월 전에 그 취지를 서면으로 통지하여 상호 합의하여야 합니다. 다만, 합의해지가 완료될 때까지는 본 계약에 의한 각자의 권리를 가지며, 각자의 의무를 성실하게 이행하여야 하고, 상호 각자의 손해를 배상하여야 합니다.당사 또는 귀하는 정당한 사유 없이 가맹 계약을 임의로 해지할 수 없으며, 이로 인해 손해가 발생한 경우에는 당사 또는 귀하는 각자의 상대방에게 손해배상을 청구할 수 있습니다.<table><tr><td>일반계약 해지 사유</td><td>관련 계약 조문</td></tr><tr><td>○ 가맹점사업자가 세금을 납부하지 못해 체납 처분을 당하거나, 주요 재산에 압류, 경매신청된 경우 </td><td>제28조 제1항제1호</td></tr><tr><td>○ 가맹점본사의 상호 또는 상표를 불법 부당하게 사용하거나 가맹점 본사의 상호 또는상표 아래 가맹점본사의 상품을 가맹사업 목적과 다른 방향으로 판매하는 경우 </td><td>제28조 제1항제2호</td></tr><tr><td>○ 가맹점사업자가 제3조 제1항(가맹점의 표시)의 규정을 위반하거나 다른 가맹점사업자의영업지역을 침해하는 경우</td><td>제28조 제1항제3호</td></tr><tr><td>○ 가맹점사업자의 고의 또는 과실로 점포의 임차권이 종료된 경우</td><td>제28조 제1항제4호</td></tr><tr><td>○ 가맹점사업자 또는 가맹점사업자의 직원이 정당한 사유 없이 가맹점본사에서 실시하는보수교육, 경영지도 등을 계약기간 내 2회 이상 이수하지 않는 경우</td><td>제28조 제1항제5호</td></tr><tr><td>○ 가맹점사업자가 영업을 개시하였음에도 불구하고 예치가맹금의 지급에 필요한 증명서류또는 확인의 제출을 하지 아니하는 경우</td><td>제28조 제1항제6호</td></tr><tr><td>○ 가맹점사업자가 경업을 하거나 가맹점사업자의 직원 등을 통하여 가맹점본사의영업비밀이 타인에게 유출할 우려가 객관적으로 높은 행위를 하는 경우</td><td>제28조 제1항제7호</td></tr><tr><td>○ 가맹점사업자가 물품대금, 로얄티, 광고, 판촉비 등의 대금지급을 3회 이상 연체하거나“을”의 채무가 보증금 한도액을 초과한 경우</td><td>제28조 제1항제8호</td></tr><tr><td>○ 가맹점사업자 총매출액 또는 매출액 증가비율을 3회 이상 허위로 통지하는 경우</td><td>제28조 제1항제9호</td></tr><tr><td>○ 가맹점사업자가 관련 법규를 준수하지 아니하거나 가맹점사업자가 가맹점본사의품질관리기준을 3개월에 3회 이상 위반하는 경우</td><td>제28조 제1항 제10호</td></tr><tr><td>○ 가맹점사업자가 노후 된 점포설비의 대하여 정당한 사유에 따른 교체·보수요청에 따르지않는 경우</td><td>제28조 제1항 제11호</td></tr><tr><td>○ 가맹점사업자가 제24조 제1항의 규정(감독 및 시정요구권)에 의한 가맹점본사의시정요구를 받고도 3일 이내에 시정하지 아니하는 경우</td><td>제28조 제1항 제12호</td></tr><tr><td>○ 가맹점사업자가 가맹점본사의 동의 없이 임의로 상품을 변경·추가하거나 가맹점본사에의해 변경된 상품을 준수하지 아니하는 경우</td><td>제28조 제1항 제13호</td></tr><tr><td>○ 가맹점사업자가 제26조(자점매입)규정을 위반하여 자점매입하거나 타 업소에 제공 또는판매하는 경우</td><td>제28조 제1항 제14호</td></tr><tr><td>○ 가맹정사업자가 가맹점본사의 정한 매뉴얼 기준에 따른 합리적 관리기준을 계약기간 내2회 이상 위반하거나 당사의 가맹점 점검을 거부하거나 방해하는 경우</td><td>제28조 제1항 제15호</td></tr><tr><td>○ 가맹점사업자가 가맹점본사와 약정한 광고 및 판촉활동을 성실히 이행하지 아니하는 경우</td><td>제28조 제1항 제16호</td></tr><tr><td>○ 가맹점사업자가 다수의 고객으로부터 동일한 불만사항을 접수받고도 시정하지 아니하는등 가맹점본사의 가맹점 전체에 대한 이미지 손상행위를 지속할 경우</td><td>제28조 제1항 제17호</td></tr><tr><td>○ 가맹점사업자가 가맹점본사와 협의 없이 점포관리 업무를 5일 이상 방치하거나 영업시간규정을 3회 이상 위반하는 경우</td><td>제28조 제1항 제18호</td></tr><tr><td>○ 기타 본 계약의 내용을 위반하여 가맹점본사의 명성에 악영향을 미치거나 가맹사업의통일성을 저해할 경우</td><td>제28조 제1항 제19호</td></tr><tr><td>○ 가맹점사업자가 가맹계약서 제18조 제4항에 해당하여 계약 체결일로부터 3개월 지나도개점이 불가능한 경우</td><td>제35조 제3항제2호</td></tr><tr><td>○ 가맹점사업자가 개점 전 교육을 이수하지 않아 가맹점 운영이 불가능한 경우</td><td>제35조 제3항제3호</td></tr><tr><td>○ 가맹점사업자가 당사의 사전 승인 없이 임의로 가맹점 위치를 변경하는 경우</td><td>제35조 제3항제4호</td></tr><tr><td>○ 가맹점사업자가 정당한 사유 없이 당사의 중요한 영업방침을 이행하지 아니하는 경우</td><td>제35조 제3항제5호</td></tr><tr><td>○ 가맹점사업자가 당사의 사전 승인 없이 가맹점을 양도하는 경우</td><td>제35조 제3항제6호</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)옥면가  \n**브랜드명:** 옥면가  \n\n**계약 해지 사유 및 절차:**\n\n1. **합의해지**\n   - 가맹점 개점 이후 상호 문서로 합의 해지 약정 체결\n   - 2개월 전 서면 통지 필요\n   - 계약 해지 전 각자의 권리 및 의무 이행 필수\n   - 정당한 사유 없이 임의 해지 금지\n\n2. **일반계약 해지 사유**  \n   | 사유                                                  | 관련 조문                |\n   |-----------------------------------------------------|---------------------|\n   | 세금 체납, 주요 재산 압류, 경매신청               | 제28조 제1항제1호       |\n   | 불법 상표 사용 및 상품 판매 방향 위반               | 제28조 제1항제2호       |\n   | 영업지역 침해, 점포 임차권 종료                    | 제28조 제1항제3호, 제4호  |\n   | 보수교육 미이수                                      | 제28조 제1항제5호       |\n   | 증명서류 미제출                                      | 제28조 제1항제6호       |\n   | 영업비밀 유출 우려                                  | 제28조 제1항제7호       |\n   | 대금 지급 연체                                      | 제28조 제1항제8호       |\n   | 허위 매출 통지                                    | 제28조 제1항제9호       |\n   | 법규 및 품질 관리 기준 위반                         | 제28조 제1항제10호      |\n   | 설비 교체·보수 요청 불이행                         | 제28조 제1항제11호      |\n   | 시정 요구 불이행                                   | 제28조 제1항제12호      |\n   | 상품 변경·추가 무단 실시                             | 제28조 제1항제13호      |\n   | 자점매입 규정 위반                                  | 제28조 제1항제14호      |\n   | 관리기준 위반, 점검 거부, 방해                       | 제28조 제1항제15호      |\n   | 광고 및 판촉활동 미이행                            | 제28조 제1항제16호      |\n   | 고객 불만 시정 미비                               | 제28조 제1항제17호      |\n   | 점포관리 방치 및 영업시간 규정 위반                 | 제28조 제1항제18호      |\n   | 가맹사업 명성 악영향, 통일성 저해                   | 제28조 제1항제19호      |\n   | 개점 지연, 교육 미이수, 위치 변경 무단           | 제35조 제3항제2호, 제3항제3호, 제4호, 제5호 |\n   | 영업방침 불이행, 가맹점 양도 무단                 | 제35조 제3항제5호, 제6호  | \n\n**참고:** 해당 사유에 대한 구체적인 조문 및 절차에 따라 해지 가능성 및 손해배상 청구 등의 사항이 명시됨.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n### 계약 해지 사유 및 절차\n1. **합의해지**: \n   - 당사 또는 귀하가 문서로 합의하여 계약을 해지 가능, \n   - 최소 2개월 전 서면 통지 필요, \n   - 해지 전까지 각자의 의무 이행 및 손해배상 의무.\n\n2. **일반계약 해지 사유**:\n   - 세금 체납, 상표 불법 사용, 영업지역 침해 등(제28조 관련).\n   - 교육 미이수, 불법 경업, 대금 지급 연체 등 여러 사유.\n   - 기타 계약 위반으로 인한 해지 가능.\n\n3. **즉시해지**: \n   - 정당한 사유 없이 계약 해지 시 손해배상 청구 가능. \n\n각 항목에 대한 구체적인 조항은 제28조와 제35조에 명시되어 있음.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가 브랜드 가맹계약 해지 사유는 무엇인가요?",
+                    "ANSWER": "옥면가 브랜드의 가맹계약 해지 사유는 합의해지, 일반해지, 즉시해지 등 3가지로 구분됩니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 세금을 체납하여 계약 해지될 수 있나요?",
+                    "ANSWER": "네, 가맹점사업자가 세금을 납부하지 못해 체납 처분을 당하면 일반계약에 의해 해지될 수 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가 브랜드 가맹점이 가맹본사의 상표를 불법적으로 사용하면 어떻게 되나요?",
+                    "ANSWER": "가맹점사업자가 가맹본사의 상표를 불법 부당하게 사용하거나 가맹사업과 다르게 판매하면 계약 해지 사유가 됩니다."
+                },
+                {
+                    "QUESTION": "가맹점의 임차권 종료로 계약 해지될 수 있나요?",
+                    "ANSWER": "네, 가맹점사업자가 고의 또는 과실로 점포의 임차권이 종료된 경우에는 계약 해지 사유가 됩니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 정당한 사유 없이 교육을 이수하지 않으면 어떻게 되나요?",
+                    "ANSWER": "가맹점사업자 또는 직원이 정당한 사유 없이 가맹점본사가 실시하는 교육을 2회 이상 이수하지 않으면 계약 해지가 가능합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 매출액을 허위로 통지하면 처벌받나요?",
+                    "ANSWER": "네, 가맹점사업자가 총매출액 또는 매출액 증가비율을 3회 이상 허위로 통지하면 계약 해지 사유가 됩니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 법규를 준수하지 않으면 어떤 결과가 있나요?",
+                    "ANSWER": "관련 법규를 준수하지 않거나 품질관리기준을 3개월에 3회 이상 위반할 경우 계약 해지가 가능합니다."
+                },
+                {
+                    "QUESTION": "옥면가 브랜드 가맹계약 해지시 통지 기간은 어떻게 되나요?",
+                    "ANSWER": "합의해지 시, 가맹계약의 상대방에게 2개월 전에 서면으로 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "계약이 해지되면 각자의 권리와 의무는 어떻게 되나요?",
+                    "ANSWER": "합의해지가 완료될 때까지는 각자는 본 계약에 의한 권리를 가지며, 의무를 성실하게 이행해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 다른 업소에 상품을 제공하면 계약 해지 되나요?",
+                    "ANSWER": "네, 가맹점사업자가 자점매입 규정을 위반하여 타 업소에 상품을 제공하는 경우 계약 해지 사유가 됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440568603635750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506047501",
+            "KORN_ATTRB_NM": "4) 계약 해지 사유 및 그 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 4) 계약 해지 사유 및 그 절차\n가맹사업거래의 공정화에 관한 법률 제14조와 같은 법 시행령 제15조에 따라 당사가 가맹계약을 해지하려는 경우에는 귀하에게 서면으로 2개월 이상의 유예기간을 두고 계약의 위반 사실 및 이를 시정하지 않을 경우 계약을 해지한다는 사실을 2회 이상 통지하고 있습니다. 이러한 절차를 거치지 않은 계약해지는 무효가 됩니다.3) 즉시해지 사유 및 절차<table><tr><td>즉시계약 해지 사유</td></tr><tr><td>① 가맹점사업자에게 파산 신청이 있거나 강제집행절차 또는 회생절차가 개시된경우</td></tr><tr><td>② 가맹점사업자가 발행한 어음·수표가 부도 등으로 지불정지된 경우</td></tr><tr><td>③ 천재지변, 중대한 일신상의 사유 등으로 가맹점사업자가 더 이상 가맹사업을경영할 수 없게 된 경우</td></tr><tr><td>④ 가맹점사업자가 가맹점 운영과 관련되는 법령을 위반하여 다음 각 목의 어느 하나에 해당하는 행정처분을 받거나  법원 판결을 받음으로써 가맹본부의 명성이나 신용을 뚜렷이 훼손하여 가맹사업에 중대한 장애를 초래한 경우가. 위법사실을 시정하라는 내용의 행정처분 나. 위법사실을 처분사유로 하는 과징금·과태료 등 부과처분 다. 위법사실을 처분사유로 하는 영업정지 명령 </td></tr><tr><td>⑤ 가맹점사업자가 가맹점 운영과 관련되는 법령을 위반하여 자격·면허·허가 취소또는 영업정지 명령(15일 이내의    영업정지 명령을 받은 경우는 제외한다) 등그 시정이 불가능한 성격의 행정처분을 받은 경우. 다만, 법령에  근거하여 행정처분을 갈음하는 과징금 등의 부과 처분을 받은 경우는 제외한다.</td></tr><tr><td>⑥ 가맹점사업자가 법 제14조제1항 본문에 따른 가맹본부의 시정요구에 따라 위반사항을 시정한 날부터 1년(계약갱신이나 재계약된 경우에는 종전 계약기간에 속한 기간을 합산한다) 이내에 다시 같은 사항을 위반하는 경우. 다만,가맹본부가시정을 요구하는 서면에 다시 같은 사항을 1년 이내에 위반하는경우에는법 제14조제1항의 절차를 거치지 아니하고 가맹계약이 해지될 수 있다는 사실을 누락한 경우는 제외한다.</td></tr><tr><td>⑦ 가맹점사업자가 가맹점 운영과 관련된 행위로 형사처벌을 받은 경우</td></tr><tr><td>⑧ 가맹점사업자가 뚜렷이공중의 건강이나 안전에 급박한 위해를 일으킬 염려가 있는방법이나 형태로가맹점을 운영하고 있으나, 행정청의 시정조치를 기다리기 어려운 경우</td></tr><tr><td>⑨가맹점사업자가 정당한 사유 없이 연속하여 7일 이상 영업을 중단한 경우</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)옥면가  \n**브랜드명:** 옥면가  \n\n### 계약 해지 사유 및 절차\n- **일반 계약 해지:** \n  - 서면으로 2개월 이상의 유예기간을 두고 위반 사실을 통지한 후 계약 해지 가능.\n  - 이 절차 미이행 시 해지는 무효.\n\n### 즉시 계약 해지 사유\n1. 가맹점사업자에게 파산 신청, 강제집행 또는 회생절차 개시.\n2. 부도 등으로 발행한 어음·수표.\n3. 천재지변, 중대한 일신상 사유로 경영 불가능.\n4. 법령 위반으로 행정처분 또는 법원 판결로 신용 훼손.\n5. 위반으로 자격·면허·허가 취소 등.\n6. 시정 요구 후 1년 이내 재위반.\n7. 형사처벌을 받은 경우.\n8. 공중 건강이나 안전에 급박한 위해 우려.\n9. 정당한 사유 없이 7일 이상 영업 중단.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가, 브랜드명: 옥면가\n\n**계약 해지 절차 및 사유:**\n1. 계약 해지 시, 가맹본부는 가맹점에 서면으로 2개월 이상의 유예기간을 두고 계약 위반 사실을 2회 이상 통지해야 하며, 이를 따르지 않은 해지는 무효입니다.\n\n**즉시 계약 해지 사유:**\n- 파산 신청 또는 강제집행 절차 개시\n- 부도 발생한 어음·수표 발행\n- 천재지변 등으로 사업 운영 불가\n- 법령 위반으로 행정처분이나 법원 판결로 신용 훼손\n- 자격·면허·허가 취소 등 불가피한 행정처분\n- 1년 이내 동일 위반 재발\n- 형사처벌\n- 공공 안전 위협을 초래하는 운영 방식\n- 정당한 사유 없이 7일 이상 영업 중단\n\n이와 같은 즉시 해지 사유에 해당할 경우 가맹계약은 즉시 해지될 수 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 계약 해지 사유는 무엇인가요?",
+                    "ANSWER": "옥면가의 계약 해지 사유는 여러 가지가 있으며, 예를 들어 가맹점사업자가 파산 신청을 했거나 강제집행절차가 개시된 경우, 또는 법령 위반으로 행정처분을 받은 경우 등이 포함됩니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 계약 해지를 원할 경우 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "가맹본부는 계약 해지를 원할 경우, 서면으로 2개월 이상의 유예기간을 두고 계약의 위반 사실을 2회 이상 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "즉시 계약 해지 사유에는 어떤 것들이 있나요?",
+                    "ANSWER": "즉시 계약 해지 사유로는 가맹점사업자의 파산 신청, 어음·수표의 부도, 법령 위반으로 인한 행정처분이나 형사처벌 등이 있습니다."
+                },
+                {
+                    "QUESTION": "가맹사업자가 연속적으로 영업을 중단했을 때 어떤 조치가 취해질 수 있나요?",
+                    "ANSWER": "가맹사업자가 정당한 사유 없이 연속하여 7일 이상 영업을 중단한 경우, 계약이 즉시 해지될 수 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가에서 가맹계약 해지 시 유예기간은 얼마나 되나요?",
+                    "ANSWER": "옥면가에서 가맹계약 해지 시에는 2개월 이상의 유예기간을 두고 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 법령 위반으로 인한 과징금을 부과받았을 경우 계약이 해지될 가능성이 있나요?",
+                    "ANSWER": "네, 가맹점사업자가 법령을 위반해 과징금을 부과받거나 행정처분을 받은 경우에 계약 해지 사유가 될 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 가맹계약 해지를 통지할 때 몇 번 통지해야 하나요?",
+                    "ANSWER": "가맹본부는 가맹계약 해지를 통지할 때 최소 2회 이상 계약의 위반 사실을 통지해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440860582519750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506057501",
+            "KORN_ATTRB_NM": "5) 계약 수정의 사유, 사전 통보 여부 및 동의 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 5) 계약 수정의 사유, 사전 통보 여부 및 동의 절차\n<table><tr><td>계약 수정 사유</td><td>관련 가맹계약서 조문</td></tr><tr><td>○ 가맹사업법의 개정 또는 요식업 관련 법률의 제정 또는 개정의 경우</td><td>제44조</td></tr><tr><td>○ 가맹사업의 통일화를 위한 영업방침의 변경이 불가피한 경우</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n\n**계약 수정의 사유 및 사전 통보 여부:**\n1. 가맹사업법의 개정 또는 요식업 관련 법률의 제정 또는 개정 (제44조)\n2. 가맹사업의 통일화를 위한 영업방침의 변경이 불가피한 경우",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n계약 수정 사유:\n1. 가맹사업법의 개정 또는 요식업 관련 법률의 제정 또는 개정 (관련 조문: 제44조)  \n2. 가맹사업의 통일화를 위한 영업방침의 변경이 불가피한 경우  ",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 계약 수정 사유는 무엇이 있나요?",
+                    "ANSWER": "옥면가는 가맹사업법의 개정 또는 요식업 관련 법률의 제정 또는 개정이 있는 경우, 그리고 가맹사업의 통일화를 위한 영업방침의 변경이 불가피한 경우 계약을 수정할 수 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가의 가맹계약서에서 계약 수정에 대한 조문은 어떤 것이 있나요?",
+                    "ANSWER": "옥면가의 가맹계약서에서는 계약 수정이 가맹사업법의 개정 또는 요식업 관련 법률의 제정 또는 개정의 경우 제44조에 해당한다고 명시되어 있습니다."
+                },
+                {
+                    "QUESTION": "가맹사업의 통일화를 위한 영업방침 변경 시, 옥면가는 계약 수정이 가능한가요?",
+                    "ANSWER": "네, 가맹사업의 통일화를 위한 영업방침의 변경이 불가피한 경우 옥면가는 계약을 수정할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹사업법의 개정이 있을 경우 옥면가는 어떻게 하나요?",
+                    "ANSWER": "가맹사업법의 개정이 있을 경우 옥면가는 계약을 수정할 수 있으며, 이는 가맹계약서 제44조에 근거합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440860582753750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506057501",
+            "KORN_ATTRB_NM": "5) 계약 수정의 사유, 사전 통보 여부 및 동의 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 5) 계약 수정의 사유, 사전 통보 여부 및 동의 절차\n<table><tr><td>재조정 절차</td><td>동의 절차</td></tr><tr><td>계약 수정 사유 발생 → 당사 담당팀 검토 →수정계약서(안) 작성 → 가맹점사업자에게 서면 통지 →가맹점사업자 동의 → 수정 완료</td><td>수정 계약서(안)를 서면으로 통지하고 30일 이내에동의 여부 회신 동의가 있는 경우 수정계약서에 정한날부터 효력 발생</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)옥면가  \n**브랜드명:** 옥면가  \n\n**계약 수정 절차 요약:**\n\n1. **재조정 절차:**\n   - 계약 수정 사유 발생\n   - 당사 담당팀 검토\n   - 수정계약서(안) 작성\n   - 가맹점사업자에게 서면 통지\n   - 가맹점사업자 동의\n   - 수정 완료\n\n2. **동의 절차:**\n   - 수정 계약서(안)를 서면으로 통지\n   - 30일 이내 동의 여부 회신\n   - 동의가 있는 경우 수정계약서에 정한 날부터 효력 발생",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)옥면가이며, 브랜드명도 옥면가입니다. 계약 수정은 사유 발생 후 담당팀의 검토를 거쳐 수정계약서 초안을 작성하고, 가맹점사업자에게 서면으로 통지합니다. 가맹점사업자는 30일 이내에 동의 여부를 회신해야 하며, 동의 시 수정계약서의 효력이 발생합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가는 계약 수정의 사유가 발생하면 어떤 절차를 진행하나요?",
+                    "ANSWER": "계약 수정 사유가 발생하면 담당팀의 검토를 거쳐 수정계약서(안)가 작성되며, 이후 가맹점사업자에게 서면으로 통지한 후 동의를 받으면 수정이 완료됩니다."
+                },
+                {
+                    "QUESTION": "계약 수정 시 가맹점사업자는 동의 여부를 어떻게 회신하나요?",
+                    "ANSWER": "가맹점사업자는 수정 계약서(안)를 서면으로 통지받은 후 30일 이내에 동의 여부를 회신해야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가는 계약 수정에 대한 동의가 있을 경우 효력 발생 시기는 어떻게 되나요?",
+                    "ANSWER": "수정계약서에 대한 동의가 있는 경우, 수정계약서에 정해진 날부터 효력이 발생합니다."
+                },
+                {
+                    "QUESTION": "계약 수정 절차는 옥면가의 어떤 부서에서 주로 담당하나요?",
+                    "ANSWER": "계약 수정 절차는 옥면가의 담당 팀에서 주로 검토하고 진행합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440216692610750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507017501",
+            "KORN_ATTRB_NM": "1) 가맹점운영권의 환매",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 1) 가맹점운영권의 환매\n당사는 환매제도를 운영하고 있지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 환매제도: 운영하지 않음",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n가맹점운영권 환매: 당사는 환매제도를 운영하지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 가맹점운영권 환매 제도는 어떻게 되나요?",
+                    "ANSWER": "옥면가는 환매제도를 운영하고 있지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440775753695750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507027501",
+            "KORN_ATTRB_NM": "2) 가맹점운영권의 양도",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 2) 가맹점운영권의 양도\n귀하가 가맹점운영권을 다른 사업자에게 양도하기 위해서는 당사에게 2개월 전에 서면으로 그 사실을 통지하여야 하고, 당사의 승인이 있어야만 합니다. 자세한 내용은 다음과 같습니다.<table><tr><td>양도 가능 조건</td><td>양도 절차</td><td>비고</td></tr><tr><td>○양수인이 당사가 정한 가맹운영기준을 준수할 것</td><td>가맹점사업자가 서면으로 양도 신청 → 당사담당팀 검토(양수인 면담 포함, 30일 가량 소요)→ 승인 여부 통지 →양도인, 양수인, 당사의양수․양도 계약 체결(5일 소요) →가맹점운영권이전 완료</td><td>(문의) 가맹사업팀070)8822-5773</td></tr><tr><td>○양수인은 당사가 정한 소정의교육을 이수할 것</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)옥면가\n- **브랜드명**: 옥면가\n\n### 가맹점운영권 양도 조건 및 절차\n\n| 항목          | 내용                                             |\n|---------------|--------------------------------------------------|\n| **양도 가능 조건** | - 양수인이 당사가 정한 가맹운영기준을 준수할 것<br>- 양수인은 당사가 정한 소정의 교육을 이수할 것 |\n| **양도 절차**   | 1. 가맹점사업자가 서면으로 양도 신청<br>2. 당사 담당팀 검토 (양수인 면담 포함, 약 30일 소요)<br>3. 승인 여부 통지<br>4. 양도인, 양수인, 당사의 양수·양도 계약 체결 (5일 소요)<br>5. 가맹점 운영권 이전 완료 |\n| **비고**        | - 문의: 가맹사업팀 070-8822-5773                 |",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가, 브랜드명: 옥면가\n\n가맹점운영권 양도 절차:\n1. 양도 의사를 2개월 전 서면으로 통지해야 하며, 당사의 승인이 필요.\n2. 양도 조건:\n   - 양수인은 가맹운영기준 준수.\n   - 양수인은 소정의 교육 이수.\n3. 양도 절차:\n   - 양도 신청 서면 제출.\n   - 담당팀 검토 및 양수인 면담 (약 30일 소요).\n   - 승인 여부 통지.\n   - 양도 계약 체결 (약 5일 소요).\n   - 가맹점운영권 이전 완료.\n\n문의: 가맹사업팀 (전화: 070-8822-5773)",
+            "QAs": [
+                {
+                    "QUESTION": "가맹점운영권을 다른 사업자에게 양도하기 위한 조건은 무엇인가요?",
+                    "ANSWER": "양도 가능 조건으로는 양수인이 가맹본부가 정한 가맹운영기준을 준수하고, 소정의 교육을 이수해야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가의 가맹점운영권을 양도할 때 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "가맹점사업자는 서면으로 양도 신청을 하고, 가맹본부 담당팀의 검토를 받습니다. 면담이 포함되어 있어 약 30일 정도 소요되며, 승인 여부가 통지된 후 양도인, 양수인, 가맹본부 간의 계약을 체결하고, 가맹점운영권 이전이 완료됩니다."
+                },
+                {
+                    "QUESTION": "가맹점운영권 양도 후에는 어떤 절차가 필요한가요?",
+                    "ANSWER": "양도 후에는 가맹점사업자가 서면으로 양도 신청을 하고, 담당팀의 검토 및 계약 체결 절차를 진행해야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가 브랜드에서 가맹점운영권 양도 시 필요한 교육 과정은 어디에서 확인할 수 있나요?",
+                    "ANSWER": "필요한 교육 과정에 대해서는 가맹본부의 가맹사업팀(070-8822-5773)으로 문의하여 확인할 수 있습니다."
+                },
+                {
+                    "QUESTION": "양수인이 이수해야 하는 교육 내용은 무엇인가요?",
+                    "ANSWER": "양수인은 가맹본부가 정한 소정의 교육을 이수해야 가맹점운영권 양도가 가능합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440775753953750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507027501",
+            "KORN_ATTRB_NM": "2) 가맹점운영권의 양도",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 2) 가맹점운영권의 양도\n당사가 양도를 승인하면 양수인은 양도인의 모든 권리의무를 승계하게 됩니다. 다만, 양수인이 원할 경우에는 당사는 양수인과 신규 가맹계약을 맺을 수 있습니다. 이 경우 신규 가맹계약일지라도 가맹점 모집비용, 개점행사비 등이 일반적인 신규가맹계약보다 적게 소요될 경우에는 비용 소요액에 상응하는 가맹금을 당사와 협의하여 지급하실 수 있습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n\n(2) 가맹점운영권의 양도:\n- 양도 승인 시, 양수인은 양도인의 모든 권리 및 의무를 승계.\n- 양수인이 원할 경우, 당사는 신규 가맹계약 가능.\n- 신규 가맹계약 시 비용 소요액은 일반 신규 가맹계약보다 적을 경우 협의 가능.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)옥면가이며, 브랜드명은 옥면가입니다. 가맹점 운영권 양도 시, 당사가 승인하면 양수인은 양도인의 권리와 의무를 승계합니다. 양수인이 원할 경우, 당사는 신규 가맹계약을 체결할 수 있으며, 이 경우 비용이 일반 신규 계약보다 적을 경우 가맹금을 협의하여 지급할 수 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가 브랜드의 가맹점 운영권을 양도하려면 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "옥면가의 가맹점 운영권을 양도하려면 가맹본부인 (주)옥면가의 승인이 필요합니다."
+                },
+                {
+                    "QUESTION": "양도인이 양도 후 양수인은 어떤 권리와 의무를 승계하나요?",
+                    "ANSWER": "양도인이 가맹점 운영권을 양도하면, 양수인은 양도인의 모든 권리와 의무를 승계하게 됩니다."
+                },
+                {
+                    "QUESTION": "양수인이 원할 경우, 가맹본부와 신규 가맹계약을 맺는 것이 가능한가요?",
+                    "ANSWER": "네, 양수인이 원할 경우에는 (주)옥면가와 신규 가맹계약을 맺을 수 있습니다."
+                },
+                {
+                    "QUESTION": "신규 가맹계약 시 소요되는 비용은 어떻게 되나요?",
+                    "ANSWER": "신규 가맹계약 시 가맹점 모집비용이나 개점행사비 등이 일반적인 신규가맹계약보다 적게 소요될 경우, 해당 비용 소요액에 상응하는 가맹금은 (주)옥면가와 협의하여 지급할 수 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가 가맹점의 권리와 의무를 승계할 때, 양수인은 어떤 선택을 할 수 있나요?",
+                    "ANSWER": "양수인은 권리와 의무를 승계하는 것 외에도, (주)옥면가와 신규 가맹계약을 맺을 수 있는 선택을 할 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440177593031750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507037501",
+            "KORN_ATTRB_NM": "3) 가맹점운영권의 상속, 대리행사, 위탁 등",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 3) 가맹점운영권의 상속, 대리행사, 위탁 등\n가맹점운영권은 원칙적으로 당사와 가맹계약을 체결한 귀하에게 주어집니다. 따라서 개인사정 등으로 가맹점운영권을 다른 사람에게 대리행사하게 할 경우에는 당사에 사전에 서면으로 그 사실을 통지하여야 합니다. <table><tr><td>구분</td><td>가능여부(조건)</td><td>이전 범위</td><td>절차</td><td>기타 의무사항</td></tr><tr><td>상속</td><td>상속인 사후통지시</td><td>모든 권리와 의무</td><td>상속인이 서면으로 상속 신청 →당사 담당팀 검토(상속인 면담 포함,10일 가량 소요) → 승인 여부 통지 →상속인, 당사의 가맹계약 체결(5일 소요) →가맹점운영권 이전 완료</td><td>교육비는 없으나 필수의무 교육 발생 시는 실비</td></tr><tr><td>대리행사</td><td>당사 승인시 가능</td><td>가맹점사업자가지정한 범위 내의권리의무</td><td>가맹점사업자가 서면으로 대리행사신청 →당사 담당팀 검토(대리인 면담 포함,10일 가량 소요)→ 승인 여부 통지 </td><td>-</td></tr><tr><td>업무위탁</td><td>당사 승인시 가능</td><td>-</td><td>-</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명:** (주)옥면가\n- **브랜드명:** 옥면가\n\n### 가맹점운영권 관련 정보\n1. **상속**\n   - **가능여부:** 상속인 사후 통지 시 가능\n   - **이전 범위:** 모든 권리와 의무\n   - **절차:** \n     - 상속인이 서면으로 상속 신청\n     - 당사 담당팀 검토 (상속인 면담 포함, 10일 소요)\n     - 승인 여부 통지\n     - 상속인과 당사의 가맹계약 체결 (5일 소요)\n     - 가맹점운영권 이전 완료\n   - **기타 의무사항:** 교육비 없음, 필수 의무 교육 발생 시 실비 발생\n\n2. **대리행사**\n   - **가능여부:** 당사 승인 시 가능\n   - **이전 범위:** 가맹점사업자가 지정한 범위 내의 권리와 의무\n   - **절차:** \n     - 가맹점사업자가 서면으로 대리행사 신청\n     - 당사 담당팀 검토 (대리인 면담 포함, 10일 소요)\n     - 승인 여부 통지\n   - **기타 의무사항:** 없음\n\n3. **업무위탁**\n   - **가능여부:** 당사 승인 시 가능\n   - **이전 범위:** 없음\n   - **절차:** 없음\n   - **기타 의무사항:** 없음",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n가맹점운영권은 계약 체결한 당사에게 부여되며, 대리행사 시 사전 서면 통지가 필요하다. 상속은 상속인의 사후 통지 시 가능하며, 모든 권리와 의무가 이전된다. 절차는 상속 신청, 검토, 승인 통지, 가맹계약 체결, 그리고 이전 완료로 이루어진다. 교육비는 없으나 필수 교육 발생 시 실비가 발생할 수 있다. 대리행사와 업무위탁은 당사 승인 시 가능하나, 대리행사는 지정된 범위 내에서 이루어져야 하며, 위탁의 경우 추가 조건이 없다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 가맹점운영권을 상속하려면 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "상속인이 서면으로 상속 신청 후, 당사 담당팀의 검토가 이루어집니다. 이 과정에는 상속인 면담이 포함되며 약 10일이 소요됩니다. 승인 여부 통지 후, 상속인은 당사와 가맹계약을 체결하여 가맹점운영권 이전이 완료됩니다."
+                },
+                {
+                    "QUESTION": "대리행사를 원할 경우 옥면가에 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "대리행사를 원하실 경우, 가맹점사업자가 서면으로 대리행사 신청을 해야 합니다. 이후 당사 담당팀의 검토와 대리인 면담이 있으며, 이 과정은 약 10일이 소요됩니다."
+                },
+                {
+                    "QUESTION": "옥면가에서 가맹점 운영 권리를 업무 위탁할 수 있는 조건은 무엇인가요?",
+                    "ANSWER": "업무 위탁은 당사의 승인이 있을 경우 가능합니다."
+                },
+                {
+                    "QUESTION": "가맹점운영권의 상속 시 교육비는 어떻게 되나요?",
+                    "ANSWER": "상속 시에는 교육비는 없으나 필수의무 교육이 발생하는 경우 실비가 발생할 수 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가의 가맹점운영권을 대리행사하기 위한 조건은 무엇인가요?",
+                    "ANSWER": "대리행사는 당사의 승인이 있을 때 가능하며, 가맹점사업자가 지정한 범위 내의 권리와 의무를 포함합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440177593283750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507037501",
+            "KORN_ATTRB_NM": "3) 가맹점운영권의 상속, 대리행사, 위탁 등",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 3) 가맹점운영권의 상속, 대리행사, 위탁 등\n가맹점운영권 관련 양도양수의 경우에는 가맹계약 외 기타 부동산조건 및 권리문제에 대해서는 당사가 관여하지 않습니다. 또한 대리관련 당사가 승인하는 대리인의 조건은 개점 전 교육을 이수한 자에 한하며, 영업 중에는 당사가 지정하는 교육을 필수로 이수하여야 하고, 개점 전 교육비는 귀하 또는 교육을 이수하는 자가 부담하여야 합니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n\n- 가맹점운영권 관련 사항:\n  - 상속: 없음\n  - 대리행사: 승인된 대리인 조건은 개점 전 교육 이수자\n  - 위탁: 없음\n  - 양도양수: 가맹계약 외 기타 부동산조건 및 권리문제에 대해 관여하지 않음\n  - 교육: \n    - 개점 전 교육 이수 필수\n    - 영업 중 교육 이수 필수\n    - 교육비는 귀하 또는 교육 이수자가 부담",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n가맹점운영권 관련:  \n- 상속, 대리행사, 위탁 등에 대해 가맹계약 외의 부동산 조건 및 권리문제에 관여하지 않음.  \n- 대리인은 개점 전 교육을 이수해야 하며, 영업 중에도 지정된 교육을 필수로 이수해야 함.  \n- 교육비는 교육 이수자나 귀하가 부담해야 함.",
+            "QAs": [
+                {
+                    "QUESTION": "가맹점 운영권을 상속할 수 있나요?",
+                    "ANSWER": "가맹점 운영권의 상속과 관련된 사항은 가맹계약 외 부동산 조건 및 권리문제에 대해서는 가맹본부에서 관여하지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영권을 대리행사할 경우 어떤 조건이 필요한가요?",
+                    "ANSWER": "가맹점 운영권을 대리행사할 경우, 가맹본부에서 승인하는 대리인은 개점 전 교육을 이수한 자여야 하며, 영업 중에는 가맹본부에서 지정하는 교육을 반드시 이수해야 합니다."
+                },
+                {
+                    "QUESTION": "대리인을 지정하기 위한 교육비는 누가 부담하나요?",
+                    "ANSWER": "대리인을 지정하기 위해 필요한 개점 전 교육비는 귀하 또는 교육을 이수하는 자가 부담해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영권의 위탁 운영은 가능한가요?",
+                    "ANSWER": "가맹점 운영권의 위탁 운영과 관련된 사항은 가맹계약 외의 부동산 조건 및 권리문제에 대해 가맹본부에서 관여하지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440696878669750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508017501",
+            "KORN_ATTRB_NM": "1) 경업금지의 범위",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 1) 경업금지의 범위\n당사는 계약기간은 물론 계약 종료 후 3년 동안 [행정구역상 동일한 시]에서 가맹점사업자가 [옥면가]과 동일한 업종의 영업을 하는 행위를 금지하고 있습니다. 만약 가맹점사업자가 그러한 행위를 하기 위해서는 사전에 당사에 서면으로 그 사실을 통지하여야 합니다.자세한 내용은 다음과 같습니다.<table><tr><td>경업금지 되는 업종</td><td>경업허가 절차</td><td>비고</td></tr><tr><td>사골육수를 전문으로 하는 면조리 식품 등 한식 가맹사업</td><td>가맹점사업자가 서면으로 경업허가 신청→ 당사 담당팀 검토(시장조사 포함, 30일가량 소요) → 허가 여부 통지 → 완료</td><td>(문의) 가맹사업팀070)8822-5773</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)옥면가  \n**브랜드명:** 옥면가  \n\n- **경업금지의 범위:**  \n  - 계약기간 및 계약 종료 후 3년 동안 행정구역상 동일한 시에서 가맹점사업자가 동일한 업종의 영업 금지.\n  - 가맹점사업자가 경업을 원할 경우, 사전 서면 통지 필요.\n\n| 경업금지 업종                               | 경업허가 절차                                                        | 비고                                    |\n|----------------------------------------|-----------------------------------------------------------|-------------------------------------|\n| 사골육수를 전문으로 하는 면조리 식품 등 한식 가맹사업 | 가맹점사업자가 서면으로 경업허가 신청 → 담당팀 검토(시장조사 포함, 30일 소요) → 허가 여부 통지 → 완료 | (문의) 가맹사업팀 070)8822-5773 |",
+            "ABSTRACTED_SUMMARY_TEXT": "(주)옥면가는 브랜드 '옥면가'로, 가맹점사업자가 계약기간 중 및 종료 후 3년간 동일 행정구역에서 동일 업종(사골육수를 전문으로 하는 면조리 식품 등 한식 가맹사업) 영업을 금지합니다. 경업행위를 원할 경우, 사전에 서면으로 통지해야 하며, 경업허가 절차는 서면 신청, 담당팀 검토(약 30일 소요), 허가 여부 통지로 이루어집니다. 문의는 가맹사업팀(070)8822-5773으로 가능합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가는 가맹점사업자에게 경업금지 범위를 어떻게 설정하고 있나요?",
+                    "ANSWER": "옥면가는 계약기간 동안과 계약 종료 후 3년 동안 같은 행정구역에서 동일한 업종으로 영업하는 것을 금지하고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 사골육수를 전문으로 하는 면조리 식품과 같은 경업금지 업종에서 영업을 하려면 어떻게 해야 하나요?",
+                    "ANSWER": "가맹점사업자는 서면으로 경업허가를 신청해야 하며, 이후 담당팀의 검토를 통해 허가 여부가 통지됩니다."
+                },
+                {
+                    "QUESTION": "경업허가 신청이 처리되는 데 소요되는 시간은 얼마나 되나요?",
+                    "ANSWER": "경업허가 신청은 약 30일 정도 소요되어 신중하게 검토됩니다."
+                },
+                {
+                    "QUESTION": "경업금지 업종에 대한 문의는 어디에 해야 하나요?",
+                    "ANSWER": "경업금지 업종에 대한 문의는 가맹사업팀(070-8822-5773)으로 연락하시면 됩니다."
+                },
+                {
+                    "QUESTION": "옥면가의 경업금지 규정은 가맹점 계약 종료 후에도 적용되나요?",
+                    "ANSWER": "네, 옥면가의 경업금지 규정은 가맹점 계약 종료 후에도 3년 동안 적용됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440001994822750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508027501",
+            "KORN_ATTRB_NM": "2) 영업시간 및 영업일수 제한",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 2) 영업시간 및 영업일수 제한\n<table><tr><td>영업시간</td><td>영업일수</td><td>비고</td></tr><tr><td>11:00~21:00</td><td>주6일</td><td>(문의) 가맹사업팀070)8822-5773</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n**영업시간 및 영업일수 제한**\n- 영업시간: 11:00~21:00  \n- 영업일수: 주6일  \n- 비고: (문의) 가맹사업팀 070) 8822-5773",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n영업시간: 11:00~21:00  \n영업일수: 주 6일  \n비고: (문의) 가맹사업팀 070-8822-5773  ",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 영업시간은 어떻게 되나요?",
+                    "ANSWER": "옥면가의 영업시간은 11:00부터 21:00까지입니다."
+                },
+                {
+                    "QUESTION": "옥면가의 영업일수는 몇 일인가요?",
+                    "ANSWER": "옥면가는 주 6일 영업합니다."
+                },
+                {
+                    "QUESTION": "혹시 옥면가의 영업시간이나 영업일에 대한 문의는 어디에 해야 하나요?",
+                    "ANSWER": "옥면가에 대한 영업시간이나 영업일과 관련된 문의는 가맹사업팀에 연락주시기 바랍니다. 전화번호는 070-8822-5773입니다."
+                },
+                {
+                    "QUESTION": "옥면가는 몇 시간 동안 영업하나요?",
+                    "ANSWER": "옥면가는 하루에 10시간 동안 영업합니다."
+                },
+                {
+                    "QUESTION": "옥면가의 주 영업일수는 몇 일인가요?",
+                    "ANSWER": "옥면가는 주 6일 동안 영업합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440001995153750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508027501",
+            "KORN_ATTRB_NM": "2) 영업시간 및 영업일수 제한",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 2) 영업시간 및 영업일수 제한\n가맹사업거래의 공정화에 관한 법률 시행령 제15조 제10호에 따라 귀하가 정당한 사유 없이 연속하여 7일 이상 영업을 중단한 경우 가맹계약 해지가 될 수 있으므로 주의하시기 바랍니다.귀하가 개인 사정 등으로 영업을 불가피하게 중단하거나 영업시간을 조정해야 할 경우에는 사전에 담당 팀에 통지하시기 바랍니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 영업시간 및 영업일수 제한: \n  - 연속 7일 이상 영업 중단 시 가맹계약 해지 가능\n  - 개인 사정으로 영업 중단 시 담당 팀에 사전 통지 필요",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가, 브랜드명: 옥면가. 가맹사업 거래의 공정화 법률에 따라, 정당한 사유 없이 7일 이상 영업을 중단할 경우 가맹계약 해지 가능성이 있습니다. 개인 사정으로 영업을 중단하거나 시간 조정이 필요할 경우, 사전 통지가 필요합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 영업일수 제한은 어떻게 되나요?",
+                    "ANSWER": "옥면가는 정당한 사유 없이 연속하여 7일 이상 영업을 중단할 경우 가맹계약 해지가 될 수 있으므로 주의가 필요합니다."
+                },
+                {
+                    "QUESTION": "옥면가를 운영하는 중에 개인 사정으로 영업시간을 변경해야 할 때 어떻게 해야 하나요?",
+                    "ANSWER": "영업시간을 조정해야 할 경우에는 사전에 옥면가의 담당 팀에 통지하셔야 합니다."
+                },
+                {
+                    "QUESTION": "영업 중단 시 옥면가는 어떤 절차를 요구하나요?",
+                    "ANSWER": "가맹점주는 영업을 불가피하게 중단해야 할 경우, 사전에 옥면가의 담당 팀에 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "연속적으로 영업을 중단했을 때 어떤 결과가 발생하나요?",
+                    "ANSWER": "연속하여 7일 이상 영업을 중단하면 옥면가와의 가맹계약 해지가 될 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440381410628750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508037501",
+            "KORN_ATTRB_NM": "3) 권장 종업원 수 및 영업장 근무 여부",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 3) 권장 종업원 수 및 영업장 근무 여부\n당사는 가맹점사업자가 운영하는 가맹점(영업장)의 종업원 및 근무 형태를 제한하고 있지 않습니다. 다만, 근무 형태는 귀하가 직접 매장을 운영하여야 합니다.<table><tr><td>권장 종업원수</td><td>직접 근무 여부</td><td>비고</td></tr><tr><td>특별한 제한 없음</td><td>직접 근무</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n- 권장 종업원 수: 특별한 제한 없음  \n- 직접 근무 여부: 직접 근무  \n- 비고: -  ",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가, 브랜드명: 옥면가. 가맹점 운영 시 종업원 수에 특별한 제한은 없으며, 영업장은 직접 운영해야 합니다. 권장 종업원 수는 특별한 제한이 없고, 직접 근무가 필요합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가 가맹점의 권장 종업원 수는 어떻게 되나요?",
+                    "ANSWER": "옥면가의 가맹점에서는 특별한 제한 없이 권장 종업원 수를 설정할 수 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가 가맹점 운영 시 직접 근무해야 하나요?",
+                    "ANSWER": "옥면가의 가맹점에서는 가맹사업자가 직접 근무해야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가 가맹점에서 종업원 수에 제한이 있나요?",
+                    "ANSWER": "옥면가 가맹점 운영 시 종업원 수에 특별한 제한은 없습니다."
+                },
+                {
+                    "QUESTION": "옥면가의 가맹점에서 근무 형태는 어떻게 되나요?",
+                    "ANSWER": "옥면가의 가맹점에서는 가맹사업자가 매장을 직접 운영해야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가 가맹점 운영 시 종업원이 필요 없나요?",
+                    "ANSWER": "옥면가 가맹점은 특별한 제한이 없으므로 종업원을 둘 수 있지만, 가맹사업자는 직접 근무해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440460469554750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508047501",
+            "KORN_ATTRB_NM": "4) 가맹본부의 영업장 관리ㆍ감독",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 4) 가맹본부의 영업장 관리ㆍ감독\n<table><tr><td>관리ㆍ감독 항목</td><td>감독 절차</td><td>빈도 및 시기</td><td>담당팀</td><td>비고</td></tr><tr><td>매장 청결</td><td>담당자 매장 방문 → 청결도 확인 → 관리표 작성 → 가맹점사업자 확인 및 서명 → 완료</td><td>필요 시</td><td>가맹사업팀</td><td>(문의)가맹사업팀070)8822-5773</td></tr><tr><td>친절도</td><td>담당자 매장 암행방문 → 주문 → 친절도 확인 →관리표 작성 → 완료</td><td>필요 시</td><td>가맹사업팀</td></tr><tr><td>회계처리 가맹본부 지침사항</td><td>담당자 매장 방문 → 회계 및 재고, 상품관리,당사 지침 등 확인 → 관리표 작성 → 가맹점사업자확인 및 서명 → 완료</td><td>필요 시</td><td>가맹사업팀</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명:** (주)옥면가\n- **브랜드명:** 옥면가\n\n**영업장 관리ㆍ감독 항목 및 절차:**\n\n1. **매장 청결**\n   - **감독 절차:** 담당자 매장 방문 → 청결도 확인 → 관리표 작성 → 가맹점사업자 확인 및 서명 → 완료\n   - **빈도 및 시기:** 필요 시\n   - **담당팀:** 가맹사업팀\n   - **비고:** 문의 - 가맹사업팀 070)8822-5773\n\n2. **친절도**\n   - **감독 절차:** 담당자 매장 암행방문 → 주문 → 친절도 확인 → 관리표 작성 → 완료\n   - **빈도 및 시기:** 필요 시\n   - **담당팀:** 가맹사업팀\n\n3. **회계처리 가맹본부 지침사항**\n   - **감독 절차:** 담당자 매장 방문 → 회계 및 재고, 상품관리, 당사 지침 등 확인 → 관리표 작성 → 가맹점사업자 확인 및 서명 → 완료\n   - **빈도 및 시기:** 필요 시\n   - **담당팀:** 가맹사업팀",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n영업장 관리 및 감독 항목:  \n1. **매장 청결**  \n   - **감독 절차:** 담당자 방문, 청결도 확인, 관리표 작성, 가맹점사업자 확인 및 서명  \n   - **빈도 및 시기:** 필요 시  \n   - **담당팀:** 가맹사업팀  \n   - **비고:** 문의 전화: 070-8822-5773  \n\n2. **친절도**  \n   - **감독 절차:** 담당자 암행 방문, 주문, 친절도 확인, 관리표 작성  \n   - **빈도 및 시기:** 필요 시  \n   - **담당팀:** 가맹사업팀  \n\n3. **회계처리 가맹본부 지침사항**  \n   - **감독 절차:** 담당자 방문, 회계 및 재고, 상품관리 확인, 관리표 작성, 가맹점사업자 확인 및 서명  \n   - **빈도 및 시기:** 필요 시  \n   - **담당팀:** 가맹사업팀  ",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가는 가맹점의 매장 청결 관리는 어떻게 진행하나요?",
+                    "ANSWER": "매장 청결 관리는 담당자가 매장을 방문하여 청결도를 확인한 후, 관리표를 작성하고 가맹점사업자의 확인 및 서명을 받아 완료됩니다."
+                },
+                {
+                    "QUESTION": "가맹본부는 친절도에 대한 관리를 어떤 절차로 진행하나요?",
+                    "ANSWER": "친절도 관리는 담당자가 매장을 암행 방문하여 주문 후 친절도를 확인하고, 관리표를 작성하여 완료합니다."
+                },
+                {
+                    "QUESTION": "회계처리와 관련하여 옥면가는 어떤 지침을 따르나요?",
+                    "ANSWER": "회계처리는 담당자가 매장을 방문하여 회계 및 재고, 상품관리를 확인한 후, 가맹본부 지침사항에 따라 관리표를 작성하고 가맹점사업자의 확인 및 서명을 받아 완료합니다."
+                },
+                {
+                    "QUESTION": "옥면가에서 매장 관리 및 감독은 어느 팀이 담당하나요?",
+                    "ANSWER": "매장 관리 및 감독은 가맹사업팀이 담당합니다."
+                },
+                {
+                    "QUESTION": "가맹점의 청결도 및 친절도 확인은 얼마나 자주 이루어지나요?",
+                    "ANSWER": "청결도 및 친절도 확인은 필요 시 진행됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440179778935750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "509017501",
+            "KORN_ATTRB_NM": "1) 가맹본부와 가맹점사업자의 비용 분담 기준",
+            "UP_ATTRB_MNNO": "509007501",
+            "KORN_UP_ATRB_NM": "9. 광고 및 판촉 활동"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 1) 가맹본부와 가맹점사업자의 비용 분담 기준\n당사는 [옥면가]영업표지 이미지 제고 및 매출액 증대를 위한 전국 단위의 광고 및 판촉 활동을 위해 필요한 비용은 당사가 부담하고, 개별적으로 진행하는 지역광고의 경우에는 가맹점사업자가 부담하고 있습니다. 자세한 내용은 다음과 같습니다.<table><tr><td>구분</td><td>광고 성격</td><td>부담비율</td><td>분담 절차</td><td>비고</td></tr><tr><td>당사부담</td><td>가맹점부담</td></tr><tr><td>광고</td><td>상품광고</td><td>50%</td><td>광고비 전체비용 중50%를 전체 가맹점이부담하되, 각 가맹점의부담분은 자신의 총매출액 비율에 따른다.</td><td>광고계획 공고 → 가맹점의광고참여 여부 결정→가맹점 부담액 제시(명세서)</td><td>광고동의 절차를거친 후전체 가맹점 사업자의 50%이상의 동의 시전체 적용</td></tr><tr><td>상품광고+가맹점모집광고</td><td>50%</td></tr><tr><td>가맹점 모집광고</td><td>100%</td><td>없음</td><td>-</td><td>-</td></tr><tr><td>가맹점 개별광고</td><td>없 음</td><td>100%</td></tr><tr><td>개별행사</td><td>기타 지역광고의 경우 가맹점 부담가맹점사업자가 임의 시행</td><td>행사계획 공고 → 가맹점의 판촉참여 여부 결정→가맹점 부담액 제시(명세서)</td><td>-</td></tr><tr><td>판촉행사</td><td>공동판촉활동</td><td>협의</td><td>협의단, 가맹점사업자가 직접판매하는 상품의 할인비용이나 직접 제공하는 경품,기념품,팜플렛,전단,카달로그등 홍보물 등의 비용은 가맹본부와 가맹점사업자가균등하게 분담</td><td>행사계획 공고 →가맹점부담액 제시 →가맹점의 행사 참여 결정 →행사 시행 →종료 후 최종분담금 확정</td><td>판촉행사동의 절차를거친 후전체 가맹점 사업자의 70%이상의 동의 시전체 적용</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)옥면가  \n**브랜드명:** 옥면가  \n\n**비용 분담 기준 요약:**\n\n1. **전국 단위 광고**\n   - 당사가 부담: 광고 및 판촉 활동 비용\n   - 가맹점사업자가 부담: 개별 지역 광고 비용\n\n2. **광고 성격 및 부담비율:**\n   - **상품광고**\n     - 부담비율: 당사 50% / 가맹점 50%\n     - 분담 절차: 광고계획 공고 → 가맹점 참여 여부 결정 → 부담액 제시\n     - 비고: 전체 가맹점 사업자의 50% 이상의 동의 필요\n\n   - **가맹점 모집 광고**\n     - 부담비율: 100% 가맹점 부담\n     - 분담 절차: 없음\n\n   - **개별 광고**\n     - 부담비율: 가맹점 100% 부담\n     - 분담 절차: 없음\n\n   - **기타 지역 광고**\n     - 부담비율: 가맹점 100% 부담\n     - 분담 절차: 행사계획 공고 → 가맹점 참여 결정 → 부담액 제시\n\n   - **공동 판촉활동**\n     - 부담비율: 협의\n     - 분담 절차: 행사계획 공고 → 부담액 제시 → 참여 결정 → 시행 → 최종 분담금 확정\n     - 비고: 전체 가맹점 사업자의 70% 이상의 동의 필요\n\n**비고:** 각 광고 및 행사에 대한 절차 및 동의 비율이 명시되어 있음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n비용 분담 기준:\n- 당사는 전국 광고 및 판촉 활동 비용을 부담하며, 개별 지역 광고는 가맹점이 부담.\n- 광고 성격에 따른 부담 비율:\n  - 상품 광고: 50% (총매출 비율에 따른)\n  - 상품 광고 + 가맹점 모집 광고: 50%\n  - 가맹점 모집 광고: 100%\n  - 개별 광고: 100%\n  \n- 판촉 행사: 공동 판촉 활동은 협의로 비용 분담하며, 가맹점이 직접 판매하는 상품의 할인비용은 균등하게 나눈다.  \n- 판촉 행사는 전체 가맹점 사업자의 동의가 필요하다.  \n\n비용 분담 절차: 광고 및 행사 계획 공고 후, 가맹점의 참여 여부 결정 및 부담액 제시. 동의 절차를 통해 적용됨.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 광고비 부담 기준은 어떻게 되나요?",
+                    "ANSWER": "옥면가는 상품광고와 가맹점 모집 광고에 대해서는 각각 50%를 가맹점이 부담하고, 가맹점 모집 광고는 100% 가맹점이 부담합니다."
+                },
+                {
+                    "QUESTION": "가맹점이 수행하는 지역 광고의 비용 부담은 누가 하나요?",
+                    "ANSWER": "가맹점이 개별적으로 진행하는 지역 광고의 비용은 가맹점사업자가 부담합니다."
+                },
+                {
+                    "QUESTION": "가맹점 모집 광고의 비용 부담 비율은 어떻게 되나요?",
+                    "ANSWER": "가맹점 모집 광고의 경우, 비용은 100% 가맹점이 부담해야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가의 상품광고에 대한 가맹점의 비용 부담 비율은 무엇인가요?",
+                    "ANSWER": "옥면가의 상품광고에 대해서는 가맹점이 전체 광고비의 50%를 부담하며, 각 가맹점의 부담분은 자신의 총매출액 비율에 따라 결정됩니다."
+                },
+                {
+                    "QUESTION": "판촉행사는 어떻게 비용을 분담하나요?",
+                    "ANSWER": "판촉행사의 경우 가맹본부와 가맹점사업자가 공동으로 비용을 분담하며, 모든 참여 가맹점의 70% 이상의 동의를 얻어야 적용됩니다."
+                },
+                {
+                    "QUESTION": "가맹점 개별 광고에는 어떤 비용 분담 규정이 있나요?",
+                    "ANSWER": "가맹점 개별 광고는 전체 비용을 100% 가맹점이 부담하며, 이에 대한 별도의 절차는 없습니다."
+                },
+                {
+                    "QUESTION": "광고비 분담 절차는 어떤 과정을 거치나요?",
+                    "ANSWER": "광고비 분담 절차는 광고 계획 공고, 가맹점의 광고 참여 여부 결정, 가맹점 부담액 제시로 진행되며, 광고에 대한 동의 후 50% 이상의 가맹점 동의가 있어야 전체 적용됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440294126547750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "509027501",
+            "KORN_ATTRB_NM": "2) 가맹점사업자의 독자적 광고ㆍ판촉 활동",
+            "UP_ATTRB_MNNO": "509007501",
+            "KORN_UP_ATRB_NM": "9. 광고 및 판촉 활동"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 2) 가맹점사업자의 독자적 광고ㆍ판촉 활동\n개별 가맹점사업자가 스스로 또는 다른 가맹점사업자와 함께 독자적으로 광고ㆍ판촉 활동을 할 수 있습니다. 이 경우 가맹사업의 일환으로서 브랜드 가치를 유지하여야 하며, 당사가 설정한 요건과 수준에 적합하여야 하며, 가맹점사업자가 지역적으로 시행하는 모든 광고, 선전의 소재와 계획에 대하여 당사의 사전 동의를 받아야 합니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)옥면가\n- **브랜드명**: 옥면가\n- **독자적 광고·판촉 활동**: 개별 가맹점사업자는 독자적으로 광고·판촉 활동 가능, 단 브랜드 가치를 유지하고 당사의 요건에 적합해야 하며, 모든 광고 소재와 계획에 대해 사전 동의 필요.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가, 브랜드명: 옥면가. 가맹점사업자는 독자적으로 광고 및 판촉 활동을 할 수 있으며, 브랜드 가치를 유지해야 하고, 당사가 설정한 요건을 따라야 합니다. 모든 광고 소재 및 계획은 사전 동의를 받아야 합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "가맹점사업자가 독자적으로 광고나 판촉 활동을 진행할 수 있는가?",
+                    "ANSWER": "네, 개별 가맹점사업자는 스스로 또는 다른 가맹점사업자와 함께 독자적으로 광고 및 판촉 활동을 할 수 있습니다."
+                },
+                {
+                    "QUESTION": "독자적인 광고 활동을 할 때 주의해야 할 점은 무엇인가요?",
+                    "ANSWER": "광고 활동은 브랜드 가치를 유지해야 하며, 설정된 요건과 수준에 적합해야 합니다."
+                },
+                {
+                    "QUESTION": "광고나 판촉 활동을 위해 필요한 절차는 무엇인가요?",
+                    "ANSWER": "가맹점사업자가 지역적으로 시행하는 모든 광고 및 홍보의 소재와 계획에 대해 가맹본부의 사전 동의를 받아야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가 브랜드의 광고 시 가맹점이 지켜야 할 사항은?",
+                    "ANSWER": "옥면가 브랜드를 홍보할 때는 브랜드 가치를 유지하고, 가맹본부에서 설정한 요건을 준수해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 지역 광고를 하려면 어떤 절차를 거쳐야 하나요?",
+                    "ANSWER": "지역 광고를 진행하기 전에는 반드시 가맹본부의 사전 동의를 받아야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440880375777750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "510007501",
+            "KORN_ATTRB_NM": "10. 영업비밀 보호에 관한 사항",
+            "UP_ATTRB_MNNO": "500007501",
+            "KORN_UP_ATRB_NM": "Ⅴ. 영업활동에 대한 조건 및 제한"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 10. 영업비밀 보호에 관한 사항\n당사의 영업비밀이란, 공공연히 알려져 있지 아니하고 독립된 경제적 가치를 가지는 것으로서, 당사의 상당한 노력에 의하여 비밀로 유지된 생산방법, 판매방법, 그 밖에영업활동에 유용한 기술상 또는 경영상의 정보를 말합니다.귀하는 계약체결 및 가맹점 운영상 알게 된 당사의 영업비밀을 계약기간은 물론 계약종료 이후에도 제3자에게 누설해서는 안됩니다. 당사의 허락 없이 교육과 세미나 자료 기타 가맹점 운영과 관련하여 영업비밀이 담긴 관계서류의 내용을 인쇄 또는 복사할수 없습니다.당사의 영업비밀을 무단으로 유출할 경우 부정경쟁방지 및 영업비밀보호에 관한 법률에의해 처벌 받을수 있음을 알려드립니다. 또한, 당사의 영업비밀은 한국특허정보원의 영업비밀 원본 증명 서비스에 가입되어 있습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 영업비밀 보호:\n  - 영업비밀 정의: 공공연히 알려지지 않고 독립된 경제적 가치를 가지며, 비밀로 유지된 생산 및 판매 방법, 경영상의 정보.\n  - 누설 금지: 계약 체결 및 운영 중 알게 된 영업비밀을 계약기간 및 종료 후 제3자에게 누설 금지.\n  - 문서 관리: 허락 없이 영업비밀이 포함된 자료 인쇄 및 복사 금지.\n  - 처벌 안내: 무단 유출 시 부정경쟁방지 및 영업비밀 보호 법률에 따라 처벌 가능.\n  - 증명 서비스: 영업비밀은 한국특허정보원에 등록되어 있음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n영업비밀 보호 관련 사항:  \n당사의 영업비밀은 공공에 알려지지 않고 독립된 경제적 가치를 가진 정보로, 생산 및 판매 방법 등을 포함합니다. 계약 체결 및 운영 중 알게 된 영업비밀은 계약 기간과 종료 후에도 제3자에게 누설해서는 안 되며, 허락 없이 관련 서류를 인쇄하거나 복사할 수 없습니다. 무단 유출 시 법적 처벌을 받을 수 있으며, 영업비밀은 한국특허정보원의 원본 증명 서비스에 가입되어 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "가맹점주가 옥면가의 영업비밀을 누설하면 어떤 법적 책임이 있나요?",
+                    "ANSWER": "옥면가의 영업비밀을 무단으로 유출할 경우, 부정경쟁방지 및 영업비밀보호에 관한 법률에 의해 처벌받을 수 있습니다."
+                },
+                {
+                    "QUESTION": "영업비밀은 언제까지 비밀로 유지해야 하나요?",
+                    "ANSWER": "가맹점주는 계약체결 및 가맹점 운영 중 알게 된 옥면가의 영업비밀을 계약기간은 물론 계약종료 이후에도 제3자에게 누설해서는 안 됩니다."
+                },
+                {
+                    "QUESTION": "옥면가의 영업비밀을 포함한 서류는 어떻게 취급해야 하나요?",
+                    "ANSWER": "옥면가의 허락 없이 교육과 세미나 자료 및 가맹점 운영과 관련된 서류 내용을 인쇄하거나 복사할 수 없습니다."
+                },
+                {
+                    "QUESTION": "옥면가의 영업비밀은 어떤 가치를 갖고 있나요?",
+                    "ANSWER": "옥면가의 영업비밀은 공공연히 알려져 있지 않으며 독립된 경제적 가치를 가지는 정보입니다."
+                },
+                {
+                    "QUESTION": "옥면가의 영업비밀 보호를 위해 어떤 노력을 하고 있나요?",
+                    "ANSWER": "옥면가는 영업비밀이 담긴 정보에 대해 상당한 노력을 기울여 비밀을 유지하고 있으며, 한국특허정보원의 영업비밀 원본 증명 서비스에 가입되어 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440614360599750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "601007501",
+            "KORN_ATTRB_NM": "1. 상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약",
+            "UP_ATTRB_MNNO": "600007501",
+            "KORN_UP_ATRB_NM": "Ⅵ. 가맹사업의 영업 개시에 관한 상세한 절차와 소요기간"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 1. 상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약\n귀하가 당사와 가맹계약을 체결할 경우 상담일로부터 실제 가맹점이 개설될 때까지 걸리는 시간과 필요한 절차는 다음과 같습니다.<table><tr><td>구분</td><td>내용</td><td>소요기간</td><td>소요비용</td></tr><tr><td>합계</td><td>-</td><td>50일 내외</td><td>[12p∼17p 참조]</td></tr><tr><td>가맹희망자 문의</td><td>- 전화문의 접수- 희망지역 확인, 담당자 배정</td><td>D-47</td></tr><tr><td>사업 설명ㆍ상담</td><td>- 정보공개서 및 가맹계약서 제공- 인근 10개 가맹점 현황문서 제공- 가맹희망자 상담</td><td>D-46</td></tr><tr><td>점포개발 및상권분석 실시</td><td>- 입지선정- 입지 주위 점포 정보 제공</td><td>필요시 실시</td></tr><tr><td>최종 협의</td><td>- 개설 승인</td><td>D-34～31</td></tr><tr><td>가맹계약 체결</td><td>- 계약 체결</td><td>D-30</td></tr><tr><td>가맹금 예치</td><td>- 중소기업은행에 가맹금 예치</td><td>D-29(1일)</td></tr><tr><td>점포실측/설계</td><td>- 투자비 산출</td><td>D-27～25(3일)</td></tr><tr><td>실내외 공사착수</td><td>- 도면협의 및 공사일정 확인</td><td>D-24(1일)</td></tr><tr><td>인테리어 공사</td><td>- 공사 실시</td><td>D-24～5(20일)</td></tr><tr><td>교육 실시</td><td>- 점포운영교육 실시</td><td>D-7～4(3일)</td></tr><tr><td>점포 개설</td><td>- 가맹점 개설 및 영업시작</td><td>D-day</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)옥면가  \n**브랜드명:** 옥면가  \n\n**가맹점 개설 절차 요약:**\n- **소요기간:** 약 50일 내외\n- **절차 및 일정:**\n  1. **가맹희망자 문의:** D-47 (전화문의 접수 및 담당자 배정)\n  2. **사업 설명ㆍ상담:** D-46 (정보공개서 및 가맹계약서 제공)\n  3. **점포개발 및 상권분석:** 필요시 실시\n  4. **최종 협의:** D-34～31 (개설 승인)\n  5. **가맹계약 체결:** D-30\n  6. **가맹금 예치:** D-29 (중소기업은행에 예치)\n  7. **점포실측/설계:** D-27～25 (투자비 산출)\n  8. **실내외 공사 착수:** D-24 (도면 협의 및 일정 확인)\n  9. **인테리어 공사:** D-24～5 (20일 소요)\n  10. **교육 실시:** D-7～4 (운영 교육)\n  11. **점포 개설:** D-day (영업 시작) \n\n**비용:** [12p∼17p 참조]",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n가맹점 개설 절차 요약:  \n- **소요기간**: 약 50일 내외  \n- **소요비용**: 비용 관련 정보는 [12p∼17p] 참조  \n\n1. **가맹희망자 문의**: 전화문의 접수, 희망지역 확인 (D-47)  \n2. **사업 설명ㆍ상담**: 정보공개서 및 가맹계약서 제공, 인근 가맹점 현황 문서 제공 (D-46)  \n3. **점포개발 및 상권분석**: 입지 선정 및 주변 점포 정보 제공 (필요시)  \n4. **최종 협의**: 개설 승인 (D-34~31)  \n5. **가맹계약 체결**: 계약 체결 (D-30)  \n6. **가맹금 예치**: 중소기업은행에 예치 (D-29)  \n7. **점포 실측/설계**: 투자비 산출 (D-27~25)  \n8. **실내외 공사 착수**: 도면 협의 및 일정 확인 (D-24)  \n9. **인테리어 공사**: 공사 실시 (D-24~5)  \n10. **교육 실시**: 점포 운영 교육 (D-7~4)  \n11. **점포 개설**: 가맹점 개설 및 영업 시작 (D-day)  ",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가와 가맹계약을 체결하면 가맹점 개설까지 소요되는 총 기간은 얼마인가요?",
+                    "ANSWER": "가맹계약을 체결하면 가맹점 개설까지 약 50일 내외가 소요됩니다."
+                },
+                {
+                    "QUESTION": "가맹희망자가 옥면가에 문의하면 어떤 절차가 진행되나요?",
+                    "ANSWER": "가맹희망자가 문의하면 전화문의 접수와 함께 희망지역 확인 및 담당자가 배정됩니다. 이 과정은 D-47일에 진행됩니다."
+                },
+                {
+                    "QUESTION": "옥면가의 가맹점 개설을 위한 최종 협의는 언제 이루어지나요?",
+                    "ANSWER": "최종 협의는 D-34일부터 D-31일 사이에 이루어져 개설 승인이 이루어집니다."
+                },
+                {
+                    "QUESTION": "가맹계약 체결 후에는 어떤 절차가 진행되나요?",
+                    "ANSWER": "가맹계약 체결 후에는 D-29일에 가맹금을 중소기업은행에 예치하게 됩니다."
+                },
+                {
+                    "QUESTION": "옥면가의 점포 인테리어 공사는 언제부터 언제까지 진행되나요?",
+                    "ANSWER": "점포 인테리어 공사는 D-24일부터 D-5일 사이에 총 20일 동안 진행됩니다."
+                },
+                {
+                    "QUESTION": "점포 실측과 설계는 언제 실시되나요?",
+                    "ANSWER": "점포 실측 및 설계는 D-27일부터 D-25일 사이에 3일 동안 실시됩니다."
+                },
+                {
+                    "QUESTION": "옥면가의 가맹점 교육은 언제 이루어지나요?",
+                    "ANSWER": "가맹점 교육은 D-7일부터 D-4일 사이에 3일 동안 실시됩니다."
+                },
+                {
+                    "QUESTION": "가맹점 개설과 영업 시작은 어떤 시점에서 이루어지나요?",
+                    "ANSWER": "가맹점 개설 및 영업 시작은 D-day에 이루어집니다."
+                },
+                {
+                    "QUESTION": "가맹본부인 (주)옥면가의 정보공개서와 계약서는 언제 제공되나요?",
+                    "ANSWER": "가맹본부인 (주)옥면가는 사업 설명 단계에서 D-46일에 정보공개서 및 가맹계약서를 제공합니다."
+                },
+                {
+                    "QUESTION": "점포개발 및 상권 분석은 언제 실시되나요?",
+                    "ANSWER": "점포개발 및 상권 분석은 필요시 실시되며, 특정 날짜가 정해져 있지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440614360856750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "601007501",
+            "KORN_ATTRB_NM": "1. 상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약",
+            "UP_ATTRB_MNNO": "600007501",
+            "KORN_UP_ATRB_NM": "Ⅵ. 가맹사업의 영업 개시에 관한 상세한 절차와 소요기간"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 1. 상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약\n위 표에 따른 소요기간은 평균적인 가맹점을 기준으로 작성된 것으로, 협의 과정에서 시장상황 등에 따라 그 기간이 늘어날 수 있습니다.귀하는 당사와 계약을 체결하는 과정에서 변호사나 가맹거래사의 자문을 받을 수 있습니다. 자문이 필요하신 경우는 당사에 소속되어 있거나 업무 연관성이 있는 변호사나 가맹거래사를 제외하고 귀하께서 선택하신 변호사나 가맹거래사에게 정보공개서 및 가맹계약서 등에 대하여 자문을 받으시기 바라며, 특히 정보공개서에 대하여 자문을 받으신 경우에는 계약체결일이 정보공개서 제공 14일 후에서 7일 후로 단축됩니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n\n1. 상담 및 협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약:\n   - 소요 기간은 평균적인 가맹점을 기준으로 하며, 시장 상황에 따라 늘어날 수 있음.\n   - 계약 체결 시 변호사나 가맹거래사의 자문 가능.\n   - 자문을 받을 변호사나 가맹거래사는 당사 소속이 아닌 자 선택 권장.\n   - 정보공개서 자문 시 계약체결일 단축 가능 (정보공개서 제공 후 14일에서 7일로).",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n1. 상담 및 협의 과정에서 가맹점 영업 시작까지의 절차 요약  \n- 소요기간은 평균적인 가맹점을 기준으로 하며, 협의 과정에서 시장상황에 따라 변동 가능.  \n- 계약 체결 시 변호사나 가맹거래사의 자문을 받을 수 있으며, 자문을 원할 경우 당사 외의 전문가에게 정보공개서 및 가맹계약서 자문을 받는 것이 권장됨. 정보공개서 자문 후 계약체결일이 14일에서 7일로 단축됨.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가와 가맹계약을 체결하는 데 평균적으로 소요되는 기간은 얼마인가요?",
+                    "ANSWER": "가맹점 영업을 시작하기까지의 소요 기간은 평균적인 가맹점을 기준으로 작성되었으며, 시장 상황 등에 따라 달라질 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹계약 체결 과정에서 변호사나 가맹거래사의 자문을 받아야 하는 이유는 무엇인가요?",
+                    "ANSWER": "가맹계약 체결 과정에서 변호사나 가맹거래사의 자문은 중요한 법적 사항을 이해하고 계약의 내용을 명확히 하는 데 도움이 됩니다."
+                },
+                {
+                    "QUESTION": "정보공개서에 대한 자문을 받으면 계약체결일이 어떻게 변하나요?",
+                    "ANSWER": "정보공개서에 대한 자문을 받으면 계약체결일이 정보공개서 제공 14일 후에서 7일 후로 단축됩니다."
+                },
+                {
+                    "QUESTION": "옥면가의 가맹점 영업 시작까지 어떤 절차가 필요한가요?",
+                    "ANSWER": "상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 여러 절차가 필요하며, 소요 기간은 평균적인 가맹점을 기준으로 작성되었습니다."
+                },
+                {
+                    "QUESTION": "자문을 받을 수 있는 변호사나 가맹거래사는 어떤 기준으로 선택해야 하나요?",
+                    "ANSWER": "자문을 받을 변호사나 가맹거래사는 가맹본부에 소속되지 않거나 업무 연관성이 없는 전문가를 선정하는 것이 좋습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440968470362750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "602007501",
+            "KORN_ATTRB_NM": "2. 가맹본부와의 분쟁 해결 절차 ",
+            "UP_ATTRB_MNNO": "600007501",
+            "KORN_UP_ATRB_NM": "Ⅵ. 가맹사업의 영업 개시에 관한 상세한 절차와 소요기간"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 2. 가맹본부와의 분쟁 해결 절차 \n가맹계약 당사자는 계약의 해석 또는 계약에 의해 명시되지 아니한 사항에 관하여 다툼이 있을 경우 법적 절차에 이르기 전까지 우선적으로 대화와 협상을 통해 분쟁을 해결하도록 합니다.대화와 협상으로 분쟁이 해결되지 아니할 경우, 가맹사업거래의 공정화에 관한 법률제22조에 따라 한국공정거래조정원의 가맹사업거래분쟁조정협의회(연락처: 1588-1490, 홈페이지: http://www.kofair.or.kr)또는 시ㆍ도의 분쟁조정협의회에조정을 신청하거나다른 법령에 의해설치된 중재기관에 중재를 신청할 수 있습니다.중재를 신청하지 아니한 경우, 법적 분쟁에 관한 소송은 가맹점사업자의 주소지나 점포 소재지를 관할하는 법원에 제기합니다. 단, 당사와 가맹점사업자가 관할법원에 대해 약정할 경우에는 그러하지 아니합니다.",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n2. 가맹본부와의 분쟁 해결 절차:\n- 가맹계약 당사자는 법적 절차 전에 대화와 협상을 통해 분쟁 해결을 우선 시도.\n- 대화와 협상으로 해결되지 않을 경우:\n  - 한국공정거래조정원에 조정 신청 가능 (연락처: 1588-1490, 홈페이지: http://www.kofair.or.kr).\n  - 시ㆍ도의 분쟁조정협의회 또는 중재기관에 중재 신청 가능.\n- 중재를 신청하지 않을 경우, 소송은 가맹점사업자의 주소지 또는 점포 소재지를 관할하는 법원에 제기.\n- 당사자 간 약정 시 관할법원 변경 가능.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가, 브랜드명: 옥면가\n\n**분쟁 해결 절차:**\n1. 계약 해석이나 명시되지 않은 사항에 대한 다툼 발생 시, 법적 절차 전 대화 및 협상으로 해결.\n2. 협상으로 해결되지 않을 경우, 한국공정거래조정원의 가맹사업거래분쟁조정협의회(연락처: 1588-1490) 또는 시ㆍ도의 분쟁조정협의회에 조정을 신청.\n3. 중재를 원할 경우, 관련 중재기관에 신청 가능.\n4. 중재 신청을 하지 않으면 법적 소송은 가맹점사업자의 주소지나 점포 소재지 관할 법원에 제기.\n5. 당사와 가맹점사업자가 관할법원에 대해 약정할 경우는 예외.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가와의 분쟁 시 우선적으로 어떤 절차를 따르나요?",
+                    "ANSWER": "가맹계약 당사자는 계약의 해석 또는 계약에 의해 명시되지 않은 사항에 대한 다툼이 있을 경우, 법적 절차에 이르기 전까지 대화와 협상을 통해 분쟁을 해결해야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가의 가맹점주가 분쟁 해결을 위해 신청할 수 있는 기관은 어디인가요?",
+                    "ANSWER": "가맹사업거래의 공정화에 관한 법률 제22조에 따라 한국공정거래조정원이나 시ㆍ도의 분쟁조정협의회에 조정을 신청할 수 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가 가맹점에서의 법적 분쟁 발생 시, 소송은 어디에 제기해야 하나요?",
+                    "ANSWER": "법적 분쟁에 관한 소송은 가맹점사업자의 주소지나 점포 소재지를 관할하는 법원에 제기해야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가와의 분쟁 시 중재를 신청할 수 있는 방법은 무엇인가요?",
+                    "ANSWER": "대화와 협상으로 분쟁이 해결되지 않을 경우, 다른 법령에 의해 설치된 중재기관에 중재를 신청할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 관할법원에 대해 약정한 경우, 어떤 절차가 적용되나요?",
+                    "ANSWER": "가맹점사업자가 관할법원에 대해 약정한 경우에는 해당 약정에 따라 소송이 제기됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440248233823750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "702007501",
+            "KORN_ATTRB_NM": "2. 판매촉진행사 시 인력지원 등 내역",
+            "UP_ATTRB_MNNO": "700007501",
+            "KORN_UP_ATRB_NM": "Ⅶ. 가맹본부의 경영 및 영업활동 등에 대한 지원"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 2. 판매촉진행사 시 인력지원 등 내역\n당사는 가맹점을 개설 또는 운영함에 있어 별도의 지원제도를 운영하고 있지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 판매촉진행사 인력지원: 별도의 지원제도 없음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n판매촉진행사 시 인력지원 등 내역: 가맹점 개설 및 운영에 대한 별도의 지원제도가 없습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부인 (주)옥면가는 판매촉진행사에 대한 인력 지원을 어떤 방식으로 제공하나요?",
+                    "ANSWER": "(주)옥면가는 가맹점을 개설 또는 운영함에 있어 별도의 지원제도를 운영하고 있지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440452634679750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "703007501",
+            "KORN_ATTRB_NM": "3. 경영활동 자문",
+            "UP_ATTRB_MNNO": "700007501",
+            "KORN_UP_ATRB_NM": "Ⅶ. 가맹본부의 경영 및 영업활동 등에 대한 지원"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 3. 경영활동 자문\n<table><tr><td>구분</td><td>대상 및 내용</td><td>절차</td><td>비용부담</td><td>비고</td></tr><tr><td>당사요청 시</td><td>상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도</td><td>당사는 경영지도계획서(경영지도내용, 기간,경영진단 및 지도관계자의 성명, 소요비용 등포함)를 가맹점사업자에게 제시 →경영지도 후 30일 이내에 당사 담당자가가맹점사업자에게 직접 방문하여 경영지도결과 및 경영개선방안을 서면으로 제시하고이를 설명</td><td>당사부담</td><td>(문의)가맹사업팀070)8822-5773</td></tr><tr><td>가맹점사업자요청 시</td><td>상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도</td><td>가맹점사업자 경영지도 요청 → 당사는경영지도계획서(경영지도내용, 기간,경영진단 및 지도관계자의 성명, 소요비용 등포함)를 가맹점사업자에게 제시 →경영지도 후 30일 이내에 당사 담당자가가맹점사업자에게 직접 방문하여 경영지도결과 및 경영개선방안을 서면으로 제시하고이를 설명</td><td>가맹점부담</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)옥면가\n- **브랜드명**: 옥면가\n\n**경영활동 자문 내용**:\n1. **당사 요청 시**:\n   - **대상 및 내용**: 상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도\n   - **절차**: 경영지도계획서 제시 후 30일 이내에 방문하여 결과 및 개선방안 설명\n   - **비용부담**: 당사 부담\n   - **비고**: 문의 전화 070)8822-5773\n\n2. **가맹점사업자 요청 시**:\n   - **대상 및 내용**: 상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도\n   - **절차**: 경영지도 요청 후 경영지도계획서 제시 및 30일 이내에 방문하여 결과 및 개선방안 설명\n   - **비용부담**: 가맹점 부담",
+            "ABSTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)옥면가  \n**브랜드명:** 옥면가  \n\n### 경영활동 자문\n- **요청 시:**  \n  - **대상 및 내용:** 상품, 설비, 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도  \n  - **절차:** 경영지도계획서를 제시하고, 30일 이내에 경영지도 결과 및 개선방안을 서면으로 전달  \n  - **비용부담:** 당사 부담  \n  - **비고:** 문의는 가맹사업팀(070) 8822-5773  \n\n- **가맹점사업자 요청 시:**  \n  - **대상 및 내용:** 상품, 설비, 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도  \n  - **절차:** 경영지도 요청 후 계획서를 제시하고, 30일 이내에 결과 및 개선방안을 서면으로 전달  \n  - **비용부담:** 가맹점 부담  ",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부에 요청할 경우 경영지도는 어떤 내용을 포함하나요?",
+                    "ANSWER": "가맹본부에 요청할 경우, 경영지도는 상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 내용을 포함합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 경영지도를 요청하는 경우 비용은 어떻게 되나요?",
+                    "ANSWER": "가맹점사업자가 경영지도를 요청할 경우, 해당 경영지도는 가맹점사업자가 부담해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 경영지도를 실시할 때의 절차는 무엇인가요?",
+                    "ANSWER": "가맹본부가 경영지도를 실시할 때는 경영지도계획서를 가맹점사업자에게 제시한 후, 경영지도 후 30일 이내에 담당자가 직접 방문하여 경영지도 결과 및 경영개선방안을 서면으로 제시하고 이를 설명합니다."
+                },
+                {
+                    "QUESTION": "가맹본부의 경영지도를 받기 위해서는 어떤 요청 절차가 필요한가요?",
+                    "ANSWER": "가맹본부의 경영지도를 받기 위해서는 가맹점사업자가 경영지도 요청을 한 후, 가맹본부가 경영지도계획서를 제시하고 그에 따라 진행됩니다."
+                },
+                {
+                    "QUESTION": "가맹본부의 경영지도 요청은 언제든지 가능하나요?",
+                    "ANSWER": "가맹본부에 요청 시 경영지도는 언제든지 가능하며, 다양한 운영 전반에 대한 지도를 받을 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440214384115750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "704007501",
+            "KORN_ATTRB_NM": "4. 신용 제공 등 내역",
+            "UP_ATTRB_MNNO": "700007501",
+            "KORN_UP_ATRB_NM": "Ⅶ. 가맹본부의 경영 및 영업활동 등에 대한 지원"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 4. 신용 제공 등 내역\n당사는 [옥면가] 가맹점사업자를 위하여 신용 제공 또는 알선을 하고 있지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 신용 제공 내역: 당사는 옥면가 가맹점사업자를 위해 신용 제공 또는 알선을 하고 있지 않음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n신용 제공 내역: 당사는 가맹점사업자에게 신용 제공 또는 알선을 하지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가 가맹본부는 가맹점사업자에게 어떤 신용 제공을 하나요?",
+                    "ANSWER": "옥면가 가맹본부는 가맹점사업자를 위해 신용 제공 또는 알선을 하지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 신용 제공을 받을 수 있는 방법이 있나요?",
+                    "ANSWER": "옥면가 가맹본부에서는 신용 제공이나 알선을 지원하지 않으므로, 가맹점사업자는 별도의 방법을 찾아야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440526356510750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "801007501",
+            "KORN_ATTRB_NM": "1. 교육ㆍ훈련의 주요내용",
+            "UP_ATTRB_MNNO": "800007501",
+            "KORN_UP_ATRB_NM": "Ⅷ. 교육ㆍ훈련에 대한 설명"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 1. 교육ㆍ훈련의 주요내용\n<table><tr><td>구분</td><td>주요내용</td><td>교육방식</td><td>기한</td><td>비고</td></tr><tr><td>신규 교육</td><td>관리 운영에 관한 교육 실시,문제 발생시 수시교육 안내</td><td>실습교육강의</td><td>가맹계약 체결 후 1개월 이내</td><td>필수 교육</td></tr><tr><td>양수 교육</td><td>상 동</td><td>상 동</td><td>상 동</td><td>상 동</td></tr><tr><td>보수 교육</td><td>가맹점 운영 정책의 변경, 가맹점 영업 활성화,가맹점 고객서비스 개선, 가맹점 의견수렴 등</td><td>실습교육</td><td>필요 시</td><td>필요 시</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명:** (주)옥면가\n- **브랜드명:** 옥면가\n\n### 교육 및 훈련 내용\n\n1. **신규 교육**\n   - **주요내용:** 관리 운영 교육 실시, 문제 발생 시 수시 교육 안내\n   - **교육방식:** 실습 교육 강의\n   - **기한:** 가맹 계약 체결 후 1개월 이내\n   - **비고:** 필수 교육\n\n2. **양수 교육**\n   - **주요내용:** 동일\n   - **교육방식:** 동일\n   - **기한:** 동일\n   - **비고:** 동일\n\n3. **보수 교육**\n   - **주요내용:** 가맹점 운영 정책 변경, 영업 활성화, 고객 서비스 개선, 의견 수렴 등\n   - **교육방식:** 실습 교육\n   - **기한:** 필요 시\n   - **비고:** 필요 시",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n교육 및 훈련 내용:\n1. **신규 교육**: 관리 운영 교육 실시, 문제 발생 시 수시 교육 안내  \n   - **교육 방식**: 실습교육강의  \n   - **기한**: 가맹계약 체결 후 1개월 이내  \n   - **비고**: 필수 교육  \n\n2. **양수 교육**: 신규 교육과 동일  \n\n3. **보수 교육**: 가맹점 운영 정책 변경, 영업 활성화, 고객 서비스 개선, 의견 수렴 등  \n   - **교육 방식**: 실습교육  \n   - **기한**: 필요 시  \n   - **비고**: 필요 시  ",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 신규 교육 내용은 무엇인가요?",
+                    "ANSWER": "옥면가의 신규 교육은 관리 운영에 관한 교육을 실시하며, 문제 발생 시 수시교육 안내가 포함됩니다."
+                },
+                {
+                    "QUESTION": "옥면가의 신규 교육은 언제까지 이수해야 하나요?",
+                    "ANSWER": "신규 교육은 가맹계약 체결 후 1개월 이내에 이수해야 합니다."
+                },
+                {
+                    "QUESTION": "양수 교육의 주요 내용은 무엇인가요?",
+                    "ANSWER": "양수 교육은 신규 교육과 동일한 내용으로 관리 운영에 관한 교육이 포함됩니다."
+                },
+                {
+                    "QUESTION": "가맹점에서 보수 교육이 필요한 경우 어떤 내용을 다루나요?",
+                    "ANSWER": "보수 교육은 가맹점 운영 정책의 변경, 가맹점 영업 활성화, 고객 서비스 개선, 가맹점 의견 수렴 등을 다룹니다."
+                },
+                {
+                    "QUESTION": "옥면가의 교육 방식은 어떤 식으로 진행되나요?",
+                    "ANSWER": "옥면가는 실습교육과 강의를 통해 교육을 진행합니다."
+                },
+                {
+                    "QUESTION": "보수 교육은 언제 실시되나요?",
+                    "ANSWER": "보수 교육은 필요한 경우에 실시됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440249342228750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "803007501",
+            "KORN_ATTRB_NM": "3. 교육ㆍ훈련의 주체 ",
+            "UP_ATTRB_MNNO": "800007501",
+            "KORN_UP_ATRB_NM": "Ⅷ. 교육ㆍ훈련에 대한 설명"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 3. 교육ㆍ훈련의 주체 \n교육ㆍ훈련은 가맹계약을 맺는 당사자가 직접 받아야 합니다. 다만, 귀하가 직접 받기 어려운 경우에는 당사의 사전 승인을 받아 가맹점을 함께 운영하는 사람으로 하여금 대신하게 할 수 있습니다. 또한, 가맹계약 당사자가 원하여 당사자 외 직원도 같이 교육을 받게 되면 인원 추가에 따라 비용도 추가됩니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 교육ㆍ훈련 주체: 가맹계약 당사자가 직접 교육받음, 대신할 경우 사전 승인 필요\n- 추가 교육 가능성: 당사자 외 직원도 교육 가능, 인원 추가 시 비용 증가.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n교육 및 훈련은 가맹계약 당사자가 직접 받아야 하며, 불가능할 경우 사전 승인을 통해 가맹점 운영자가 대신 받을 수 있습니다. 추가 인원 교육 시 비용이 증가합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가 가맹점주는 교육ㆍ훈련을 누구에게 받아야 하나요?",
+                    "ANSWER": "교육ㆍ훈련은 가맹계약을 맺는 가맹점주가 직접 받아야 합니다."
+                },
+                {
+                    "QUESTION": "옥면가 가맹점주가 교육을 직접 받기 어려운 경우 대처 방법은 무엇인가요?",
+                    "ANSWER": "직접 받기 어려운 경우에는 사전 승인을 받아 가맹점을 함께 운영하는 사람으로 하여금 대신 교육을 받을 수 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가의 가맹계약 당사자가 원할 경우, 어떤 추가 사항이 있나요?",
+                    "ANSWER": "가맹계약 당사자가 원하여 당사자 외 직원도 함께 교육을 받게 되면 인원 추가에 따라 비용이 추가됩니다."
+                },
+                {
+                    "QUESTION": "옥면가의 교육ㆍ훈련에서 추가 비용이 발생하는 경우는 어떤 상황인가요?",
+                    "ANSWER": "추가 비용은 가맹계약 당사자가 아닌 직원이 교육을 받을 경우 발생합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440710428424750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "804007501",
+            "KORN_ATTRB_NM": "4. 교육ㆍ훈련 불참시에 받을 수 있는 불이익",
+            "UP_ATTRB_MNNO": "800007501",
+            "KORN_UP_ATRB_NM": "Ⅷ. 교육ㆍ훈련에 대한 설명"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 브랜드: 옥면가\n 목차: 4. 교육ㆍ훈련 불참시에 받을 수 있는 불이익\n귀하가 개점 전 교육을 이수하지 않을 경우 개점을 할 수 없으며, 점포의 관리자로 근무를 할 수 없습니다. 또한, 개점 이후 당사가 정하는 필수교육을 이수하지 않을 경우 계약 기간 만료 후 갱신 거절될 수 있고, 물품공급 중단 및 가맹계약 해지 사유가 될 수 있으니 필히 이수하시기 바랍니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n\n- 교육ㆍ훈련 불참 시 불이익:\n  - 개점 전 교육 미이수: 개점 불가, 점포 관리자로 근무 불가\n  - 개점 이후 필수교육 미이수: \n    - 계약 갱신 거절 가능\n    - 물품 공급 중단\n    - 가맹계약 해지 사유 발생\n  - 필히 교육 이수 필요",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가, 브랜드명: 옥면가. 교육 및 훈련 불참 시 개점 불가, 관리자 근무 불가능. 개점 후 필수 교육 미이수 시 계약 갱신 거절, 물품 공급 중단 및 가맹계약 해지 가능성이 있으니 반드시 이수해야 함.",
+            "QAs": [
+                {
+                    "QUESTION": "옥면가의 개점 전 교육을 이수하지 않으면 어떤 불이익이 있나요?",
+                    "ANSWER": "개점 전 교육을 이수하지 않을 경우 개점이 불가능하며, 점포 관리자로 근무할 수 없습니다."
+                },
+                {
+                    "QUESTION": "정해진 필수 교육을 이수하지 않을 경우 어떤 문제가 발생하나요?",
+                    "ANSWER": "필수 교육을 이수하지 않으면 계약 기간 만료 후 갱신이 거부될 수 있으며, 물품 공급이 중단되거나 가맹 계약이 해지될 수 있습니다."
+                },
+                {
+                    "QUESTION": "옥면가의 교육ㆍ훈련 불참 시 가맹점주에게 어떤 결과가 있을까요?",
+                    "ANSWER": "교육에 불참하면 가맹점주로서 개점이 불가능하고, 추후 필수 교육 불참 시 계약 갱신 거부 및 물품 공급 중단과 같은 불이익이 있을 수 있습니다."
+                },
+                {
+                    "QUESTION": "개점 이후 교육을 이수하지 않으면 어떤 조치가 취해지나요?",
+                    "ANSWER": "개점 이후 필수 교육을 이수하지 않으면 계약 갱신이 거부되고, 물품 공급이 중단되거나 가맹 계약 해지 사유로 작용할 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440004879082750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "901007501",
+            "KORN_ATTRB_NM": "1. 바로 전 사업연도 말 기준 직영점의 명칭 및 소재지",
+            "UP_ATTRB_MNNO": "900007501",
+            "KORN_UP_ATRB_NM": "Ⅸ. 가맹본부의 직영점① 운영 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 1. 바로 전 사업연도 말 기준 직영점의 명칭 및 소재지\n<table><tr><td attr=\"DMS_INFO_0001\" attr_type=\"header\">연번</td><td attr=\"DMS_INFO_0002\" attr_type=\"header\">지역</td><td attr=\"DMS_INFO_0003\" attr_type=\"header\">명칭</td><td attr=\"DMS_INFO_0004\" attr_type=\"header\">소재지</td></tr><tr><td attr=\"DMS_INFO_0001\" id=\"TBL05900000\">1</td><td attr=\"DMS_INFO_0002\" id=\"TBL05900001\">서울</td><td attr=\"DMS_INFO_0003\" id=\"TBL05900002\">주식회사 옥면가 논현지점</td><td attr=\"DMS_INFO_0004\" id=\"TBL05900003\">서울특별시 *** ****** *** 지하1층</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 직영점 정보:\n  - 지역: 서울\n  - 명칭: 주식회사 옥면가 논현지점\n  - 소재지: 서울특별시 강남구 ****** *** 지하1층",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n\n직영점 정보:  \n- 지역: 서울  \n- 명칭: 주식회사 옥면가 논현지점  \n- 소재지: 서울특별시 강남구 ****** *** 지하1층  ",
+            "QAs": [
+                {
+                    "QUESTION": "주식회사 옥면가의 직영점이 서울에 위치하고 있나요?",
+                    "ANSWER": "네, 주식회사 옥면가의 직영점인 논현지점이 서울특별시 강남구 ****** *** 지하1층에 위치하고 있습니다."
+                },
+                {
+                    "QUESTION": "논현지점의 주소는 어디인가요?",
+                    "ANSWER": "주식회사 옥면가의 논현지점 주소는 서울특별시 강남구 ****** *** 지하1층입니다."
+                },
+                {
+                    "QUESTION": "주식회사 옥면가의 서울 지역 직영점 명칭은 무엇인가요?",
+                    "ANSWER": "주식회사 옥면가의 서울 지역 직영점 명칭은 주식회사 옥면가 논현지점입니다."
+                },
+                {
+                    "QUESTION": "서울 지역에 주식회사 옥면가의 직영점이 몇 개인가요?",
+                    "ANSWER": "현재 서울 지역에는 주식회사 옥면가의 직영점으로 논현지점이 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207440333614168750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)옥면가",
+            "BRAND_NM": "옥면가",
+            "JNG_IFRMP_SN": 2074407501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "902007501",
+            "KORN_ATTRB_NM": "2. 바로 전 사업연도 말 기준 전체 직영점의 평균 운영기간",
+            "UP_ATTRB_MNNO": "900007501",
+            "KORN_UP_ATRB_NM": "Ⅸ. 가맹본부의 직영점① 운영 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)옥면가\n 목차: 2. 바로 전 사업연도 말 기준 전체 직영점의 평균 운영기간\n<table><tr><td>2023년 직영점의 평균 운영 기간</td><td>비고</td></tr><tr><td>3년 5개월</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)옥면가\n- 브랜드명: 옥면가\n- 2023년 직영점의 평균 운영 기간: 3년 5개월",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)옥면가  \n브랜드명: 옥면가  \n2023년 직영점의 평균 운영 기간: 3년 5개월  ",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부인 (주)옥면가의 2023년 직영점의 평균 운영 기간은 얼마인가요?",
+                    "ANSWER": "2023년 직영점의 평균 운영 기간은 3년 5개월입니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 운영하는 직영점의 평균 운영 기간이 3년 5개월인 이유는 무엇인가요?",
+                    "ANSWER": "직영점의 평균 운영 기간인 3년 5개월은 가맹본부인 (주)옥면가의 안정적인 운영과 관리로 인해 유지되고 있습니다."
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,2706 @@
+[
+    {
+        "LRN_DTIN_MNNO": "207402084612426750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "101007501",
+            "KORN_ATTRB_NM": "1. 가맹본부의 일반 정보",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 1. 가맹본부의 일반 정보\n당사의 일반 정보는 다음과 같습니다.<table><tr><td>상호</td><td>영업표지</td><td>주소</td></tr><tr><td>㈜제이피</td><td>버밀당베이커리 외 1개</td><td>경기도 *** *** **** **** ****</td></tr><tr><td>법인 설립등기일</td><td>사업자등록일</td><td>대표자</td><td>대표전화번호</td><td>대표팩스번호</td></tr><tr><td>2021.07.15.</td><td>2021.07.26.</td><td>정동주, 박한수</td><td>010)****-****</td><td>-</td></tr><tr><td>법인등록번호</td><td>110111-7959153</td><td>사업자등록번호</td><td>542-81-02221</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: ㈜제이피에프엔비\n- **브랜드명**: 버밀당베이커리\n\n**일반 정보**:\n- 상호: ㈜제이피\n- 영업표지: 버밀당베이커리 외 1개\n- 주소: 경기도 수원시 *** **** **** ****\n- 법인 설립등기일: 2021.07.15.\n- 사업자등록일: 2021.07.26.\n- 대표자: 정동주, 박한수\n- 대표전화번호: 010-****-****\n- 법인등록번호: 110111-7959153\n- 사업자등록번호: 542-81-02221",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n**가맹본부 일반 정보:**\n- **상호:** ㈜제이피\n- **영업표지:** 버밀당베이커리 외 1개\n- **주소:** 경기도 수원시 *** **** **** ****\n- **법인 설립등기일:** 2021.07.15.\n- **사업자등록일:** 2021.07.26.\n- **대표자:** 정동주, 박한수\n- **대표전화번호:** 010-****-****\n- **법인등록번호:** 110111-7959153\n- **사업자등록번호:** 542-81-02221",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 상호와 영업표지는 무엇인가요?",
+                    "ANSWER": "㈜제이피의 상호를 가지고 있으며, 영업표지는 버밀당베이커리 외 1개입니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 주소는 어디인가요?",
+                    "ANSWER": "경기도 수원시 *** **** **** ****에 위치해 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 법인 설립 등기일과 사업자 등록일은 언제인가요?",
+                    "ANSWER": "법인 설립 등기일은 2021년 7월 15일이며, 사업자 등록일은 2021년 7월 26일입니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 대표자는 누구인가요?",
+                    "ANSWER": "대표자는 정동주와 박한수입니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 대표 전화번호는 무엇인가요?",
+                    "ANSWER": "대표 전화번호는 010)****-**** 입니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 법인 등록번호와 사업자 등록번호는 어떻게 되나요?",
+                    "ANSWER": "법인 등록번호는 110111-7959153이며, 사업자 등록번호는 542-81-02221입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402097479720750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "103007501",
+            "KORN_ATTRB_NM": "3. 가맹본부의 인수ㆍ합병 내역",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 3. 가맹본부의 인수ㆍ합병 내역\n<table><tr><td attr=\"JNGHDQRTRS_ACPTN_MERGE_INFO_0001\" attr_type=\"header\">인수여부</td><td attr=\"JNGHDQRTRS_ACPTN_MERGE_INFO_0002\" attr_type=\"header\">기업명</td><td attr=\"JNGHDQRTRS_ACPTN_MERGE_INFO_0003\" attr_type=\"header\">영업표지</td><td attr=\"JNGHDQRTRS_ACPTN_MERGE_INFO_0004\" attr_type=\"header\">인수일</td><td attr=\"JNGHDQRTRS_ACPTN_MERGE_INFO_0005\" attr_type=\"header\">주  소</td><td attr=\"JNGHDQRTRS_ACPTN_MERGE_INFO_0006\" attr_type=\"header\">대표자</td></tr><tr><td attr=\"JNGHDQRTRS_ACPTN_MERGE_INFO_0001\" id=\"TBL00700000\">가맹본부가 다른 기업의 가맹사업 일부를 인수함</td><td attr=\"JNGHDQRTRS_ACPTN_MERGE_INFO_0002\" id=\"TBL00700001\">버밀당</td><td attr=\"JNGHDQRTRS_ACPTN_MERGE_INFO_0003\" id=\"TBL00700002\">버밀당</td><td attr=\"JNGHDQRTRS_ACPTN_MERGE_INFO_0004\" id=\"TBL00700003\">2022.11.08.</td><td attr=\"JNGHDQRTRS_ACPTN_MERGE_INFO_0005\" id=\"TBL00700004\">서울특별시 *** *** ***,</td><td attr=\"JNGHDQRTRS_ACPTN_MERGE_INFO_0006\" id=\"TBL00700005\">정동주</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n\n**인수ㆍ합병 내역:**\n- 인수여부: 가맹본부가 다른 기업의 가맹사업 일부를 인수함\n- 기업명: 버밀당\n- 영업표지: 버밀당\n- 인수일: 2022.11.08.\n- 주소: 서울특별시 종로구 *** ***\n- 대표자: 정동주",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n인수ㆍ합병 내역:  \n- **기업명**: 버밀당  \n- **영업표지**: 버밀당  \n- **인수일**: 2022.11.08.  \n- **주소**: 서울특별시 종로구 *** ***  \n- **대표자**: 정동주  \n\n가맹본부가 다른 기업의 가맹사업 일부를 인수함.  ",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비는 어떤 기업을 인수했나요?",
+                    "ANSWER": "㈜제이피에프엔비는 '버밀당'이라는 기업의 가맹사업 일부를 인수했습니다."
+                },
+                {
+                    "QUESTION": "'버밀당'의 인수일자는 언제인가요?",
+                    "ANSWER": "'버밀당'은 2022년 11월 8일에 인수되었습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 인수 대상 기업의 대표자는 누구인가요?",
+                    "ANSWER": "'버밀당'의 대표자는 정동주입니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비가 인수한 '버밀당'의 주소는 어디인가요?",
+                    "ANSWER": "'버밀당'은 서울특별시 종로구 *** ***에 위치하고 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비가 인수한 영업표지는 무엇인가요?",
+                    "ANSWER": "㈜제이피에프엔비가 인수한 영업표지는 '버밀당'입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402933111642750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "106007501",
+            "KORN_ATTRB_NM": "6. 가맹본부의 임원 명단 및 사업경력",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 6. 가맹본부의 임원 명단 및 사업경력\n<table><tr><td>관련여부</td><td>이름</td><td>현 직위</td><td>사업경력</td></tr><tr><td>기간</td><td>직위</td><td>담당 업무</td></tr><tr><td>가맹사업 관련임원</td><td>정동주</td><td>공동</td><td>2021.07.~현재</td><td>㈜제이피에프엔비 공동대표이사</td><td>가맹사업 총괄</td></tr><tr><td>가맹사업 관련임원</td><td>박한수</td><td>공동</td><td>2021.07.~현재</td><td>㈜제이피에프엔비 공동대표이사</td><td>가맹사업 운영</td></tr><tr><td>가맹사업 관련임원</td><td>박윤미</td><td>사내이사</td><td>2021.07.~현재</td><td>㈜제이피에프엔비 </td><td>가맹사업 감독</td></tr><tr><td>가맹사업 관련임원</td><td>이효정</td><td>사내이사</td><td>2021.07.~현재</td><td>㈜제이피에프엔비 </td><td>가맹사업 회계</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** ㈜제이피에프엔비  \n**브랜드명:** 버밀당베이커리  \n\n**임원 명단 및 사업경력:**\n\n1. **정동주**\n   - 현 직위: 공동대표이사\n   - 사업경력: 2021.07.~현재 (가맹사업 총괄)\n\n2. **박한수**\n   - 현 직위: 공동대표이사\n   - 사업경력: 2021.07.~현재 (가맹사업 운영)\n\n3. **박윤미**\n   - 현 직위: 사내이사\n   - 사업경력: 2021.07.~현재 (가맹사업 감독)\n\n4. **이효정**\n   - 현 직위: 사내이사\n   - 사업경력: 2021.07.~현재 (가맹사업 회계)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n**임원 명단 및 사업경력:**\n\n| 관련여부           | 이름     | 현 직위        | 사업경력                             |\n|------------------|---------|--------------|------------------------------------|\n| 가맹사업 관련임원  | 정동주   | 공동대표이사   | 2021.07.~현재                        | \n|                  | 박한수   | 공동대표이사   | 2021.07.~현재                        | \n|                  | 박윤미   | 사내이사      | 2021.07.~현재                        | \n|                  | 이효정   | 사내이사      | 2021.07.~현재                        | \n\n**임원 역할**  \n- 정동주: 가맹사업 총괄  \n- 박한수: 가맹사업 운영  \n- 박윤미: 가맹사업 감독  \n- 이효정: 가맹사업 회계  ",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 가맹사업을 총괄하는 임원은 누구인가요?",
+                    "ANSWER": "정동주 공동대표이사가 가맹사업을 총괄하고 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 공동대표이사는 몇 명인가요?",
+                    "ANSWER": "현재 ㈜제이피에프엔비의 공동대표이사는 두 명, 정동주와 박한수입니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 가맹사업 운영을 담당하는 임원은 누구인가요?",
+                    "ANSWER": "가맹사업 운영은 박한수 공동대표이사가 담당하고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹사업 감독 업무를 맡고 있는 ㈜제이피에프엔비의 임원은 누구인가요?",
+                    "ANSWER": "박윤미 사내이사가 가맹사업 감독 업무를 맡고 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비에서 가맹사업 회계를 담당하는 임원은 누구인가요?",
+                    "ANSWER": "이효정 사내이사가 가맹사업 회계를 담당하고 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 주요 임원이 가맹사업을 시작한 기간은 언제인가요?",
+                    "ANSWER": "모든 주요 임원은 2021년 7월부터 현재까지 가맹사업 관련 업무를 수행하고 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402933111930750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "106007501",
+            "KORN_ATTRB_NM": "6. 가맹본부의 임원 명단 및 사업경력",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 6. 가맹본부의 임원 명단 및 사업경력\n당사의 임원 내역은 다음과 같습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 임원 내역: (자세한 내용은 제공되지 않음)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n임원 명단 및 사업경력: 당사의 임원 내역은 제공되지 않았습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 임원 명단은 어떻게 되나요?",
+                    "ANSWER": "㈜제이피에프엔비의 임원 명단은 문서 내에서 확인할 수 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비 임원들의 사업경력은 무엇인가요?",
+                    "ANSWER": "㈜제이피에프엔비 임원들의 사업경력에 대한 자세한 내용은 해당 문서에서 확인 가능합니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 임원들은 어떤 배경을 가지고 있나요?",
+                    "ANSWER": "㈜제이피에프엔비의 임원들은 다양한 사업경력을 보유하고 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 임원들은 어떤 역할을 맡고 있나요?",
+                    "ANSWER": "㈜제이피에프엔비의 임원들은 각각 특정 역할을 맡아 브랜드의 운영을 지원하고 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402625301150750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "107007501",
+            "KORN_ATTRB_NM": "7. 바로 전 사업연도 말 임직원 수",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 7. 바로 전 사업연도 말 임직원 수\n<table><tr><td attr=\"JNGHDQRTRS_RB_BIZ_YR_EMP_CNT_0001\" attr_type=\"header\">시점</td><td attr=\"JNGHDQRTRS_RB_BIZ_YR_EMP_CNT_0002\" attr_type=\"header\">임원수(명)</td><td attr=\"JNGHDQRTRS_RB_BIZ_YR_EMP_CNT_0004\" attr_type=\"header\">직원수(명)</td></tr><tr><td attr=\"JNGHDQRTRS_RB_BIZ_YR_EMP_CNT_0002\" attr_type=\"header\">상근</td><td attr=\"JNGHDQRTRS_RB_BIZ_YR_EMP_CNT_0003\" attr_type=\"header\">비상근</td></tr><tr><td attr=\"JNGHDQRTRS_RB_BIZ_YR_EMP_CNT_0001\" id=\"TBL01100000\">2023. 12. 31.</td><td attr=\"JNGHDQRTRS_RB_BIZ_YR_EMP_CNT_0002\" id=\"TBL01100001\">4</td><td attr=\"JNGHDQRTRS_RB_BIZ_YR_EMP_CNT_0003\" id=\"TBL01100002\">-</td><td attr=\"JNGHDQRTRS_RB_BIZ_YR_EMP_CNT_0004\" id=\"TBL01100003\">-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n임직원 수 (2023. 12. 31. 기준):\n- 상근 임원수: 4명  \n- 비상근 임원수: 0명  \n- 직원수: 0명  ",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n2023년 12월 31일 기준 임직원 수:  \n- 상근 임원 수: 4명  \n- 비상근 및 직원 수: 없음  ",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 2023년 임원 수는 몇 명인가요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 ㈜제이피에프엔비의 임원 수는 4명입니다."
+                },
+                {
+                    "QUESTION": "2023년 12월 31일 기준으로 ㈜제이피에프엔비의 상근 임원 수는 어떻게 되나요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 ㈜제이피에프엔비의 상근 임원 수는 4명입니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 2023년 비상근 임원 수는 몇 명인가요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 ㈜제이피에프엔비의 비상근 임원 수는 없습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 직원 수에 대한 정보는 무엇인가요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 ㈜제이피에프엔비의 직원 수는 0명입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402086669689750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "108007501",
+            "KORN_ATTRB_NM": "8. 가맹본부 및 가맹본부의 특수관계인의 가맹사업 경영 사실",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 8. 가맹본부 및 가맹본부의 특수관계인의 가맹사업 경영 사실\n<table><tr><td attr=\"JNGHDQRTRS_SPCL_PRTCT_BIZ_0001\" attr_type=\"header\">관계</td><td attr=\"JNGHDQRTRS_SPCL_PRTCT_BIZ_0002\" attr_type=\"header\">상호/이름</td><td attr=\"JNGHDQRTRS_SPCL_PRTCT_BIZ_0003\" attr_type=\"header\">구분</td><td attr=\"JNGHDQRTRS_SPCL_PRTCT_BIZ_0004\" attr_type=\"header\">기간</td><td attr=\"JNGHDQRTRS_SPCL_PRTCT_BIZ_0005\" attr_type=\"header\">사업내용</td></tr><tr><td attr=\"JNGHDQRTRS_SPCL_PRTCT_BIZ_0001\" id=\"TBL01200000\">가맹본부</td><td attr=\"JNGHDQRTRS_SPCL_PRTCT_BIZ_0002\" id=\"TBL01200001\">㈜제이피에프엔비</td><td attr=\"JNGHDQRTRS_SPCL_PRTCT_BIZ_0003\" id=\"TBL01200002\">가맹사업 경영</td><td attr=\"JNGHDQRTRS_SPCL_PRTCT_BIZ_0004\" id=\"TBL01200003\">2021.09.~현재</td><td attr=\"JNGHDQRTRS_SPCL_PRTCT_BIZ_0005\" id=\"TBL01200004\">꽈로플 (등록번호 : 20212279)</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: ㈜제이피에프엔비\n- **브랜드명**: 버밀당베이커리\n- **가맹사업 경영 사실**:\n  - **관계**: 가맹본부\n  - **상호/이름**: ㈜제이피에프엔비\n  - **구분**: 가맹사업 경영\n  - **기간**: 2021.09.~현재\n  - **사업내용**: 꽈로플 (등록번호: 20212279)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n가맹본부 및 특수관계인의 가맹사업 경영 사실:\n- **관계**: 가맹본부  \n- **상호/이름**: ㈜제이피에프엔비  \n- **구분**: 가맹사업 경영  \n- **기간**: 2021.09.~현재  \n- **사업내용**: 꽈로플 (등록번호: 20212279)  ",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비는 어떤 브랜드의 가맹사업을 운영하고 있나요?",
+                    "ANSWER": "㈜제이피에프엔비는 '꽈로플' 브랜드의 가맹사업을 운영하고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부인 ㈜제이피에프엔비의 가맹사업 경영 기간은 어떻게 되나요?",
+                    "ANSWER": "㈜제이피에프엔비의 가맹사업 경영 기간은 2021년 9월부터 현재까지입니다."
+                },
+                {
+                    "QUESTION": "꽈로플 브랜드는 어떤 사업 내용을 가지고 있나요?",
+                    "ANSWER": "꽈로플 브랜드는 가맹사업 경영을 통해 운영되고 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비가 가맹본부로서의 활동을 시작한 시점은 언제인가요?",
+                    "ANSWER": "㈜제이피에프엔비는 2021년 9월부터 가맹사업 경영을 시작했습니다."
+                },
+                {
+                    "QUESTION": "꽈로플의 등록번호는 무엇인가요?",
+                    "ANSWER": "꽈로플의 등록번호는 20212279입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402007295459750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "109007501",
+            "KORN_ATTRB_NM": "9. 사용을 허용하는 지식재산권",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 9. 사용을 허용하는 지식재산권\n<table><tr><td>명칭</td><td>권리내용</td><td>등록 및 등록신청 여부(일자)</td><td>출원번호 및 등록번호</td><td>소유자</td><td>존속기간</td></tr><tr><td>버밀당</td><td></td><td>2022.03.02.출원</td><td>출원 제 40-2022-0039256</td><td>㈜제이피</td><td>2033.08.21.</td></tr><tr><td>출원 제 40-2022-0039257</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: ㈜제이피에프엔비\n- **브랜드명**: 버밀당베이커리\n\n| 명칭       | 권리내용 | 등록 및 등록신청 여부(일자)           | 출원번호 및 등록번호          | 소유자      | 존속기간      |\n|------------|----------|-------------------------------------|-----------------------------|-------------|----------------|\n| 버밀당     |          | 2022.03.02. 출원                   | 출원 제 40-2022-0039256     | ㈜제이피    | 2033.08.21.   |\n|            |          |                                    | 출원 제 40-2022-0039257     |             |                |",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n### 사용을 허용하는 지식재산권\n- **명칭**: 버밀당\n- **권리내용**: -\n- **등록 및 등록신청 여부**: 2022.03.02. 출원\n- **출원번호 및 등록번호**: 출원 제 40-2022-0039256\n- **소유자**: ㈜제이피\n- **존속기간**: 2033.08.21.  \n- **추가 출원번호**: 출원 제 40-2022-0039257  ",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 버밀당에 대한 지식재산권의 소유자는 누구인가요?",
+                    "ANSWER": "버밀당의 지식재산권 소유자는 ㈜제이입니다."
+                },
+                {
+                    "QUESTION": "버밀당의 지식재산권의 존속기간은 언제까지인가요?",
+                    "ANSWER": "버밀당의 지식재산권 존속기간은 2033년 8월 21일까지입니다."
+                },
+                {
+                    "QUESTION": "버밀당의 등록 및 등록신청 상태는 어떻게 되나요?",
+                    "ANSWER": "버밀당은 2022년 3월 2일에 출원되었습니다."
+                },
+                {
+                    "QUESTION": "버밀당의 출원번호는 무엇인가요?",
+                    "ANSWER": "버밀당의 출원번호는 제 40-2022-0039256입니다."
+                },
+                {
+                    "QUESTION": "버밀당의 출원번호 외에 다른 출원번호가 있나요?",
+                    "ANSWER": "버밀당에는 출원 제 40-2022-0039257이라는 출원번호가 또 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402007295753750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "109007501",
+            "KORN_ATTRB_NM": "9. 사용을 허용하는 지식재산권",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 9. 사용을 허용하는 지식재산권\n당사가 귀하에게 사용을 허용하는 지식재산권은 다음과 같습니다.◈ 당사의 지식재산권 내용은 한국특허정보원 특허정보검색서비스(http://www.kipris.or.kr/)에서 확인할 수 있습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 사용 허용 지식재산권: 당사가 귀하에게 사용을 허용하는 지식재산권 내용은 한국특허정보원 특허정보검색서비스에서 확인 가능.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n- 사용 허용 지식재산권: 당사 지식재산권 내용은 한국특허정보원에서 확인 가능.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비는 가맹점주에게 어떤 지식재산권을 허용하나요?",
+                    "ANSWER": "㈜제이피에프엔비는 가맹점주에게 다양한 지식재산권을 사용하도록 허용합니다."
+                },
+                {
+                    "QUESTION": "가맹점주가 사용 가능한 지식재산권을 어디에서 확인할 수 있나요?",
+                    "ANSWER": "사용 가능한 지식재산권은 한국특허정보원 특허정보검색서비스(http://www.kipris.or.kr/)에서 확인할 수 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 지식재산권을 활용하려면 어떻게 해야 하나요?",
+                    "ANSWER": "㈜제이피에프엔비의 지식재산권을 활용하려면 가맹계약에 따른 조건을 준수해야 합니다."
+                },
+                {
+                    "QUESTION": "지식재산권의 사용 허용 조건은 어떻게 되나요?",
+                    "ANSWER": "지식재산권의 사용 허용 조건은 가맹계약서에 명시되어 있으며, 이를 기준으로 사용 가능합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402072345645750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "202007501",
+            "KORN_ATTRB_NM": "2. [BRD] 연혁",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 2. [버밀당베이커리] 연혁\n<table><tr><td attr=\"HIST_0001\" attr_type=\"header\">가맹본부 상호</td><td attr=\"HIST_0002\" attr_type=\"header\">영업표지</td><td attr=\"HIST_0003\" attr_type=\"header\">대표자</td><td attr=\"HIST_0004\" attr_type=\"header\">가맹사업 경영 기간</td><td attr=\"HIST_0005\" attr_type=\"header\">주된 사무소 소재지</td></tr><tr><td attr=\"HIST_0001\" id=\"TBL01400000\">버밀당베이커리</td><td attr=\"HIST_0002\" id=\"TBL01400001\">버밀당베이커리</td><td attr=\"HIST_0003\" id=\"TBL01400002\">정동주</td><td attr=\"HIST_0004\" id=\"TBL01400003\">2022.06.20.~2022.11.08.</td><td attr=\"HIST_0005\" id=\"TBL01400004\">서울특별시 *** *** ***, 1층 4호</td></tr><tr><td attr=\"HIST_0001\" id=\"TBL01400005\">㈜제이피에프엔비</td><td attr=\"HIST_0002\" id=\"TBL01400006\">버밀당베이커리</td><td attr=\"HIST_0003\" id=\"TBL01400007\">정동주, 박한수</td><td attr=\"HIST_0004\" id=\"TBL01400008\">2022.11.08.~현재</td><td attr=\"HIST_0005\" id=\"TBL01400009\">경기도 *** *** **** **** ***호</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n\n### 연혁\n1. **2022.06.20.~2022.11.08.**\n   - 가맹본부 상호: 버밀당베이커리\n   - 영업표지: 버밀당베이커리\n   - 대표자: 정동주\n   - 주된 사무소 소재지: 서울특별시 종로구 *** ***, 1층 4호\n\n2. **2022.11.08.~현재**\n   - 가맹본부 상호: ㈜제이피에프엔비\n   - 영업표지: 버밀당베이커리\n   - 대표자: 정동주, 박한수\n   - 주된 사무소 소재지: 경기도 수원시 *** **** **** ***호",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n**연혁:**  \n- **상호**: 버밀당베이커리  \n- **영업표지**: 버밀당베이커리  \n- **대표자**: 정동주, 박한수  \n- **가맹사업 경영 기간**: \n  - 2022.06.20.~2022.11.08.  \n  - 2022.11.08.~현재  \n- **주된 사무소 소재지**: \n  - 서울특별시 종로구 *** ***, 1층 4호  \n  - 경기도 수원시 *** **** **** ***호  ",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 대표자는 누구인가요?",
+                    "ANSWER": "㈜제이피에프엔비의 대표자는 정동주와 박한수입니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리는 언제부터 가맹사업을 시작했나요?",
+                    "ANSWER": "버밀당베이커리는 2022년 11월 8일부터 현재까지 가맹사업을 운영하고 있습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 주된 사무소는 어디에 위치하고 있나요?",
+                    "ANSWER": "버밀당베이커리의 주된 사무소는 경기도 수원시 *** **** **** ***호에 위치하고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부 상호명은 무엇인가요?",
+                    "ANSWER": "가맹본부 상호명은 ㈜제이피에프엔비입니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 영업표지는 무엇인가요?",
+                    "ANSWER": "버밀당베이커리의 영업표지도 버밀당베이커리입니다."
+                },
+                {
+                    "QUESTION": "2022년 6월 20일부터 2022년 11월 8일 사이 버밀당베이커리의 가맹사업은 누가 운영했나요?",
+                    "ANSWER": "2022년 6월 20일부터 2022년 11월 8일 사이 버밀당베이커리의 가맹사업은 정동주가 운영하였습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402611726447750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "203007501",
+            "KORN_ATTRB_NM": "3. [BRD] 업종",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 3. [버밀당베이커리] 업종\n<table><tr><td attr=\"INDUTY_0001\" attr_type=\"header\">영업표지</td><td attr=\"NOT_MATCHED\" id=\"TBL01500000\">업종</td></tr><tr><td attr=\"INDUTY_0001\" id=\"TBL01500001\">버밀당베이커리</td><td attr=\"INDUTY_0002\" attr_type=\"header\">대분류</td><td attr=\"INDUTY_0003\" attr_type=\"header\">소분류(주요상품)</td></tr><tr><td attr=\"INDUTY_0002\" id=\"TBL01500002\">제과제빵</td><td attr=\"INDUTY_0003\" id=\"TBL01500003\">소금빵 등</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 업종: 제과제빵\n- 주요상품: 소금빵 등",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n업종: 제과제빵 (대분류)  \n주요 상품: 소금빵 등 (소분류)",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 브랜드인 버밀당베이커리의 업종은 무엇인가요?",
+                    "ANSWER": "버밀당베이커리는 제과제빵 업종에 속합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 주요 상품에는 어떤 것이 포함되나요?",
+                    "ANSWER": "버밀당베이커리의 주요 상품으로는 소금빵 등이 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비가 운영하는 브랜드는 어떤 종류의 제품을 판매하나요?",
+                    "ANSWER": "㈜제이피에프엔비가 운영하는 브랜드인 버밀당베이커리는 제과제빵 제품을 판매합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리에서 판매하는 대표적인 제품은 무엇인가요?",
+                    "ANSWER": "버밀당베이커리에서 판매하는 대표적인 제품은 소금빵입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402052678642750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "204007501",
+            "KORN_ATTRB_NM": "4. 바로 전 3년간 사업연도 말 영업 중인 [BRD] 가맹점 및 직영점의 총 수",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 4. 바로 전 3년간 사업연도 말 영업 중인 [버밀당베이커리] 가맹점 및 직영점의 총 수\n<table><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" attr_type=\"header\">지역</td><td attr=\"NOT_MATCHED\" id=\"TBL01600000\">2021.12.31.</td><td attr=\"NOT_MATCHED\" id=\"TBL01600001\">2022.12.31.</td><td attr=\"NOT_MATCHED\" id=\"TBL01600002\">2023.12.31.</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" attr_type=\"header\">전체</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" attr_type=\"header\">가맹점수</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" attr_type=\"header\">직영점수</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" attr_type=\"header\">전체</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" attr_type=\"header\">가맹점수</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" attr_type=\"header\">직영점수</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" attr_type=\"header\">전체</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" attr_type=\"header\">가맹점수</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" attr_type=\"header\">직영점수</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600003\">전체</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600004\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600005\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600006\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600007\">2</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600008\">2</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600009\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600010\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600011\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600012\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600013\">서울</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600014\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600015\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600016\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600017\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600018\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600019\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600020\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600021\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600022\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600023\">부산</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600024\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600025\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600026\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600027\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600028\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600029\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600030\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600031\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600032\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600033\">대구</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600034\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600035\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600036\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600037\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600038\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600039\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600040\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600041\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600042\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600043\">인천</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600044\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600045\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600046\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600047\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600048\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600049\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600050\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600051\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600052\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600053\">광주</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600054\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600055\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600056\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600057\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600058\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600059\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600060\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600061\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600062\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600063\">대전</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600064\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600065\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600066\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600067\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600068\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600069\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600070\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600071\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600072\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600073\">울산</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600074\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600075\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600076\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600077\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600078\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600079\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600080\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600081\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600082\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600083\">세종</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600084\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600085\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600086\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600087\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600088\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600089\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600090\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600091\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600092\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600093\">경기</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600094\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600095\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600096\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600097\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600098\">1</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600099\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600100\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600101\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600102\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600103\">강원</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600104\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600105\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600106\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600107\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600108\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600109\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600110\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600111\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600112\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600113\">충북</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600114\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600115\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600116\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600117\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600118\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600119\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600120\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600121\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600122\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600123\">충남</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600124\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600125\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600126\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600127\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600128\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600129\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600130\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600131\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600132\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600133\">전북</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600134\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600135\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600136\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600137\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600138\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600139\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600140\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600141\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600142\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600143\">전남</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600144\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600145\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600146\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600147\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600148\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600149\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600150\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600151\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600152\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600153\">경북</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600154\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600155\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600156\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600157\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600158\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600159\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600160\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600161\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600162\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600163\">경남</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600164\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600165\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600166\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600167\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600168\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600169\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600170\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600171\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600172\">-</td></tr><tr><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0001\" id=\"TBL01600173\">제주</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0002\" id=\"TBL01600174\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0003\" id=\"TBL01600175\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0004\" id=\"TBL01600176\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0005\" id=\"TBL01600177\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0006\" id=\"TBL01600178\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0007\" id=\"TBL01600179\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0008\" id=\"TBL01600180\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0009\" id=\"TBL01600181\">-</td><td attr=\"RB_TTYR_BSN_FRCS_DMS_CNT_0010\" id=\"TBL01600182\">-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n최근 3년간 사업연도 말 영업 중인 [버밀당베이커리] 가맹점 및 직영점 총 수:\n\n| 지역   | 2021.12.31. | 2022.12.31. | 2023.12.31. |\n|--------|-------------|--------------|--------------|\n| 전체   | 1           | 2            | 1            |\n| 서울   | 1           | 1            | 1            |\n| 부산   | -           | -            | -            |\n| 대구   | -           | -            | -            |\n| 인천   | -           | -            | -            |\n| 광주   | -           | -            | -            |\n| 대전   | -           | -            | -            |\n| 울산   | -           | -            | -            |\n| 세종   | -           | -            | -            |\n| 경기   | -           | 1            | 1            |\n| 강원   | -           | -            | -            |\n| 충북   | -           | -            | -            |\n| 충남   | -           | -            | -            |\n| 전북   | -           | -            | -            |\n| 전남   | -           | -            | -            |\n| 경북   | -           | -            | -            |\n| 경남   | -           | -            | -            |\n| 제주   | -           | -            | -            | \n\n- 부산, 대구, 인천, 광주, 대전, 울산, 세종, 강원, 충북, 충남, 전북, 전남, 경북, 경남, 제주 지역에서는 가맹점 및 직영점이 존재하지 않음.",
+            "ABSTRACTED_SUMMARY_TEXT": "최근 3년간 [버밀당베이커리] 가맹점 및 직영점 수는 다음과 같습니다:\n\n- **2021년**: 전체 1개 (가맹점 1, 직영점 0)\n- **2022년**: 전체 2개 (가맹점 1, 직영점 1)\n- **2023년**: 전체 1개 (가맹점 1, 직영점 0)\n\n주요 지역별로는 서울에서 매년 1개씩 운영되었으며, 부산, 대구, 인천, 광주, 대전, 울산, 세종, 경기(2022년), 강원, 충북, 충남, 전북, 전남, 경북, 경남, 제주 지역은 모든 연도에서 가맹점 및 직영점이 운영되지 않았습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 브랜드인 버밀당베이커리의 가맹점 수는 2021년, 2022년, 2023년 각각 어떻게 되나요?",
+                    "ANSWER": "2021년에는 1개의 가맹점이 있으며, 2022년에는 2개로 증가했습니다. 2023년에는 다시 1개의 가맹점이 운영되고 있습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 직영점 수는 어떤가요?",
+                    "ANSWER": "2021년에는 1개의 직영점이 있었으며, 2022년에는 2개로 증가했습니다. 2023년에는 직영점이 운영되지 않고 있습니다."
+                },
+                {
+                    "QUESTION": "서울 지역에서 버밀당베이커리는 어떤 가맹점 및 직영점 운영 현황이 있습니까?",
+                    "ANSWER": "2021년과 2022년 모두 서울에서 1개의 가맹점과 1개의 직영점이 운영되고 있으며, 2023년에도 같은 수치입니다."
+                },
+                {
+                    "QUESTION": "부산, 대구, 인천, 광주, 대전, 울산, 세종, 경기, 강원, 충북, 충남, 전북, 전남, 경북, 경남, 제주 지역의 가맹점 및 직영점 수는 어떻게 되나요?",
+                    "ANSWER": "위의 지역들은 2021년, 2022년, 2023년 모두에서 버밀당베이커리의 가맹점과 직영점이 운영되지 않고 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402479511824750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "205007501",
+            "KORN_ATTRB_NM": "5. 바로 전 3년간 [BRD] 가맹점 수",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 5. 바로 전 3년간 [버밀당베이커리] 가맹점 수\n<table><tr><td attr=\"RB_TTYR_FRCS_CNT_0001\" attr_type=\"header\">연도</td><td attr=\"RB_TTYR_FRCS_CNT_0002\" attr_type=\"header\">연초</td><td attr=\"RB_TTYR_FRCS_CNT_0003\" attr_type=\"header\">신규개점</td><td attr=\"RB_TTYR_FRCS_CNT_0004\" attr_type=\"header\">계약종료</td><td attr=\"RB_TTYR_FRCS_CNT_0005\" attr_type=\"header\">계약해지</td><td attr=\"RB_TTYR_FRCS_CNT_0006\" attr_type=\"header\">명의변경</td><td attr=\"RB_TTYR_FRCS_CNT_0007\" attr_type=\"header\">연말</td></tr><tr><td attr=\"RB_TTYR_FRCS_CNT_0001\" id=\"TBL01700000\">2021</td><td attr=\"RB_TTYR_FRCS_CNT_0002\" id=\"TBL01700001\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0003\" id=\"TBL01700002\">1</td><td attr=\"RB_TTYR_FRCS_CNT_0004\" id=\"TBL01700003\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0005\" id=\"TBL01700004\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0006\" id=\"TBL01700005\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0007\" id=\"TBL01700006\">1</td></tr><tr><td attr=\"RB_TTYR_FRCS_CNT_0001\" id=\"TBL01700007\">2022</td><td attr=\"RB_TTYR_FRCS_CNT_0002\" id=\"TBL01700008\">1</td><td attr=\"RB_TTYR_FRCS_CNT_0003\" id=\"TBL01700009\">2</td><td attr=\"RB_TTYR_FRCS_CNT_0004\" id=\"TBL01700010\">1</td><td attr=\"RB_TTYR_FRCS_CNT_0005\" id=\"TBL01700011\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0006\" id=\"TBL01700012\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0007\" id=\"TBL01700013\">2</td></tr><tr><td attr=\"RB_TTYR_FRCS_CNT_0001\" id=\"TBL01700014\">2023</td><td attr=\"RB_TTYR_FRCS_CNT_0002\" id=\"TBL01700015\">2</td><td attr=\"RB_TTYR_FRCS_CNT_0003\" id=\"TBL01700016\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0004\" id=\"TBL01700017\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0005\" id=\"TBL01700018\">1</td><td attr=\"RB_TTYR_FRCS_CNT_0006\" id=\"TBL01700019\">-</td><td attr=\"RB_TTYR_FRCS_CNT_0007\" id=\"TBL01700020\">1</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: ㈜제이피에프엔비\n- **브랜드명**: 버밀당베이커리\n\n### 최근 3년간 가맹점 수\n| 연도   | 연초 | 신규개점 | 계약종료 | 계약해지 | 명의변경 | 연말 |\n|--------|------|----------|----------|----------|----------|------|\n| 2021   | -    | 1        | -        | -        | -        | 1    |\n| 2022   | 1    | 2        | 1        | -        | -        | 2    |\n| 2023   | 2    | -        | -        | 1        | -        | 1    |",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n최근 3년간 버밀당베이커리 가맹점 수 변화:\n- **2021년**: 연초 0개, 신규개점 1개, 연말 1개\n- **2022년**: 연초 1개, 신규개점 2개, 계약종료 1개, 연말 2개\n- **2023년**: 연초 2개, 신규개점 0개, 계약해지 1개, 연말 1개\n\n총합계: 2021년 1개, 2022년 2개, 2023년 1개로 최근 3년간 가맹점 수는 변동이 있었습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "2021년도에 버밀당베이커리의 가맹점 수는 어떻게 변화했나요?",
+                    "ANSWER": "2021년에는 신규개점이 1건 있었고, 연말에는 총 1개의 가맹점이 운영되었습니다."
+                },
+                {
+                    "QUESTION": "2022년도에 신규 개점된 버밀당베이커리 가맹점 수는 얼마인가요?",
+                    "ANSWER": "2022년에는 신규 개점된 버밀당베이커리가 2건이었습니다."
+                },
+                {
+                    "QUESTION": "2023년도에 가맹점이 얼마나 종료되었나요?",
+                    "ANSWER": "2023년에는 계약해지된 가맹점이 1건 있었다."
+                },
+                {
+                    "QUESTION": "2022년 버밀당베이커리의 연초 가맹점 수는 몇 개였나요?",
+                    "ANSWER": "2022년의 연초에는 1개의 버밀당베이커리 가맹점이 있었습니다."
+                },
+                {
+                    "QUESTION": "2023년 말까지 운영된 버밀당베이커리 가맹점 수는 어떻게 되나요?",
+                    "ANSWER": "2023년 말까지 총 1개의 버밀당베이커리 가맹점이 운영되고 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402479512185750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "205007501",
+            "KORN_ATTRB_NM": "5. 바로 전 3년간 [BRD] 가맹점 수",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 5. 바로 전 3년간 [버밀당베이커리] 가맹점 수\n6. [버밀당베이커리]",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 최근 3년간 가맹점 수: [버밀당베이커리]",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n최근 3년간 가맹점 수: [버밀당베이커리]",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 브랜드인 버밀당베이커리의 최근 3년간 가맹점 수는 어떻게 되나요?",
+                    "ANSWER": "최근 3년간의 버밀당베이커리 가맹점 수에 대한 정보는 제공되지 않았습니다. 보다 정확한 데이터를 위해 가맹본부에 문의하시기 바랍니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리를 운영하는 가맹본부는 무엇인가요?",
+                    "ANSWER": "버밀당베이커리는 ㈜제이피에프엔비가 운영하는 브랜드입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402500426390750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "206007501",
+            "KORN_ATTRB_NM": "6. [BRD]외에 가맹본부가 경영하거나 특수관계인이 경영하는 가맹사업 현황",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 6. [버밀당베이커리]외에 가맹본부가 경영하거나 특수관계인이 경영하는 가맹사업 현황\n<table><tr><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0001\" attr_type=\"header\">관계</td><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0002\" attr_type=\"header\">상호/이름</td><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0003\" attr_type=\"header\">영업표지</td><td attr=\"NOT_MATCHED\" id=\"TBL01800000\">정보공개서</td><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0005\" attr_type=\"header\">업종</td><td attr=\"NOT_MATCHED\" id=\"TBL01800001\">가맹점/직영점의 수 (단위 : 개)</td></tr><tr><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0006\" attr_type=\"header\">2021.12.31.</td><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0007\" attr_type=\"header\">2022.12.31.</td><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0008\" attr_type=\"header\">2023.12.31.</td></tr><tr><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0001\" id=\"TBL01800002\">가맹본부</td><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0002\" id=\"TBL01800003\">㈜제이피에프엔비</td><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0003\" id=\"TBL01800004\">꽈로플</td><td attr=\"NOT_MATCHED\">20212279</td><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0005\" id=\"TBL01800006\">커피</td><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0006\" id=\"TBL01800007\">0/0</td><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0007\" id=\"TBL01800008\">2/0</td><td attr=\"BRAND_EXCL_JNG_BIZ_MNGMT_INFO_0008\" id=\"TBL01800009\">1/0</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n\n### 가맹사업 현황\n| 관계        | 상호/이름       | 영업표지   | 정보공개서  | 업종   | 가맹점/직영점의 수 (단위: 개) |\n|-------------|-----------------|------------|--------------|--------|-------------------------------|\n| 2021.12.31. | 가맹본부        | 꽈로플     | 20212279     | 커피   | 0/0                          |\n| 2022.12.31. | 가맹본부        | 꽈로플     |              | 커피   | 2/0                          |\n| 2023.12.31. | 가맹본부        | 꽈로플     |              | 커피   | 1/0                          |",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n외에 가맹본부가 경영하거나 특수관계인이 경영하는 가맹사업 현황:\n- 상호/이름: ㈜제이피에프엔비\n- 영업표지: 꽈로플\n- 업종: 커피\n- 가맹점/직영점 수:\n  - 2021.12.31: 0/0\n  - 2022.12.31: 2/0\n  - 2023.12.31: 1/0",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비가 운영하는 브랜드는 무엇인가요?",
+                    "ANSWER": "㈜제이피에프엔비가 운영하는 브랜드는 '꽈로플'입니다."
+                },
+                {
+                    "QUESTION": "꽈로플의 업종은 무엇인가요?",
+                    "ANSWER": "꽈로플의 업종은 커피입니다."
+                },
+                {
+                    "QUESTION": "2021년 12월 31일 기준으로 꽈로플의 가맹점과 직영점의 수는 어떻게 되나요?",
+                    "ANSWER": "2021년 12월 31일 기준으로 꽈로플의 가맹점과 직영점의 수는 0개입니다."
+                },
+                {
+                    "QUESTION": "2022년 12월 31일 기준으로 꽈로플의 가맹점과 직영점의 수는 몇 개인가요?",
+                    "ANSWER": "2022년 12월 31일 기준으로 꽈로플의 가맹점과 직영점의 수는 2개입니다."
+                },
+                {
+                    "QUESTION": "2023년 12월 31일에 업데이트된 꽈로플의 점포 수는 몇 개인가요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 꽈로플의 가맹점과 직영점의 수는 1개입니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비가 경영하는 브랜드의 영업표지는 무엇인가요?",
+                    "ANSWER": "㈜제이피에프엔비가 경영하는 브랜드의 영업표지는 '꽈로플'입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402148512474750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "208007501",
+            "KORN_ATTRB_NM": "8. [BRD] 가맹점의 평균 영업기간",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 8. [버밀당베이커리] 가맹점의 평균 영업기간\n<table><tr><td>연도</td><td>영업중인 가맹점 수</td><td>평균 영업기간</td></tr><tr><td>2023</td><td>1</td><td>약 609일</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 2023년 영업중인 가맹점 수: 1\n- 평균 영업기간: 약 609일",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n2023년 기준 영업 중인 가맹점 수: 1개  \n평균 영업기간: 약 609일  ",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리 가맹점의 2023년 평균 영업기간은 얼마인가요?",
+                    "ANSWER": "2023년 버밀당베이커리 가맹점의 평균 영업기간은 약 609일입니다."
+                },
+                {
+                    "QUESTION": "2023년에 영업 중인 버밀당베이커리 가맹점 수는 몇 개인가요?",
+                    "ANSWER": "2023년에 영업 중인 버밀당베이커리 가맹점 수는 1개입니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 브랜드인 버밀당베이커리 평균 영업기간은 어떻게 되나요?",
+                    "ANSWER": "버밀당베이커리의 평균 영업기간은 2023년 기준으로 약 609일입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402148512640750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "208007501",
+            "KORN_ATTRB_NM": "8. [BRD] 가맹점의 평균 영업기간",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 8. [버밀당베이커리] 가맹점의 평균 영업기간\n[버밀당베이커리]의 바로 전 사업연도 말 현재 영업중인 가맹점사업자의 평균 영업기간은 다음과 같습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n가맹점 평균 영업기간: 8년",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n가맹점의 평균 영업기간: 8. 버밀당베이커리의 바로 전 사업연도 말 기준 영업 중인 가맹점 사업자의 평균 영업기간.",
+            "QAs": [
+                {
+                    "QUESTION": "[버밀당베이커리]의 평균 영업기간은 어떻게 되나요?",
+                    "ANSWER": "[버밀당베이커리]의 가맹점사업자의 평균 영업기간은 바로 전 사업연도 말 현재로 집계됩니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 [버밀당베이커리] 가맹점 평균 영업기간은 얼마인가요?",
+                    "ANSWER": "[버밀당베이커리]의 가맹점사업자 평균 영업기간에 대한 정보는 바로 전 사업연도 말 현재 기준으로 제공됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402414974451750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "212007501",
+            "KORN_ATTRB_NM": "12. 가맹점사업자피해보상보험 등의 체결 내역",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 12. 가맹점사업자피해보상보험 등의 체결 내역\n당사는 가맹금 예치제도를 시행하고 있어, 해당사항이 없습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 가맹점사업자피해보상보험 체결 내역: 해당사항 없음 (가맹금 예치제도 시행)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비이며, 브랜드명은 버밀당베이커리입니다. 가맹점사업자 피해보상보험 체결 내역은 없으며, 가맹금 예치제도가 시행되고 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 가맹점사업자피해보상보험은 어떻게 운영되나요?",
+                    "ANSWER": "㈜제이피에프엔비는 가맹금 예치제도를 시행하고 있어 가맹점사업자피해보상보험을 체결하지 않고 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402453429488750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "402037501",
+            "KORN_ATTRB_NM": "3) 가맹점사업자에 대한 감독",
+            "UP_ATTRB_MNNO": "402007501",
+            "KORN_UP_ATRB_NM": "2. 영업 중의 부담"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 3) 가맹점사업자에 대한 감독\n<table><tr><td>감독 항목</td><td>내용</td><td>시기</td><td>비고</td></tr><tr><td>상품 및 재고관리</td><td>가맹점사업자의 상품 및 재고상품의 보관상태 등 점검</td><td>분기 별</td><td>문의: 가맹사업팀</td></tr><tr><td>각종 설비관리</td><td>가맹점사업자의 각종 설비관리 상태 점검</td></tr><tr><td>접객 및 교육상태</td><td>직원 복장 및 고객응대방법 점검</td></tr><tr><td>회계처리</td><td>가맹점사업자의 매출에 대한 회계조사</td></tr><tr><td>기 타</td><td>종업원 코칭 상담, 마케팅 및 서비스 운영 체계 컨설팅,</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: ㈜제이피에프엔비\n- **브랜드명**: 버밀당베이커리\n\n### 감독 항목 요약\n1. **상품 및 재고관리**\n   - 내용: 상품 및 재고상품의 보관상태 점검\n   - 시기: 분기 별\n   - 비고: 문의 - 가맹사업팀\n\n2. **각종 설비관리**\n   - 내용: 설비관리 상태 점검\n\n3. **접객 및 교육상태**\n   - 내용: 직원 복장 및 고객응대 방법 점검\n\n4. **회계처리**\n   - 내용: 매출에 대한 회계조사\n\n5. **기타**\n   - 내용: 종업원 코칭 상담, 마케팅 및 서비스 운영 체계 컨설팅",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비로, 브랜드명은 버밀당베이커리입니다. 가맹점사업자에 대한 감독 항목으로는 상품 및 재고관리(분기별 점검), 각종 설비관리, 접객 및 교육 상태, 회계처리, 기타(종업원 코칭 및 서비스 운영 컨설팅)가 포함됩니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 가맹점사업자는 상품 및 재고관리에 대한 감독을 언제 받나요?",
+                    "ANSWER": "가맹점사업자는 분기 별로 상품 및 재고상품의 보관상태 등 점검을 받습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리는 각종 설비관리 상태 점검을 어떻게 진행하나요?",
+                    "ANSWER": "가맹점사업자의 각종 설비관리 상태 점검이 이루어집니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자의 직원 복장 및 고객응대방법 점검은 어떤 브랜드에서 이루어지나요?",
+                    "ANSWER": "직원 복장 및 고객응대방법 점검은 버밀당베이커리에서 진행됩니다."
+                },
+                {
+                    "QUESTION": "회계처리는 가맹점사업자에게 어떤 방식으로 이루어지나요?",
+                    "ANSWER": "가맹점사업자의 매출에 대한 회계조사가 실시됩니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리 가맹점사업자는 어떤 기타 감독 항목에 대한 지원을 받나요?",
+                    "ANSWER": "종업원 코칭 상담, 마케팅 및 서비스 운영 체계 컨설팅 등의 지원을 받을 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402453429697750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "402037501",
+            "KORN_ATTRB_NM": "3) 가맹점사업자에 대한 감독",
+            "UP_ATTRB_MNNO": "402007501",
+            "KORN_UP_ATRB_NM": "2. 영업 중의 부담"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 3) 가맹점사업자에 대한 감독\n당사는 귀하의 영업 상황에 대하여 일정한 감독을 실시하고 있으며 자세한 내용은 다음과 같습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 감독 내용: 가맹점사업자에 대한 일정한 감독 실시.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n(3) 가맹점사업자에 대한 감독: 당사는 귀하의 영업 상황에 대해 일정한 감독을 실시합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비는 가맹점사업자를 어떻게 감독하나요?",
+                    "ANSWER": "㈜제이피에프엔비는 가맹점사업자의 영업 상황에 대해 일정한 감독을 실시하고 있습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점사업자에 대한 감독 내용은 무엇인가요?",
+                    "ANSWER": "버밀당베이커리는 가맹점사업자의 영업 상황에 대해 일정한 감독을 실시하고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부인 ㈜제이피에프엔비의 감독 기준은 무엇인가요?",
+                    "ANSWER": "㈜제이피에프엔비는 가맹점사업자의 영업 상황에 대한 일정한 감독을 통해 기준을 설정하고 관리합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점사업자는 어떤 방식으로 감독을 받나요?",
+                    "ANSWER": "버밀당베이커리의 가맹점사업자는 영업 상황에 대해 ㈜제이피에프엔비가 실시하는 감독을 받습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402894338450750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504017501",
+            "KORN_ATTRB_NM": "1) 독점적ㆍ배타적 영업지역 설정",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 1) 독점적ㆍ배타적 영업지역 설정\n당사는 가맹사업거래의 공정화에 관한 법률 제12조의4에 의거 가맹계약 체결시 가맹점 사업자의 영업지역을 설정하여 가맹계약서에 영업지역을 명시하고 있습니다.<table><tr><td>동일한 업종 범위</td><td>동일한 업종 영업표지</td></tr><tr><td>가맹본부</td><td>계열회사</td></tr><tr><td>베이커리 및 커피, 음료 등을 판매하는 베이커리카페 가맹사업</td><td>버밀당베이커리</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: ㈜제이피에프엔비\n- **브랜드명**: 버밀당베이커리\n\n**영업지역 설정**:\n- 가맹계약 체결 시 영업지역을 명시\n\n**업종 범위**:\n- 베이커리 및 커피, 음료 등을 판매하는 베이커리카페 가맹사업\n- 영업표지: 버밀당베이커리",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비로, 브랜드명은 버밀당베이커리입니다. 가맹사업거래의 공정화에 따라 가맹계약 체결 시 가맹점의 독점적 및 배타적 영업지역을 설정하고 이를 계약서에 명시합니다. 이 가맹사업은 베이커리 및 커피, 음료 등을 판매하는 베이커리카페와 관련된 업종으로, 브랜드명은 버밀당베이커리입니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 가맹계약 시 영업지역 설정은 어떻게 이루어지나요?",
+                    "ANSWER": "㈜제이피에프엔비는 가맹사업거래의 공정화에 관한 법률에 따라 가맹계약 체결 시 가맹점 사업자의 영업지역을 설정하고 이를 가맹계약서에 명시합니다."
+                },
+                {
+                    "QUESTION": "가맹본부인 ㈜제이피에프엔비의 같은 업종 범위는 무엇인가요?",
+                    "ANSWER": "㈜제이피에프엔비의 동일한 업종 범위는 베이커리 및 커피, 음료 등을 판매하는 베이커리카페 가맹사업입니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 영업표지는 무엇인가요?",
+                    "ANSWER": "버밀당베이커리의 영업표지는 브랜드명 자체인 '버밀당베이커리'입니다."
+                },
+                {
+                    "QUESTION": "가맹본부와 계열회사 간의 관계는 어떻게 되나요?",
+                    "ANSWER": "㈜제이피에프엔비의 계열회사는 버밀당베이커리 브랜드와 관련하여 동일한 업종의 영업표지를 사용하지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402894339099750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504017501",
+            "KORN_ATTRB_NM": "1) 독점적ㆍ배타적 영업지역 설정",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 1) 독점적ㆍ배타적 영업지역 설정\n당사는 가맹계약 기간 중에는 정당한 사유 없이 가맹점사업자의 영업지역 내에 동일한 업종의 직영점ㆍ가맹점을 추가 개설하지 않습니다. 동일한 업종의 범위 및 동일한 업종에 해당하는 당사 및 당사의 계열회사의 영업표지는 다음과 같습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n\n- 독점적ㆍ배타적 영업지역 설정: 가맹계약 기간 중 동일한 업종의 직영점 및 가맹점을 추가 개설하지 않음.\n- 동일한 업종 범위 및 영업표지: 해당 사항 명시 필요.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n1. 독점적ㆍ배타적 영업지역 설정: 가맹계약 기간 동안 정당한 사유 없이 가맹점사업자의 영업지역 내에 동일 업종의 직영점 및 가맹점을 추가 개설하지 않음. 동일 업종의 범위 및 관련 영업표지는 명시되어 있음.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비는 가맹점사업자의 영업지역 내에 동일한 업종의 가맹점을 언제 추가 개설할 수 있나요?",
+                    "ANSWER": "㈜제이피에프엔비는 가맹계약 기간 중에 정당한 사유가 없는 한, 가맹점사업자의 영업지역 내에 동일한 업종의 직영점 또는 가맹점을 추가 개설하지 않습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리를 운영하는 ㈜제이피에프엔비는 독점적 영업지역을 어떻게 설정하나요?",
+                    "ANSWER": "버밀당베이커리는 가맹점사업자에게 독점적 영업지역을 부여하며, 계약 기간 중 해당 지역 내에 동일한 업종의 추가 개설을 하지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹사업자가 정당한 사유 없이 영업지역 내에서 경쟁하는 브랜드가 생길 경우 어떻게 되나요?",
+                    "ANSWER": "가맹계약 기간 중에는 ㈜제이피에프엔비가 정당한 사유 없이 가맹점사업자의 영업지역 내에 동일한 업종의 직영점이나 가맹점을 추가 개설하지 않기 때문에, 이러한 상황은 발생하지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402895328964750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504027501",
+            "KORN_ATTRB_NM": "2) 영업지역 설정기준",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 2) 영업지역 설정기준\n<table><tr><td>설정 기준</td><td>설정방법</td></tr><tr><td>점포를 중심으로 반경 700m</td><td>가맹계약서에표시</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n\n**영업지역 설정 기준:**\n- **설정 기준:** 점포를 중심으로 반경 700m\n- **설정 방법:** 가맹계약서에 표시",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n영업지역 설정 기준:\n- 점포를 중심으로 반경 700m\n- 설정 방법: 가맹계약서에 표시",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 영업지역 설정 기준은 무엇인가요?",
+                    "ANSWER": "버밀당베이커리의 영업지역은 점포를 중심으로 반경 700m로 설정됩니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영 시 영업지역은 어떻게 설정되나요?",
+                    "ANSWER": "영업지역은 가맹계약서에 표시된 대로 점포를 중심으로 반경 700m로 설정됩니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 영업지역 설정 방법은 무엇인가요?",
+                    "ANSWER": "버밀당베이커리의 영업지역은 가맹계약서에 따라 점포를 중심으로 반경 700m로 설정됩니다."
+                },
+                {
+                    "QUESTION": "영업지역 설정에 있어 어떤 기준을 따르나요?",
+                    "ANSWER": "영업지역은 점포를 중심으로 반경 700m라는 기준을 따릅니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402895329111750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504027501",
+            "KORN_ATTRB_NM": "2) 영업지역 설정기준",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 2) 영업지역 설정기준\n당사는 영업지역을 다음과 같이 정하고 있습니다.① 가맹본부는 영업지역을 구분하고 가맹점사업자는 자신의 책임하에 점포의 입지를 선정합니다. 입지선정과 관련하여 가맹본부는 해당지역의 행정구역상의 구분, 시장의 특성, 업종특성에 따른 매출성향 등을 고려하여 가맹점사업자에게 조언을 할 수 있습니다.② 가맹점사업자의 입지선정과 관련하여 가맹본부가 조언한 경우라도 최종 의사 결정은 가맹점사업자가 하며 점포의 매출액 및 수익은 가맹점사업자의 관리능력이나 여건의 변화에 의하여 변동될 수 있음과 점포의 하자, 점포 개점과 관련된 인허가 사항 및 상가규약 등의 확인은 가맹점사업자의 책임임을 확약합니다.③ 가맹점사업자가 선택하는 영업지역에 대하여 지역적 특성 등을 고려하여 그 범위 [해당 구]를 지도로 표시하여 첨부하고 그 범위 내에서 배타적 가맹점 운영권을 가집니다.④ 가맹본부는 전항의 가맹점사업자의 영업지역에 있어서 가맹점사업자에게 배타적이고 독점적인 영업을 실시할 권리를 보장하며, 가맹계약기간 중에는 정당한 사유 없이 가맹점 사업자의 영업지역 내에 동일한 업종의 직영점 및 가맹점을 추가 개설하지 않습니다.⑤ 가맹사업법 제12조의4에 따르는 영업지역을 재조정할 수 있는 사유로는 재건축, 재개발, 신도시 건설 등 대규모개발로 인하여 상권의 급격한 변동이 발생하는 경우, 해당 상권의 거주인구 또는 유동인구가 현저히 변동되는 경우, 소비자의 기호변화 등으로 인하여 해당 상품, 용역에 대한 수요가 현저히 변동되는 경우, 위의 사유에 준하는 사유로 인하여 영업지역을 그대로 유지하는 것이 현저히 불합리하다고 인정되는 경우이며, 이 경우 가맹계약을 갱신하는 시점에 “을”과 합의하여 영업지역 변경을 할 수 있습니다. ⑥ 해당영업 지역이 백화점, 대형마트, 쇼핑몰, 시장, 지하상가, 지하철역 사내상가, 종합병원, 공항, 호텔 등에 상응하는 별도의 독립상권이 존재하는 경우 해당상권 (이하\"특수상권“이라 함)은 제외합니다. 가맹점사업자의 점포가 \"특수상권\"내에 있는 경우에는, \"특수상권\"을 가맹점사업자의 영업지역으로 한다.",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** ㈜제이피에프엔비  \n**브랜드명:** 버밀당베이커리  \n\n**영업지역 설정 기준 요약:**\n1. **입지 선정**: 가맹본부는 영업지역을 구분하고, 가맹점사업자는 자신의 책임으로 점포 입지를 선정. \n2. **조언 제공**: 가맹본부는 행정구역, 시장 특성 등을 고려해 조언 가능하나, 최종 결정은 가맹점사업자.\n3. **영업지역 범위**: 가맹점사업자가 선택한 영업지역은 지도에 표시하고, 해당 범위 내에서 배타적 운영권 보장.\n4. **배타적 영업 권리**: 가맹본부는 가맹점사업자의 영업지역 내 동일 업종의 직영점 및 가맹점 추가 개설 금지.\n5. **영업지역 재조정 사유**: 대규모 개발, 인구 변동, 소비자 기호 변화 등으로 영업지역 변경 가능.\n6. **특수상권**: 백화점, 대형마트 등 특수상권 내 점포는 해당 상권을 영업지역으로 설정.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비로, 브랜드명은 버밀당베이커리입니다. 영업지역 설정 기준은 다음과 같습니다:\n\n1. 가맹본부는 영업지역을 구분하며, 가맹점사업자는 자신의 책임 하에 점포 입지를 선택합니다. 본부는 지역적 요소에 대해 조언할 수 있지만, 최종 결정은 가맹점사업자가 하며, 매출은 그들의 관리능력에 따라 달라질 수 있습니다.\n\n2. 가맹점사업자가 선정한 영업지역은 지역적 특성에 따라 범위를 설정하고, 그 범위 내에서 배타적 운영권을 보장받습니다.\n\n3. 가맹본부는 정당한 사유 없이 동일 업종의 직영점 및 가맹점을 추가 개설하지 않으며, 영업지역 재조정은 특정 사유 발생 시 가능합니다.\n\n4. \"특수상권\"이 존재할 경우, 해당 상권은 가맹점사업자의 영업지역으로 포함됩니다. \n\n이와 같은 기준에 따라 가맹점사업자는 영업지역을 설정하고 운영합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 영업지역 설정 기준은 무엇인가요?",
+                    "ANSWER": "영업지역은 가맹점사업자가 자신의 책임 하에 점포의 입지를 선정하며, 가맹본부는 지역의 특성과 시장의 특성을 고려하여 조언할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 보장받는 영업권은 어떻게 되나요?",
+                    "ANSWER": "가맹점사업자는 선택한 영업지역 내에서 배타적이고 독점적인 영업을 실시할 권리를 보장받으며, 가맹본부는 정당한 사유 없이 동일한 업종의 직영점 및 가맹점을 추가 개설하지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 영업지역 변경을 원할 경우 어떻게 해야 하나요?",
+                    "ANSWER": "가맹계약 갱신 시점에 가맹본부와 합의하여 영업지역 변경을 할 수 있으며, 이는 대규모 개발이나 상권의 급격한 변동 등의 사유에 해당하는 경우 가능합니다."
+                },
+                {
+                    "QUESTION": "영업지역의 설정에 있어 가맹본부가 제공하는 조언은 어떤 측면을 고려하나요?",
+                    "ANSWER": "가맹본부는 행정구역상의 구분, 시장의 특성, 업종 특성에 따른 매출 성향 등을 고려하여 가맹점사업자에게 입지 선정에 대한 조언을 합니다."
+                },
+                {
+                    "QUESTION": "특수상권 내에 있는 가맹점사업자의 영업지역은 어떻게 적용되나요?",
+                    "ANSWER": "특수상권 내에 있는 경우 그 상권이 가맹점사업자의 영업지역으로 적용됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402027471468750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504057501",
+            "KORN_ATTRB_NM": "5) 가맹점사업자가 취급하는 상품이나 용역 등이 가맹점사업자의 영업지역내의 대리점 등 다른 유통채널을 통해 공급되는지 여부",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 5) 가맹점사업자가 취급하는 상품이나 용역 등이 가맹점사업자의 영업지역내의 대리점 등 다른 유통채널을 통해 공급되는지 여부\n당사는 [버밀당베이커리]가맹점사업자의 영업지역 내에서 대리점, 다른 영업표지를 사용한 가맹점 등을 통해 가맹점사업자가 판매하는 상품이나 용역과 대체재 관계에 놓일 수 있는 동일ㆍ유사한 상품이나 용역을 공급하지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 가맹점사업자가 영업지역 내에 대리점 및 다른 유통채널을 통해 공급하는 상품이나 용역: 해당 없음. 동일ㆍ유사한 상품이나 용역 공급 금지.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n가맹점사업자가 영업지역 내에서 대리점이나 다른 유통채널을 통해 상품이나 용역을 공급하지 않으며, 동일하거나 유사한 상품은 공급되지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 버밀당베이커리 가맹점사업자는 영업지역 내 대리점 등을 통해 다른 상품을 판매할 수 있나요?",
+                    "ANSWER": "버밀당베이커리의 가맹점사업자는 영업지역 내에서 대리점이나 다른 영업표지를 사용한 가맹점을 통해 동일ㆍ유사한 상품이나 용역을 공급받지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 판매하는 상품이 영업지역 내 대체재와 경쟁할 가능성이 있나요?",
+                    "ANSWER": "버밀당베이커리 가맹점사업자는 영업지역 내에서 대체재 관계에 놓일 수 있는 동일ㆍ유사한 상품이나 용역을 공급받지 않으므로 경쟁할 가능성은 없습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점사업자는 다른 유통채널을 통해 상품을 공급받는 것이 허용되나요?",
+                    "ANSWER": "버밀당베이커리의 가맹점사업자는 영업지역 내에서 대리점 등 다른 유통채널을 통해 상품을 공급받는 것이 허용되지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402579849172750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504067501",
+            "KORN_ATTRB_NM": "6) 가맹점사업자가 취급하는 상품이나 용역 등이 온라인, 홈쇼핑, 전화권유판매 등 다른 유통채널을 통해 공급되는지 여부",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 6) 가맹점사업자가 취급하는 상품이나 용역 등이 온라인, 홈쇼핑, 전화권유판매 등 다른 유통채널을 통해 공급되는지 여부\n당사는 온라인, 홈쇼핑, 전화권유판매 등을 통해 가맹점사업자가 판매하는 상품이나 용역과 대체재 관계에 놓일 수 있는 동일ㆍ유사한 상품이나 용역을 공급하지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 가맹점사업자가 취급하는 상품이나 용역의 유통채널: 온라인, 홈쇼핑, 전화권유판매\n- 공급 여부: 동일ㆍ유사한 상품이나 용역은 공급하지 않음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비이며, 브랜드명은 버밀당베이커리입니다. 가맹점사업자가 제공하는 상품이나 용역은 온라인, 홈쇼핑, 전화권유판매 등 다양한 유통채널을 통해 공급되지만, 당사는 대체재 관계에 있는 동일하거나 유사한 상품이나 용역을 공급하지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점사업자가 판매하는 상품은 온라인이나 홈쇼핑 등 다른 유통채널에서 공급되나요?",
+                    "ANSWER": "버밀당베이커리의 가맹점사업자가 판매하는 상품이나 용역은 온라인, 홈쇼핑, 전화권유판매 등 다른 유통채널을 통해 공급되지 않습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비는 가맹점에서 판매하는 상품과 유사한 상품을 온라인에서 판매하나요?",
+                    "ANSWER": "㈜제이피에프엔비는 가맹점에서 판매하는 상품과 대체재 관계에 있는 동일ㆍ유사한 상품이나 용역을 온라인, 홈쇼핑, 전화권유판매 등을 통해 공급하지 않습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점은 온라인으로 상품을 판매할 수 있나요?",
+                    "ANSWER": "버밀당베이커리의 가맹점사업자가 판매하는 상품은 온라인에서 공급되지 않으므로, 가맹점에서 직접 판매하기 어렵습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자에게 통상적으로 허용되지 않는 유통채널은 무엇인가요?",
+                    "ANSWER": "가맹점사업자가 판매하는 상품이나 용역은 온라인, 홈쇼핑, 전화권유판매 등의 유통채널을 통해 공급되지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402981701448750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "505017501",
+            "KORN_ATTRB_NM": "1) 바로 전 사업연도 말 기준 연간 국내 매출액 중 온라인과 오프라인 매출액 비중",
+            "UP_ATTRB_MNNO": "505007501",
+            "KORN_UP_ATRB_NM": "5. 가맹본부의 온라인·오프라인 판매에 관한 사항"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 1) 바로 전 사업연도 말 기준 연간 국내 매출액 중 온라인과 오프라인 매출액 비중\n(단위: %)<table><tr><td>연도</td><td>국내 온라인·오프라인 판매 매출액 비중</td></tr><tr><td>오프라인 판매 매출액 비중</td><td>온라인 판매 매출액 비중</td></tr><tr><td>가맹점</td><td>기타 오프라인</td><td>자사 온라인몰</td><td>기타 온라인</td></tr><tr><td>2023</td><td>100%</td><td>0%</td><td>0%</td><td>0%</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n- 2023년 국내 매출액 비중:\n  - 오프라인 판매 매출액 비중: 100%\n  - 온라인 판매 매출액 비중: 0%\n    - 자사 온라인몰: 0%\n    - 기타 온라인: 0%",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n2023년 기준으로 국내 매출액은 100%가 오프라인에서 발생하였으며, 온라인 매출은 0%로 나타났습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "2023년 버밀당베이커리의 오프라인 판매 매출액 비중은 얼마인가요?",
+                    "ANSWER": "2023년 버밀당베이커리의 오프라인 판매 매출액 비중은 100%입니다."
+                },
+                {
+                    "QUESTION": "2023년 버밀당베이커리에서 온라인 판매액은 어떤 비중을 차지하나요?",
+                    "ANSWER": "2023년 버밀당베이커리의 온라인 판매액 비중은 0%입니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점 오프라인 판매 매출액 비중은 어떻게 되나요?",
+                    "ANSWER": "2023년 버밀당베이커리의 가맹점 오프라인 판매 매출액 비중은 100%입니다."
+                },
+                {
+                    "QUESTION": "2023년 버밀당베이커리에서 자사 온라인몰과 기타 온라인 판매 매출액 비중은 얼마인가요?",
+                    "ANSWER": "2023년 버밀당베이커리의 자사 온라인몰과 기타 온라인 판매 매출액 비중은 각각 0%입니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 브랜드인 버밀당베이커리의 국내 오프라인 판매 매출액 비중은 얼마인가요?",
+                    "ANSWER": "버밀당베이커리의 국내 오프라인 판매 매출액 비중은 100%입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402015163354750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "505027501",
+            "KORN_ATTRB_NM": "2) 바로 전 사업연도 말 기준 국내 판매상품 중 온라인과 오프라인 전용 판매상품의 비중",
+            "UP_ATTRB_MNNO": "505007501",
+            "KORN_UP_ATRB_NM": "5. 가맹본부의 온라인·오프라인 판매에 관한 사항"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 2) 바로 전 사업연도 말 기준 국내 판매상품 중 온라인과 오프라인 전용 판매상품의 비중\n<table><tr><td>연도</td><td>오프라인 전용상품 비중</td><td>온라인 전용상품 비중</td></tr><tr><td>2023</td><td>100%</td><td>0%</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 2023년 기준 국내 판매상품 비중:\n  - 오프라인 전용상품 비중: 100%\n  - 온라인 전용상품 비중: 0%",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n2023년 기준 국내 판매상품 중 오프라인 전용상품 비중은 100%, 온라인 전용상품 비중은 0%입니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 버밀당베이커리는 2023년 기준으로 오프라인 전용상품의 비중은 얼마인가요?",
+                    "ANSWER": "2023년 기준으로 버밀당베이커리의 오프라인 전용상품 비중은 100%입니다."
+                },
+                {
+                    "QUESTION": "2023년 버밀당베이커리의 온라인 전용상품 비중은 어떻게 되나요?",
+                    "ANSWER": "2023년 기준으로 버밀당베이커리의 온라인 전용상품 비중은 0%입니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비에서 운영하는 브랜드인 버밀당베이커리의 판매상품 비중에 대해 알고 싶습니다.",
+                    "ANSWER": "2023년 기준으로 버밀당베이커리의 판매상품 비중은 오프라인 전용상품이 100%이고, 온라인 전용상품은 0%입니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리는 2023년 온라인 판매상품이 없다는 것은 어떤 의미인가요?",
+                    "ANSWER": "2023년 기준으로 버밀당베이커리는 온라인 전용판매상품이 전혀 없는 상황이며, 모든 판매는 오프라인 전용상품으로 이루어지고 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402015163746750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "505027501",
+            "KORN_ATTRB_NM": "2) 바로 전 사업연도 말 기준 국내 판매상품 중 온라인과 오프라인 전용 판매상품의 비중",
+            "UP_ATTRB_MNNO": "505007501",
+            "KORN_UP_ATRB_NM": "5. 가맹본부의 온라인·오프라인 판매에 관한 사항"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 2) 바로 전 사업연도 말 기준 국내 판매상품 중 온라인과 오프라인 전용 판매상품의 비중\n(단위: %)",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \nonline과 offline 전용 판매상품 비중: (단위: %)   (추가 정보 없음)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n Domestic 판매상품 중 온라인과 오프라인 전용 판매상품 비중: (단위: %)  ",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 브랜드인 버밀당베이커리에서 온라인 판매상품과 오프라인 판매상품의 비중은 어떻게 됩니까?",
+                    "ANSWER": "버밀당베이커리의 마지막 사업연도 기준으로 온라인 판매상품과 오프라인 전용 판매상품의 비중을 확인하는 것이 필요합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 오프라인 전용 판매상품 비중이 얼마나 되나요?",
+                    "ANSWER": "버밀당베이커리의 오프라인 전용 판매상품 비중에 대한 구체적인 데이터는 제공되지 않았습니다."
+                },
+                {
+                    "QUESTION": "온라인과 오프라인 전용 판매상품의 비중은 ㈜제이피에프엔비가 운영하는 버밀당베이커리에서 어떻게 나타나나요?",
+                    "ANSWER": "버밀당베이커리의 온라인과 오프라인 전용 판매상품 비중은 사업연도 말 기준으로 확인해야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 각 판매 채널별 비중을 알 수 있나요?",
+                    "ANSWER": "가맹본부인 ㈜제이피에프엔비에 문의하시면 버밀당베이커리의 각 판매 채널별 비중에 대한 자세한 정보를 제공받을 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402795358388750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506017501",
+            "KORN_ATTRB_NM": "1) 가맹계약 및 갱신 기간",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 1) 가맹계약 및 갱신 기간\n[버밀당베이커리]가맹사업의 계약기간은 계약체결일로부터[2]년이며, 가맹계약 갱신시 계약기간은 계약갱신일로부터[1]년입니다.",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n가맹계약 기간: 2년  \n갱신 기간: 1년  ",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n계약기간: 가맹사업 계약은 체결일부터 2년이며, 갱신 시 1년입니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 가맹계약은 어떤 기간으로 이루어지나요?",
+                    "ANSWER": "버밀당베이커리의 가맹계약은 계약체결일로부터 2년입니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹계약 갱신 기간은 어떻게 되나요?",
+                    "ANSWER": "버밀당베이커리의 가맹계약 갱신 시 계약기간은 계약갱신일로부터 1년입니다."
+                },
+                {
+                    "QUESTION": "가맹본부인 ㈜제이피에프엔비의 버밀당베이커리 가맹계약 갱신은 어떤 조건이 있나요?",
+                    "ANSWER": "가맹본부 ㈜제이피에프엔비의 버밀당베이커리 가맹계약 갱신은 계약갱신일로부터 1년입니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리 가맹계약의 최초 계약 기간은 얼마인가요?",
+                    "ANSWER": "버밀당베이커리 가맹계약의 최초 계약 기간은 2년입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402903450888750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506027501",
+            "KORN_ATTRB_NM": "2) 계약 연장이나 재계약, 또는 계약 종료에 필요한 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 2) 계약 연장이나 재계약, 또는 계약 종료에 필요한 절차\n가맹사업거래의 공정화에 관한 법률 제13조 및 같은 법 시행령 제14조에 따라 귀하에게는 가맹계약의 갱신을 요구할 수 있는 권리가 최초 계약일로부터 10년간 주어집니다.<table><tr><td>순서</td><td>기간</td></tr><tr><td>① 가맹점사업자가 계약갱신을 요구하였습니까? (예→②, 아니오→⑦)</td><td>D-180 ～ D-90</td></tr><tr><td>② (3)에서 정한 계약갱신 거절 사유에 해당합니까? (예→④, 아니오→③)</td><td>D-180 ～ D-90</td></tr><tr><td>③ 가맹본부가 계약조건 변경을 서면으로 통지하였습니까? (예→⑤, 아니오→A)</td><td>D-180 ～ D-90</td></tr><tr><td>④가맹본부가 가맹점사업자에게 거절 사유를 적은 서면으로 거절 통지를 하였습니까? (예→B, 아니오→A)</td><td>①+15일 이내</td></tr><tr><td>⑤ 가맹점사업자가 계약조건 변경에 동의하였습니까? (예→C, 아니오→⑥)</td><td>-</td></tr><tr><td>⑥ 변경된 계약조건이 다른 가맹점사업자에게 통상적으로 적용되는 계약조건입니까? (예→B, 아니오→D)</td><td>-</td></tr><tr><td>⑦ 가맹본부가 계약갱신을 하지 않겠다는 사실을 서면으로 통지하였습니까? (예→B, 아니오→⑧)</td><td>D-180 ～ D-90</td></tr><tr><td>⑧ 가맹점사업자가 계약갱신 또는 계약조건에 대하여 이의를 제기하였습니까? (예→E, 아니오→A)</td><td>D-60일 이전</td></tr><tr><td>A. 종전과 같은 조건으로 다시 가맹계약 체결</td><td>D-day</td></tr><tr><td>B. 계약기간이 만료되는 날 계약 종료</td><td>D-day</td></tr><tr><td>C. 변경된 조건으로 다시 가맹계약 체결</td><td>D-day</td></tr><tr><td>D. 양자가 합의하여 계약조건을 바꾸어야 함(가맹본부가 계약 변경을 강행할경우 불공정거래행위에 해당할 수 있음)</td><td>-</td></tr><tr><td>E. 양자가 합의하여 계약을 만료하거나 변경된 조건으로 다시 가맹계약 체결(민사상 문제로 가맹사업법에서 특별하게 제한하는 규정 없음)</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: ㈜제이피에프엔비\n- **브랜드명**: 버밀당베이커리\n\n**계약 갱신 절차 요약**:\n1. **가맹점사업자가 계약갱신 요구**: D-180 ~ D-90\n   - 예 → 다음 단계\n   - 아니오 → 계약 종료\n2. **계약갱신 거절 사유 해당 여부**: D-180 ~ D-90\n   - 예 → 다음 단계\n   - 아니오 → 계약 조건 변경 통지 여부 확인\n3. **계약 조건 변경 서면 통지 여부**: D-180 ~ D-90\n   - 예 → 다음 단계\n   - 아니오 → 계약 종료\n4. **거절 사유 서면 통지 여부**: ① + 15일 이내\n   - 예 → 계약 종료\n   - 아니오 → 계약 종료\n5. **계약조건 변경 동의 여부**: \n   - 예 → 변경된 조건으로 계약 체결\n   - 아니오 → 다음 단계\n6. **변경된 계약조건의 통상 적용 여부**: \n   - 예 → 계약 종료\n   - 아니오 → 계약 조건 변경 합의 필요\n7. **계약갱신 미실시 서면 통지 여부**: D-180 ~ D-90\n   - 예 → 계약 종료\n   - 아니오 → 이의 제기 여부 확인\n8. **이의 제기 여부**: D-60일 이전\n   - 예 → 합의에 따른 계약 체결\n   - 아니오 → 계약 종료\n\n**결과**:\n- A: 종전 조건으로 계약 체결 (D-day)\n- B: 계약 종료 (D-day)\n- C: 변경된 조건으로 계약 체결 (D-day)\n- D: 계약조건 변경 합의 필요\n- E: 계약 만료 또는 변경된 조건으로 계약 체결",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비로, 브랜드명은 버밀당베이커리입니다. 가맹계약의 갱신 요구 권리는 최초 계약일로부터 10년간 유지되며, 계약 갱신 절차는 다음과 같습니다:\n\n1. 가맹점사업자가 계약갱신을 요구한 경우 (D-180 ~ D-90).\n2. 계약갱신 거절 사유가 있는지 확인 (예→4, 아니오→3).\n3. 가맹본부가 계약조건 변경을 서면 통지했는지 (예→5, 아니오→A).\n4. 거절 사유를 서면으로 통지했는지 확인 (예→B, 아니오→A).\n5. 계약조건 변경에 가맹점사업자가 동의했는지 (예→C, 아니오→6).\n6. 변경된 조건이 다른 가맹점에 통상적으로 적용되는지 확인 (예→B, 아니오→D).\n7. 가맹본부가 계약갱신을 하지 않겠다고 서면 통지했는지 (예→B, 아니오→8).\n8. 계약갱신 또는 조건에 이의를 제기했는지 (예→E, 아니오→A).\n\n결과적으로, 계약 조건이 같을 경우, 계약은 종전 조건으로 체결되며, 거절 시 계약은 종료됩니다. 최종적으로 가맹점사업자는 계약 조건 변경을 통보받고, 동의 여부에 따라 계약을 체결할 수 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 가맹계약 갱신 권리는 언제까지 유효한가요?",
+                    "ANSWER": "가맹계약의 갱신을 요구할 수 있는 권리는 최초 계약일로부터 10년간 유효합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 계약갱신을 요구하는 시기는 언제인가요?",
+                    "ANSWER": "가맹점사업자는 D-180일에서 D-90일 사이에 계약갱신을 요구해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 계약조건을 변경할 경우, 변경 통지 후 가맹점사업자는 어떻게 해야 하나요?",
+                    "ANSWER": "가맹점사업자는 가맹본부가 서면으로 계약조건 변경을 통지한 경우, 변경된 조건에 동의해야 하며, 동의하지 않는 경우에는 불안정한 거래로 이어질 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 계약갱신을 거절할 수 있는 사유는 무엇인가요?",
+                    "ANSWER": "가맹본부는 계약갱신 거절 사유에 해당할 경우, 가맹점사업자에게 거절 사유를 서면으로 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리에서 계약조건이 변경되었을 때, 가맹점사업자는 어떤 선택지를 가질 수 있나요?",
+                    "ANSWER": "가맹점사업자는 변경된 조건으로 다시 가맹계약을 체결하거나, 종전과 같은 조건으로 가맹계약을 체결할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 계약갱신을 하지 않겠다고 서면으로 통지하면, 가맹점사업자는 어떻게 해야 하나요?",
+                    "ANSWER": "가맹점사업자는 D-180일에서 D-90일 사이에 계약갱신 또는 계약조건에 대해 이의를 제기할 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402903451395750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506027501",
+            "KORN_ATTRB_NM": "2) 계약 연장이나 재계약, 또는 계약 종료에 필요한 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 2) 계약 연장이나 재계약, 또는 계약 종료에 필요한 절차\n구체적인 절차는 다음과 같습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 계약 연장이나 재계약, 또는 계약 종료에 필요한 절차: 구체적인 절차는 미제공.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n계약 연장이나 재계약, 또는 계약 종료에 필요한 절차는 구체적으로 정의되어 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리와의 계약 연장 절차는 어떻게 되나요?",
+                    "ANSWER": "버밀당베이커리와의 계약 연장 절차에 대해 알아보시려면 가맹본부인 ㈜제이피에프엔비에 문의하시면 상세한 정보를 제공받을 수 있습니다."
+                },
+                {
+                    "QUESTION": "계약 종료 시 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "계약 종료 시 필요한 절차는 ㈜제이피에프엔비에 의해 안내 받을 수 있으며, 구체적인 정보를 확인하시는 것이 좋습니다."
+                },
+                {
+                    "QUESTION": "재계약을 원할 경우 어떤 절차가 필요한가요?",
+                    "ANSWER": "재계약을 원하신다면 ㈜제이피에프엔비에 직접 문의하여 관련된 절차를 확인하시는 것이 좋습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리와의 계약을 종료할 때의 절차는 어떤 방식인가요?",
+                    "ANSWER": "버밀당베이커리와의 계약 종료 절차는 ㈜제이피에프엔비에 문의하시면 안내받으실 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402814396552750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506037501",
+            "KORN_ATTRB_NM": "3) 계약 갱신 거절(종료) 사유",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 3) 계약 갱신 거절(종료) 사유\n<table><tr><td>갱신요구 거절 사유</td><td>관련 계약조문</td></tr><tr><td>○ 가맹계약상의 가맹금 등의 지급의무를 지키지 아니한 경우</td><td>제8조</td></tr><tr><td>○ 다른 가맹점사업자에게 통상적으로 적용되는 계약조건이나 영업방침을 귀하가 수락하지</td></tr><tr><td>○ 가맹점 운영에 필요한 점포ㆍ설비의 확보나 법령상 필요한 자격ㆍ면허ㆍ허가의 취득을</td></tr><tr><td>○ 판매하는 상품이나 용역의 품질을 유지하기 위하여 필요한 제조공법 또는서비스기법을</td></tr><tr><td>○ [버밀당베이커리]경영에 필수적인 지식재산권을 보호하기 위한 방침을 지키지않은 경우</td></tr><tr><td>○ 가맹점사업자에게 정기 또는 부정기적으로 실시하는 교육ㆍ훈련의 준수에 관한 사항을</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** ㈜제이피에프엔비  \n**브랜드명:** 버밀당베이커리  \n\n**계약갱신 거절(종료) 사유:**\n1. 가맹금 등의 지급 의무 불이행 (제8조)\n2. 다른 가맹점사업자에게 적용되는 계약조건이나 영업방침 미수락\n3. 점포 및 설비 확보, 법령상 자격 또는 면허 취득 미비\n4. 상품이나 용역의 품질 유지를 위한 제조공법 또는 서비스기법 미준수\n5. 지식재산권 보호 방침 미준수\n6. 정기 또는 부정기 교육 및 훈련 준수 사항 미준수",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비로, 브랜드명은 버밀당베이커리입니다. 계약갱신 거절 사유는 다음과 같습니다:\n\n1. 가맹금 등의 지급 의무 불이행 (제8조)\n2. 다른 가맹점에 적용되는 계약 조건이나 영업 방침 수락 거부\n3. 점포 및 설비 확보 또는 법적 자격 취득 미비\n4. 상품 및 서비스의 품질 유지를 위한 제조공법 또는 서비스기법 미준수\n5. 지식재산권 보호 방침 미준수\n6. 정기 또는 부정기 교육 및 훈련 준수 미비",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 버밀당베이커리에서 가맹계약 갱신을 요청했으나 거절될 수 있는 사유는 무엇인가요?",
+                    "ANSWER": "가맹계약의 갱신 요구 거절 사유에는 가맹금 등의 지급 의무 불이행, 다른 가맹점사업자에게 적용되는 계약 조건이나 영업 방침 미수락, 점포 및 설비 확보 미비, 필요한 자격 및 허가 미취득, 제조공법 또는 서비스 기법 불준수, 지식재산권 보호 방침 미준수, 교육 및 훈련 준수 사항 불이행 등이 포함됩니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹계약 갱신이 거절될 수 있는 법적 근거는 무엇인가요?",
+                    "ANSWER": "갱신 요구 거절은 제8조와 관련된 조문에 따라 이루어지며, 다양한 사유가 이에 해당합니다."
+                },
+                {
+                    "QUESTION": "가맹계약 갱신 시 가맹점 사업자가 지켜야 할 요구 사항은 무엇이 있나요?",
+                    "ANSWER": "가맹점 사업자는 가맹금 지급 의무 이행, 다른 가맹점사업자에 적용되는 조건 수락, 점포와 설비 확보, 법적인 자격 및 면허 취득, 품질 유지에 필요한 제조 공법 준수, 지식재산권 보호 방침 준수, 교육 및 훈련 준수 사항을 지켜야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점 운영에 필요한 점포 및 설비인은 어떻게 확보하나요?",
+                    "ANSWER": "가맹점 사업자는 법령상 필요한 자격 및 면허를 취득하고, 가맹점 운영에 필요한 점포와 설비를 적절히 확보해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402814397093750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506037501",
+            "KORN_ATTRB_NM": "3) 계약 갱신 거절(종료) 사유",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 3) 계약 갱신 거절(종료) 사유\n당사가 가맹계약의 갱신요구를 거절할 수 있는 사유는 다음과 같습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 계약갱신 거절 사유: 당사가 가맹계약의 갱신요구를 거절할 수 있는 사유는 명시됨.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n(3) 계약갱신 거절 사유: 당사가 가맹계약의 갱신요구를 거절할 수 있는 사유는 다음과 같습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비가 버밀당베이커리와의 가맹계약 갱신을 거절할 수 있는 사유는 무엇인가요?",
+                    "ANSWER": "가맹계약의 갱신 요구를 거절하는 사유는 계약서에 명시된 조건에 따라 달라질 수 있습니다. 구체적인 사유에 대해서는 가맹본부에 직접 문의하시는 것이 좋습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹계약 갱신이 거절될 수 있는 조건은 어떤 것이 있는지 알 수 있을까요?",
+                    "ANSWER": "가맹계약 갱신이 거절될 수 있는 조건은 가맹계약서에 상세히 나와 있습니다. 이를 확인하시려면 가맹본부에 문의하시는 것이 가장 정확합니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비는 어떤 이유로 가맹점의 계약 갱신을 거절할 수 있는지 궁금합니다.",
+                    "ANSWER": "가맹계약의 갱신을 거절할 수 있는 사유는 여러 가지가 있으며, 구체적인 내용은 가맹본부의 공식 문서나 상담을 통해 확인 가능합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402209829758750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506047501",
+            "KORN_ATTRB_NM": "4) 계약 해지 사유 및 그 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 4) 계약 해지 사유 및 그 절차\n당사가 귀하와의 가맹계약을 해지할 수 있는 사유는 크게 합의해지, 일반해지, 즉시해지 등 3가지로 사유 및 절차의 자세한 내용은 다음과 같습니다.1) 합의해지 사유 및 그 절차당사 또는 귀하가 가맹점 개점 이후, 본 계약기간에도 불구하고 상호 문서에 의하여 합의 해지 약정을 체결하고 본 계약을 중도해지 할 수 있습니다. 이의 경우, 당사 또는 귀하는 본 계약의 상대방에게 2개월 전에 그 취지를 서면으로 통지하여 상호 합의하여야 합니다. 다만, 합의해지가 완료될 때까지는 본 계약에 의한 각자의 권리를 가지며, 각자의 의무를 성실하게 이행하여야 하고, 상호 각자의 손해를 배상하여야 합니다.당사 또는 귀하는 정당한 사유 없이 가맹 계약을 임의로 해지할 수 없으며, 이로 인해 손해가 발생한 경우에는 당사 또는 귀하는 각자의 상대방에게 손해배상을 청구할 수 있습니다.<table><tr><td>일반계약 해지 사유</td><td>관련 계약 조문</td></tr><tr><td>○ 가맹점사업자가 세금을 납부하지 못해 체납 처분을 당하거나, 주요 재산에 압류, 경매</td><td>제28조 제1항</td></tr><tr><td>○ 가맹점본사의 상호 또는 상표를 불법 부당하게 사용하거나 가맹점 본사의 상호 또는</td><td>제28조 제1항</td></tr><tr><td>○ 가맹점사업자가 제3조 제1항(가맹점의 표시)의 규정을 위반하거나 다른 가맹점사업자의</td><td>제28조 제1항</td></tr><tr><td>○ 가맹점사업자의 고의 또는 과실로 점포의 임차권이 종료된 경우</td><td>제28조 제1항</td></tr><tr><td>○ 가맹점사업자 또는 가맹점사업자의 직원이 정당한 사유 없이 가맹점본사에서 실시하는</td><td>제28조 제1항</td></tr><tr><td>○ 가맹점사업자가 영업을 개시하였음에도 불구하고 예치가맹금의 지급에 필요한 증명서류</td><td>제28조 제1항</td></tr><tr><td>○ 가맹점사업자가 경업을 하거나 가맹점사업자의 직원 등을 통하여 가맹점본사의</td><td>제28조 제1항</td></tr><tr><td>○ 가맹점사업자가 물품대금, 로얄티, 광고, 판촉비 등의 대금지급을 3회 이상 연체하거나</td><td>제28조 제1항</td></tr><tr><td>○ 가맹점사업자 총매출액 또는 매출액 증가비율을 3회 이상 허위로 통지하는 경우</td><td>제28조 제1항</td></tr><tr><td>○ 가맹점사업자가 관련 법규를 준수하지 아니하거나 가맹점사업자가 가맹점본사의</td><td>제28조 제1항 제10호</td></tr><tr><td>○ 가맹점사업자가 노후 된 점포설비의 대하여 정당한 사유에 따른 교체·보수요청에 따르지</td><td>제28조 제1항 제11호</td></tr><tr><td>○ 가맹점사업자가 제24조 제1항의 규정(감독 및 시정요구권)에 의한 가맹점본사의</td><td>제28조 제1항 제12호</td></tr><tr><td>○ 가맹점사업자가 가맹점본사의 동의 없이 임의로 상품을 변경·추가하거나 가맹점본사에</td><td>제28조 제1항 제13호</td></tr><tr><td>○ 가맹점사업자가 제26조(자점매입)규정을 위반하여 자점매입하거나 타 업소에 제공 또는</td><td>제28조 제1항 제14호</td></tr><tr><td>○ 가맹정사업자가 가맹점본사의 정한 매뉴얼 기준에 따른 합리적 관리기준을 계약기간 내</td><td>제28조 제1항 제15호</td></tr><tr><td>○ 가맹점사업자가 가맹점본사와 약정한 광고 및 판촉활동을 성실히 이행하지 아니하는 경우</td><td>제28조 제1항 제16호</td></tr><tr><td>○ 가맹점사업자가 다수의 고객으로부터 동일한 불만사항을 접수받고도 시정하지 아니하는</td><td>제28조 제1항 제17호</td></tr><tr><td>○ 가맹점사업자가 가맹점본사와 협의 없이 점포관리 업무를 5일 이상 방치하거나 영업시간</td><td>제28조 제1항 제18호</td></tr><tr><td>○ 기타 본 계약의 내용을 위반하여 가맹점본사의 명성에 악영향을 미치거나 가맹사업의</td><td>제28조 제1항 제19호</td></tr><tr><td>○ 가맹점사업자가 가맹계약서 제18조 제4항에 해당하여 계약 체결일로부터 3개월 지나도</td><td>제35조 제3항</td></tr><tr><td>○ 가맹점사업자가 개점 전 교육을 이수하지 않아 가맹점 운영이 불가능한 경우</td><td>제35조 제3항</td></tr><tr><td>○ 가맹점사업자가 당사의 사전 승인 없이 임의로 가맹점 위치를 변경하는 경우</td><td>제35조 제3항</td></tr><tr><td>○ 가맹점사업자가 정당한 사유 없이 당사의 중요한 영업방침을 이행하지 아니하는 경우</td><td>제35조 제3항</td></tr><tr><td>○ 가맹점사업자가 당사의 사전 승인 없이 가맹점을 양도하는 경우</td><td>제35조 제3항</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** ㈜제이피에프엔비  \n**브랜드명:** 버밀당베이커리  \n\n**계약 해지 사유 및 절차:**  \n1. **합의해지:**  \n   - 가맹점 개점 후 상호 문서에 의한 합의 해지 가능.  \n   - 2개월 전 서면 통지 필요.  \n   - 합의해지 완료 전까지 권리와 의무 이행 및 손해 배상 의무 유지.\n\n2. **일반해지 사유:**  \n   - 세금 체납, 불법 상호/상표 사용, 가맹점 표시 위반.  \n   - 임차권 종료, 정당한 사유 없이 광고 활동 불이행.  \n   - 물품 대금, 로얄티, 광고비 지급 연체.  \n   - 총매출액 허위 통지, 관련 법규 불이행.  \n   - 점포설비 교체 요청 불이행, 감독 요구 불이행.  \n   - 상품 무단 변경 및 자점 매입 규정 위반.  \n   - 광고 및 판촉 활동 불이행, 고객 불만 시정 미이행.  \n   - 점포 관리 업무 방치.  \n   - 계약 위반으로 명성에 악영향 미치거나 가맹사업 저해.  \n   - 계약 체결일로부터 3개월 경과 시 교육 미이수.  \n   - 사전 승인 없는 가맹점 위치 변경, 영업방침 미이행, 가맹점 양도.  \n\n**관련 조문:**  \n- 해지 사유 관련 조문: 제28조, 제35조.  \n- 각 사유에 대한 구체적인 내용은 위의 표 참조.  ",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비이며, 브랜드명은 버밀당베이커리입니다. 가맹계약 해지 사유는 합의해지, 일반해지, 즉시해지로 구분되며, 구체적인 해지 사유는 다음과 같습니다:\n\n1. **합의해지**: 당사 또는 귀하는 가맹점 개점 후 문서로 합의하여 계약을 해지할 수 있으며, 2개월 전 서면 통지가 필요합니다.\n\n2. **일반해지 사유**:\n   - 세금 체납 또는 주요 재산 압류\n   - 상호 또는 상표의 불법 사용\n   - 가맹점 표시 규정 위반\n   - 점포 임차권 종료\n   - 정당한 사유 없이 가맹본사 동의 없는 영업\n   - 영업 개시 후 예치금 지급 지연\n   - 경업 또는 광고비 지급 지연\n   - 허위 매출 통지\n   - 법규 미준수\n   - 점포 설비 교체 요청 미이행\n   - 감독 및 시정 요구 미이행\n   - 임의 상품 변경\n   - 자점 매입 규정 위반\n   - 관리 기준 미준수\n   - 광고 및 판촉 활동 미이행\n   - 불만 사항 미시정\n   - 점포 관리 업무 방치\n   - 계약 위반으로 명성에 악영향 미치기\n   - 계약 체결 후 3개월 경과\n   - 개점 전 교육 미이수\n   - 사전 승인 없이 가맹점 위치 변경\n   - 중요한 영업방침 미이행\n   - 가맹점 양도 시 사전 승인 없음\n\n각 해지 사유에 대한 자세한 내용은 관련 계약 조문에 명시되어 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 가맹계약 해지 사유에는 어떤 것이 있나요?",
+                    "ANSWER": "가맹계약 해지 사유에는 합의해지, 일반해지, 즉시해지가 있습니다. 일반해지 사유로는 세금 체납, 상호의 불법 사용, 규정 위반 등이 포함됩니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리에서 합의해지 절차는 어떻게 되나요?",
+                    "ANSWER": "합의해지 절차는 가맹점주와 본사 간의 문서 합의가 필요하며, 최소 2개월 전에 서면으로 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리 가맹점사업자가 세금을 납부하지 못했을 경우 계약은 어떻게 되나요?",
+                    "ANSWER": "세금을 납부하지 못해 체납 처분을 당하면 가맹계약을 해지할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 물품대금을 3회 이상 연체할 경우 어떤 결과가 발생하나요?",
+                    "ANSWER": "물품대금을 3회 이상 연체할 경우, 이는 가맹계약 해지 사유가 될 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 영업을 개시했으나 증명서류를 지급하지 않을 경우의 책임은 어떻게 되나요?",
+                    "ANSWER": "영업을 개시했음에도 불구하고 예치가맹금 지급에 필요한 증명서류를 지급하지 않을 경우, 이는 가맹계약 해지 사유가 됩니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹계약 해지와 관련하여 주요 사항은 무엇인가요?",
+                    "ANSWER": "가맹계약 해지와 관련하여 주요 사항은 합의해지, 일반해지, 즉시해지의 사유와 절차를 명확히 이해하는 것입니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리에서 가맹계약 해지 시 손해배상은 어떻게 진행되나요?",
+                    "ANSWER": "가맹계약을 정당한 사유 없이 임의로 해지한 경우, 손해가 발생하면 각 당사자는 상대방에게 손해배상을 청구할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 정당한 사유 없이 본사의 영업방침을 이행하지 않으면 어떤 처벌을 받나요?",
+                    "ANSWER": "정당한 사유 없이 중요 영업방침을 이행하지 않으면 가맹계약 해지 사유가 될 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402209830128750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506047501",
+            "KORN_ATTRB_NM": "4) 계약 해지 사유 및 그 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 4) 계약 해지 사유 및 그 절차\n2) 일반해지 사유 및 절차가맹사업거래의 공정화에 관한 법률 제14조와 같은 법 시행령 제15조에 따라 당사가 가맹계약을 해지하려는 경우에는 귀하에게 서면으로 2개월 이상의 유예기간을 두고 계약의 위반 사실 및 이를 시정하지 않을 경우 계약을 해지한다는 사실을 2회 이상 통지하고 있습니다. 이러한 절차를 거치지 않은 계약해지는 무효가 됩니다.3) 즉시해지 사유 및 절차<table><tr><td>즉시계약 해지 사유</td></tr><tr><td>① 가맹점사업자에게 파산 신청이 있거나 강제집행절차 또는 회생절차가 개시된경우</td></tr><tr><td>② 가맹점사업자가 발행한 어음·수표가 부도 등으로 지불정지된 경우</td></tr><tr><td>③ 천재지변, 중대한 일신상의 사유 등으로 가맹점사업자가 더 이상 가맹사업을경영할 수 없게 된 경우</td></tr><tr><td>④ 가맹점사업자가 가맹점 운영과 관련되는 법령을 위반하여 다음 각 목의 어느 하나에 해당하는 행정처분을 받거나  법원 판결을 받음으로써 가맹본부의 명성이나 신용을 뚜렷이 훼손하여 가맹사업에 중대한 장애를 초래한 경우</td></tr><tr><td>⑤ 가맹점사업자가 가맹점 운영과 관련되는 법령을 위반하여 자격·면허·허가 취소또는 영업정지 명령(15일 이내의    </td></tr><tr><td>⑥ 가맹점사업자가 법 제14조제1항 본문에 따른 가맹본부의 시정요구에 따라 위반사항을 시정한 날부터 </td></tr><tr><td>⑦ 가맹점사업자가 가맹점 운영과 관련된 행위로 형사처벌을 받은 경우</td></tr><tr><td>⑧ 가맹점사업자가 뚜렷이공중의 건강이나 안전에 급박한 위해를 일으킬 염려가 있는방법이나 형태로</td></tr><tr><td>⑨가맹점사업자가 정당한 사유 없이 연속하여 7일 이상 영업을 중단한 경우</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** ㈜제이피에프엔비  \n**브랜드명:** 버밀당베이커리  \n\n### 계약 해지 사유 및 절차\n1. **일반해지**\n   - 계약 해지 시, 서면으로 2개월 이상의 유예기간을 두고 계약 위반 사실 및 시정 요구 통지 (2회 이상).\n   - 절차 미준수 시 해지는 무효.\n\n2. **즉시해지 사유**\n   1. 가맹점사업자 파산 신청 또는 회생절차 개시\n   2. 어음·수표의 부도\n   3. 천재지변, 중대한 개인 사유로 사업 경영 불가능\n   4. 법령 위반으로 인한 행정처분 또는 법원 판결로 명성 훼손\n   5. 법령 위반으로 자격·면허·허가 취소 또는 영업정지\n   6. 시정요구 후 위반사항 미시정\n   7. 형사처벌 받은 경우\n   8. 공중 건강이나 안전에 급박한 위험 초래\n   9. 정당한 사유 없이 7일 이상 영업 중단",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n### 계약 해지 관련 사항\n\n#### 일반 해지 사유 및 절차\n- 가맹계약 해지를 원할 경우, 서면으로 2개월 이상의 유예기간을 두고 계약 위반 사실을 2회 이상 통지해야 하며, 이를 지키지 않은 해지는 무효입니다.\n\n#### 즉시 해지 사유\n1. 가맹점사업자가 파산 신청, 강제집행, 회생절차를 개시한 경우.\n2. 발행한 어음·수표가 부도로 지불 정지된 경우.\n3. 천재지변 등으로 경영이 불가능해진 경우.\n4. 법령 위반으로 행정처분 또는 법원 판결로 명성을 훼손한 경우.\n5. 자격·면허·허가 취소 또는 영업 정지 명령을 받은 경우.\n6. 시정 요구 후에도 위반사항을 시정하지 않은 경우.\n7. 형사처벌을 받은 경우.\n8. 공공 안전에 급박한 위험이 우려되는 경우.\n9. 정당한 사유 없이 7일 이상 영업을 중단한 경우. \n\n이 내용을 바탕으로 가맹점사업자는 계약 해지에 대한 경고 및 절차를 숙지해야 합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 일반해지 사유는 무엇인가요?",
+                    "ANSWER": "가맹계약 해지를 원할 경우, 가맹본부는 계약 위반 사실과 그 시정 요청을 서면으로 두 번 이상 통지하고 2개월 이상의 유예기간을 제공합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리에서 즉시 계약 해지 사유는 어떤 것들이 있나요?",
+                    "ANSWER": "즉시 계약 해지 사유에는 가맹점사업자의 파산 신청, 발행한 어음이나 수표의 부도, 천재지변으로 사업 운영 불가, 법령 위반으로 인한 행정처분이나 법원 판결 등이 포함됩니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 법령을 위반하여 영업정지 명령을 받은 경우, 버밀당베이커리는 어떤 조치를 취하나요?",
+                    "ANSWER": "가맹점사업자가 법령을 위반하여 자격이나 면허가 취소되거나 영업정지 명령을 받은 경우, 즉시 계약 해지가 가능합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 형사처벌을 받은 경우, 버밀당베이커리는 어떻게 하나요?",
+                    "ANSWER": "형사처벌을 받은 가맹점사업자는 버밀당베이커리에서 즉시 계약 해지가 이루어질 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 정당한 사유 없이 7일 이상 영업을 중단하면 어떤 결과가 발생하나요?",
+                    "ANSWER": "정당한 사유 없이 연속하여 7일 이상 영업을 중단한 경우, 버밀당베이커리는 즉시 계약 해지를 할 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402209830473750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 3,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506047501",
+            "KORN_ATTRB_NM": "4) 계약 해지 사유 및 그 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 4) 계약 해지 사유 및 그 절차\n위의 일반해지와 달리 가맹사업법 시행령 제15조의 계약해지 사유에 해당되는 아래의 경우에는 2개월 이상의 유예기간이나 2회 이상의 서면통지 없이 본 계약을 즉시 해지할 수 있습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 계약 해지 사유: 가맹사업법 시행령 제15조에 해당되는 경우\n- 해지 절차: 2개월 이상의 유예기간이나 2회 이상의 서면통지 없이 즉시 해지 가능.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n(4) 계약 해지 사유 및 절차: \n일반 해지와 다르게, 가맹사업법 시행령 제15조의 계약 해지 사유에 해당할 경우, 2개월 유예기간이나 서면 통지 없이 즉시 해지 가능.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 계약 해지 사유는 무엇인가요?",
+                    "ANSWER": "버밀당베이커리는 일반해지 이외에 가맹사업법 시행령 제15조에 해당하는 사유가 발생할 경우, 2개월 이상의 유예기간이나 2회 이상의 서면통지 없이 계약을 즉시 해지할 수 있습니다."
+                },
+                {
+                    "QUESTION": "계약 해지 시 유예기간이 없는 경우는 어떤 조건인가요?",
+                    "ANSWER": "버밀당베이커리와의 계약에서 유예기간이 없는 즉시 해지 사유는 가맹사업법 시행령 제15조에 명시된 조건을 충족하는 경우입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402971005440750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506057501",
+            "KORN_ATTRB_NM": "5) 계약 수정의 사유, 사전 통보 여부 및 동의 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 5) 계약 수정의 사유, 사전 통보 여부 및 동의 절차\n<table><tr><td>계약 수정 사유</td><td>관련 가맹계약서 조문</td></tr><tr><td>○ 가맹사업법의 개정 또는요식업 관련 법률의 제정 또는 개정의 경우</td><td>제44조</td></tr><tr><td>○ 가맹사업의 통일화를 위한 영업방침의 변경이 불가피한 경우</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: ㈜제이피에프엔비\n- **브랜드명**: 버밀당베이커리\n\n**계약 수정 사유**:\n1. 가맹사업법의 개정 또는 요식업 관련 법률의 제정 또는 개정 (관련 조문: 제44조)\n2. 가맹사업의 통일화를 위한 영업방침의 변경이 불가피한 경우",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n계약 수정의 사유:  \n1. 가맹사업법의 개정 또는 요식업 관련 법률의 제정 또는 개정 (관련 조문: 제44조)  \n2. 가맹사업의 통일화를 위한 영업방침의 변경이 불가피한 경우  ",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 가맹본부인 ㈜제이피에프엔비는 어떤 사유로 계약을 수정할 수 있나요?",
+                    "ANSWER": "주요 계약 수정 사유로는 가맹사업법의 개정 또는 요식업 관련 법률의 제정이나 개정이 있을 경우와, 가맹사업의 통일화를 위한 영업방침의 변경이 불가피한 경우가 있습니다."
+                },
+                {
+                    "QUESTION": "계약 수정 시 가맹점주는 사전 통보를 받아야 하나요?",
+                    "ANSWER": "계약 수정에 대한 사전 통보 여부는 가맹계약서에서 정해진 절차에 따라 다를 수 있으며, 관련 법률의 변경이 있을 경우 반드시 통보를 받게 됩니다."
+                },
+                {
+                    "QUESTION": "가맹사업의 통일화를 위한 영업방침 변경 시 어떤 절차를 거치나요?",
+                    "ANSWER": "영업방침의 변경이 불가피한 경우에는 가맹본부인 ㈜제이피에프엔비와의 협의 및 동의 절차가 필요합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402971005621750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506057501",
+            "KORN_ATTRB_NM": "5) 계약 수정의 사유, 사전 통보 여부 및 동의 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 5) 계약 수정의 사유, 사전 통보 여부 및 동의 절차\n당사는 계약기간 중에 계약서의 내용을 변경하지 않는 것을 원칙으로 합니다. 다만, 다음의 경우에는 귀하의 동의를 얻어 계약 조건을 수정할 수 있습니다.<table><tr><td>재조정 절차</td><td>동의 절차</td></tr><tr><td>계약 수정 사유 발생 → 당사 담당팀 검토 →</td><td>수정 계약서(안)를 서면으로 통지하고 30일 이내에</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n\n**계약 수정 관련 요약:**\n- 원칙: 계약기간 중 계약 내용 변경 금지.\n- 계약 수정 가능 사유:\n  1. 계약 수정 사유 발생\n  2. 당사 담당팀 검토\n- 동의 절차: 수정 계약서(안)를 서면으로 통지하고 30일 이내에 동의 받음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n계약 수정은 원칙적으로 계약 기간 중 변경하지 않으며, 특정 사유 발생 시 귀하의 동의를 통해 수정 가능합니다. 재조정 절차는 계약 수정 사유 발생 후 담당팀 검토를 거쳐 수정 계약서(안)를 서면으로 통지하고, 동의 절차는 수정 계약서 통지 후 30일 이내에 진행됩니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 버밀당베이커리에서 계약 수정이 필요한 경우 어떤 절차를 따르나요?",
+                    "ANSWER": "계약 수정이 필요한 경우, 계약 수정 사유 발생 후 가맹본부 담당팀이 검토하며, 수정 계약서(안)를 서면으로 통지한 뒤 30일 이내에 귀하의 동의를 받아야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리 계약 수정 시 동의 절차는 어떻게 진행되나요?",
+                    "ANSWER": "계약 수정 시 가맹본부는 수정 계약서(안)를 서면으로 통지하며, 귀하는 해당 내용을 30일 이내에 동의해야 합니다."
+                },
+                {
+                    "QUESTION": "계약 수정 사유가 발생하면 버밀당베이커리에서 어떤 절차를 통해 계약을 변경하나요?",
+                    "ANSWER": "계약 수정 사유 발생 시, 가맹본부 담당팀이 내용을 검토한 후, 수정 계약서(안)를 서면으로 통지하게 됩니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 계약 수정 원칙은 무엇인가요?",
+                    "ANSWER": "㈜제이피에프엔비는 계약기간 중 계약서의 내용을 변경하지 않는 것을 원칙으로 하고 있으나, 특정 사유에 의해 귀하의 동의를 얻어 수정할 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402084339550750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507017501",
+            "KORN_ATTRB_NM": "1) 가맹점운영권의 환매",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 1) 가맹점운영권의 환매\n당사는 환매제도를 운영하고 있지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 가맹점운영권 환매: 환매제도 운영하지 않음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비이며, 브랜드명은 버밀당베이커리입니다. 가맹점 운영권에 대한 환매는 이루어지지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 버밀당베이커리는 가맹점 운영권 환매 제도가 있나요?",
+                    "ANSWER": "버밀당베이커리는 환매 제도를 운영하고 있지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402672519538750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507027501",
+            "KORN_ATTRB_NM": "2) 가맹점운영권의 양도",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 2) 가맹점운영권의 양도\n귀하가 가맹점운영권을 다른 사업자에게 양도하기 위해서는 당사에게 2개월 전에 서면으로 그 사실을 통지하여야 하고, 당사의 승인이 있어야만 합니다. 자세한 내용은 다음과 같습니다.<table><tr><td>양도 가능 조건</td><td>양도 절차</td><td>비고</td></tr><tr><td>○양수인이 당사가 정한 가맹운영</td><td>가맹점사업자가 서면으로 양도 신청 → 당사담당팀 검토</td><td>(문의) 가맹사업팀</td></tr><tr><td>○양수인은 당사가 정한 소정의</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명**: ㈜제이피에프엔비  \n**브랜드명**: 버밀당베이커리  \n\n**가맹점운영권 양도 조건 및 절차**  \n1. **양도 가능 조건**:  \n   - 양수인은 당사가 정한 가맹운영을 유지해야 함.  \n   - 양수인은 당사가 정한 소정의 조건을 충족해야 함.  \n\n2. **양도 절차**:  \n   - 가맹점사업자가 서면으로 양도 신청.  \n   - 당사 담당팀이 검토 후 승인 필요.  \n\n3. **비고**:  \n   - 문의는 가맹사업팀으로 연락 필요.  ",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n가맹점운영권 양도에 관한 사항:\n- 양도 신청은 2개월 전에 서면 통지 필요, 승인 필수.\n- 양도 조건: 양수인은 가맹운영을 따라야 하며, 양수인은 당사가 정한 소정의 조건을 충족해야 함.\n- 양도 절차: 가맹점사업자가 서면으로 양도 신청 → 당사 담당팀 검토.  \n- 비고: 문의는 가맹사업팀으로.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리 가맹점운영권을 양도하려면 어떤 조건이 필요한가요?",
+                    "ANSWER": "양도 가능 조건으로는 양수인이 당사가 정한 가맹운영을 준수해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점운영권을 양도하는 절차는 어떻게 되나요?",
+                    "ANSWER": "가맹점사업자는 서면으로 양도 신청을 하고, 이후 당사 담당팀의 검토를 받아야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점운영권을 양도하기 위해서는 언제까지 통지해야 하나요?",
+                    "ANSWER": "가맹점운영권을 양도하기 위해서는 2개월 전에 서면으로 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점운영권을 양도하려면 당사의 승인이 필요하나요?",
+                    "ANSWER": "네, 가맹점운영권을 양도하기 위해서는 당사의 승인이 필요합니다."
+                },
+                {
+                    "QUESTION": "양수인이 준수해야 할 조건 외에 추가적인 비고가 있나요?",
+                    "ANSWER": "양수인은 당사가 정한 소정의 조건을 준수해야 하며, 궁금한 사항은 가맹사업팀에 문의하시면 됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402672519817750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507027501",
+            "KORN_ATTRB_NM": "2) 가맹점운영권의 양도",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 2) 가맹점운영권의 양도\n당사가 양도를 승인하면 양수인은 양도인의 모든 권리의무를 승계하게 됩니다. 다만, 양수인이 원할 경우에는 당사는 양수인과 신규 가맹계약을 맺을 수 있습니다. 이 경우 신규 가맹계약일지라도 가맹점 모집비용, 개점행사비 등이 일반적인 신규가맹계약보다 적게 소요될 경우에는 비용 소요액에 상응하는 가맹금을 당사와 협의하여 지급하실 수 있습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 가맹점 운영권 양도:\n  - 양도 승인 시, 양수인은 양도인의 모든 권리 및 의무를 승계.\n  - 양수인이 원할 경우, 신규 가맹계약 가능.\n  - 신규 가맹계약 시 비용이 적을 경우, 가맹금 협의 가능.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비이며, 브랜드명은 버밀당베이커리입니다. 가맹점운영권 양도 시, 양도인의 권리와 의무가 양수인에게 승계됩니다. 양수인이 원할 경우 신규 가맹계약 체결도 가능하며, 이 경우 비용이 일반 신규 가맹계약보다 적을 경우 가맹금 협의가 가능합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점 운영권을 양도하려면 어떤 과정을 거쳐야 하나요?",
+                    "ANSWER": "가맹점 운영권 양도를 위해서는 ㈜제이피에프엔비의 승인을 받아야 하며, 승인이 이루어지면 양수인은 양도인의 모든 권리와 의무를 승계하게 됩니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영권을 양도할 때 양수인과 신규 가맹계약을 체결할 수 있나요?",
+                    "ANSWER": "네, 양수인이 원할 경우 ㈜제이피에프엔비와 신규 가맹계약을 체결할 수 있습니다."
+                },
+                {
+                    "QUESTION": "신규 가맹계약을 체결할 경우 비용은 어떻게 되나요?",
+                    "ANSWER": "신규 가맹계약을 체결할 경우, 가맹점 모집비용, 개점행사비 등이 일반적인 신규 가맹계약보다 적게 소요된다면, ㈜제이피에프엔비와 협의하여 비용 소요액에 상응하는 가맹금을 지급할 수 있습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점 양도 과정에서 양수인의 권리와 의무는 어떻게 되나요?",
+                    "ANSWER": "양도가 승인되면 양수인은 양도인의 모든 권리와 의무를 승계하게 됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402015161426750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507037501",
+            "KORN_ATTRB_NM": "3) 가맹점운영권의 상속, 대리행사, 위탁 등",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 3) 가맹점운영권의 상속, 대리행사, 위탁 등\n가맹점운영권은 원칙적으로 당사와 가맹계약을 체결한 귀하에게 주어집니다. 따라서 개인사정 등으로 가맹점운영권을 다른 사람에게 대리행사하게 할 경우에는 당사에 사전에 서면으로 그 사실을 통지하여야 합니다. <table><tr><td>구분</td><td>가능여부(조건)</td><td>이전 범위</td><td>절차</td><td>기타 의무사항</td></tr><tr><td>상속</td><td>상속인 사후통지시</td><td>모든 권리와 의무</td><td>상속인이 서면으로 상속 신청 →</td><td>교육비는 없으나 필수의무 교육 발생 시는 실비</td></tr><tr><td>대리행사</td><td>당사 승인시 가능</td><td>가맹점사업자가</td><td>가맹점사업자가 서면으로 대리행사신청 →</td><td>-</td></tr><tr><td>업무위탁</td><td>당사 승인시 가능</td><td>-</td><td>-</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: ㈜제이피에프엔비\n- **브랜드명**: 버밀당베이커리\n\n**가맹점운영권의 상속, 대리행사, 위탁 등**\n\n1. **상속**\n   - **가능여부**: 상속인 사후 통지 시\n   - **이전 범위**: 모든 권리와 의무\n   - **절차**: 상속인이 서면으로 상속 신청\n   - **기타 의무사항**: 교육비 없음, 필수 교육 발생 시 실비\n\n2. **대리행사**\n   - **가능여부**: 당사 승인 시 가능\n   - **이전 범위**: 가맹점사업자\n   - **절차**: 가맹점사업자가 서면으로 대리행사 신청\n   - **기타 의무사항**: 없음\n\n3. **업무위탁**\n   - **가능여부**: 당사 승인 시 가능\n   - **이전 범위**: 없음\n   - **절차**: 없음\n   - **기타 의무사항**: 없음",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비이며, 브랜드명은 버밀당베이커리입니다. 가맹점운영권은 계약 체결자에게 주어지며, 대리행사 시 사전 서면 통지가 필요합니다. \n\n상속은 상속인이 사후 통지 시 모든 권리와 의무를 상속받으며, 상속 신청은 서면으로 진행해야 합니다. 교육비는 없지만 필수 교육 시 실비가 발생합니다. \n\n대리행사는 가맹점사업자가 당사 승인을 받아 서면으로 신청해야 가능하며, 업무위탁 또한 당사 승인이 필요합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점운영권을 상속할 경우, 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "상속인이 서면으로 상속 신청을 해야 하며, 상속인 사후에 통지가 있어야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리 가맹점운영권의 대리행사 조건은 무엇인가요?",
+                    "ANSWER": "대리행사는 가맹본부의 승인이 있을 시에 가능하며, 가맹점사업자가 서면으로 대리행사 신청을 해야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리 가맹점운영권을 타인에게 위탁할 수 있는 조건은 무엇인가요?",
+                    "ANSWER": "업무위탁은 가맹본부의 승인이 있을 시에 가능하며, 별도의 절차는 요구되지 않습니다."
+                },
+                {
+                    "QUESTION": "상속 시 버밀당베이커리의 교육비는 어떻게 되나요?",
+                    "ANSWER": "상속 시에는 교육비가 없으나, 필수의무 교육이 발생하게 되면 실비가 발생합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 버밀당베이커리의 가맹점운영권을 대리행사하고 싶을 경우, 어떤 절차를 거쳐야 하나요?",
+                    "ANSWER": "가맹점사업자는 가맹본부에 서면으로 대리행사 신청을 해야 하고, 가맹본부의 승인을 받아야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402015161939750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507037501",
+            "KORN_ATTRB_NM": "3) 가맹점운영권의 상속, 대리행사, 위탁 등",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 3) 가맹점운영권의 상속, 대리행사, 위탁 등\n가맹점사업자의 상속인은 가맹점 영업을 상속할 수 있으며, 이 경우 상속개시일로부터 3개월 이내에 상속사실을 통지하여야 합니다. 다만, 상속인이 미성년자, 피성년후견인, 피한정후견인에 해당하거나 이에 준하는 사유가 있는 경우에는 가맹계약은 종료합니다.가맹점운영권 관련 양도양수의 경우에는 가맹계약 외 기타 부동산조건 및 권리문제에 대해서는 당사가 관여하지 않습니다. 또한 대리관련 당사가 승인하는 대리인의 조건은 개점 전 교육을 이수한 자에 한하며, 영업 중에는 당사가 지정하는 교육을 필수로 이수하여야 하고, 개점 전 교육비는 귀하 또는 교육을 이수하는 자가 부담하여야 합니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n\n1. **상속 및 대리행사**:\n   - 상속인은 가맹점 영업을 상속 가능, 상속 개시일로부터 3개월 이내 통지 필요.\n   - 미성년자나 후견인에 해당 시 가맹계약 종료.\n\n2. **양도양수**:\n   - 가맹계약 외 부동산 조건 및 권리 문제에 대한 관여 없음.\n\n3. **대리 조건**:\n   - 대리인은 개점 전 교육 이수자여야 하며, 영업 중 지정 교육 필수 이수.\n   - 개점 전 교육비는 교육 이수자 또는 귀하가 부담.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n가맹점운영권의 상속 및 대리 행사는 다음과 같습니다:  \n- 상속인은 가맹점 영업을 상속할 수 있으며, 상속사실은 상속개시일로부터 3개월 이내에 통지해야 합니다.  \n- 미성년자 또는 특정 법적 제한이 있는 경우 가맹계약은 종료됩니다.  \n- 양도양수에 있어 부동산 조건 및 권리 문제는 가맹본부가 관여하지 않습니다.  \n- 대리인은 개점 전 교육을 이수해야 하며, 영업 중에는 지정된 교육을 필수적으로 이수해야 합니다. 교육비는 교육 이수자 또는 가맹점주가 부담해야 합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 브랜드인 버밀당베이커리를 운영하는 가맹점 사업자는 영업권을 어떻게 상속할 수 있나요?",
+                    "ANSWER": "가맹점 사업자의 상속인은 가맹점 영업을 상속할 수 있으며, 이 경우 상속개시일로부터 3개월 이내에 상속사실을 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점 영업의 상속인이 미성년자인 경우에는 어떤 절차가 필요한가요?",
+                    "ANSWER": "상속인이 미성년자, 피성년후견인, 피한정후견인에 해당하는 경우 가맹계약은 종료됩니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점운영권을 양도하거나 양수할 때 주의해야 할 점은 무엇인가요?",
+                    "ANSWER": "가맹점운영권 관련 양도양수의 경우 가맹계약 외 기타 부동산조건 및 권리문제에 대해서는 가맹본부가 관여하지 않습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리 가맹점에서 대리인을 지정할 때 어떤 조건이 필요한가요?",
+                    "ANSWER": "대리인은 개점 전 교육을 이수한 자여야 하며, 영업 중에는 가맹본부가 지정하는 교육을 필수로 이수해야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 개점 전 교육비는 누구의 부담인가요?",
+                    "ANSWER": "개점 전 교육비는 가맹점 사업자 또는 교육을 이수하는 자가 부담해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402812878729750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508017501",
+            "KORN_ATTRB_NM": "1) 경업금지의 범위",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 1) 경업금지의 범위\n당사는 계약기간은 물론 계약 종료 후 3년 동안 [행정구역상 동일한 시]에서 가맹점사업자가 [버밀당베이커리]와 동일한 업종의 영업을 하는 행위를 금지하고 있습니다. 만약 가맹점사업자가 그러한 행위를 하기 위해서는 사전에 당사에 서면으로 그 사실을 통지하여야 합니다. 자세한 내용은 다음과 같습니다.<table><tr><td>경업금지 되는 업종</td><td>경업허가 절차</td><td>비고</td></tr><tr><td>베이커리 및 커피,음료등을 판매하는 베이커리카페 가맹사업</td><td>가맹점사업자가 서면으로 경업허가 신청→ 당사 담당팀 검토</td><td>(문의) 가맹사업팀</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: ㈜제이피에프엔비\n- **브랜드명**: 버밀당베이커리\n\n### 경업금지의 범위\n- **계약기간**: 계약 종료 후 3년 동안\n- **금지 행위**: 동일한 업종 영업 금지 (행정구역상 동일한 시)\n- **통지 의무**: 경업 행위를 원할 경우 사전 서면 통지 필요\n\n### 경업금지 업종 및 절차\n| 경업금지 업종                                 | 경업허가 절차                                       | 비고                |\n|----------------------------------------------|--------------------------------------------------|---------------------|\n| 베이커리 및 커피, 음료 판매 가맹사업        | 가맹점사업자가 서면으로 경업허가 신청 → 담당팀 검토 | (문의) 가맹사업팀  |",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비이며, 브랜드명은 버밀당베이커리입니다. 계약 기간 및 종료 후 3년간 동일한 행정구역에서 가맹점사업자가 버밀당베이커리와 동일한 업종(베이커리, 커피, 음료 등)의 영업을 금지합니다. 경업행위를 원할 경우, 가맹점사업자는 사전 서면 통지를 해야 하며, 경업허가는 서면 신청 후 담당팀의 검토를 거쳐야 합니다. 추가 문의는 가맹사업팀으로 가능합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리 가맹점사업자가 계약 종료 후 어떤 경업금지 규정이 있나요?",
+                    "ANSWER": "가맹점사업자는 계약 종료 후 3년 동안 행정구역상 동일한 시에서 버밀당베이커리와 동일한 업종인 베이커리 및 커피, 음료 등을 판매하는 베이커리카페 가맹사업을 할 수 없습니다."
+                },
+                {
+                    "QUESTION": "경업금지 되는 업종은 무엇인가요?",
+                    "ANSWER": "경업금지 되는 업종은 베이커리 및 커피, 음료 등을 판매하는 베이커리카페 가맹사업입니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리 가맹점사업자가 경업을 하려면 어떻게 해야 하나요?",
+                    "ANSWER": "가맹점사업자는 경업을 하기 위해 서면으로 경업허가 신청을 해야 하며, 해당 신청은 가맹본부의 담당팀에서 검토하게 됩니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 경업허가 절차는 어떻게 되나요?",
+                    "ANSWER": "경업허가 절차는 가맹점사업자가 서면으로 경업허가 신청서를 제출하고, 가맹본부의 담당팀이 이를 검토하는 방식입니다."
+                },
+                {
+                    "QUESTION": "경업금지 관련 문의는 어디에 해야 하나요?",
+                    "ANSWER": "경업금지에 대한 문의는 가맹사업팀에 하시면 됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402585197766750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508027501",
+            "KORN_ATTRB_NM": "2) 영업시간 및 영업일수 제한",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 2) 영업시간 및 영업일수 제한\n<table><tr><td>영업시간</td><td>영업일수</td><td>비고</td></tr><tr><td>10:00~22:00</td><td>주6일</td><td>(문의) 가맹사업팀</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 영업시간: 10:00~22:00\n- 영업일수: 주6일\n- 비고: (문의) 가맹사업팀",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n영업시간: 10:00~22:00  \n영업일수: 주6일  \n비고: (문의) 가맹사업팀  ",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 영업시간은 어떻게 되나요?",
+                    "ANSWER": "버밀당베이커리의 영업시간은 10:00부터 22:00까지입니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리는 몇 일 영업하나요?",
+                    "ANSWER": "버밀당베이커리는 주 6일 영업합니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영 시 주말에는 영업이 가능한가요?",
+                    "ANSWER": "버밀당베이커리는 주 6일 영업하므로 주말에도 영업이 가능합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 영업일수에 대해 더 알고 싶습니다.",
+                    "ANSWER": "버밀당베이커리는 주 6일 영업하며, 자세한 사항은 가맹사업팀에 문의하실 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402585198020750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508027501",
+            "KORN_ATTRB_NM": "2) 영업시간 및 영업일수 제한",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 2) 영업시간 및 영업일수 제한\n당사는 [버밀당베이커리]의 영업시간 및 영업일수를 제한하고 있습니다. 자세한 내용은 다음과 같습니다.가맹사업거래의 공정화에 관한 법률 시행령 제15조 제10호에 따라 귀하가 정당한 사유 없이 연속하여 7일 이상 영업을 중단한 경우 가맹계약 해지가 될 수 있으므로 주의하시기 바랍니다.귀하가 개인 사정 등으로 영업을 불가피하게 중단하거나 영업시간을 조정해야 할 경우에는 사전에 담당 팀에 통지하시기 바랍니다.",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n영업시간 및 영업일수 제한:\n- 연속 7일 이상 영업 중단 시 가맹계약 해지 가능\n- 영업 중단 또는 시간 조정 시 사전 통지 필요",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n영업시간 및 영업일수 제한: \n- 연속 7일 이상 영업 중단 시 가맹계약 해지 가능.\n- 개인 사정으로 영업 중단 시 사전 통지 필요.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 영업시간 및 영업일수 제한은 어떻게 되나요?",
+                    "ANSWER": "버밀당베이커리는 연속하여 7일 이상 영업을 중단할 경우 가맹계약 해지가 될 수 있습니다. 따라서 영업을 중단하거나 조정할 경우 사전에 담당 팀에 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "영업 중단 시 가맹계약에 미치는 영향은 무엇인가요?",
+                    "ANSWER": "연속하여 7일 이상 영업을 중단하는 경우 가맹계약이 해지될 수 있으므로 주의해야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 영업시간을 조정하고 싶다면 어떻게 해야 하나요?",
+                    "ANSWER": "영업시간을 조정할 경우 사전에 담당 팀에 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점주가 개인 사정으로 인해 영업을 중단할 경우 주의해야 할 점은 무엇인가요?",
+                    "ANSWER": "정당한 사유 없이 연속하여 7일 이상 영업을 중단할 경우 가맹계약 해지가 될 수 있으므로 사전에 담당 팀에 통지하는 것이 중요합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402691866391750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508037501",
+            "KORN_ATTRB_NM": "3) 권장 종업원 수 및 영업장 근무 여부",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 3) 권장 종업원 수 및 영업장 근무 여부\n<table><tr><td>권장 종업원수</td><td>직접 근무 여부</td><td>비고</td></tr><tr><td>특별한 제한 없음</td><td>직접 근무</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 권장 종업원 수: 특별한 제한 없음\n- 직접 근무 여부: 직접 근무\n- 비고: -",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n- 권장 종업원 수: 특별한 제한 없음  \n- 직접 근무 여부: 직접 근무  \n- 비고: -  ",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 권장 종업원 수는 어떻게 되나요?",
+                    "ANSWER": "버밀당베이커리에는 특별한 권장 종업원 수 제한이 없습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리 가맹점에서 가맹점주는 직접 근무해야 하나요?",
+                    "ANSWER": "네, 버밀당베이커리 가맹점주는 직접 근무해야 합니다."
+                },
+                {
+                    "QUESTION": "직접 근무 외에 권장 종업원 수에 대한 추가 정보가 있나요?",
+                    "ANSWER": "버밀당베이커리의 권장 종업원 수에 대한 특별한 제한은 없습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리에서 권장 종업원 수가 없는 이유는 무엇인가요?",
+                    "ANSWER": "버밀당베이커리는 운영 형식에 따라 유연성을 제공하기 위해 특별한 권장 종업원 수를 두지 않고 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402691866579750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508037501",
+            "KORN_ATTRB_NM": "3) 권장 종업원 수 및 영업장 근무 여부",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 3) 권장 종업원 수 및 영업장 근무 여부\n당사는 가맹점사업자가 운영하는 가맹점(영업장)의 종업원 및 근무 형태를 제한하고 있지 않습니다. 다만, 근무 형태는 귀하가 직접 매장을 운영하여야 합니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 권장 종업원 수 및 영업장 근무 여부: 가맹점사업자가 운영하는 가맹점의 종업원 및 근무 형태는 제한 없음, 매장 운영 필요.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n(3) 권장 종업원 수 및 영업장 근무 여부: 가맹점사업자는 종업원 수 및 근무 형태에 대한 제한이 없으나, 매장을 직접 운영해야 합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점에서는 종업원 수를 어떻게 설정해야 하나요?",
+                    "ANSWER": "버밀당베이커리의 가맹점에서는 종업원 수에 대한 제한이 없습니다. 가맹점사업자가 필요에 따라 적절한 인력을 설정할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영에서 종업원의 근무 형태는 어떻게 되나요?",
+                    "ANSWER": "버밀당베이커리의 가맹점은 종업원의 근무 형태에 대해 제한이 없지만, 가맹점사업자가 직접 매장을 운영해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점에서 직접 운영해야 하는 이유는 무엇인가요?",
+                    "ANSWER": "버밀당베이커리에서는 가맹점사업자가 직접 매장을 운영해야 하며, 이는 브랜드의 품질과 일관성을 유지하기 위함입니다."
+                },
+                {
+                    "QUESTION": "종업원의 근무 여부는 가맹점사업자가 결정할 수 있나요?",
+                    "ANSWER": "네, 버밀당베이커리에서는 가맹점사업자가 종업원의 근무 여부를 자유롭게 결정할 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402640656653750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508047501",
+            "KORN_ATTRB_NM": "4) 가맹본부의 영업장 관리ㆍ감독",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 4) 가맹본부의 영업장 관리ㆍ감독\n<table><tr><td>관리ㆍ감독 </td><td>감독 절차</td><td>빈도 및 시기</td><td>담당팀</td><td>비고</td></tr><tr><td>매장 청결</td><td>담당자 매장 방문 → 청결도 확인 → 관리표 작성 → 가맹점사업자 확인 및 서명 → 완료</td><td>필요 시</td><td>가맹사업팀</td><td>(문의)</td></tr><tr><td>친절도</td><td>담당자 매장 암행방문 → 주문 → 친절도 확인 →</td><td>필요 시</td><td>가맹사업팀</td></tr><tr><td>회계처리 가맹본부 지침사항</td><td>담당자 매장 방문 → 회계 및 재고, 상품관리,</td><td>필요 시</td><td>가맹사업팀</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: ㈜제이피에프엔비\n- **브랜드명**: 버밀당베이커리\n\n### 영업장 관리ㆍ감독\n| 관리ㆍ감독           | 감독 절차                                                           | 빈도 및 시기 | 담당팀       | 비고 |\n|-------------------|-------------------------------------------------------------------|--------------|--------------|------|\n| 매장 청결          | 담당자 매장 방문 → 청결도 확인 → 관리표 작성 → 가맹점사업자 확인 및 서명 → 완료 | 필요 시       | 가맹사업팀   | (문의) |\n| 친절도             | 담당자 매장 암행방문 → 주문 → 친절도 확인                          | 필요 시       | 가맹사업팀   |      |\n| 회계처리 가맹본부 지침사항 | 담당자 매장 방문 → 회계 및 재고, 상품관리 | 필요 시       | 가맹사업팀   |      |",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n영업장 관리 및 감독 내용:\n- **매장 청결**: 담당자가 매장을 방문하여 청결도를 확인하고 관리표를 작성한 후 가맹점 사업자의 확인 및 서명을 받음. 빈도는 필요 시, 담당팀은 가맹사업팀.\n- **친절도**: 담당자가 매장을 암행 방문하여 주문 후 친절도를 확인. 빈도는 필요 시, 담당팀은 가맹사업팀.\n- **회계처리**: 담당자가 매장을 방문하여 회계 및 재고, 상품 관리 등을 점검. 빈도는 필요 시, 담당팀은 가맹사업팀. \n\n각 항목에 대한 추가 문의는 가능.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 가맹본부는 영업장 관리와 감독을 어떻게 수행하나요?",
+                    "ANSWER": "㈜제이피에프엔비는 매장 청결, 친절도, 회계처리 등 여러 항목에 대해 필요 시 담당자가 매장을 방문하여 확인하고, 관리표를 작성하여 가맹점사업자의 확인 및 서명을 받습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 매장 청결 관리 절차는 어떻게 됩니까?",
+                    "ANSWER": "매장 청결 관리는 담당자가 매장 방문 후 청결도를 확인하고, 관리표를 작성하여 가맹점사업자가 확인 및 서명하는 절차로 진행됩니다."
+                },
+                {
+                    "QUESTION": "가맹사업팀의 역할은 무엇인가요?",
+                    "ANSWER": "가맹사업팀은 매장 청결, 친절도 등의 관리와 감독을 담당하며, 필요 시 매장을 방문하여 위생 및 서비스 품질을 점검합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 친절도 확인 절차에 대해 설명해주세요.",
+                    "ANSWER": "친절도 확인은 담당자가 매장을 암행 방문하여 주문 후 친절도를 평가하는 방식으로 진행됩니다."
+                },
+                {
+                    "QUESTION": "회계처리는 가맹본부의 어떤 지침을 따르나요?",
+                    "ANSWER": "회계처리는 가맹본부의 지침사항에 따라 담당자가 매장을 방문하여 회계 및 재고, 상품 관리를 확인하는 절차로 진행됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402640656928750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508047501",
+            "KORN_ATTRB_NM": "4) 가맹본부의 영업장 관리ㆍ감독",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 4) 가맹본부의 영업장 관리ㆍ감독\n당사는 귀하가 운영하는 가맹점(영업장)을 필요 시 관리ㆍ감독할 수 있으며 자세한 내용은 다음과 같습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 영업장 관리ㆍ감독: 당사는 귀하가 운영하는 가맹점(영업장)을 필요 시 관리ㆍ감독할 수 있음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n(4) 당사는 귀하가 운영하는 가맹점(영업장)을 필요 시 관리ㆍ감독할 수 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비는 가맹점을 어떻게 관리하고 감독하나요?",
+                    "ANSWER": "㈜제이피에프엔비는 귀하가 운영하는 가맹점을 필요 시 관리 및 감독할 수 있습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점 관리 및 감독은 어떤 방식으로 이루어지나요?",
+                    "ANSWER": "버밀당베이커리의 가맹점은 필요 시 ㈜제이피에프엔비에 의해 관리 및 감독됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402505247415750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "509017501",
+            "KORN_ATTRB_NM": "1) 가맹본부와 가맹점사업자의 비용 분담 기준",
+            "UP_ATTRB_MNNO": "509007501",
+            "KORN_UP_ATRB_NM": "9. 광고 및 판촉 활동"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 1) 가맹본부와 가맹점사업자의 비용 분담 기준\n당사는 [버밀당베이커리]영업표지 이미지 제고 및 매출액 증대를 위한 전국 단위의 광고 및 판촉 활동을 위해 필요한 비용은 당사와 가맹점 사업자가 나누어 부담하고, 개별적으로 진행하는 지역광고의 경우에는 가맹점사업자가 부담하고 있습니다. 자세한 내용은 다음과 같습니다.<table><tr><td>구분</td><td>광고 성격</td><td>부담비율</td><td>분담 절차</td><td>비고</td></tr><tr><td>당사부담</td><td>가맹점부담</td></tr><tr><td>광고</td><td>상품광고</td><td>50%</td><td>광고비 전체비용 중</td><td>광고계획 공고 → 가맹점의</td><td>광고동의 절차를</td></tr><tr><td>상품광고+</td><td>50%</td></tr><tr><td>가맹점 모집광고</td><td>100%</td><td>없음</td><td>-</td><td>-</td></tr><tr><td>가맹점 개별광고</td><td>없 음</td><td>100%</td></tr><tr><td>개별</td><td>기타 지역광고의 경우 가맹점 부담</td><td>행사계획 공고 → 가맹점의 판촉참여 여부 결정→</td><td>-</td></tr><tr><td>판촉</td><td>공동판촉</td><td>협의</td><td>협의</td><td>행사계획 공고 →</td><td>판촉행사</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명:** ㈜제이피에프엔비\n- **브랜드명:** 버밀당베이커리\n\n**비용 분담 기준:**\n1. **광고 및 판촉 활동:** \n   - 당사와 가맹점 사업자가 비용을 나누어 부담.\n   - 지역 광고는 가맹점 사업자가 부담.\n\n| 구분         | 광고 성격         | 부담비율      | 분담 절차                                     | 비고             |\n|--------------|-------------------|----------------|------------------------------------------------|------------------|\n| 당사부담    | 상품광고          | 50%            | 광고비 전체비용 중 광고계획 공고 → 가맹점 광고동의 절차 |                  |\n|              | 상품광고+        | 50%            |                                               |                  |\n| 가맹점 부담 | 가맹점 모집광고   | 100%           | 없음                                          | -                |\n|              | 가맹점 개별광고   | 100%           | 없음                                          | -                |\n|              | 기타 지역 광고    | 100%           | 행사계획 공고 → 가맹점 판촉참여 여부 결정 | -                |\n|              | 공동판촉          | 협의           | 행사계획 공고 → 판촉행사                   | -                |",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부인 ㈜제이피에프엔비는 '버밀당베이커리' 브랜드에서 광고 및 판촉 활동 비용을 당사와 가맹점사업자가 분담합니다. 비용 분담 기준은 다음과 같습니다:\n\n- **상품 광고**: 당사와 가맹점 각각 50% 부담\n- **가맹점 모집 광고**: 100% 가맹점 부담\n- **개별 광고**: 100% 가맹점 부담\n- **기타 지역 광고**: 가맹점 100% 부담\n- **공동 판촉**: 비용 협의에 따라 진행\n\n광고 및 판촉 활동의 진행 절차는 광고계획 공고 및 가맹점의 동의 절차를 포함합니다. 가맹점의 판촉 참여 여부는 행사계획 공고 후 결정됩니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 광고비 분담 기준은 어떻게 되나요?",
+                    "ANSWER": "버밀당베이커리의 광고비는 상품광고의 경우 가맹본부와 가맹점 사업자가 각 50%를 부담합니다. 가맹점 모집광고는 가맹점이 100% 부담하며, 가맹점 개별 광고는 가맹점이 전액 부담합니다."
+                },
+                {
+                    "QUESTION": "가맹점 모집 광고의 비용은 어떻게 되나요?",
+                    "ANSWER": "가맹점 모집 광고는 가맹점 사업자가 100% 부담해야 하며, 분담 절차는 없습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 공동판촉은 어떻게 진행되나요?",
+                    "ANSWER": "버밀당베이커리의 공동판촉은 가맹본부와 가맹점 사업자가 협의하여 진행됩니다. 행사계획 공고 후 판촉행사에 대한 결정이 이루어집니다."
+                },
+                {
+                    "QUESTION": "가맹점 사업자가 부담해야 하는 지역 광고는 무엇인가요?",
+                    "ANSWER": "가맹점 사업자가 부담해야 하는 지역 광고는 개별 광고 및 기타 지역 광고를 포함합니다. 가맹점은 행사계획 공고 후 판촉참여 여부를 결정해야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 광고비 분담 절차는 무엇인가요?",
+                    "ANSWER": "광고비 분담 절차는 상품광고의 경우 광고계획 공고 후 가맹점의 광고 동의 절차가 있으며, 기타 지역 광고는 가맹점이 판촉참여 여부를 결정하는 방식으로 진행됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402789246543750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "509027501",
+            "KORN_ATTRB_NM": "2) 가맹점사업자의 독자적 광고ㆍ판촉 활동",
+            "UP_ATTRB_MNNO": "509007501",
+            "KORN_UP_ATRB_NM": "9. 광고 및 판촉 활동"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 2) 가맹점사업자의 독자적 광고ㆍ판촉 활동\n개별 가맹점사업자가 스스로 또는 다른 가맹점사업자와 함께 독자적으로 광고ㆍ판촉 활동을 할 수 있습니다. 이 경우 가맹사업의 일환으로서 브랜드 가치를 유지하여야 하며, 당사가 설정한 요건과 수준에 적합하여야 하며, 가맹점사업자가 지역적으로 시행하는 모든 광고, 선전의 소재와 계획에 대하여 당사의 사전 동의를 받아야 합니다.",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n가맹점사업자는 독자적으로 광고 및 판촉 활동을 할 수 있으나, 브랜드 가치를 유지하고 당사의 요건에 적합해야 하며, 모든 광고 및 선전의 소재와 계획에 대해 사전 동의를 받아야 함.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비이며, 브랜드명은 버밀당베이커리입니다. 가맹점사업자는 독자적으로 광고 및 판촉 활동을 할 수 있지만, 브랜드 가치를 유지하고 가맹본부의 요건에 부합해야 하며, 모든 광고 소재와 계획에 대해 사전 동의를 받아야 합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리 가맹점사업자가 독자적으로 광고를 진행할 수 있는가?",
+                    "ANSWER": "예, 개별 가맹점사업자는 스스로 또는 다른 가맹점사업자와 함께 독자적으로 광고 및 판촉 활동을 할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 독자적 광고를 하려면 어떤 조건을 충족해야 하나요?",
+                    "ANSWER": "가맹점사업자는 브랜드 가치를 유지하고, 가맹본부가 설정한 요건과 수준에 적합해야 하며, 모든 광고 및 선전의 소재와 계획에 대해 사전 동의를 받아야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리 가맹점사업자가 광고를 계획할 때 필요한 절차는 무엇인가요?",
+                    "ANSWER": "가맹점사업자는 광고를 계획할 때 지역적으로 시행하는 모든 광고와 선전의 소재 및 계획에 대해 가맹본부의 사전 동의를 받아야 합니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 요구하는 광고 요건은 어떤 것인가요?",
+                    "ANSWER": "가맹점사업자는 광고를 진행할 때 브랜드 가치를 유지해야 하며, 가맹본부가 설정한 요건과 수준에 적합해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402164568045750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "510007501",
+            "KORN_ATTRB_NM": "10. 영업비밀 보호에 관한 사항",
+            "UP_ATTRB_MNNO": "500007501",
+            "KORN_UP_ATRB_NM": "Ⅴ. 영업활동에 대한 조건 및 제한"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 10. 영업비밀 보호에 관한 사항\n당사의 영업비밀이란, 공공연히 알려져 있지 아니하고 독립된 경제적 가치를 가지는 것으로서, 당사의 상당한 노력에 의하여 비밀로 유지된 생산방법, 판매방법, 그 밖에영업활동에 유용한 기술상 또는 경영상의 정보를 말합니다.귀하는 계약체결 및 가맹점 운영상 알게 된 당사의 영업비밀을 계약기간은 물론 계약종료 이후에도 제3자에게 누설해서는 안됩니다. 당사의 허락 없이 교육과 세미나 자료 기타 가맹점 운영과 관련하여 영업비밀이 담긴 관계서류의 내용을 인쇄 또는 복사할수 없습니다.당사의 영업비밀을 무단으로 유출할 경우 부정경쟁방지 및 영업비밀보호에 관한 법률에의해 처벌 받을수 있음을 알려드립니다. 또한, 당사의 영업비밀은 한국특허정보원의 영업비밀 원본 증명 서비스에 가입되어 있습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 영업비밀 보호 사항:\n  - 영업비밀 정의: 공공연히 알려져 있지 않고 독립된 경제적 가치를 가지며, 상당한 노력으로 비밀 유지된 정보.\n  - 누설 금지: 계약 체결 및 운영 중 알게 된 영업비밀을 계약 기간 및 종료 이후에도 제3자에게 누설 금지.\n  - 자료 사용 제한: 당사의 허락 없이 영업비밀이 포함된 서류의 인쇄 또는 복사 금지.\n  - 법적 처벌: 무단 유출 시 부정경쟁방지 및 영업비밀보호법에 의해 처벌 가능.\n  - 추가 정보: 영업비밀은 한국특허정보원의 원본 증명 서비스에 가입됨.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n영업비밀 보호에 관한 사항:\n- 영업비밀은 공공에 알려지지 않고 경제적 가치를 가지며, 상당한 노력으로 비밀이 유지된 정보로 정의됩니다.\n- 계약 체결 및 운영 과정에서 알게 된 영업비밀은 계약 기간 및 종료 후에도 제3자에게 누설할 수 없습니다.\n- 영업비밀 포함 서류의 인쇄나 복사는 허락 없이 금지됩니다.\n- 무단 유출 시, 관련 법률에 따라 처벌될 수 있으며, 영업비밀은 한국특허정보원의 원본 증명 서비스에 등록되어 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 영업비밀은 무엇을 포함하나요?",
+                    "ANSWER": "㈜제이피에프엔비의 영업비밀은 공공연히 알려져 있지 않고 독립된 경제적 가치를 가지며, 상당한 노력에 의해 비밀로 유지된 생산방법, 판매방법 및 영업활동에 유용한 기술상 또는 경영상의 정보를 포함합니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영 중 알게 된 영업비밀은 어떻게 처리해야 하나요?",
+                    "ANSWER": "가맹점 운영 중 알게 된 영업비밀은 계약체결 및 계약종료 이후에도 제3자에게 누설해서는 안 되며, 당사의 허락 없이 관련 서류의 내용을 인쇄하거나 복사할 수 없습니다."
+                },
+                {
+                    "QUESTION": "영업비밀을 무단으로 유출할 경우 어떤 처벌을 받을 수 있나요?",
+                    "ANSWER": "영업비밀을 무단으로 유출할 경우 부정경쟁방지 및 영업비밀보호에 관한 법률에 따라 처벌 받을 수 있습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 영업비밀은 어떻게 보호되나요?",
+                    "ANSWER": "버밀당베이커리의 영업비밀은 한국특허정보원의 영업비밀 원본 증명 서비스에 가입되어 있어 보호받고 있습니다."
+                },
+                {
+                    "QUESTION": "계약기간 이후에도 영업비밀을 보호해야 하나요?",
+                    "ANSWER": "네, 계약기간 이후에도 알게 된 영업비밀은 제3자에게 누설해서는 안 됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402749559153750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "601007501",
+            "KORN_ATTRB_NM": "1. 상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약",
+            "UP_ATTRB_MNNO": "600007501",
+            "KORN_UP_ATRB_NM": "Ⅵ. 가맹사업의 영업 개시에 관한 상세한 절차와 소요기간"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 1. 상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약\n귀하가 당사와 가맹계약을 체결할 경우 상담일로부터 실제 가맹점이 개설될 때까지 걸리는 시간과 필요한 절차는 다음과 같습니다.<table><tr><td>구분</td><td>내용</td><td>소요기간</td><td>소요비용</td></tr><tr><td>합계</td><td>-</td><td>50일 내외</td><td>[12p∼17p 참조]</td></tr><tr><td>가맹희망자 문의</td><td>- 전화문의 접수</td><td>D-47</td></tr><tr><td>사업 설명ㆍ상담</td><td>- 정보공개서 및 가맹계약서 제공</td><td>D-46</td></tr><tr><td>점포개발 및</td><td>- 입지선정</td><td>필요시 실시</td></tr><tr><td>최종 협의</td><td>- 개설 승인</td><td>D-34～31</td></tr><tr><td>가맹계약 체결</td><td>- 계약 체결</td><td>D-30</td></tr><tr><td>가맹금 예치</td><td>- 중소기업은행에 가맹금 예치</td><td>D-29(1일)</td></tr><tr><td>점포실측/설계</td><td>- 투자비 산출</td><td>D-27～25(3일)</td></tr><tr><td>실내외 공사착수</td><td>- 도면협의 및 공사일정 확인</td><td>D-24(1일)</td></tr><tr><td>인테리어 공사</td><td>- 공사 실시</td><td>D-24～5(20일)</td></tr><tr><td>교육 실시</td><td>- 점포운영교육 실시</td><td>D-7～4(3일)</td></tr><tr><td>점포 개설</td><td>- 가맹점 개설 및 영업시작</td><td>D-day</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** ㈜제이피에프엔비  \n**브랜드명:** 버밀당베이커리  \n\n**가맹점 개설 절차 요약:**\n\n- **총 소요기간:** 50일 내외\n- **주요 절차 및 일정:**\n  1. **가맹희망자 문의:** D-47 (전화문의 접수)\n  2. **사업 설명ㆍ상담:** D-46 (정보공개서 및 가맹계약서 제공)\n  3. **점포개발 및 입지선정:** 필요시 실시\n  4. **최종 협의:** D-34～31 (개설 승인)\n  5. **가맹계약 체결:** D-30 (계약 체결)\n  6. **가맹금 예치:** D-29 (중소기업은행에 예치)\n  7. **점포실측/설계:** D-27～25 (투자비 산출)\n  8. **실내외 공사착수:** D-24 (도면 협의 및 일정 확인)\n  9. **인테리어 공사:** D-24～5 (20일)\n  10. **교육 실시:** D-7～4 (점포운영교육)\n  11. **점포 개설:** D-day (가맹점 개설 및 영업 시작)  \n\n- **비용:** [12p∼17p 참조]",
+            "ABSTRACTED_SUMMARY_TEXT": "**가맹본부명:** ㈜제이피에프엔비  \n**브랜드명:** 버밀당베이커리  \n\n가맹점 개설 과정은 상담일로부터 실제 개설일까지 약 50일이 소요됩니다. 주요 절차는 다음과 같습니다:\n\n1. **가맹희망자 문의 (D-47)**: 전화문의 접수.\n2. **사업 설명 및 상담 (D-46)**: 정보공개서 및 가맹계약서 제공.\n3. **점포 개발 및 입지선정**: 필요시 실시.\n4. **최종 협의 (D-34~31)**: 개설 승인.\n5. **가맹계약 체결 (D-30)**: 계약 체결.\n6. **가맹금 예치 (D-29)**: 중소기업은행에 가맹금 예치.\n7. **점포 실측/설계 (D-27~25)**: 투자비 산출.\n8. **실내외 공사 착수 (D-24)**: 도면 협의 및 일정 확인.\n9. **인테리어 공사 (D-24~5)**: 공사 실시.\n10. **교육 실시 (D-7~4)**: 점포 운영 교육.\n11. **점포 개설 (D-day)**: 가맹점 개설 및 영업 시작. \n\n**참고**: 소요 비용에 대한 세부사항은 [12p∼17p]에서 확인할 수 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 가맹점 개설에 필요한 전체 소요 기간은 얼마인가요?",
+                    "ANSWER": "버밀당베이커리의 가맹점 개설에 필요한 전체 소요 기간은 약 50일 내외입니다."
+                },
+                {
+                    "QUESTION": "가맹희망자가 버밀당베이커리에 처음 문의한 후 상담까지의 기간은 얼마나 걸리나요?",
+                    "ANSWER": "가맹희망자가 버밀당베이커리에 처음 문의한 후 상담까지는 D-47일 걸립니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리와 가맹계약을 체결하고 가맹금 예치까지 걸리는 시간은?",
+                    "ANSWER": "가맹계약 체결 후 가맹금 예치까지는 D-30일에서 D-29일, 즉 1일 걸립니다."
+                },
+                {
+                    "QUESTION": "점포 인테리어 공사에 소요되는 시간은 어떻게 되나요?",
+                    "ANSWER": "버밀당베이커리의 점포 인테리어 공사는 D-24일부터 D-5일까지 총 20일이 소요됩니다."
+                },
+                {
+                    "QUESTION": "가맹점 교육은 언제 진행되며, 소요 일수는 얼마나 되나요?",
+                    "ANSWER": "버밀당베이커리의 가맹점 교육은 D-7일부터 D-4일까지 3일 동안 진행됩니다."
+                },
+                {
+                    "QUESTION": "점포 개설일은 가맹점주가 언제 결정하나요?",
+                    "ANSWER": "버밀당베이커리의 점포 개설일은 D-day, 즉 가맹점주와의 최종 협의 후 결정됩니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 점포 개발 및 입지 선정은 어떤 절차로 진행되나요?",
+                    "ANSWER": "버밀당베이커리의 점포 개발 및 입지 선정은 필요 시 실시되며, 특정한 소요 기간은 표시되지 않았습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402749559497750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "601007501",
+            "KORN_ATTRB_NM": "1. 상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약",
+            "UP_ATTRB_MNNO": "600007501",
+            "KORN_UP_ATRB_NM": "Ⅵ. 가맹사업의 영업 개시에 관한 상세한 절차와 소요기간"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 1. 상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약\n(단위: 천 원, VAT 포함)위 표에 따른 소요기간은 평균적인 가맹점을 기준으로 작성된 것으로, 협의 과정에서 시장상황 등에 따라 그 기간이 늘어날 수 있습니다.귀하는 당사와 계약을 체결하는 과정에서 변호사나 가맹거래사의 자문을 받을 수 있습니다. 자문이 필요하신 경우는 당사에 소속되어 있거나 업무 연관성이 있는 변호사나 가맹거래사를 제외하고 귀하께서 선택하신 변호사나 가맹거래사에게 정보공개서 및 가맹계약서 등에 대하여 자문을 받으시기 바라며, 특히 정보공개서에 대하여 자문을 받으신 경우에는 계약체결일이 정보공개서 제공 14일 후에서 7일 후로 단축됩니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n\n1. **가맹점 영업 시작까지 절차 요약**:\n   - 소요기간: 평균적인 가맹점 기준 (협의 및 시장상황에 따라 변동 가능)\n   - 변호사나 가맹거래사 자문 가능 (선택 가능)\n   - 정보공개서 자문 시 계약체결일 단축 (14일 후에서 7일 후)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n가맹점 영업 시작까지 필요한 절차 요약은 다음과 같습니다 (단위: 천 원, VAT 포함). 소요기간은 평균 가맹점을 기준으로 하며, 시장상황에 따라 변동 가능성이 있습니다. 계약 체결 시 변호사나 가맹거래사의 자문을 받을 수 있으며, 자문을 원할 경우 당사 소속이 아닌 변호사나 가맹거래사에게 자문을 받으시기 바랍니다. 정보공개서에 대한 자문을 받은 경우, 계약 체결일은 정보공개서 제공 후 14일에서 7일로 단축됩니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리 가맹을 신청하기 위해 필요한 절차는 무엇인가요?",
+                    "ANSWER": "버밀당베이커리 가맹을 신청하기 위해서는 상담 및 협의 과정을 거친 후, 가맹점 영업을 시작하는 절차를 밟게 됩니다. 이 과정은 평균적인 가맹점을 기준으로 하며, 시장 상황에 따라 변동이 있을 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부와 계약을 체결하는 과정에서 자문을 받을 수 있는 방법은 무엇인가요?",
+                    "ANSWER": "가맹본부와 계약을 체결하는 과정에서 귀하는 외부 변호사나 가맹거래사에게 자문을 받을 수 있습니다. 이 경우, 귀하가 선택한 자문 전문가에게 정보공개서 및 가맹계약서에 대한 자문을 요청하시면 됩니다."
+                },
+                {
+                    "QUESTION": "정보공개서에 대한 자문을 받으면 가맹 계약 체결일이 어떻게 달라지나요?",
+                    "ANSWER": "정보공개서에 대해 자문을 받으신 경우, 가맹 계약 체결일이 정보공개서 제공 14일 후에서 7일 후로 단축됩니다."
+                },
+                {
+                    "QUESTION": "가맹점 영업 시작까지 소요되는 평균적인 기간은 어떤 요인에 따라 달라지나요?",
+                    "ANSWER": "가맹점 영업 시작까지의 소요 기간은 평균적인 가맹점을 기준으로 작성되지만, 협의 과정에서 시장 상황에 따라 기간이 늘어날 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402464157436750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "602007501",
+            "KORN_ATTRB_NM": "2. 가맹본부와의 분쟁 해결 절차 ",
+            "UP_ATTRB_MNNO": "600007501",
+            "KORN_UP_ATRB_NM": "Ⅵ. 가맹사업의 영업 개시에 관한 상세한 절차와 소요기간"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 2. 가맹본부와의 분쟁 해결 절차 \n가맹계약 당사자는 계약의 해석 또는 계약에 의해 명시되지 아니한 사항에 관하여 다툼이 있을 경우 법적 절차에 이르기 전까지 우선적으로 대화와 협상을 통해 분쟁을 해결하도록 합니다.대화와 협상으로 분쟁이 해결되지 아니할 경우, 가맹사업거래의 공정화에 관한 법률제22조에 따라 한국공정거래조정원의 가맹사업거래분쟁조정협의회(연락처: 1588-1490, 홈페이지: http://www.kofair.or.kr)또는 시ㆍ도의 분쟁조정협의회에조정을 신청하거나다른 법령에 의해설치된 중재기관에 중재를 신청할 수 있습니다.중재를 신청하지 아니한 경우, 법적 분쟁에 관한 소송은 가맹점사업자의 주소지나 점포 소재지를 관할하는 법원에 제기합니다. 단, 당사와 가맹점사업자가 관할법원에 대해 약정할 경우에는 그러하지 아니합니다.",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n**분쟁 해결 절차**:  \n- 가맹계약 당사자는 법적 절차 전에 대화와 협상으로 분쟁 해결.  \n- 해결되지 않을 경우, 한국공정거래조정원 또는 시·도의 분쟁조정협의회에 조정 신청 가능.  \n- 중재를 신청하지 않으면 법적 소송은 가맹점사업자의 주소지 관할 법원에 제기.  \n- 당사자 간 약정 시 관할법원 변경 가능.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비이며, 브랜드명은 버밀당베이커리입니다. 가맹계약 당사자는 계약 해석이나 미비 사항에 대해 우선 대화와 협상으로 분쟁을 해결하도록 하고, 해결되지 않을 경우 한국공정거래조정원 또는 시·도의 분쟁조정협의회에 조정을 신청할 수 있습니다. 중재를 선택하지 않을 경우, 법적 소송은 가맹점사업자의 주소지 또는 점포 소재지 관할 법원에 제기하며, 당사자 간 약정이 있을 경우 다를 수 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비와 가맹계약을 체결한 후 분쟁이 발생했을 때, 처음에 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "계약의 해석 또는 명시되지 않은 사항에 대해 분쟁이 발생할 경우, 우선적으로 대화와 협상을 통해 해결하도록 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리와의 분쟁이 대화와 협상으로 해결되지 않을 경우, 어떤 기관에 조정을 신청할 수 있나요?",
+                    "ANSWER": "한국공정거래조정원의 가맹사업거래분쟁조정협의회 또는 시ㆍ도의 분쟁조정협의회에 조정을 신청할 수 있습니다."
+                },
+                {
+                    "QUESTION": "분쟁 해결을 위한 중재를 신청하지 않은 경우, 법적 소송은 어디에 제기해야 하나요?",
+                    "ANSWER": "법적 분쟁에 대한 소송은 가맹점사업자의 주소지나 점포 소재지를 관할하는 법원에 제기해야 합니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비와 분쟁 발생 시, 중재를 신청할 수 있는 다른 법령에 의해 설치된 기관은 무엇인가요?",
+                    "ANSWER": "다른 법령에 의해 설치된 중재기관에 중재를 신청할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 관할법원에 대해 약정할 경우, 법적 소송은 어떻게 진행되나요?",
+                    "ANSWER": "가맹점사업자와 ㈜제이피에프엔비가 관할법원에 대해 약정할 경우, 약정된 법원에 따라 소송이 진행됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402736313443750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "702007501",
+            "KORN_ATTRB_NM": "2. 판매촉진행사 시 인력지원 등 내역",
+            "UP_ATTRB_MNNO": "700007501",
+            "KORN_UP_ATRB_NM": "Ⅶ. 가맹본부의 경영 및 영업활동 등에 대한 지원"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 2. 판매촉진행사 시 인력지원 등 내역\n당사는 가맹점을 개설 또는 운영함에 있어 별도의 지원제도를 운영하고 있지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n판매촉진행사 인력지원: 별도의 지원제도 없음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n2. 판매촉진행사 시 인력지원 등 내역: 당사는 가맹점 개설 및 운영에 대한 별도의 지원제도를 운영하지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비는 가맹점 운영에 대해 어떤 지원제도를 제공하나요?",
+                    "ANSWER": "㈜제이피에프엔비는 가맹점 개설 또는 운영에 있어 별도의 지원제도를 운영하지 않고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점 개설 시 판매촉진행사에 대한 인력지원은 어떻게 이루어지나요?",
+                    "ANSWER": "㈜제이피에프엔비는 판매촉진행사 시 인력지원을 제공하지 않습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비에서 가맹점에게 제공하는 서비스는 무엇인가요?",
+                    "ANSWER": "현재 ㈜제이피에프엔비는 가맹점 개설 또는 운영을 위한 별도의 지원 서비스를 제공하지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402845820146750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "703007501",
+            "KORN_ATTRB_NM": "3. 경영활동 자문",
+            "UP_ATTRB_MNNO": "700007501",
+            "KORN_UP_ATRB_NM": "Ⅶ. 가맹본부의 경영 및 영업활동 등에 대한 지원"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 3. 경영활동 자문\n<table><tr><td>구분</td><td>대상 및 내용</td><td>절차</td><td>비용부담</td><td>비고</td></tr><tr><td>당사</td><td>상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도</td><td>당사는 경영지도계획서(경영지도내용, 기간,</td><td>당사</td><td>(문의)</td></tr><tr><td>가맹점사업자</td><td>상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도</td><td>가맹점사업자 경영지도 요청 → 당사는</td><td>가맹점</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n\n**경영활동 자문:**\n- **대상 및 내용**: 상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도\n- **절차**: \n  - 당사: 경영지도계획서(내용, 기간) 작성 후 제공\n  - 가맹점사업자: 경영지도 요청 후 당사에 의해 진행\n- **비용부담**: \n  - 당사: 비용 부담\n  - 가맹점사업자: 비용 부담\n- **비고**: 문의 (상세 내용 미제공)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n경영활동 자문:  \n- **대상 및 내용**: 상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도  \n- **절차**:  \n  - 당사: 경영지도계획서를 통해 경영지도  \n  - 가맹점사업자: 경영지도 요청 후 당사가 진행  \n- **비용부담**:  \n  - 당사: 경영지도 비용 부담  \n  - 가맹점: 요청에 따른 비용 부담  \n- **비고**: 문의 필요  ",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 경영활동 자문에는 어떤 내용이 포함되나요?",
+                    "ANSWER": "가맹본부인 ㈜제이피에프엔비는 상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도를 제공합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 요청하는 경영지도는 어떤 절차로 이루어지나요?",
+                    "ANSWER": "가맹점사업자는 경영지도를 요청한 후, ㈜제이피에프엔비가 경영지도 계획서를 통해 경영지도의 내용과 기간을 안내합니다."
+                },
+                {
+                    "QUESTION": "경영활동 자문을 받기 위해 가맹점사업자가 부담해야 하는 비용은 어떻게 되나요?",
+                    "ANSWER": "가맹점사업자는 경영활동 자문에 대해 가맹점 비용을 부담하며, 비용 문의는 추후 진행해야 합니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비에서 제공하는 경영지도의 내용은 무엇인가요?",
+                    "ANSWER": "경영지도의 내용은 상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등으로 가맹점 운영 전반을 포함합니다."
+                },
+                {
+                    "QUESTION": "경영지도 요청을 위한 최초 절차는 무엇인가요?",
+                    "ANSWER": "경영지도 요청은 가맹점사업자가 직접 요청하는 것으로 시작됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402845820432750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "703007501",
+            "KORN_ATTRB_NM": "3. 경영활동 자문",
+            "UP_ATTRB_MNNO": "700007501",
+            "KORN_UP_ATRB_NM": "Ⅶ. 가맹본부의 경영 및 영업활동 등에 대한 지원"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 3. 경영활동 자문\n당사는 가맹점사업자의 경영활성화를 위하여 가맹점사업자의 경영활동에 대한 경영지도를 하고 있으며 자세한 내용은 다음과 같습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 경영활동 자문: 가맹점사업자의 경영활성화를 위한 경영지도 제공.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n경영활동 자문: 가맹점사업자의 경영활성화를 위해 경영지도 실시.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비는 가맹점사업자에게 어떤 경영지도를 제공하나요?",
+                    "ANSWER": "㈜제이피에프엔비는 가맹점사업자의 경영활성화를 위하여 경영활동에 대한 경영지도를 제공합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 경영활동 자문을 받을 수 있는 방법은 무엇인가요?",
+                    "ANSWER": "가맹점사업자는 ㈜제이피에프엔비의 경영활동 자문 프로그램에 참여하여 경영지도와 지원을 받을 수 있습니다."
+                },
+                {
+                    "QUESTION": "경영활동 자문은 가맹점사업자에게 어떤 이점을 제공하나요?",
+                    "ANSWER": "경영활동 자문은 가맹점사업자의 경영활성화에 기여하며, 이를 통해 경영의 효율성을 높일 수 있는 이점을 제공합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402595880757750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "704007501",
+            "KORN_ATTRB_NM": "4. 신용 제공 등 내역",
+            "UP_ATTRB_MNNO": "700007501",
+            "KORN_UP_ATRB_NM": "Ⅶ. 가맹본부의 경영 및 영업활동 등에 대한 지원"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 4. 신용 제공 등 내역\n당사는 [버밀당베이커리] 가맹점사업자를 위하여 신용 제공 또는 알선을 하고 있지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n신용 제공 내역: 신용 제공 또는 알선 없음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n신용 제공 내역: 당사는 버밀당베이커리 가맹점사업자를 위한 신용 제공 또는 알선은 진행하지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비는 버밀당베이커리 가맹점사업자에게 신용 제공을 하나요?",
+                    "ANSWER": "㈜제이피에프엔비는 버밀당베이커리 가맹점사업자를 위하여 신용 제공 또는 알선을 하지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402554417252750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "801007501",
+            "KORN_ATTRB_NM": "1. 교육ㆍ훈련의 주요내용",
+            "UP_ATTRB_MNNO": "800007501",
+            "KORN_UP_ATRB_NM": "Ⅷ. 교육ㆍ훈련에 대한 설명"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 1. 교육ㆍ훈련의 주요내용\n<table><tr><td>구분</td><td>주요내용</td><td>교육방식</td><td>기한</td><td>비고</td></tr><tr><td>신규 교육</td><td>관리 운영에 관한 교육 실시,</td><td>실습교육</td><td>가맹계약 체결 후 1개월 이내</td><td>필수 교육</td></tr><tr><td>양수 교육</td><td>상 동</td><td>상 동</td><td>상 동</td><td>상 동</td></tr><tr><td>보수 교육</td><td>가맹점 운영 정책의 변경, 가맹점 영업 활성화,</td><td>실습교육</td><td>필요 시</td><td>필요 시</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명:** ㈜제이피에프엔비\n- **브랜드명:** 버밀당베이커리\n\n**교육 및 훈련 주요 내용:**\n1. **신규 교육**\n   - **주요내용:** 관리 운영에 관한 교육 실시\n   - **교육방식:** 실습교육\n   - **기한:** 가맹계약 체결 후 1개월 이내\n   - **비고:** 필수 교육\n\n2. **양수 교육**\n   - **주요내용:** 동일\n   - **교육방식:** 동일\n   - **기한:** 동일\n   - **비고:** 동일\n\n3. **보수 교육**\n   - **주요내용:** 가맹점 운영 정책의 변경, 가맹점 영업 활성화\n   - **교육방식:** 실습교육\n   - **기한:** 필요 시\n   - **비고:** 필요 시",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n1. 교육 및 훈련 주요 내용:\n   - **신규 교육**: 관리 운영 교육 실시, 실습교육, 가맹계약 체결 후 1개월 이내, 필수 교육.\n   - **양수 교육**: 내용 동일, 방식 동일, 기한 동일, 비고 동일.\n   - **보수 교육**: 운영 정책 변경 및 영업 활성화 교육, 실습교육, 필요 시 진행.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 신규 교육은 언제 시작되나요?",
+                    "ANSWER": "신규 교육은 가맹계약 체결 후 1개월 이내에 실시됩니다."
+                },
+                {
+                    "QUESTION": "양수 교육의 주요 내용은 무엇인가요?",
+                    "ANSWER": "양수 교육의 주요 내용은 신규 교육과 동일하게 관리 운영에 관한 교육이 포함됩니다."
+                },
+                {
+                    "QUESTION": "보수 교육은 어떤 경우에 이루어지나요?",
+                    "ANSWER": "보수 교육은 가맹점 운영 정책의 변경이나 가맹점 영업 활성화가 필요할 때 필요 시에 실시됩니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 교육 방식은 어떻게 이루어지나요?",
+                    "ANSWER": "버밀당베이커리의 교육 방식은 주로 실습교육으로 진행됩니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영에 대한 신규 교육은 필수 사항인가요?",
+                    "ANSWER": "네, 신규 교육은 필수 교육으로 요구됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402554417460750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "801007501",
+            "KORN_ATTRB_NM": "1. 교육ㆍ훈련의 주요내용",
+            "UP_ATTRB_MNNO": "800007501",
+            "KORN_UP_ATRB_NM": "Ⅷ. 교육ㆍ훈련에 대한 설명"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 1. 교육ㆍ훈련의 주요내용\n당사는 [버밀당베이커리] 운영에 필요한 제반 지식 및 노하우를 귀하에게 전수하기 위하여 교육ㆍ훈련을 실시하고 있으며, 교육은 당사가 정한 곳에서 개업 전에 소집교육을 원칙으로 하고 있습니다. 자세한 내용은 다음과 같습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 교육 및 훈련 주요 내용: 운영에 필요한 지식 및 노하우 전수, 개업 전 소집교육 원칙.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n1. 교육ㆍ훈련 주요 내용:  \n당사는 버밀당베이커리 운영에 필요한 지식 및 노하우를 교육하여, 개업 전에 소집교육을 원칙으로 실시합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리를 운영하기 위해 필요한 교육은 어떻게 시행되나요?",
+                    "ANSWER": "버밀당베이커리를 운영하기 위해 필요한 교육은 가맹본부인 ㈜제이피에프엔비에서 실시하며, 개업 전에 정해진 장소에서 소집교육이 원칙입니다."
+                },
+                {
+                    "QUESTION": "가맹점주에게 제공되는 교육 내용은 무엇인가요?",
+                    "ANSWER": "가맹본부인 ㈜제이피에프엔비는 버밀당베이커리 운영에 필요한 제반 지식 및 노하우를 교육을 통해 제공하고 있습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 개업 전에 필요한 교육은 어디에서 이루어지나요?",
+                    "ANSWER": "가맹본부인 ㈜제이피에프엔비는 버밀당베이커리의 개업 전에 정해진 장소에서 소집교육을 실시합니다."
+                },
+                {
+                    "QUESTION": "가맹점주가 교육을 받기 위해 꼭 알아야 할 사항은 무엇인가요?",
+                    "ANSWER": "가맹점주는 버밀당베이커리 운영에 필요한 교육을 가맹본부인 ㈜제이피에프엔비에서 제공받으며, 교육은 개업 전에 실시되는 소집교육 방식임을 알아야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402711206910750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "803007501",
+            "KORN_ATTRB_NM": "3. 교육ㆍ훈련의 주체 ",
+            "UP_ATTRB_MNNO": "800007501",
+            "KORN_UP_ATRB_NM": "Ⅷ. 교육ㆍ훈련에 대한 설명"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 3. 교육ㆍ훈련의 주체 \n교육ㆍ훈련은 가맹계약을 맺는 당사자가 직접 받아야 합니다. 다만, 귀하가 직접 받기 어려운 경우에는 당사의 사전 승인을 받아 가맹점을 함께 운영하는 사람으로 하여금 대신하게 할 수 있습니다. 또한, 가맹계약 당사자가 원하여 당사자 외 직원도 같이 교육을 받게 되면 인원 추가에 따라 비용도 추가됩니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n\n3. 교육ㆍ훈련의 주체:\n- 교육ㆍ훈련은 가맹계약 당사자가 직접 받아야 함.\n- 직접 받기 어려운 경우, 사전 승인 후 가맹점 운영자가 대신 교육 가능.\n- 추가 직원 교육 시 비용 증가.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비이며, 브랜드명은 버밀당베이커리입니다. 교육 및 훈련은 가맹계약 당사자가 직접 받아야 하며, 불가피한 경우 사전 승인을 통해 다른 운영자에게 대신 받을 수 있습니다. 추가로, 당사자가 원할 경우 직원도 함께 교육받을 수 있으며, 이 경우 비용이 추가됩니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리 가맹계약 후 교육훈련은 누가 받게 되나요?",
+                    "ANSWER": "교육훈련은 가맹계약을 맺는 가맹본부인 ㈜제이피에프엔비의 직접적인 당사자가 받아야 합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 교육훈련을 다른 사람이 대신 받을 수 있나요?",
+                    "ANSWER": "네, 가맹계약 당사자가 직접 받기 어려운 경우에는 ㈜제이피에프엔비의 사전 승인을 받아 가맹점을 함께 운영하는 사람이 대신 교육을 받을 수 있습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리에서 교육훈련을 받는 인원이 추가되면 비용은 어떻게 되나요?",
+                    "ANSWER": "가맹계약 당사자가 원할 경우 당사자 외 직원도 교육을 받을 수 있으며, 이 경우 인원 추가에 따라 교육 비용도 추가됩니다."
+                },
+                {
+                    "QUESTION": "가맹계약 체결 후에 버밀당베이커리 교육을 받으려면 어떻게 해야 하나요?",
+                    "ANSWER": "가맹계약 체결 후에는 ㈜제이피에프엔비가 제공하는 교육훈련을 직접 받아야 하며, 필요 시 다른 사람이 대신 받아도 됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402503299994750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "804007501",
+            "KORN_ATTRB_NM": "4. 교육ㆍ훈련 불참시에 받을 수 있는 불이익",
+            "UP_ATTRB_MNNO": "800007501",
+            "KORN_UP_ATRB_NM": "Ⅷ. 교육ㆍ훈련에 대한 설명"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 브랜드: 버밀당베이커리\n 목차: 4. 교육ㆍ훈련 불참시에 받을 수 있는 불이익\n귀하가 개점 전 교육을 이수하지 않을 경우 개점을 할 수 없으며, 점포의 관리자로 근무를 할 수 없습니다. 또한, 개점 이후 당사가 정하는 필수교육을 이수하지 않을 경우 계약 기간 만료 후 갱신 거절될 수 있고, 물품공급 중단 및 가맹계약 해지 사유가 될 수 있으니 필히 이수하시기 바랍니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 교육 및 훈련 불참 시 불이익:\n  - 개점 전 교육 미이수: 개점 불가, 점포 관리자 근무 불가\n  - 개점 후 필수교육 미이수: 계약 갱신 거절, 물품공급 중단, 가맹계약 해지 가능성",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 ㈜제이피에프엔비이며, 브랜드명은 버밀당베이커리입니다. 교육 및 훈련 불참 시 개점이 불가하며, 관리자 근무도 불가능합니다. 개점 이후 필수교육 미이수 시 계약 갱신 거절, 물품 공급 중단, 가맹 계약 해지 등의 불이익이 있을 수 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "버밀당베이커리의 가맹본부는 교육을 이수하지 않을 경우 어떤 불이익이 있나요?",
+                    "ANSWER": "교육을 이수하지 않을 경우 개점을 할 수 없으며, 점포의 관리자로 근무할 수 없습니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리에서 정해진 필수교육을 개점 이후 이수하지 않으면 어떤 결과가 발생하나요?",
+                    "ANSWER": "계약 기간 만료 후 갱신 거절, 물품공급 중단 및 가맹계약 해지 사유가 될 수 있습니다."
+                },
+                {
+                    "QUESTION": "개점 전 교육을 이수하지 않으면 버밀당베이커리에서 점포 운영이 가능하나요?",
+                    "ANSWER": "개점 전 교육을 이수하지 않으면 점포 운영이 불가능합니다."
+                },
+                {
+                    "QUESTION": "버밀당베이커리의 필수교육을 이수하지 않으면 어떤 위험이 따르나요?",
+                    "ANSWER": "필수교육을 이수하지 않으면 계약 갱신이 거절되거나 물품공급이 중단되고 가맹계약이 해지될 위험이 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402437035969750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "901007501",
+            "KORN_ATTRB_NM": "1. 바로 전 사업연도 말 기준 직영점의 명칭 및 소재지",
+            "UP_ATTRB_MNNO": "900007501",
+            "KORN_UP_ATRB_NM": "Ⅸ. 가맹본부의 직영점① 운영 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 1. 바로 전 사업연도 말 기준 직영점의 명칭 및 소재지\n<table><tr><td attr=\"DMS_INFO_0001\" attr_type=\"header\">연번</td><td attr=\"DMS_INFO_0002\" attr_type=\"header\">지역</td><td attr=\"DMS_INFO_0003\" attr_type=\"header\">명칭</td><td attr=\"DMS_INFO_0004\" attr_type=\"header\">소재지</td></tr><tr><td attr=\"DMS_INFO_0001\" id=\"TBL06100000\">1</td><td attr=\"DMS_INFO_0002\" id=\"TBL06100001\">-</td><td attr=\"DMS_INFO_0003\" id=\"TBL06100002\">-</td><td attr=\"DMS_INFO_0004\" id=\"TBL06100003\">-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n\n**직영점 정보 (직전 사업연도 말 기준)**:\n- 지역: -\n- 명칭: -\n- 소재지: -",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n\n직영점 정보:\n- 지역: -\n- 명칭: -\n- 소재지: -  ",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 직영점 명칭은 무엇인가요?",
+                    "ANSWER": "현재 ㈜제이피에프엔비의 직영점 명칭은 제공되지 않고 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 직영점 소재지는 어디인가요?",
+                    "ANSWER": "현재 ㈜제이피에프엔비의 직영점 소재지는 제공되지 않고 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 직영점이 위치한 지역은 어디인가요?",
+                    "ANSWER": "현재 ㈜제이피에프엔비의 직영점이 위치한 지역 정보는 제공되지 않고 있습니다."
+                },
+                {
+                    "QUESTION": "㈜제이피에프엔비의 직영점 정보를 더 알고 싶습니다.",
+                    "ANSWER": "현재 ㈜제이피에프엔비의 직영점에 대한 구체적인 정보는 제공되지 않고 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402771425894750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "902007501",
+            "KORN_ATTRB_NM": "2. 바로 전 사업연도 말 기준 전체 직영점의 평균 운영기간",
+            "UP_ATTRB_MNNO": "900007501",
+            "KORN_UP_ATRB_NM": "Ⅸ. 가맹본부의 직영점① 운영 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 2. 바로 전 사업연도 말 기준 전체 직영점의 평균 운영기간\n<table><tr><td>2023년 직영점의 평균 운영 기간</td><td>비고</td></tr><tr><td>-</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 2023년 직영점의 평균 운영 기간: - (비고: -)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n2023년 직영점의 평균 운영 기간: 정보 없음.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 2023년 직영점의 평균 운영 기간은 얼마인가요?",
+                    "ANSWER": "2023년 직영점의 평균 운영 기간은 현재 정보가 제공되지 않고 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "207402771426127750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "㈜제이피에프엔비",
+            "BRAND_NM": "버밀당베이커리",
+            "JNG_IFRMP_SN": 2074027501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "902007501",
+            "KORN_ATTRB_NM": "2. 바로 전 사업연도 말 기준 전체 직영점의 평균 운영기간",
+            "UP_ATTRB_MNNO": "900007501",
+            "KORN_UP_ATRB_NM": "Ⅸ. 가맹본부의 직영점① 운영 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: ㈜제이피에프엔비\n 목차: 2. 바로 전 사업연도 말 기준 전체 직영점의 평균 운영기간\n(단위 : 년, 개월)",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: ㈜제이피에프엔비\n- 브랜드명: 버밀당베이커리\n- 전체 직영점의 평균 운영기간: (단위: 년, 개월)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: ㈜제이피에프엔비  \n브랜드명: 버밀당베이커리  \n전체 직영점의 평균 운영기간: 해당 정보 없음.",
+            "QAs": [
+                {
+                    "QUESTION": "㈜제이피에프엔비의 전체 직영점 평균 운영기간은 얼마인가요?",
+                    "ANSWER": "㈜제이피에프엔비의 전체 직영점 평균 운영기간은 구체적인 숫자로 제공되지 않았습니다. 추가적으로 문의해 주시면 상세한 정보를 안내해 드리겠습니다."
+                },
+                {
+                    "QUESTION": "직영점의 평균 운영기간이 가맹 사업에 어떤 영향을 미치나요?",
+                    "ANSWER": "직영점의 평균 운영기간은 일반적으로 브랜드의 안정성과 경험을 나타냅니다. ㈜제이피에프엔비의 직영점 운영기간이 길어질수록, 가맹점주에게 더 많은 운영 노하우와 지원을 제공할 수 있는 가능성이 높아집니다."
+                }
+            ]
+        }
+    }
+]

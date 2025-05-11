@@ -1,0 +1,2406 @@
+[
+    {
+        "LRN_DTIN_MNNO": "203306745883393750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "101007501",
+            "KORN_ATTRB_NM": "1. 가맹본부의 일반 정보",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 1. 가맹본부의 일반 정보\n당사의 일반 정보는 다음과 같습니다.<table><tr><td>상호</td><td>사용 브랜드</td><td>주 소</td></tr><tr><td>주식회사 엔케이코리아</td><td>KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)</td><td>경기도 *** ***** *** *** *****</td></tr><tr><td>법인 설립 등기일</td><td>사업자등록일</td><td>대표자</td><td>대표전화번호</td><td>대표팩스번호</td></tr><tr><td>2023.12.21.</td><td>2024.01.02.</td><td>황성일</td><td>1644-7861</td><td>-</td></tr><tr><td>법인등록번호</td><td>134911-0131259</td><td>사업자등록번호</td><td>595-88-02917</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부 정보 요약:**\n\n- **가맹본부명:** (주)엔케이코리아\n- **브랜드명:** KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n**일반 정보:**\n- **상호:** 주식회사 엔케이코리아\n- **사용 브랜드:** KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- **주소:** 경기도 광명시 ***** *** *** *****\n- **법인 설립 등기일:** 2023.12.21.\n- **사업자등록일:** 2024.01.02.\n- **대표자:** 황성일\n- **대표전화번호:** 1644-7861\n- **법인등록번호:** 134911-0131259\n- **사업자등록번호:** 595-88-02917",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n1. **가맹본부의 일반 정보**\n- **상호**: 주식회사 엔케이코리아\n- **사용 브랜드**: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- **주소**: 경기도 광명시 ***** *** *** *****\n- **법인 설립 등기일**: 2023.12.21.\n- **사업자등록일**: 2024.01.02.\n- **대표자**: 황성일\n- **대표전화번호**: 1644-7861\n- **법인등록번호**: 134911-0131259\n- **사업자등록번호**: 595-88-02917",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부의 이름은 무엇인가요?",
+                    "ANSWER": "가맹본부의 이름은 주식회사 엔케이코리아입니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 운영 가맹본부는 어디인가요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 운영 가맹본부는 주식회사 엔케이코리아입니다."
+                },
+                {
+                    "QUESTION": "주식회사 엔케이코리아의 주소는 어디인가요?",
+                    "ANSWER": "주식회사 엔케이코리아의 주소는 경기도 광명시 ***** *** *** *****입니다."
+                },
+                {
+                    "QUESTION": "가맹본부의 대표자는 누구인가요?",
+                    "ANSWER": "가맹본부의 대표자는 황성일입니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 사업자 등록일은 언제인가요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 사업자 등록일은 2024년 1월 2일입니다."
+                },
+                {
+                    "QUESTION": "가맹본부의 법인 등록 번호는 무엇인가요?",
+                    "ANSWER": "가맹본부의 법인 등록 번호는 134911-0131259입니다."
+                },
+                {
+                    "QUESTION": "가맹본부의 대표전화번호는 무엇인가요?",
+                    "ANSWER": "가맹본부의 대표전화번호는 1644-7861입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306593931356750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "103007501",
+            "KORN_ATTRB_NM": "3. 가맹본부의 인수ㆍ합병 내역",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 3. 가맹본부의 인수ㆍ합병 내역\n당사는 바로 전 3년 동안 다음과 같이 다른 기업(가맹사업 영업표지를 포함하여 가맹사업을 경영한 기업)을 인수ㆍ합병(다른 기업의 가맹 관련 사업을 양수 또는 양도한 경우도 포함한다)하거나 다른 기업에 인수ㆍ합병된 적이 있습니다.<table><tr><td>인수ㆍ합병 여부</td><td>기업명</td><td>영업표지</td><td>인수ㆍ합병일</td><td>주 소</td><td>대표자</td></tr><tr><td>가맹본부가 다른 기업을 인수함</td><td>주식회사 케이엠지엠</td><td>KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)</td><td>2024.01.02</td><td>부산광역시 ** **** **** *** ****** *****</td><td>이석영</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n\n**인수ㆍ합병 내역**:\n- **기업명**: 주식회사 케이엠지엠\n- **영업표지**: KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n- **인수ㆍ합병일**: 2024.01.02\n- **주소**: 부산광역시 남구 **** **** *** ****** *****\n- **대표자**: 이석영",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n인수ㆍ합병 내역:  \n- 가맹본부가 주식회사 케이엠지엠을 2024년 1월 2일에 인수.  \n- 영업표지: KMGM HOLD'EM & EVENT PUB  \n- 주소: 부산광역시 남구 **** **** *** ****** *****  \n- 대표자: 이석영  ",
+            "QAs": [
+                {
+                    "QUESTION": "엔케이코리아는 최근에 어떤 기업을 인수했나요?",
+                    "ANSWER": "엔케이코리아는 2024년 1월 2일에 주식회사 케이엠지엠을 인수했습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 영업표지를 보유한 회사는 누구인가요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 영업표지를 보유한 회사는 주식회사 케이엠지엠입니다."
+                },
+                {
+                    "QUESTION": "주식회사 케이엠지엠의 인수합병 대표자는 누구인가요?",
+                    "ANSWER": "주식회사 케이엠지엠의 대표자는 이석영입니다."
+                },
+                {
+                    "QUESTION": "엔케이코리아의 인수합병은 언제 이루어졌나요?",
+                    "ANSWER": "엔케이코리아는 2024년 1월 2일에 인수합병을 진행했습니다."
+                },
+                {
+                    "QUESTION": "주식회사 케이엠지엠의 주소는 어디인가요?",
+                    "ANSWER": "주식회사 케이엠지엠의 주소는 부산광역시 남구 **** **** *** ****** *****입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306763369239750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "106007501",
+            "KORN_ATTRB_NM": "6. 가맹본부의 임원 명단 및 사업경력",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 6. 가맹본부의 임원 명단 및 사업경력\n당사의 임원 내역은 다음과 같습니다.<table><tr><td>구분</td><td>이름</td><td>현직위</td><td>사업경력</td></tr><tr><td>기간</td><td>직위</td><td>담당업무</td></tr><tr><td>가맹사업관련 임원</td><td>황성일</td><td>대표</td><td>2023.12.21~ 현재</td><td>대표</td><td>회사업무 총괄</td></tr><tr><td>박세미</td><td>감사</td><td>2023.12.21~ 현재</td><td>감사</td><td>감사</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n**임원 명단 및 사업경력:**  \n- **황성일**  \n  - **현직위:** 대표  \n  - **사업경력:** 2023.12.21 ~ 현재  \n  - **담당업무:** 회사업무 총괄  \n\n- **박세미**  \n  - **현직위:** 감사  \n  - **사업경력:** 2023.12.21 ~ 현재  \n  - **담당업무:** 감사  ",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n임원 내역:\n- **황성일**: 대표, 2023.12.21~ 현재, 회사업무 총괄\n- **박세미**: 감사, 2023.12.21~ 현재, 감사 관련 업무 수행",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부 (주)엔케이코리아의 대표는 누구인가요?",
+                    "ANSWER": "가맹본부 (주)엔케이코리아의 대표는 황성일입니다."
+                },
+                {
+                    "QUESTION": "가맹본부 (주)엔케이코리아의 감사는 어떤 분인가요?",
+                    "ANSWER": "가맹본부 (주)엔케이코리아의 감사는 박세미입니다."
+                },
+                {
+                    "QUESTION": "황성일 대표의 현재 직위는 무엇인가요?",
+                    "ANSWER": "황성일 대표의 현재 직위는 대표입니다."
+                },
+                {
+                    "QUESTION": "박세미 감사의 현직위는 무엇인가요?",
+                    "ANSWER": "박세미 감사의 현직위는 감사입니다."
+                },
+                {
+                    "QUESTION": "가맹본부 (주)엔케이코리아의 황성일 대표는 언제부터 사업을 시작했나요?",
+                    "ANSWER": "황성일 대표는 2023년 12월 21일부터 현재까지 사업을 총괄하고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부 (주)엔케이코리아의 박세미 감사의 경력은 어떻게 되나요?",
+                    "ANSWER": "박세미 감사는 2023년 12월 21일부터 현재까지 감사 직위에 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306523098554750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "107007501",
+            "KORN_ATTRB_NM": "7. 바로 전 사업연도 말 임직원 수",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 7. 바로 전 사업연도 말 임직원 수\n당사의 작년 말 임직원 수는 다음과 같습니다.<table><tr><td>시점</td><td>임원수(명)</td><td>직원수(명)</td></tr><tr><td>상근</td><td>비상근</td></tr><tr><td>2023년 12월 31일</td><td>2</td><td>-</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n- 2023년 12월 31일 임직원 수:\n  - 상근 임원수: 2명\n  - 비상근 임원수: - \n  - 직원수: -",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)  \n\n임직원 수 (2023년 12월 31일 기준):  \n- 상근 임원: 2명  \n- 비상근 직원: 없음  \n- 전체 직원 수: 없음  ",
+            "QAs": [
+                {
+                    "QUESTION": "엔케이코리아의 2023년 12월 31일 기준 임직원 수는 어떻게 되나요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 엔케이코리아의 임원 수는 2명이며 직원 수는 없습니다."
+                },
+                {
+                    "QUESTION": "엔케이코리아의 상근 임원 수는 얼마인가요?",
+                    "ANSWER": "엔케이코리아의 상근 임원 수는 2명입니다."
+                },
+                {
+                    "QUESTION": "2023년 12월 31일 기준으로 엔케이코리아의 비상근 직원은 몇 명인가요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 엔케이코리아에는 비상근 직원이 없습니다."
+                },
+                {
+                    "QUESTION": "엔케이코리아의 임원 수와 직원 수가 어떻게 되는지 궁금합니다.",
+                    "ANSWER": "엔케이코리아의 임원 수는 2명이지만, 직원 수는 0명입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306847608247750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "108007501",
+            "KORN_ATTRB_NM": "8. 가맹본부 및 가맹본부의 특수관계인의 가맹사업 경영 사실",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 8. 가맹본부 및 가맹본부의 특수관계인의 가맹사업 경영 사실\n해당 없습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 가맹사업 경영 사실: 해당 없음",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)  \n가맹본부 및 특수관계인의 가맹사업 경영 사실: 해당 없음.",
+            "QAs": [
+                {
+                    "QUESTION": "(주)엔케이코리아는 가맹사업에 어떤 경영 사실을 가지고 있나요?",
+                    "ANSWER": "현재 (주)엔케이코리아는 가맹사업과 관련하여 특수관계인의 경영 사실이 없습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306035581082750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "109007501",
+            "KORN_ATTRB_NM": "9. 사용을 허용하는 지식재산권",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 9. 사용을 허용하는 지식재산권\n당사가 귀하에게 사용을 허용하는 지식재산권은 다음과 같습니다.<table><tr><td>명칭</td><td>권리 내용</td><td>등록 및 등록신청 여부(일자)</td><td>출원 및  등록 번호</td><td>소유자</td><td>존속기간 만료일</td></tr><tr><td>KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍) (상표권)</td><td>가맹점상호로 사용</td><td>출원 준비 중</td><td>-</td><td>-</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- **사용 허용 지식재산권**:\n  - **명칭**: KMGM HOLD’EM & EVENT PUB (상표권)\n  - **권리 내용**: 가맹점상호로 사용\n  - **등록 및 등록신청 여부**: 출원 준비 중\n  - **출원 및 등록 번호**: -\n  - **소유자**: -\n  - **존속기간 만료일**: -",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n**사용 허용 지식재산권:**\n- **명칭:** KMGM HOLD’EM & EVENT PUB (상표권)  \n- **권리 내용:** 가맹점상호로 사용  \n- **등록 및 등록신청 여부:** 출원 준비 중  \n- **출원 및 등록 번호:** -  \n- **소유자:** -  \n- **존속기간 만료일:** -  ",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부인 (주)엔케이코리아가 제공하는 지식재산권에는 어떤 내용이 포함되어 있나요?",
+                    "ANSWER": "가맹본부인 (주)엔케이코리아는 'KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)'이라는 상표권을 가맹점상호로 사용할 수 있도록 허용하고 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 상표권의 등록 상태는 어떻게 되나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB 상표권은 현재 출원 준비 중입니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 상표권의 소유자는 누구인가요?",
+                    "ANSWER": "현재 KMGM HOLD’EM & EVENT PUB 상표권의 소유자는 명시되어 있지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹점주가 사용할 수 있는 상표는 무엇인가요?",
+                    "ANSWER": "가맹점주는 'KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)'라는 상표를 사용할 수 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 존속기간 만료일은 언제인가요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB 상표권의 존속기간 만료일은 정보가 제공되지 않았습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306035581366750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "109007501",
+            "KORN_ATTRB_NM": "9. 사용을 허용하는 지식재산권",
+            "UP_ATTRB_MNNO": "100007501",
+            "KORN_UP_ATRB_NM": "Ⅰ. 가맹본부의 일반 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 9. 사용을 허용하는 지식재산권\n※ 당사의 상표는 현재 출원 준비 중이므로 등록되기 전까지 당사의 상표 등을 사용하는 권리는 관계법으로 보호받지 못합니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 사용 허용 지식재산권: 당사의 상표는 출원 준비 중으로, 등록 전까지 법적으로 보호받지 않음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)  \n※ 당사의 상표는 현재 출원 준비 중이며, 등록 전까지 사용 권리가 법적으로 보호되지 않음.",
+            "QAs": [
+                {
+                    "QUESTION": "(주)엔케이코리아의 상표는 언제부터 사용이 가능한가요?",
+                    "ANSWER": "상표는 현재 출원 준비 중으로, 등록되기 전까지 상표 등을 사용하는 권리는 관계법으로 보호받지 않습니다. 따라서 등록된 후에 사용이 가능해집니다."
+                },
+                {
+                    "QUESTION": "가맹점주가 (주)엔케이코리아의 상표를 사용하려면 어떻게 해야 하나요?",
+                    "ANSWER": "(주)엔케이코리아의 상표를 사용하려면 상표가 등록된 후에야 가능합니다. 현재는 출원 준비 중이므로, 등록이 완료되기 전에는 사용할 수 없습니다."
+                },
+                {
+                    "QUESTION": "(주)엔케이코리아의 상표가 등록되기 전에 사용할 수 있는 권리가 있나요?",
+                    "ANSWER": "등록되기 전까지는 관계법으로 상표 등을 사용하는 권리가 보호받지 않으므로, 사용할 수 없습니다."
+                },
+                {
+                    "QUESTION": "(주)엔케이코리아의 상표 등록 상태는 어떻게 되나요?",
+                    "ANSWER": "(주)엔케이코리아의 상표는 현재 출원 준비 중입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306463236841750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "201007501",
+            "KORN_ATTRB_NM": "1. [BRD]을 시작한 날",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 1. [KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)]을 시작한 날\n(직영점을 시작한 날 :2017년 7월 15일)",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 가맹사업 시작일: 2019년 4월 31일\n- 직영점 시작일: 2017년 7월 15일",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)  \n\n- 가맹사업 시작일: 2019년 4월 31일  \n- 직영점 시작일: 2017년 7월 15일",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 브랜드는 언제 시작되었나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB 브랜드는 2017년 7월 15일에 직영점을 시작했습니다."
+                },
+                {
+                    "QUESTION": "가맹본부인 (주)엔케이코리아는 KMGM HOLD’EM & EVENT PUB을 언제 런칭했나요?",
+                    "ANSWER": "(주)엔케이코리아는 KMGM HOLD’EM & EVENT PUB을 2017년 7월 15일에 직영점을 시작하여 런칭했습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306759082924750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "202007501",
+            "KORN_ATTRB_NM": "2. [BRD] 연혁",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 2. [KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)] 연혁\n<table><tr><td>상호</td><td>영업표지</td><td>대표자</td><td>가맹사업 경영기간</td><td>주된 사무소의소재지</td></tr><tr><td>엠지엠 (MGM)펍</td><td>MGM CASINO &amp; MAGIC PUB(엠지엠카지노엔매직펍)</td><td>이석영</td><td>2018.5. ~ 2019.4.</td><td>부산시 **** *** *** ********* ********</td></tr><tr><td>주식회사 케이엠지엠</td><td>MGM CASINO &amp; MAGIC PUB(엠지엠카지노엔매직펍)</td><td>이석영</td><td>2019.4. ~ 2020.7</td><td>부산시 *** ******* *** *층</td></tr><tr><td>주식회사 케이엠지엠</td><td>KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)</td><td>이석영</td><td>2020.7. ~ 2024.01.01</td><td>부산광역시 ** **** **** *** ****** *****</td></tr><tr><td>주식회사엔케이코리아</td><td>KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)</td><td>황성일</td><td>2024.01.02~현재</td><td>경기도 *** ***** *** ******* ** *****</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n\n**연혁:**\n1. **엠지엠 (MGM)펍**\n   - **영업표지:** MGM CASINO & MAGIC PUB(엠지엠카지노엔매직펍)\n   - **대표자:** 이석영\n   - **가맹사업 경영기간:** 2018.5. ~ 2019.4.\n   - **주소:** 부산시 부산진구 *** *** ********* ********\n\n2. **주식회사 케이엠지엠**\n   - **영업표지:** MGM CASINO & MAGIC PUB(엠지엠카지노엔매직펍)\n   - **대표자:** 이석영\n   - **가맹사업 경영기간:** 2019.4. ~ 2020.7\n   - **주소:** 부산시 사상구 ******* *** *층\n\n3. **주식회사 케이엠지엠**\n   - **영업표지:** KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n   - **대표자:** 이석영\n   - **가맹사업 경영기간:** 2020.7. ~ 2024.01.01\n   - **주소:** 부산광역시 남구 **** **** *** ****** *****\n\n4. **주식회사 엔케이코리아**\n   - **영업표지:** KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n   - **대표자:** 황성일\n   - **가맹사업 경영기간:** 2024.01.02 ~ 현재\n   - **주소:** 경기도 광명시 ***** *** ******* ** *****",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)  \n\n연혁:\n- 엠지엠 (MGM) 펍: 2018.5 ~ 2019.4 (부산시 부산진구)\n- 주식회사 케이엠지엠: 2019.4 ~ 2020.7 (부산시 사상구)\n- 주식회사 케이엠지엠: 2020.7 ~ 2024.01.01 (부산광역시 남구)\n- 주식회사 엔케이코리아: 2024.01.02 ~ 현재 (경기도 광명시)  \n\n대표자: 이석영 (2018-2024), 황성일 (2024-현재)",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 가맹사업 경영기간은 어떻게 되나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB은 2020년 7월부터 2024년 1월 1일까지 가맹사업을 운영해왔습니다."
+                },
+                {
+                    "QUESTION": "현재 KMGM HOLD’EM & EVENT PUB의 대표자는 누구인가요?",
+                    "ANSWER": "현재 KMGM HOLD’EM & EVENT PUB의 대표자는 황성일입니다."
+                },
+                {
+                    "QUESTION": "가맹본부 (주)엔케이코리아의 본사의 소재지는 어디인가요?",
+                    "ANSWER": "(주)엔케이코리아의 주된 사무소는 경기도 광명시 ***** *** ******* ** *****에 위치해 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 이전 이름은 무엇인가요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 이전 이름은 MGM CASINO & MAGIC PUB입니다."
+                },
+                {
+                    "QUESTION": "가맹사업을 시작한 지 가장 오래된 기간은 언제부터인가요?",
+                    "ANSWER": "가맹사업 경영기간 중 가장 오래된 것은 엠지엠 (MGM)펍으로 2018년 5월부터 2019년 4월까지입니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB이 운영되던 주소는 어디인가요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB은 부산광역시 남구 **** **** *** ****** *****에서 운영되고 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306693056932750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "203007501",
+            "KORN_ATTRB_NM": "3. [BRD] 업종",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 3. [KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)] 업종\n<table><tr><td>영업표지</td><td>업종 </td></tr><tr><td>KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)</td><td>대분류</td><td>소분류(주요상품)</td></tr><tr><td>주점</td><td>주류</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n- 업종: 주점 (대분류)\n  - 소분류(주요상품): 주류",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n- **업종**: 주점  \n- **대분류**: 주류  \n- **소분류**: 주요상품 (주류)  ",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)의 업종은 무엇인가요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB은 주점 업종에 속합니다."
+                },
+                {
+                    "QUESTION": "케이엠지엠홀덤앤이벤트펍의 주요 상품 분류는 어떻게 되나요?",
+                    "ANSWER": "케이엠지엠홀덤앤이벤트펍의 주요 상품은 주류입니다."
+                },
+                {
+                    "QUESTION": "엔케이코리아가 운영하는 브랜드는 무엇인가요?",
+                    "ANSWER": "엔케이코리아가 운영하는 브랜드는 KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)입니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB은 어떤 대분류에 포함되나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB은 대분류로 주점에 포함됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306693057259750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "203007501",
+            "KORN_ATTRB_NM": "3. [BRD] 업종",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 3. [KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)] 업종\n4.바로 전 3년간 사업연도 말 영업 중인 [KMGM HOLD’EM &amp; EVENT PUB",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 업종: KMGM HOLD’EM & EVENT PUB\n- 사업연도: 바로 전 3년간 영업 중인 [KMGM HOLD’EM & EVENT PUB]",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n업종: KMGM HOLD’EM & EVENT PUB  \n영업 중인 사업연도: 바로 전 3년간  ",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 가맹본부는 어떤 회사인가요?",
+                    "ANSWER": "(주)엔케이코리아가 KMGM HOLD’EM & EVENT PUB의 가맹본부입니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 브랜드는 어떤 업종에 속하나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB 브랜드는 이벤트 펍 업종에 속합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 가맹본부는 최근 3년간 어떤 실적을 보였나요?",
+                    "ANSWER": "최근 3년간 사업연도 말의 영업 실적에 대한 정보는 확인이 필요합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306524932819750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "204007501",
+            "KORN_ATTRB_NM": "4. 바로 전 3년간 사업연도 말 영업 중인 [BRD] 가맹점 및 직영점의 총 수",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 4. 바로 전 3년간 사업연도 말 영업 중인 [KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)] 가맹점 및 직영점의 총 수\n(단위: 개)<table><tr><td>지역</td><td>2021.12.31.</td><td>2022.12.31.</td><td>2023.12.31.</td></tr><tr><td>지역</td><td>전체</td><td>가맹점수</td><td>직영점수</td><td>전체</td><td>가맹점수</td><td>직영점수</td><td>전체</td><td>가맹점수</td><td>직영점수</td></tr><tr><td>전체</td><td>86</td><td>86</td><td>-</td><td>86</td><td>86</td><td>-</td><td>64</td><td>64</td><td>-</td></tr><tr><td>서울</td><td>16</td><td>16</td><td>-</td><td>19</td><td>19</td><td>-</td><td>19</td><td>19</td><td>-</td></tr><tr><td>부산</td><td>5</td><td>5</td><td>-</td><td>5</td><td>5</td><td>-</td><td>2</td><td>2</td><td>-</td></tr><tr><td>대구</td><td>2</td><td>2</td><td>-</td><td>2</td><td>2</td><td>-</td><td>1</td><td>1</td><td>-</td></tr><tr><td>인천</td><td>7</td><td>7</td><td>-</td><td>9</td><td>9</td><td>-</td><td>6</td><td>6</td><td>-</td></tr><tr><td>광주</td><td>1</td><td>1</td><td>-</td><td>1</td><td>1</td><td>-</td><td>1</td><td>1</td><td>-</td></tr><tr><td>대전</td><td>5</td><td>5</td><td>-</td><td>5</td><td>5</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>울산</td><td>1</td><td>1</td><td>-</td><td>1</td><td>1</td><td>-</td><td>1</td><td>1</td><td>-</td></tr><tr><td>세종</td><td>1</td><td>1</td><td>-</td><td>1</td><td>1</td><td>-</td><td>1</td><td>1</td><td>-</td></tr><tr><td>경기</td><td>24</td><td>24</td><td>-</td><td>20</td><td>20</td><td>-</td><td>17</td><td>17</td><td>-</td></tr><tr><td>강원</td><td>7</td><td>7</td><td>-</td><td>6</td><td>6</td><td>-</td><td>7</td><td>7</td><td>-</td></tr><tr><td>충북</td><td>2</td><td>2</td><td>-</td><td>2</td><td>2</td><td>-</td><td>1</td><td>1</td><td>-</td></tr><tr><td>충남</td><td>4</td><td>4</td><td>-</td><td>4</td><td>4</td><td>-</td><td>2</td><td>2</td><td>-</td></tr><tr><td>전북</td><td>1</td><td>1</td><td>-</td><td>1</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>전남</td><td>3</td><td>3</td><td>-</td><td>1</td><td>1</td><td>-</td><td>1</td><td>1</td><td>-</td></tr><tr><td>경북</td><td>2</td><td>2</td><td>-</td><td>2</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>경남</td><td>4</td><td>4</td><td>-</td><td>4</td><td>4</td><td>-</td><td>2</td><td>2</td><td>-</td></tr><tr><td>제주</td><td>1</td><td>1</td><td>-</td><td>3</td><td>3</td><td>-</td><td>3</td><td>3</td><td>-</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n\n**가맹점 및 직영점 총 수 (2021-2023)**:\n- **2021년**: 86 (전체)\n- **2022년**: 86 (전체)\n- **2023년**: 64 (전체)\n\n**지역별 가맹점 및 직영점 수**:\n- **서울**: 16(2021), 19(2022), 19(2023)\n- **부산**: 5(2021), 5(2022), 2(2023)\n- **대구**: 2(2021), 2(2022), 1(2023)\n- **인천**: 7(2021), 9(2022), 6(2023)\n- **광주**: 1(2021, 2022, 2023)\n- **대전**: 5(2021, 2022), 0(2023)\n- **울산**: 1(2021, 2022, 2023)\n- **세종**: 1(2021, 2022, 2023)\n- **경기**: 24(2021), 20(2022), 17(2023)\n- **강원**: 7(2021), 6(2022), 7(2023)\n- **충북**: 2(2021, 2022), 1(2023)\n- **충남**: 4(2021, 2022), 2(2023)\n- **전북**: 1(2021, 2022), 0(2023)\n- **전남**: 3(2021), 1(2022, 2023)\n- **경북**: 2(2021, 2022), 0(2023)\n- **경남**: 4(2021, 2022), 2(2023)\n- **제주**: 1(2021), 3(2022, 2023)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n2021년부터 2023년까지 KMGM HOLD’EM & EVENT PUB의 가맹점 및 직영점 수는 다음과 같습니다:\n\n- **2021년**: 전체 86개 (가맹점 86개, 직영점 0개)\n- **2022년**: 전체 86개 (가맹점 86개, 직영점 0개)\n- **2023년**: 전체 64개 (가맹점 64개, 직영점 0개)\n\n지역별로는 서울(16~19개), 부산(5~2개), 대구(2~1개), 인천(7~6개), 경기(24~17개) 등 다양한 변동이 있었습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "2023년 12월 31일 기준으로 KMGM HOLD’EM & EVENT PUB의 전체 가맹점 수는 얼마인가요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 KMGM HOLD’EM & EVENT PUB의 전체 가맹점 수는 64개입니다."
+                },
+                {
+                    "QUESTION": "2022년 12월 31일에 비해 2023년 12월 31일 KMGM HOLD’EM & EVENT PUB의 부산 지역 가맹점 수는 어떻게 변화했나요?",
+                    "ANSWER": "부산 지역의 KMGM HOLD’EM & EVENT PUB 가맹점 수는 2022년 12월 31일 5개에서 2023년 12월 31일 2개로 감소했습니다."
+                },
+                {
+                    "QUESTION": "2021년부터 2023년까지 KMGM HOLD’EM & EVENT PUB의 서울 지역 가맹점 수는 변동이 없었나요?",
+                    "ANSWER": "네, 2021년부터 2023년까지 KMGM HOLD’EM & EVENT PUB의 서울 지역 가맹점 수는 모두 19개로 변동이 없었습니다."
+                },
+                {
+                    "QUESTION": "2023년 12월 31일 기준으로 경상북도 지역의 KMGM HOLD’EM & EVENT PUB 가맹점 수는 어떤가요?",
+                    "ANSWER": "2023년 12월 31일 기준으로 경상북도 지역의 KMGM HOLD’EM & EVENT PUB 가맹점 수는 0개입니다."
+                },
+                {
+                    "QUESTION": "2021년의 KMGM HOLD’EM & EVENT PUB 가맹점 수와 2023년의 가맹점 수를 비교하면 어떻게 되나요?",
+                    "ANSWER": "2021년의 KMGM HOLD’EM & EVENT PUB 가맹점 수는 86개였고, 2023년에는 64개로 감소했습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306524933499750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "204007501",
+            "KORN_ATTRB_NM": "4. 바로 전 3년간 사업연도 말 영업 중인 [BRD] 가맹점 및 직영점의 총 수",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 4. 바로 전 3년간 사업연도 말 영업 중인 [KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)] 가맹점 및 직영점의 총 수\n※별첨2) 인근 가맹점 현황 목록",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 가맹점 및 직영점 총 수: 별첨2) 인근 가맹점 현황 목록 참조",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n가맹점 및 직영점 총 수: 별첨2) 인근 가맹점 현황 목록 참조.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 가맹본부의 최근 3년간 영업 중인 가맹점 수는 어떻게 되나요?",
+                    "ANSWER": "최근 3년간 영업 중인 KMGM HOLD’EM & EVENT PUB의 가맹점 수는 가맹본부에 문의하시면 확인하실 수 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 직영점 수는 얼마인가요?",
+                    "ANSWER": "직영점 수에 대한 정확한 정보는 가맹본부인 (주)엔케이코리아를 통해 확인 가능합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 가맹본부의 인근 가맹점 현황은 어디서 확인할 수 있나요?",
+                    "ANSWER": "인근 가맹점 현황 목록은 별첨2에서 확인하실 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306004888760750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "205007501",
+            "KORN_ATTRB_NM": "5. 바로 전 3년간 [BRD] 가맹점 수",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 5. 바로 전 3년간 [KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)] 가맹점 수\n(단위:개)<table><tr><td>연도</td><td>연초</td><td>신규개점</td><td>계약종료</td><td>계약해지</td><td>명의변경</td><td>연말</td></tr><tr><td>2021년</td><td>77</td><td>17</td><td>8</td><td>0</td><td>0</td><td>86</td></tr><tr><td>2022년</td><td>86</td><td>12</td><td>12</td><td>0</td><td>0</td><td>86</td></tr><tr><td>2023년</td><td>86</td><td>4</td><td>7</td><td>19</td><td>9</td><td>64</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n**가맹점 수 (2021-2023)**  \n| 연도   | 연초 | 신규개점 | 계약종료 | 계약해지 | 명의변경 | 연말 |\n|--------|------|----------|----------|----------|----------|------|\n| 2021년 | 77   | 17       | 8        | 0        | 0        | 86   |\n| 2022년 | 86   | 12       | 12       | 0        | 0        | 86   |\n| 2023년 | 86   | 4        | 7        | 19       | 9        | 64   |",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n2021년부터 2023년까지 가맹점 수 변화:\n- **2021년**: 연초 77개, 신규 17개, 계약 종료 8개, 연말 86개  \n- **2022년**: 연초 86개, 신규 12개, 계약 종료 12개, 연말 86개  \n- **2023년**: 연초 86개, 신규 4개, 계약 종료 7개, 계약 해지 19개, 명의 변경 9개, 연말 64개  \n\n전반적으로 2021년과 2022년에는 가맹점 수가 유지되었으나, 2023년에는 감소세를 보였다.",
+            "QAs": [
+                {
+                    "QUESTION": "2021년 KMGM HOLD’EM & EVENT PUB의 가맹점은 몇 개에서 몇 개로 변화했나요?",
+                    "ANSWER": "2021년에는 77개의 가맹점이 연초에 있었고, 연말에 86개로 증가했습니다."
+                },
+                {
+                    "QUESTION": "2022년 동안 KMGM HOLD’EM & EVENT PUB의 신규 개점 수는 얼마인가요?",
+                    "ANSWER": "2022년 동안 12개의 신규 개점이 있었습니다."
+                },
+                {
+                    "QUESTION": "2023년 KMGM HOLD’EM & EVENT PUB 가맹점 수의 변화를 알려주세요.",
+                    "ANSWER": "2023년에는 연초 86개에서 연말 64개로 줄어들었습니다."
+                },
+                {
+                    "QUESTION": "2022년 KMGM HOLD’EM & EVENT PUB에서 계약종료된 가맹점 수는 몇 개인가요?",
+                    "ANSWER": "2022년에는 12개의 가맹점이 계약이 종료되었습니다."
+                },
+                {
+                    "QUESTION": "2021년과 2022년의 KMGM HOLD’EM & EVENT PUB 가맹점 변동 차이는 무엇인가요?",
+                    "ANSWER": "2021년에는 연중 8개의 계약 종료가 있었지만, 2022년에는 12개의 계약이 종료되었습니다."
+                },
+                {
+                    "QUESTION": "2023년도 KMGM HOLD’EM & EVENT PUB의 계약해지 수치는 어떻게 되나요?",
+                    "ANSWER": "2023년에는 19개의 계약이 해지되었습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306182307079750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "206007501",
+            "KORN_ATTRB_NM": "6. [BRD]외에 가맹본부가 경영하거나 특수관계인이 경영하는 가맹사업 현황",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 6. [KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)]외에 가맹본부가 경영하거나 특수관계인이 경영하는 가맹사업 현황\n해당 없습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 가맹사업 현황: 해당 없음",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n기타 가맹사업 현황: 해당 없음.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB은 어떤 가맹본부에서 운영하나요?",
+                    "ANSWER": "(주)엔케이코리아에서 KMGM HOLD'EM & EVENT PUB을 운영합니다."
+                },
+                {
+                    "QUESTION": "가맹본부인 (주)엔케이코리아는 KMGM HOLD'EM & EVENT PUB 외에 다른 브랜드를 운영하나요?",
+                    "ANSWER": "현재 (주)엔케이코리아는 KMGM HOLD'EM & EVENT PUB 외에 다른 브랜드를 운영하지 않고 있습니다."
+                },
+                {
+                    "QUESTION": "(주)엔케이코리아의 가맹사업 현황은 어떻게 되나요?",
+                    "ANSWER": "(주)엔케이코리아의 가맹사업 현황은 현재 KMGM HOLD'EM & EVENT PUB만 존재하며, 기타 운영 중인 브랜드나 특수관계인의 경영은 없습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306104170754750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "208007501",
+            "KORN_ATTRB_NM": "8. [BRD] 가맹점의 평균 영업기간",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 8. [KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)] 가맹점의 평균 영업기간\n[KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)]의 바로 전 사업연도 말 현재 영업중인 가맹점사업자의 평균 영업기간은 다음과 같습니다.<table><tr><td>연도</td><td>영업중인 가맹점 수</td><td>평균 영업기간</td></tr><tr><td>2023</td><td>64</td><td>1,071일</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n가맹점 평균 영업기간: 2023년, 영업중인 가맹점 수 64개, 평균 영업기간 1,071일.  ",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)입니다. 2023년 기준으로 영업 중인 가맹점 수는 64개이며, 평균 영업기간은 1,071일입니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 가맹점 평균 영업기간은 어떻게 되나요?",
+                    "ANSWER": "2023년 현재 KMGM HOLD’EM & EVENT PUB의 가맹점 평균 영업기간은 1,071일입니다."
+                },
+                {
+                    "QUESTION": "2023년 KMGM HOLD’EM & EVENT PUB의 가맹점 수는 몇 개인가요?",
+                    "ANSWER": "2023년 KMGM HOLD’EM & EVENT PUB의 영업 중인 가맹점 수는 64개입니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 가맹점의 평균 영업기간은 증가하고 있나요?",
+                    "ANSWER": "2023년 KMGM HOLD’EM & EVENT PUB의 평균 영업기간은 1,071일입니다. 과거 연도와 비교해 증가 여부를 확인할 수 있는 추가 데이터가 필요합니다."
+                },
+                {
+                    "QUESTION": "2023년도 KMGM HOLD’EM & EVENT PUB의 영업 중인 가맹점 수에 대한 정보를 알고 싶습니다.",
+                    "ANSWER": "2023년도 KMGM HOLD’EM & EVENT PUB의 영업 중인 가맹점 수는 64개입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306787272411750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "212007501",
+            "KORN_ATTRB_NM": "12. 가맹점사업자피해보상보험 등의 체결 내역",
+            "UP_ATTRB_MNNO": "200007501",
+            "KORN_UP_ATRB_NM": "Ⅱ. 가맹본부의 [BRD] 가맹사업 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 12. 가맹점사업자피해보상보험 등의 체결 내역\n당사는 가맹금예치제도를 실시하고 있으며 피해보상보험 제도는 별도로 실시하고 있지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n- 가맹점사업자 피해보상보험: 별도로 실시하지 않음\n- 가맹금 예치제도: 실시됨",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n12. 가맹점사업자 피해보상보험 등의 체결 내역: 피해보상보험 제도를 별도로 실시하지 않으며, 가맹금예치제도를 실시하고 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "(주)엔케이코리아의 가맹점사업자 피해보상보험은 어떻게 운영되나요?",
+                    "ANSWER": "(주)엔케이코리아에서는 피해보상보험 제도를 별도로 실시하지 않고 있습니다."
+                },
+                {
+                    "QUESTION": "가맹금예치제도를 운영하는 (주)엔케이코리아에서 피해보상보험은 필요 없나요?",
+                    "ANSWER": "네, (주)엔케이코리아는 가맹금예치제도를 실시하며 피해보상보험 제도는 운영하지 않습니다."
+                },
+                {
+                    "QUESTION": "(주)엔케이코리아의 가맹점은 피해보상보험에 가입해야 하나요?",
+                    "ANSWER": "아닙니다, (주)엔케이코리아에서는 피해보상보험을 별도로 실시하지 않기 때문에 가맹점이 가입할 필요는 없습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306972250166750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "402037501",
+            "KORN_ATTRB_NM": "3) 가맹점사업자에 대한 감독",
+            "UP_ATTRB_MNNO": "402007501",
+            "KORN_UP_ATRB_NM": "2. 영업 중의 부담"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 3) 가맹점사업자에 대한 감독\n당사는 가맹점사업자의 위생, 재고관리 등을 포함한 점포 경영상태를 파악하기 위하여 정기적 또는 부정기적으로 가맹점사업자의 점포를 점검하고 기준에 위반하는 결과에 대하여 시정을 요구할 수 있습니다.가맹점사업자는 가맹점 영업과 관련하여 영업장부와 회계자료를 성실히 작성･유지하여야 하며, 상품 구입과 판매에 관한 회계장부 등 당사의 통일적 사업경영 및 판매 전략의 수립에 필요한 자료를 보관하고 당사의 청구가 있으면 이를 제공하여야 합니다. 이를 위한 자료의 확인과 기록을 위하여 가맹점사업자는 당사의 직원이 점포에 출입하여 조사하는 것을 허용하여야 합니다.",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n3) 가맹점사업자에 대한 감독:\n- 가맹점 사업자의 위생 및 재고 관리 점검.\n- 정기적 또는 부정기적 점검 후 기준 위반 시 시정 요구.\n- 가맹점 사업자는 영업장부 및 회계자료 성실히 작성 및 유지.\n- 상품 구입과 판매 관련 회계장부 보관 및 당사의 청구 시 제공.\n- 가맹점사업자는 당사 직원의 점포 출입 및 조사를 허용해야 함.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD'EM & EVENT PUB입니다. 가맹점사업자는 위생과 재고관리 등을 포함한 점포 경영상태를 점검받으며, 기준 위반 시 시정을 요구받습니다. 가맹점사업자는 영업장부와 회계자료를 성실히 작성하고, 필요한 자료를 보관하여 회사의 요청 시 제공해야 합니다. 또한, 가맹점사업자는 당사 직원의 점포 출입과 조사를 허용해야 합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB 브랜드의 가맹점사업자는 어떤 기준을 따라야 하나요?",
+                    "ANSWER": "가맹점사업자는 점포의 경영상태를 유지하기 위해 위생, 재고관리 등을 포함하여 정기적 또는 부정기적으로 점검을 받으며, 기준에 위반되는 경우 시정을 요구받을 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자는 영업장부와 회계자료를 어떻게 관리해야 하나요?",
+                    "ANSWER": "가맹점사업자는 영업장부와 회계자료를 성실히 작성하고 유지해야 하며, 상품 구입 및 판매에 관한 회계장부를 포함한 자료를 보관하여야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 KMGM HOLD'EM & EVENT PUB의 점포에서 점검을 받을 때 어떤 협력이 필요한가요?",
+                    "ANSWER": "가맹점사업자는 당사의 직원이 점포에 출입하여 조사를 할 수 있도록 허용해야 하며, 필요한 자료를 제공해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자는 어떤 데이터를 당사에 제공해야 하나요?",
+                    "ANSWER": "가맹점사업자는 당사의 청구가 있을 경우, 통일적 사업경영 및 판매 전략 수립에 필요한 회계자료와 관련 자료를 제공해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306461594639750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504017501",
+            "KORN_ATTRB_NM": "1) 독점적ㆍ배타적 영업지역 설정",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 1) 독점적ㆍ배타적 영업지역 설정\n[당사는 가맹사업거래의 공정화에 관한 법률 제12조의4에 의거 가맹계약 체결 시 가맹점사업자의 영업지역을 설정하여 가맹계약서에 영업지역을 명시하고 있습니다.][당사 및 당사의 계열회사는 가맹계약기간 중에는 정당한 사유없이 가맹점사업자의 영업지역 내에 동일한 업종의 직영점·가맹점을 추가 개설하지 않습니다. 동일한 업종의 범위 및 동일한 업종에 해당하는 당사 및 당사의 계열회사의 영업표지는 다음과 같습니다.]<table><tr><td>동일한 업종 범위</td><td>동일한 업종 영업표지</td></tr><tr><td>가맹본부</td><td>계열회사</td></tr><tr><td>피자, 과일, 치킨 등의 안주류와 술을 판매 하는 업종</td><td>KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)</td><td>해당 없음</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n1) **영업지역 설정**:\n   - 가맹사업거래의 공정화에 관한 법률 제12조의4에 따라 가맹점사업자의 영업지역을 계약서에 명시.\n   - 가맹계약기간 중 정당한 사유 없이 동일 업종의 직영점 및 가맹점을 추가 개설하지 않음.\n   - **동일한 업종 범위**: 피자, 과일, 치킨 등의 안주류와 술 판매.\n   - **동일한 업종 영업표지**: KMGM HOLD’EM & EVENT PUB.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)입니다. 가맹계약 체결 시, 영업지역을 명시하며, 계약 기간 동안 동일 업종의 직영점이나 가맹점을 추가 개설하지 않습니다. 동일한 업종으로는 피자, 과일, 치킨 등의 안주류와 술 판매가 포함되며, 관련 영업표지는 KMGM HOLD&rsquo;EM &amp; EVENT PUB입니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 영업지역은 어떻게 설정되나요?",
+                    "ANSWER": "(주)엔케이코리아는 가맹사업거래의 공정화에 관한 법률 제12조의4에 따라 가맹계약 체결 시 가맹점사업자의 영업지역을 설정하며, 영업지역은 가맹계약서에 명시됩니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB이 동일한 업종의 직영점이나 가맹점을 영업지역 내에 개설할 수 있나요?",
+                    "ANSWER": "(주)엔케이코리아 및 계열회사는 가맹계약기간 동안 정당한 사유 없이 가맹점사업자의 영업지역 내에 동일한 업종의 직영점이나 가맹점을 추가 개설하지 않습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 동일한 업종 범위에는 어떤 것이 포함되나요?",
+                    "ANSWER": "동일한 업종 범위에는 피자, 과일, 치킨 등의 안주류와 술을 판매하는 업종이 포함됩니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB과 관련된 동일한 업종 영업표지는 무엇인가요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)이 동일한 업종의 영업표지로 사용됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306098551317750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504027501",
+            "KORN_ATTRB_NM": "2) 영업지역 설정기준",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 2) 영업지역 설정기준\n[당사는 영업지역을 다음과 같이 정하고 있습니다.]<table><tr><td>설정 기준</td><td>설정방법</td></tr><tr><td>가맹점으로부터 1㎞를 원칙으로 상권에 따라 상호 협의하여 정함</td><td>별지에 영업지역 표시(지도별첨을 원칙으로 하나 서술할 수 있음)</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n2) 영업지역 설정기준:\n- **설정 기준**: 가맹점으로부터 1㎞를 원칙으로, 상권에 따라 상호 협의하여 정함.\n- **설정 방법**: 별지에 영업지역 표시 (지도별첨을 원칙으로, 서술 가능).",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아로, 브랜드명은 KMGM HOLD&rsquo;EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)입니다. 영업지역은 가맹점으로부터 1㎞를 원칙으로 하며, 상권에 따라 상호 협의하여 설정합니다. 영업지역은 별지에 표시하거나 서술할 수 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 영업지역 설정 기준은 무엇인가요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 영업지역 설정 기준은 가맹점으로부터 1㎞를 원칙으로 하며, 상권에 따라 상호 협의하여 정해집니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 영업지역은 어떻게 설정하나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 영업지역은 별지에 영업지역 표시를 하며, 지도별첨을 원칙으로 하나 서술할 수도 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 영업지역 협의는 어떤 방식으로 이루어지나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 영업지역 협의는 가맹점으로부터 1㎞를 원칙으로 하여 상권에 따라 이루어집니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 영업지역 설정방법은 무엇인가요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 영업지역 설정방법은 별지에 영업지역이 표시되며, 지도별첨을 원칙으로 하거나 서술 형식으로도 가능합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306561214788750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504057501",
+            "KORN_ATTRB_NM": "5) 가맹점사업자가 취급하는 상품이나 용역 등이 가맹점사업자의 영업지역내의 대리점 등 다른 유통채널을 통해 공급되는지 여부",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 5) 가맹점사업자가 취급하는 상품이나 용역 등이 가맹점사업자의 영업지역내의 대리점 등 다른 유통채널을 통해 공급되는지 여부\n[당사는 [KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)] 가맹점사업자의 영업지역 내에서 대리점, 다른 영업표지를 사용한 가맹점 등을 통해 가맹점사업자가 판매하는 상품이나 용역과 대체재 관계에 놓일 수 있는 동일ㆍ유사한 상품이나 용역을 공급하지 않습니다.]",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 가맹점사업자가 취급하는 상품이나 용역이 가맹점사업자의 영업지역 내에서 대리점 등을 통해 공급되는지 여부: 해당 브랜드는 가맹점사업자가 판매하는 상품이나 용역과 대체재 관계에 있는 동일ㆍ유사한 상품이나 용역을 공급하지 않음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)  \n\n가맹점사업자는 영업지역 내에서 대리점이나 다른 영업표지를 사용하는 가맹점을 통해 판매하는 상품이나 용역과 대체재 관계에 있는 동일하거나 유사한 상품이나 용역을 공급하지 않으며, 당사가 이를 보장합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 가맹점사업자가 취급하는 상품이나 용역은 영업지역 내 다른 유통채널에서도 공급되나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 가맹점사업자가 영업지역 내에서 대리점이나 다른 영업표지를 사용한 가맹점 등을 통해 판매하는 상품이나 용역과 대체재 관계에 놓일 수 있는 동일ㆍ유사한 상품이나 용역을 공급하지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306502558926750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "504067501",
+            "KORN_ATTRB_NM": "6) 가맹점사업자가 취급하는 상품이나 용역 등이 온라인, 홈쇼핑, 전화권유판매 등 다른 유통채널을 통해 공급되는지 여부",
+            "UP_ATTRB_MNNO": "504007501",
+            "KORN_UP_ATRB_NM": "4. 가맹점사업자의 영업지역 보호"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 6) 가맹점사업자가 취급하는 상품이나 용역 등이 온라인, 홈쇼핑, 전화권유판매 등 다른 유통채널을 통해 공급되는지 여부\n[당사는 온라인, 홈쇼핑, 전화권유판매 등을 통해 가맹점사업자가 판매하는 상품이나 용역과 대체재 관계에 놓일 수 있는 동일ㆍ유사한 상품이나 용역을 공급하지 않습니다.]",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 가맹점사업자가 온라인, 홈쇼핑, 전화권유판매 등을 통해 공급되는 상품이나 용역: 동일/유사한 상품이나 용역 공급 없음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)  \n가맹점사업자가 온라인, 홈쇼핑, 전화권유판매 등을 통해 공급되는 상품이나 용역에 대한 설명: 당사는 가맹점사업자가 판매하는 상품이나 용역과 대체재 관계에 놓일 수 있는 동일하거나 유사한 상품이나 용역을 공급하지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB 브랜드의 가맹점사업자가 온라인 또는 홈쇼핑을 통해 판매하는 상품과 어떤 관계에 있나요?",
+                    "ANSWER": "KMGM HOLD'EM & EVENT PUB 브랜드는 가맹점사업자가 판매하는 상품이나 용역과 대체재 관계에 놓일 수 있는 동일 또는 유사한 상품이나 용역을 온라인, 홈쇼핑, 전화권유판매 등을 통해 공급하지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹본부인 (주)엔케이코리아는 가맹점사업자에게 어떤 유통채널의 상품 공급을 제한하나요?",
+                    "ANSWER": "(주)엔케이코리아는 가맹점사업자가 판매하는 상품이나 용역과 대체재 관계에 놓일 수 있는 동일 또는 유사한 상품이나 용역을 온라인, 홈쇼핑, 전화권유판매 등 다른 유통채널을 통해 공급하지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306488596586750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "505017501",
+            "KORN_ATTRB_NM": "1) 바로 전 사업연도 말 기준 연간 국내 매출액 중 온라인과 오프라인 매출액 비중",
+            "UP_ATTRB_MNNO": "505007501",
+            "KORN_UP_ATRB_NM": "5. 가맹본부의 온라인·오프라인 판매에 관한 사항"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 1) 바로 전 사업연도 말 기준 연간 국내 매출액 중 온라인과 오프라인 매출액 비중\n<table><tr><td>연도</td><td>국내 온라인·오프라인 판매 매출액 비중</td></tr><tr><td>오프라인 판매 매출액 비중</td><td>온라인 판매 매출액 비중</td></tr><tr><td>가맹점</td><td>기타 오프라인</td><td>자사 온라인몰</td><td>기타 온라인</td></tr><tr><td>2023</td><td>100%</td><td>0%</td><td>0%</td><td>0%</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n2023년 국내 매출액 비중:  \n- 오프라인 판매 매출액 비중: 100%  \n- 온라인 판매 매출액 비중: 0% (자사 온라인몰 및 기타 온라인 모두 0%)  ",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n2023년 기준 국내 매출액 비중:\n- 오프라인 판매 매출액 비중: 100%\n- 온라인 판매 매출액 비중: 0% (자사 온라인몰 및 기타 온라인 포함)",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB의 2023년 오프라인 판매 매출액 비중은 얼마인가요?",
+                    "ANSWER": "2023년 KMGM HOLD'EM & EVENT PUB의 오프라인 판매 매출액 비중은 100%입니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB의 2023년 온라인 판매 매출액 비중은 어떻게 되나요?",
+                    "ANSWER": "2023년 KMGM HOLD'EM & EVENT PUB의 온라인 판매 매출액 비중은 0%입니다."
+                },
+                {
+                    "QUESTION": "2023년 KMGM HOLD'EM & EVENT PUB의 가맹점 오프라인 판매 매출액 비중은 얼마인가요?",
+                    "ANSWER": "2023년 KMGM HOLD'EM & EVENT PUB의 가맹점 오프라인 판매 매출액 비중은 100%입니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB의 자사 온라인몰 매출액 비중은 2023년에 어떻게 되나요?",
+                    "ANSWER": "2023년 KMGM HOLD'EM & EVENT PUB의 자사 온라인몰 매출액 비중은 0%입니다."
+                },
+                {
+                    "QUESTION": "2023년 KMGM HOLD'EM & EVENT PUB의 기타 온라인 매출액 비중은 무엇인가요?",
+                    "ANSWER": "2023년 KMGM HOLD'EM & EVENT PUB의 기타 온라인 매출액 비중은 0%입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306531264365750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "505027501",
+            "KORN_ATTRB_NM": "2) 바로 전 사업연도 말 기준 국내 판매상품 중 온라인과 오프라인 전용 판매상품의 비중",
+            "UP_ATTRB_MNNO": "505007501",
+            "KORN_UP_ATRB_NM": "5. 가맹본부의 온라인·오프라인 판매에 관한 사항"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 2) 바로 전 사업연도 말 기준 국내 판매상품 중 온라인과 오프라인 전용 판매상품의 비중\n<table><tr><td>연도</td><td>오프라인 전용상품 비중</td><td>온라인 전용상품 비중</td></tr><tr><td>2023</td><td>0%</td><td>0%</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n  \n**2023년 판매상품 비중:**\n- 오프라인 전용상품 비중: 0%\n- 온라인 전용상품 비중: 0%",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n2023년 기준으로 국내 판매상품 중 온라인과 오프라인 전용 판매상품의 비중은 모두 0%입니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 2023년 오프라인 전용 상품 비중은 어떻게 되나요?",
+                    "ANSWER": "2023년 KMGM HOLD’EM & EVENT PUB의 오프라인 전용 상품 비중은 0%입니다."
+                },
+                {
+                    "QUESTION": "2023년에 KMGM HOLD’EM & EVENT PUB의 온라인 전용 상품 비중은 얼마인가요?",
+                    "ANSWER": "2023년 KMGM HOLD’EM & EVENT PUB의 온라인 전용 상품 비중은 0%입니다."
+                },
+                {
+                    "QUESTION": "2023년 기준으로 KMGM HOLD’EM & EVENT PUB의 판매상품 비중은 어떤가요?",
+                    "ANSWER": "2023년 기준으로 KMGM HOLD’EM & EVENT PUB의 판매상품 비중은 오프라인 전용 상품과 온라인 전용 상품 모두 0%입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306532493926750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506017501",
+            "KORN_ATTRB_NM": "1) 가맹계약 및 갱신 기간",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 1) 가맹계약 및 갱신 기간\n[KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)] 가맹사업의 계약기간은〔계약체결일로부터〕 [2]년이며, 가맹계약 갱신 시 계약기간은 〔계약갱신일로부터〕 [ 2 ]년입니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 가맹계약 및 갱신 기간:\n  - 계약기간: 2년 (계약체결일로부터)\n  - 갱신 시 계약기간: 2년 (계약갱신일로부터)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)  \n가맹계약 및 갱신 기간: 계약체결일로부터 2년, 계약갱신 시 갱신일로부터 2년.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)의 가맹계약 기간은 어떻게 되나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 가맹계약 기간은 계약체결일로부터 2년입니다."
+                },
+                {
+                    "QUESTION": "가맹계약 갱신 시 KMGM HOLD’EM & EVENT PUB의 계약기간은 얼마나 되나요?",
+                    "ANSWER": "가맹계약 갱신 시 KMGM HOLD’EM & EVENT PUB의 계약기간은 계약갱신일로부터 2년입니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306533800388750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506027501",
+            "KORN_ATTRB_NM": "2) 계약 연장이나 재계약, 또는 계약 종료에 필요한 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 2) 계약 연장이나 재계약, 또는 계약 종료에 필요한 절차\n가맹사업거래의 공정화에 관한 법률 제13조 및 같은 법 시행령 제14조에 따라 귀하에게는 가맹계약의 갱신을 요구할 수 있는 권리가 최초 계약일로부터 10년간 주어집니다. 구체적인 절차는 다음과 같습니다.<table><tr><td>순 서</td><td>기간(계약만료일: D-day)</td></tr><tr><td>① 가맹점사업자가 계약갱신을 요구하였습니까?예→②, 아니오→⑦</td><td>D-180 ~ D-90</td></tr><tr><td>② 다.에서 정한 계약갱신 거절 사유에 해당합니까?예→④, 아니오→③</td><td>D-180 ~ D-90</td></tr><tr><td>③ 가맹본부가 계약조건 변경을 서면으로 통지하였습니까?예→⑤, 아니오→A</td><td>D-180 ~ D-90</td></tr><tr><td>④ 가맹본부가 가맹점사업자에게 거절 사유를 적은 서면으로 거절 통지를 하였습니까?예→B, 아니오→A</td><td>+15일 이내</td></tr><tr><td>⑤ 가맹점사업자가 계약조건 변경에 동의하였습니까?예→C, 아니오→⑥</td><td></td></tr><tr><td>⑥ 변경된 계약조건이 다른 가맹점사업자에게 통상적으로 적용되는 계약조건입니까?예→B, 아니오→D</td><td></td></tr><tr><td>⑦ 가맹본부가 계약갱신을 하지 않겠다는 사실을 서면으로 통지하였습니까?예→B, 아니오→⑧</td><td>D-180 ~ D-90</td></tr><tr><td>⑧ 가맹점사업자가 계약갱신 또는 계약조건에 대하여 이의를 제기하였습니까?예→E, 아니오→A</td><td>D-60일 이전</td></tr><tr><td>A. 종전과 같은 조건으로 다시 가맹계약 체결</td><td>D-day</td></tr><tr><td>B. 계약기간이 만료되는 날 계약 종료</td><td>D-day</td></tr><tr><td>C. 변경된 조건으로 다시 가맹계약 체결</td><td>D-day</td></tr><tr><td>D. 양자가 합의하여 계약조건을 바꾸어야 함(가맹본부가 계약 변경을 강행할 경우 불공정거래행위에 해당할 수 있음)</td><td></td></tr><tr><td>E. 양자가 합의하여 계약을 만료하거나 변경된 조건으로 다시 가맹계약 체결(민사상 문제로 가맹사업법에서 특별하게 제한하는 규정 없음)</td><td></td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n**계약 갱신 및 종료 절차 요약**:\n1. **계약 갱신 요구**: 가맹점사업자는 D-180 ~ D-90 기간 내에 계약 갱신을 요구해야 함.\n2. **갱신 거절 사유 확인**: 요구 후, 거절 사유가 있는 경우, 서면 통지를 통해 거절 통지 필요.\n3. **계약조건 변경 동의 여부 확인**: 가맹점사업자가 변경된 조건에 동의할 경우, 새로운 계약 체결 가능.\n4. **기타**: \n   - 계약갱신 미통지 시, 서면 통지 후 갱신 여부를 확인.\n   - 이의 제기 시, 협의에 따라 계약 종료 또는 변경 조건으로 재체결 가능.\n\n**결과**:\n- A: 종전 조건으로 재계약 체결 (D-day)\n- B: 계약 종료 (D-day)\n- C: 변경된 조건으로 재계약 체결 (D-day)\n- D: 계약조건 변경 합의 필요\n- E: 계약 만료 또는 변경된 조건으로 재계약 체결\n\n**주의**: 가맹본부는 계약 변경을 강행할 경우 불공정 거래행위에 해당할 수 있음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD&rsquo;EM & EVENT PUB입니다. 가맹계약 갱신 요구는 최초 계약일로부터 10년간 가능하며, 계약 연장 절차는 다음과 같습니다:\n\n1. 가맹점 사업자가 계약 갱신을 요구하면(D-180 ~ D-90) 계약 갱신 거절 사유 확인.\n2. 거절 사유가 없으면 가맹본부가 계약 조건 변경을 서면으로 통지.\n3. 가맹점이 조건 변경에 동의하면 새로운 계약 체결, 동의하지 않으면 조건이 다른 가맹점과 통상 적용되는지 확인.\n4. 가맹본부가 갱신하지 않겠다고 서면 통지하면 계약 종료.\n5. 이의 제기가 있을 경우, 양측 합의에 따라 계약 체결 가능.\n\n결과적으로, 조건이 동일하거나 변경된 조건으로 재계약 체결 또는 계약 종료가 이루어질 수 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB 브랜드의 가맹계약 갱신을 요구할 수 있는 기간은 어떻게 되나요?",
+                    "ANSWER": "가맹계약의 갱신을 요구할 수 있는 권리는 최초 계약일로부터 10년간 주어지며, 계약갱신 요구는 계약 만료일 D-180일부터 D-90일 사이에 가능합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 계약갱신을 요구하지 않으면 어떻게 되나요?",
+                    "ANSWER": "가맹점사업자가 계약갱신을 요구하지 않을 경우, 계약 종료가 진행되며, 이는 D-day에 계약이 만료되는 날 즉시 발생합니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 계약조건 변경을 통지한 경우에 대한 후속 절차는 무엇인가요?",
+                    "ANSWER": "가맹본부가 계약조건 변경을 서면으로 통지한 경우, 가맹점사업자는 변경된 조건에 동의 여부를 결정해야 하며, 동의하면 변경된 조건으로 다시 가맹계약을 체결합니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 계약갱신 거절 사유를 서면으로 통지하지 않은 경우, 가맹점사업자는 어떤 조치를 취해야 하나요?",
+                    "ANSWER": "가맹본부가 계약갱신 거절 사유를 서면으로 통지하지 않았다면, 가맹점사업자는 계약을 종전과 같은 조건으로 다시 체결할 수 있습니다."
+                },
+                {
+                    "QUESTION": "계약조건 변경에 대하여 가맹점사업자가 이의를 제기한 경우, 어떤 과정이 필요한가요?",
+                    "ANSWER": "계약조건에 대해 가맹점사업자가 이의를 제기하면, 계약조건을 양자가 합의하여 변경해야 하며, 필요한 경우 계약을 만료하느냐 혹은 변경된 조건으로 다시 계약을 체결해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306141858588750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506037501",
+            "KORN_ATTRB_NM": "3) 계약 갱신 거절(종료) 사유",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 3) 계약 갱신 거절(종료) 사유\n당사는 가맹점사업자가 가맹계약기간 만료전 180일부터 90일까지 사이에 가맹계약의 갱신 을 요구하는 경우 정당한 사유없이 이를 거절하지 않습니다. 단, 당사가 가맹계약의 갱신요구를 거절할 수 있는 사유는 다음과 같습니다.<table><tr><td>갱신요구 거절 사유</td><td>관련 계약조문</td></tr><tr><td>당사 또는 협력업체에 지급하여야 할 미지급 채무의 이행을 완료하지 아니하는 경우</td><td>7조 2항 각호</td></tr><tr><td>다른 가맹점사업자에게 통상적으로 적용되는 계약조건이나 영업방침을 귀하가 수락하지 아니한 경우</td></tr><tr><td>가맹점 운영에 필요한 점포ㆍ설비의 확보나 법령상 필요한 자격ㆍ면허ㆍ허가의 취득을 하지 못한 경우</td></tr><tr><td>판매하는 상품이나 용역의 품질을 유지하기 위하여 필요한 제조공법 또는 서비스기법을 지키지 않은 경우</td></tr><tr><td>경영에 필수적인 지식재산권을 보호하기 위한 방침을 지키지 않은 경우</td></tr><tr><td>정기적으로 실시하는 교육ㆍ훈련을 준수하지 않은 경우(다만, 교육ㆍ훈련 비용이 같은 업종의 다른 가맹본부가 통상적으로 요구하는 비용보다 뚜렷하게 높은 경우는 제외합니다.)</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n**계약 갱신 거절 사유**:\n1. 미지급 채무 이행 미완료 (관련 계약조문: 7조 2항 각호)\n2. 다른 가맹점사업자에게 적용되는 계약조건이나 영업방침 수락 거부\n3. 점포, 설비 확보 또는 법령상 필요한 자격, 면허, 허가 미취득\n4. 상품이나 용역 품질 유지를 위한 제조공법 또는 서비스기법 불이행\n5. 지식재산권 보호 방침 미준수\n6. 정기 교육, 훈련 미준수 (단, 교육 비용이 타 가맹본부보다 현저히 높을 경우 제외)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n3) 계약 갱신 거절(종료) 사유:  \n가맹점사업자는 가맹계약기간 만료 전 180일부터 90일 사이에 갱신을 요구할 수 있으며, 정당한 사유 없이 이를 거절하지 않습니다. 그러나 갱신 요구를 거절할 수 있는 사유는 다음과 같습니다:\n\n1. 미지급 채무 이행 미완료 (7조 2항 각호)  \n2. 다른 가맹점사업자에게 적용되는 계약조건이나 영업방침을 수락하지 않은 경우  \n3. 점포 및 설비 확보 또는 필요한 자격, 면허, 허가 취득 실패  \n4. 상품 또는 용역의 품질 유지를 위한 제조공법 또는 서비스기법 미준수  \n5. 지식재산권 보호 방침 미준수  \n6. 정기 교육 및 훈련 미준수 (단, 교육 비용이 업계 평균보다 현저히 높은 경우는 제외)  ",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 가맹계약 갱신 요구를 거절할 수 있는 사유는 무엇인가요?",
+                    "ANSWER": "가맹계약 갱신 요구를 거절할 수 있는 사유로는 미지급 채무 이행 미완료, 다른 가맹점사업자에게 적용되는 계약조건 수락 미비, 점포 및 설비 확보 실패, 품질 유지를 위한 제조공법 또는 서비스기법 불이행, 지식재산권 보호 방침 미준수, 그리고 정기 교육 및 훈련 준수 미비 등이 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 계약 갱신을 요구할 때, 어떤 기간 내에 요구해야 하나요?",
+                    "ANSWER": "가맹점사업자는 가맹계약기간 만료 전 180일부터 90일 사이에 계약 갱신을 요구해야 합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB에서 가맹계약 갱신을 거절할 수 없는 경우는 무엇인가요?",
+                    "ANSWER": "가맹점사업자가 정당한 사유 없이 계약 갱신을 요구하는 경우, KMGM HOLD’EM & EVENT PUB 측에서 이를 거절할 수 없습니다."
+                },
+                {
+                    "QUESTION": "미지급 채무 이행을 완료하지 못한 경우, 갱신이 거절되나요?",
+                    "ANSWER": "네, 미지급 채무 이행을 완료하지 않은 경우는 가맹계약 갱신을 거절할 수 있는 사유 중 하나입니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영에 필요한 자격이나 면허를 취득하지 못하면 갱신이 어떻게 되나요?",
+                    "ANSWER": "가맹점 운영에 필요한 자격이나 면허를 취득하지 못하는 경우, KMGM HOLD’EM & EVENT PUB에서 계약 갱신을 거절할 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306841034561750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506047501",
+            "KORN_ATTRB_NM": "4) 계약 해지 사유 및 그 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 4) 계약 해지 사유 및 그 절차\n가) 당사는 아래와 같은 계약 해지 사유 발생 시 2월 이상의 유예기간을 두고 2회 이상의 시정요구를 하며 이에 대하여 가맹점사업자의 시정이 없을 경우 계약을 해지 할 수 있습니다.<table><tr><td>계약 해지 사유</td><td>관련 계약조문</td></tr><tr><td>가맹점사업자가 점포의 규모∙대표자 등의 가맹점의 표시에 해당하는 사항을 임의로 변경하는 경우</td><td>3조2항 및 3항</td><td>25조각 호 및 31조 1항 1호</td></tr><tr><td>가맹점사업자가 당사가 허용한 영업표지의 사용범위 외에 서면 동의 없이 영업표지를 사용하는 경우</td><td>4조3항</td></tr><tr><td>가맹점사업자가 당사가 보유한 영업표지를 변경하여 사용하거나 양도한 경우</td><td>4조4항</td></tr><tr><td>가맹점사업자가 로열티 및 공급품 대금의 납입을 2회 이상 연체한 경우</td><td>15조</td></tr><tr><td>가맹점사업자가 개점이 후 교육에 참석을 정당한 이유 없이 2회 이상 거부하는 경우</td><td>16조</td></tr><tr><td>가맹점사업자가 비밀유지의무를 위반한 경우</td><td>17조 1항 및 2항</td></tr><tr><td>가맹점사업자 또는 가맹점사업자가 제3자 명의로 경업금지의무를 위반하는 경우</td><td>18조</td></tr><tr><td>가맹점사업자가 관리감독 기준에 의한 시정요구를 3개월에 걸쳐 3회 이상 위반하는 경우</td><td>20조 1항</td></tr><tr><td>가맹점사업자가 승인 받지 않은 제품을 판매하거나 통일성 유지를 위한 요구 품목을 사용하지 않아 가맹사업의 통일성을 저해하는 경우</td><td>21조 2항~4항</td></tr><tr><td>가맹점사업자가 가맹본부와 사전협의 없이 가격을 임의적으로 변경하는 경우</td><td>21조 5항</td></tr><tr><td>가맹점사업자가 가맹본부로부터 공급받은 상품에 대하여 가맹점 판매 용도 이외로 사용할 경우</td><td>22조 9항</td></tr><tr><td>가맹점사업자가 가맹본부로부터 승인받지 않고서 요구 품목을 자점매입하거나 품질검사에 2회 이상 응하지 않는 경우</td><td>23조</td></tr><tr><td>가맹점사업자 및 매장근무자가 복장 규정을 위반하거나 영업시간 규정을 준수하지 않는 경우</td><td>26조</td></tr><tr><td>가맹점사업자가 정당한 사유 없이 노후 시설 보수를 거부하는 경우</td><td>27조 2항 및 3항</td></tr><tr><td>가맹점사업자가 가맹본부의 승인 없이 가맹점 설비를 임의적으로 변경하는 경우</td><td>27조 6항</td></tr><tr><td>가맹점사업자가 회계자료 통지 등의 통지의무를 다하지 않거나,가맹본부의 매출정보 확인을 거부하는 경우</td><td>28조</td></tr><tr><td>가맹점사업자가 공동으로 시행되는 광고의 광고비 분담을 정당한 이유없이 거부하는 경우</td><td>29조</td></tr><tr><td>가맹점사업자가 공동으로 시행되는 판촉활동에 정당한 이유없이 참여를 거부하는 경우</td><td>30조 2항,5항</td></tr><tr><td>가맹점사업자가 가맹본부의 승인 없이 판촉물 등을 제작하여 가맹사업의 통일성 및 이미지를 훼손하는 경우</td><td>30조 7항</td></tr><tr><td>가맹본부가 도박 및 사행성 행위   방지를 위해 CCTV를 확인하고자 함에도 가맹점사업자가 CCTV 접속을 위한 계정을 공개하지 않거나, 은폐하는 경우</td><td>20조 6항,27조 7항,28조 7항</td></tr><tr><td>가맹점사업자가 도박 및 사행성 행위를 하는 경우</td><td>25조 21호</td></tr><tr><td>가맹점사업자가 계약된 영업표지를 가맹점소재지가 아닌 장소에서 가맹본부의 사용허가 없이 무단으로 사용하거나 남용 악용으로 인하여 브랜드가치를 훼손할 경우</td><td>25조 22호</td></tr><tr><td>가맹점사업자가 사전 승인 없이 양도 등의 행위를 하는 경우</td><td>35조 1항</td></tr><tr><td>기타 가맹점사업자가 가맹계약 내용을 위반하여 가맹본부의 명성에 악영향을 미치거나 가맹사업의 통일성을 저해할 경우</td><td>25조 24호</td></tr><tr><td>가맹점사업자의 귀책사유로 3개월 이상 개점이 지연되거나 최초 개설 비용의 지급을 지키지 않는 경우</td><td>31조 1항 2호</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n**계약 해지 사유 및 절차:**\n- **해지 사유:** 가맹점사업자의 계약 위반 시, 2회 이상의 시정요구 후 2개월 이상의 유예기간을 두고 계약 해지 가능.\n  \n**해지 사유 목록:**\n1. 점포 정보 임의 변경\n2. 영업표지 무단 사용\n3. 영업표지 변경 또는 양도\n4. 로열티 및 공급품 대금 연체 (2회 이상)\n5. 교육 미참석 (2회 이상)\n6. 비밀 유지 의무 위반\n7. 경업 금지 의무 위반\n8. 관리감독 기준 위반 (3회 이상, 3개월 내)\n9. 승인 없는 제품 판매\n10. 가격 임의 변경\n11. 상품 용도 변경\n12. 품질 검사 불참 (2회 이상)\n13. 복장 및 영업시간 규정 위반\n14. 시설 보수 거부\n15. 설비 임의 변경\n16. 회계자료 미통지\n17. 광고비 분담 거부\n18. 판촉활동 미참여 (정당한 이유 없이)\n19. 승인 없는 판촉물 제작\n20. CCTV 계정 공개 거부\n21. 도박 및 사행성 행위\n22. 무단 사용 시 브랜드 훼손\n23. 사전 승인 없는 양도\n24. 계약 위반으로 명성 저해\n25. 개점 지연 (3개월 이상) 또는 개설 비용 미지급\n\n이러한 사유에 대해 가맹본부는 계약 해지를 통지할 수 있습니다.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD&rsquo;EM & EVENT PUB입니다. 계약 해지 사유는 다음과 같습니다:\n\n1. 점포 표시 변경 (3조)\n2. 허가 없는 영업표지 사용 (4조)\n3. 로열티 및 공급품 대금 연체 (15조)\n4. 교육 불참 (16조)\n5. 비밀유지 의무 위반 (17조)\n6. 경업금지 의무 위반 (18조)\n7. 관리감독 기준 위반 (20조)\n8. 승인 없는 제품 판매 (21조)\n9. 가격 임의 변경 (21조)\n10. 상품 불법 사용 (22조)\n11. 품질검사 미응답 (23조)\n12. 복장 및 영업시간 규정 위반 (26조)\n13. 시설 보수 거부 (27조)\n14. 설비 변경 무단 (27조)\n15. 회계자료 통지 의무 불이행 (28조)\n16. 광고비 분담 거부 (29조)\n17. 판촉활동 미참여 (30조)\n18. 판촉물 무단 제작 (30조)\n19. CCTV 공개 거부 (20조, 27조, 28조)\n20. 도박 및 사행성 행위 (25조)\n21. 무단 사용 (25조)\n22. 사전 승인 없는 양도 (35조)\n23. 계약 위반으로 브랜드 훼손 (25조)\n24. 개점 지연 (31조)\n\n각 사유에 대해 가맹본부는 2개월 유예기간 후 시정 요구를 두 번 하며, 시정되지 않을 경우 계약을 해지할 수 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD&rsquo;EM &amp; EVENT PUB의 가맹점사업자가 임의로 점포의 규모나 대표자 등의 사항을 변경하면 어떤 결과가 발생하나요?",
+                    "ANSWER": "가맹점사업자가 점포의 규모나 대표자 등의 사항을 임의로 변경할 경우, 가맹본부는 2개월 이상의 유예기간을 두고 2회 이상의 시정요구를 하며, 시정이 이루어지지 않으면 계약을 해지할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 로열티를 연체하면 어떤 조치가 있나요?",
+                    "ANSWER": "가맹점사업자가 로열티 및 공급품 대금을 2회 이상 연체할 경우, 가맹본부는 계약을 해지할 수 있는 사유가 됩니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD&rsquo;EM &amp; EVENT PUB의 가맹점사업자가 교육 참석을 정당한 이유 없이 거부하면 어떤 문제가 발생하나요?",
+                    "ANSWER": "가맹점사업자가 개점 후 교육에 참석을 정당한 이유 없이 2회 이상 거부할 경우, 가맹본부는 계약을 해지할 수 있는 사유로 간주합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 비밀유지의무를 위반할 경우 어떤 조치가 있나요?",
+                    "ANSWER": "가맹점사업자가 비밀유지의무를 위반할 경우, 가맹본부는 해당 계약을 해지할 수 있는 근거가 됩니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 관리감독 기준에 대한 시정요구를 3회 이상 위반하면 어떻게 되나요?",
+                    "ANSWER": "가맹점사업자가 관리감독 기준에 의한 시정요구를 3개월에 걸쳐 3회 이상 위반할 경우, 가맹본부는 계약을 해지할 수 있는 사유로 삼을 수 있습니다."
+                },
+                {
+                    "QUESTION": " KMGM HOLD&rsquo;EM &amp; EVENT PUB 브랜드의 가맹점사업자가 공동으로 시행되는 광고비 분담을 거부하면 어떤 결과가 발생하나요?",
+                    "ANSWER": "가맹점사업자가 공동으로 시행되는 광고의 광고비 분담을 정당한 이유 없이 거부하는 경우, 가맹본부는 해당 가맹계약의 해지 사유가 될 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 도박 및 사행성 행위를 하는 경우 어떤 조치가 있나요?",
+                    "ANSWER": "가맹점사업자가 도박 및 사행성 행위를 하는 경우, 이는 가맹본부가 계약을 해지할 수 있는 중대한 사유에 해당합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 승인 없이 가맹점 설비를 변경하면 어떤 문제가 발생하나요?",
+                    "ANSWER": "가맹점사업자가 가맹본부의 승인 없이 가맹점 설비를 임의적으로 변경할 경우, 가맹본부는 해당 계약을 해지할 수 있는 사유가 됩니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 사전 승인 없이 판촉물 등을 제작하면 어떤 조치가 취해지나요?",
+                    "ANSWER": "가맹점사업자가 가맹본부의 승인 없이 판촉물 등을 제작하여 가맹사업의 통일성 및 이미지를 훼손하는 경우, 가맹본부는 계약 해지의 사유로 삼을 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 가맹본부가 공급한 상품을 판매 용도 이외로 사용할 경우 어떤 결과가 있을까요?",
+                    "ANSWER": "가맹점사업자가 가맹본부로부터 공급받은 상품에 대하여 가맹점 판매 용도 이외로 사용할 경우, 가맹본부는 계약을 해지할 수 있는 사유가 됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306841034814750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506047501",
+            "KORN_ATTRB_NM": "4) 계약 해지 사유 및 그 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 4) 계약 해지 사유 및 그 절차\n나)당사는 아래와 같은 사유가 발생할 경우 즉시 해지를 할 수 있습니다.<table><tr><td>계약 해지 사유</td><td>관련 계약조문</td></tr><tr><td>가맹점사업자가 공연히 허위사실을 유포함으로써 가맹본부의 명성이나 신용을 뚜렷이 훼손한 경우</td><td>31조 4항 각호</td></tr><tr><td>가맹점사업자가 가맹점 운영과 관련되는 법령을 위반하여 다음 각 목의 어느 하나에 해당하는 행정처분을 받거나 법원 판결을 받음으로써 가맹본부의 명성이나 신용을 뚜렷이 훼손하여 가맹사업에 중대한 장애를 초래한 경우1) 위법사실을 시정하라는 내용의 행정처분2) 위법사실을 처분사유로 하는 과징금ㆍ과태료 등 부과처분3) 위법사실을 처분사유로 하는 영업정지 명령</td></tr><tr><td>가맹점사업자가 가맹점 운영과 관련되는 법령을 위반하여 자격∙면허∙허가∙취소 또는 영업정지 명령(15일 이내의 영업정지 명령을 받은 경우는 제외한다) 등 그 시정이 불가능한 성격의 행정처분을 받은 경우. 다만, 법령에 근거하여 행정처분을 갈음하는 과징금 등의 부과 처분을 받은 경우는 제외한다.</td></tr><tr><td>가맹점사업자가약정해지 사유 위반으로 당사의 시정요구에 따라 위반사항을 시정한 날부터1년(계약갱신이나 재계약된 경우에는 종전 계약기간에 속한 기간을 합산한다) 이내에 다시 같은 사항을 위반하는 경우. 다만, 가맹본부가 시정을 요구하는 서면에 다시 같은 사항을 1년이내에 위반하는 경우에는 가맹사업법 제14조 제1항에 따른 가맹계약해지절차를 거치지 아니하고 가맹계약이 해지될 수 있다는 사실을 누락한 경우는 제외된다.</td></tr><tr><td>가맹점사업자가가맹점 운영과 관련된 행위로 형사처벌을 받은 경우</td></tr><tr><td>가맹점사업자가 뚜렷이 공중의 건강이나 안전에 급박한 위해를 일으킬 염려가 있는 방법이나 형태로 가맹점을 운영하고 있으나, 행정청의 시정조치를 기다리기 어려운 경우</td></tr><tr><td>가맹점사업자가정당한 사유 없이 연속하여 7일 이상 영업을 중단한 경우</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명**: (주)엔케이코리아  \n**브랜드명**: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n**계약 해지 사유**:\n1. 가맹점사업자가 허위사실 유포로 가맹본부 명성 훼손 (관련 조문: 31조 4항 각호)\n2. 법령 위반으로 행정처분이나 법원 판결로 명성 훼손 (중대한 장애 초래)\n3. 법령 위반으로 자격∙면허∙허가∙취소 등 불가능한 행정처분\n4. 약정해지 사유 위반 후 시정 요구 후 1년 이내 동일 사항 재위반\n5. 가맹점 운영으로 형사처벌 받은 경우\n6. 공중 건강이나 안전에 급박한 위해를 초래하는 운영\n7. 정당한 사유 없이 7일 이상 영업 중단",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n계약 해지 사유 및 절차:\n1. 가맹점사업자가 허위사실 유포로 가맹본부의 명성 훼손 시 즉시 해지 가능 (관련 조문: 31조 4항 각호)\n2. 법령 위반으로 행정처분이나 법원 판결로 인한 명성 훼손 시 해지 가능 (예: 행정처분, 과징금 부과 등)\n3. 자격·면허 취소 또는 영업정지 명령을 받은 경우 해지 가능\n4. 약정해지 사유 위반 후 시정 요구에 따라 1년 이내 재위반 시 해지 가능\n5. 형사처벌을 받은 경우 해지 가능\n6. 공중 건강이나 안전에 급박한 위해를 우려할 경우 해지 가능\n7. 정당한 사유 없이 7일 이상 영업 중단 시 해지 가능",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD&rsquo;EM &amp; EVENT PUB의 계약 해지 사유는 무엇인가요?",
+                    "ANSWER": "KMGM HOLD&rsquo;EM &amp; EVENT PUB은 가맹점사업자가 공연히 허위사실을 유포하여 가맹본부의 명성이나 신용을 훼손할 경우, 법령을 위반하여 행정처분이나 법원 판결을 받을 경우 등 여러 가지 사유로 계약을 즉시 해지할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 가맹점 운영과 관련하여 법령을 위반하면 어떤 행정처분을 받을 수 있나요?",
+                    "ANSWER": "가맹점사업자가 가맹점 운영과 관련되는 법령을 위반하면, 위법사실 시정 요구, 과징금ㆍ과태료 부과, 또는 영업정지 명령과 같은 행정처분을 받을 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 영업을 7일 이상 중단하면 어떤 결과가 발생하나요?",
+                    "ANSWER": "가맹점사업자가 정당한 사유 없이 연속하여 7일 이상 영업을 중단할 경우, KMGM HOLD&rsquo;EM &amp; EVENT PUB의 계약이 해지될 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 형사처벌을 받을 경우, 계약은 어떻게 되나요?",
+                    "ANSWER": "가맹점사업자가 가맹점 운영과 관련된 행위로 형사처벌을 받을 경우, KMGM HOLD&rsquo;EM &amp; EVENT PUB의 계약이 해지될 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 계약 해지 절차에서 어떤 사유를 고려하나요?",
+                    "ANSWER": "가맹본부는 가맹점사업자가 가맹점 운영과 관련하여 허위사실 유포, 법령 위반, 연속 영업 중단 등 다양한 사유가 발생했을 때 계약 해지를 고려합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306841035196750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 3,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506047501",
+            "KORN_ATTRB_NM": "4) 계약 해지 사유 및 그 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 4) 계약 해지 사유 및 그 절차\n다 )당사 및 가맹점사업자는 아래와 같은 사유 발생 시 즉시 해지를 할 수 있습니다.<table><tr><td>계약 해지 사유</td><td>관련 계약조문</td></tr><tr><td>당사또는 가맹점사업자에게 파산 신청이 있거나 강제집행절차 또는 회생절차가 개시된 경우</td><td>31조 3항 각호</td></tr><tr><td>당사 또는 가맹점사업자가발행한 어음ㆍ수표가 부도 등으로 지불정지된 경우</td></tr><tr><td>천재지변, 중대한 일신상의 사유 등으로 가맹점사업자가 더 이상 가맹사업을 경영할 수 없게 된 경우</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n**계약 해지 사유 및 절차:**  \n- **당사 및 가맹점사업자는 다음 사유 발생 시 즉시 해지 가능:**  \n  1. **파산 신청 또는 강제집행절차/회생절차 개시**: 관련 조문 - 31조 3항 각호  \n  2. **부도 등으로 지불정지된 어음ㆍ수표**  \n  3. **천재지변, 중대한 일신상의 사유로 가맹사업 경영 불가능**  ",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아로, 브랜드명은 KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)입니다. 계약 해지 사유는 다음과 같습니다: \n\n1. 당사 또는 가맹점사업자가 파산 신청, 강제집행 또는 회생절차를 개시한 경우 (관련 조문: 31조 3항 각호).\n2. 당사 또는 가맹점사업자가 발행한 어음 및 수표가 부도 등으로 지불 정지된 경우.\n3. 천재지변 또는 중대한 개인적 사유로 가맹점사업자가 더 이상 사업을 경영할 수 없는 경우.",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부인 (주)엔케이코리아가 계약 해지를 할 수 있는 사유는 무엇인가요?",
+                    "ANSWER": "가맹본부는 가맹점사업자에게 파산 신청이 있거나 강제집행절차 또는 회생절차가 개시된 경우, 또는 발행한 어음ㆍ수표가 부도로 인해 지불정지된 경우, 그리고 천재지변이나 중대한 일신상 사유로 가맹사업을 계속 경영할 수 없게 된 경우 즉시 계약을 해지할 수 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD&rsquo;EM &amp; EVENT PUB의 가맹점사업자가 계약 해지를 원할 때 어떤 사유가 필요한가요?",
+                    "ANSWER": "KMGM HOLD&rsquo;EM &amp; EVENT PUB의 가맹점사업자는 파산 신청이 있거나 강제집행절차 또는 회생절차가 개시되었을 때, 또는 어음ㆍ수표의 부도로 지불정지된 경우, 그리고 천재지변이나 중대한 일신상 사유로 더 이상 가맹사업을 경영할 수 없게 된 경우 즉시 계약을 해지할 수 있습니다."
+                },
+                {
+                    "QUESTION": "회원사인 (주)엔케이코리아의 계약 해지 관련 조항은 어떤 것이 있나요?",
+                    "ANSWER": "계약 해지 관련 조항으로는 가맹본부 또는 가맹점사업자가 파산 신청이 있거나 강제집행절차 또는 회생절차가 개시된 경우, 발행한 어음ㆍ수표가 부도 등으로 지불정지된 경우, 천재지변이나 중대한 일신상의 사유로 더 이상 가맹사업을 경영할 수 없게 된 경우 등이 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306841035474750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 4,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506047501",
+            "KORN_ATTRB_NM": "4) 계약 해지 사유 및 그 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 4) 계약 해지 사유 및 그 절차\n라)가맹점사업자는 아래와 같은 사유 발생 시 그 사실을 당사에 통지하고 1개월이 지나도 시정되지 않으면 가맹계약을 해지 할 수 있습니다.<table><tr><td>계약 해지 사유</td><td>관련 계약조문</td></tr><tr><td>당사가가맹점사업자에게 부여한 영업지역에 부당하게 직영점 또는 가맹점을 설치하는 경우</td><td>31조 2항 각호</td></tr><tr><td>당사가가맹점운영에 필요한 공급품에 대하여 부당하게 공급을 거절하는 경우 </td></tr><tr><td>당사가가맹사업의 성공을 위한 노력을 전혀 하지 않을 경우</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n  \n**계약 해지 사유 및 절차**:\n- 가맹점사업자는 다음 사유 발생 시 통지 후 1개월 이내 시정되지 않으면 가맹계약 해지 가능:\n  1. 당사가 부여한 영업지역에 부당하게 직영점 또는 가맹점 설치 (관련: 31조 2항 각호)\n  2. 가맹점 운영에 필요한 공급품 부당한 공급 거절\n  3. 가맹사업 성공을 위한 노력이 전혀 하지 않을 경우",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n계약 해지 사유 및 절차: 가맹점사업자는 다음의 사유 발생 시, 당사에 통지하고 1개월 이내에 시정되지 않으면 가맹계약을 해지할 수 있습니다.  \n- 당사가 부여한 영업지역에 부당하게 직영점 또는 가맹점을 설치하는 경우 (관련: 31조 2항 각호)  \n- 당사가 가맹점 운영에 필요한 공급품에 대한 부당한 공급 거절  \n- 당사가 가맹사업의 성공을 위한 노력이 전혀 이루어지지 않는 경우  ",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부인 (주)엔케이코리아는 어떤 사유로 가맹계약을 해지할 수 있나요?",
+                    "ANSWER": "가맹본부인 (주)엔케이코리아는 가맹점사업자가 부당하게 직영점 또는 가맹점을 설치하는 경우, 공급품에 대한 부당한 공급 거절, 가맹사업의 성공을 위한 노력을 전혀 하지 않을 경우 등으로 가맹계약을 해지할 수 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD&rsquo;EM &amp; EVENT PUB 브랜드의 가맹점사업자가 계약 해지를 원할 경우, 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "가맹점사업자는 계약 해지 사유 발생 시 이를 (주)엔케이코리아에 통지하고, 1개월이 지나도 시정되지 않으면 가맹계약을 해지할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 가맹계약을 해지하기 위해 필요한 사유 중 하나는 무엇인가요?",
+                    "ANSWER": "가맹점사업자는 가맹본부인 (주)엔케이코리아가 부당하게 영업지역에 직영점 또는 다른 가맹점을 설치한 경우를 사유로 가맹계약을 해지할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부(주)엔케이코리아가 공급품을 부당하게 공급 거절할 경우, 가맹점사업자는 어떤 조치를 취할 수 있나요?",
+                    "ANSWER": "가맹점사업자는 가맹본부가 공급품을 부당하게 공급 거절한 경우, 계약 해지 사유로 삼을 수 있으며, 이 사실을 통지한 후 1개월이 지나도 시정되지 않으면 계약을 해지할 수 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD&rsquo;EM &amp; EVENT PUB의 가맹점사업자가 가맹본부와의 계약 해지 절차에서 어떤 기간을 고려해야 하나요?",
+                    "ANSWER": "가맹점사업자는 계약 해지 사유를 가맹본부인 (주)엔케이코리아에 통지한 후 1개월 동안 시정되지 않으면 가맹계약을 해지할 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306841035644750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 5,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506047501",
+            "KORN_ATTRB_NM": "4) 계약 해지 사유 및 그 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 4) 계약 해지 사유 및 그 절차\n마)그밖에 가맹점사업자가 위에 해당하는 해지사유 이외에 해지를 하고자 하는 경우 최소 1개월 전에 그 사실을 당사에게 알리고 상호협의 하여 해지할 수 있습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n- 계약 해지 사유 및 절차: \n  - 가맹점사업자가 위의 해지사유 이외에 해지를 원할 경우 최소 1개월 전에 당사에 알리고 상호협의하여 해지 가능.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD&rsquo;EM &amp; EVENT PUB입니다. 계약 해지 시, 해지 사유가 명시된 경우 최소 1개월 전에 통지하여 상호 협의 후 해지가 가능합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 가맹점주가 계약을 해지하고 싶을 때 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "가맹점사업자가 계약을 해지하고자 하는 경우, 최소 1개월 전에 그 사실을 가맹본부에 알리고 상호협의하여 해지할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부인 (주)엔케이코리아와의 계약을 해지하기 위해서는 어떤 조건을 만족해야 하나요?",
+                    "ANSWER": "계약 해지를 원할 경우 최소 1개월 전에 가맹본부에 통보하고 상호협의해야 합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 브랜드 가맹점의 계약 해지 사유는 무엇인가요?",
+                    "ANSWER": "계약 해지 사유는 주로 가맹본부에서 제시하는 사항에 해당하며, 그 외의 해지를 원하는 경우에는 사전 통보 및 협의가 필요합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306348568677750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506057501",
+            "KORN_ATTRB_NM": "5) 계약 수정의 사유, 사전 통보 여부 및 동의 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 5) 계약 수정의 사유, 사전 통보 여부 및 동의 절차\n당사는 계약기간 내에 계약 내용을 변경하지 않는 것을 원칙으로 합니다. 다만, 불가피한 경우에 귀하의 동의를 얻어 계약 조건을 수정할 수 있습니다.<table><tr><td>재조정 절차</td><td>동의 절차</td></tr><tr><td>계약 수정 사유 발생 → 당사 담당팀 검토 → 수정계약서(안) 작성 → 가맹점사업자에게 서면 통지 → 가맹점사업자 동의 → 수정 완료</td><td>수정 계약서(안)를 서면으로 통지하고 30일 이내에 동의 여부 회신동의가 있는 경우 수정계약서에 정한 날부터 효력 발생</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD&rsquo;EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n\n**계약 수정 관련 사항**:\n- 계약 기간 내 원칙적으로 내용 변경 없음.\n- 불가피한 경우, 귀하의 동의 필요.\n  \n**재조정 절차**:\n1. 계약 수정 사유 발생\n2. 당사 담당팀 검토\n3. 수정계약서(안) 작성\n4. 가맹점사업자에게 서면 통지\n5. 가맹점사업자 동의\n6. 수정 완료\n\n**동의 절차**:\n- 수정 계약서(안)를 서면으로 통지 후 30일 이내 동의 여부 회신.\n- 동의가 있을 경우 수정계약서에 정한 날부터 효력 발생.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n계약 수정 사유 및 절차:  \n계약 내용은 원칙적으로 변경되지 않으며, 불가피한 경우 가맹점사업자의 동의를 통해 수정 가능.  \n재조정 절차: 계약 수정 사유 발생 → 담당팀 검토 → 수정계약서(안) 작성 → 가맹점사업자에게 서면 통지 → 동의 후 수정 완료.  \n동의 절차: 수정 계약서(안)를 서면 통지 후 30일 이내에 동의 여부 회신, 동의 시 수정계약서에 정한 날부터 효력 발생.  ",
+            "QAs": [
+                {
+                    "QUESTION": "계약 내용을 변경하고자 할 때 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "계약 수정 사유가 발생하면 (주)엔케이코리아 담당팀이 검토 후 수정계약서(안)를 작성하여 가맹점사업자에게 서면으로 통지합니다. 이후 가맹점사업자가 동의하면 수정이 완료됩니다."
+                },
+                {
+                    "QUESTION": "계약 수정 시 가맹점사업자는 어떤 방식으로 동의를 해야 하나요?",
+                    "ANSWER": "가맹점사업자는 수정 계약서(안)를 서면으로 통지받은 후 30일 이내에 동의 여부를 회신해야 합니다. 동의가 있을 경우 수정계약서는 정해진 날짜부터 효력을 발생합니다."
+                },
+                {
+                    "QUESTION": "계약 수정의 사유가 생기면 어떤 절차가 진행되나요?",
+                    "ANSWER": "계약 수정 사유가 발생하면 (주)엔케이코리아의 담당팀이 이를 검토하고 수정계약서(안)를 작성한 후 가맹점사업자에게 서면으로 통지합니다."
+                },
+                {
+                    "QUESTION": "수정계약서에 동의하는 데 필요한 기간은 얼마인가요?",
+                    "ANSWER": "가맹점사업자는 수정 계약서(안)를 서면으로 통지받은 후 30일 이내에 동의 여부를 회신해야 합니다."
+                },
+                {
+                    "QUESTION": "계약 수정의 효력 발생은 어떻게 이루어지나요?",
+                    "ANSWER": "가맹점사업자가 수정 계약서에 동의할 경우, 수정계약서는 정한 날부터 효력을 발생합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306348568946750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "506057501",
+            "KORN_ATTRB_NM": "5) 계약 수정의 사유, 사전 통보 여부 및 동의 절차",
+            "UP_ATTRB_MNNO": "506007501",
+            "KORN_UP_ATRB_NM": "6. 계약기간, 계약의 갱신ㆍ연장ㆍ종료ㆍ해지ㆍ수정"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 5) 계약 수정의 사유, 사전 통보 여부 및 동의 절차\n당사는 귀하에게 동의를 얻지 못할 경우 계약기간 중에 계약서의 내용을 변경하지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD'EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n- 계약 수정 사유: 동의를 얻지 못할 경우 계약 내용 변경 불가.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)  \n5) 계약 수정 사유, 사전 통보 여부 및 동의 절차: 계약기간 중 계약 내용 변경은 동의를 얻지 않으면 불가능합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB의 계약 수정은 어떻게 이루어지나요?",
+                    "ANSWER": "계약 수정은 가맹본부인 (주)엔케이코리아의 동의를 얻어야 하며, 동의를 얻지 못할 경우 계약기간 중에는 계약서의 내용을 변경하지 않습니다."
+                },
+                {
+                    "QUESTION": "계약서 내용 변경 시 사전 통보가 필요한가요?",
+                    "ANSWER": "계약서 내용을 변경하려면 가맹본부인 (주)엔케이코리아의 동의를 받아야 하며, 동의가 없는 경우 내용 변경이 불가능합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB과의 계약에서 수정이 필요한 경우 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "계약 수정을 원할 경우, 가맹본부인 (주)엔케이코리아의 동의를 얻어야 하며, 동의가 없는 경우 계약서 내용 변경이 이루어지지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306603388714750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507017501",
+            "KORN_ATTRB_NM": "1) 가맹점운영권의 환매",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 1) 가맹점운영권의 환매\n당사는 가맹점운영권 환매제도를 운영하고 있지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 가맹점운영권 환매: 환매제도 운영하지 않음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아로, 브랜드명은 KMGM HOLD&rsquo;EM & EVENT PUB입니다. 가맹점운영권 환매제도를 운영하지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "(주)엔케이코리아의 KMGM HOLD’EM & EVENT PUB 브랜드에서는 가맹점운영권 환매가 가능한가요?",
+                    "ANSWER": "(주)엔케이코리아는 KMGM HOLD’EM & EVENT PUB 브랜드에 대해 가맹점운영권 환매제도를 운영하고 있지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306373998294750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507027501",
+            "KORN_ATTRB_NM": "2) 가맹점운영권의 양도",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 2) 가맹점운영권의 양도\n가맹점사업자가 가맹점운영권을 다른 사업자에게 양도하기 위해서는 [사전에 당사에게 서면으로 그 사실을 통지하여야 하고, 당사의 승인이 있어야만 합니다.] 자세한 내용은 다음과 같습니다.<table><tr><td>양도 가능 조건</td><td>양도 절차</td></tr><tr><td>-양수인이 당사가 정한 가맹점 운영 기준을 준수할 것.-양도 전 잔존채무의 이행완료 할 것.-잔여기간에 대한 양수 또는 신규가맹계약 조건</td><td>가맹점사업자가 서면으로 양도 신청 → 정보공개서 제공 →  당사 담당팀 검토(양수인 면담 포함, 15일 가량 소요) → 승인 여부 통지 → 양도인, 양수인, 가맹본부의 양수도 계약 체결(5일 소요) → 가맹점운영권 이전 완료</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n2) **가맹점운영권의 양도**:\n- **양도 가능 조건**:\n  - 양수인이 가맹점 운영 기준 준수\n  - 양도 전 잔존채무 이행 완료\n  - 잔여기간에 대한 양수 또는 신규가맹계약 조건\n- **양도 절차**:\n  1. 가맹점사업자가 서면으로 양도 신청\n  2. 정보공개서 제공\n  3. 당사 담당팀 검토 (양수인 면담 포함, 약 15일 소요)\n  4. 승인 여부 통지\n  5. 양도인, 양수인, 가맹본부의 양수도 계약 체결 (약 5일 소요)\n  6. 가맹점운영권 이전 완료",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n2) 가맹점운영권 양도: 가맹점사업자가 가맹점운영권을 양도하기 위해서는 사전 통지와 본사의 승인이 필요하다. 양도의 조건과 절차는 다음과 같다:\n\n- **양도 가능 조건**:\n  - 양수인이 가맹점 운영 기준 준수\n  - 양도 전 잔존채무 이행 완료\n  - 잔여기간에 대한 양수 또는 신규 가맹계약 조건\n\n- **양도 절차**:\n  1. 가맹점사업자가 서면으로 양도 신청\n  2. 정보공개서 제공\n  3. 당사 담당팀 검토 (양수인 면담 포함, 약 15일 소요)\n  4. 승인 여부 통지\n  5. 양도인, 양수인, 가맹본부의 양수도 계약 체결 (5일 소요)\n  6. 가맹점운영권 이전 완료",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 가맹점 운영권을 양도하려면 어떤 조건이 필요한가요?",
+                    "ANSWER": "양도인은 양수인이 가맹본부가 정한 가맹점 운영 기준을 준수하고, 양도 전 잔존채무의 이행을 완료해야 하며, 잔여기간에 대한 양수 또는 신규가맹계약 조건을 충족해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영권 양도를 위한 절차는 어떻게 되나요?",
+                    "ANSWER": "가맹점사업자는 서면으로 양도 신청을 한 후, 정보공개서 제공이 이루어지고, 가맹본부 담당팀의 검토(양수인 면담 포함)가 진행됩니다. 이 과정은 약 15일 정도 소요되며, 그 후 승인 여부가 통지되고, 양수도 계약 체결에는 약 5일이 소요됩니다. 최종적으로 가맹점 운영권이 이전됩니다."
+                },
+                {
+                    "QUESTION": "가맹본부의 승인은 가맹점 운영권 양도에 필수인가요?",
+                    "ANSWER": "네, 가맹점 운영권을 양도하기 위해서는 사전에 가맹본부에 서면으로 통지하고 승인을 받아야 합니다."
+                },
+                {
+                    "QUESTION": "양도 신청 후 가맹본부의 검토 과정에는 무엇이 포함되나요?",
+                    "ANSWER": "양도 신청 후 가맹본부 담당팀의 검토 과정에는 양수인 면담이 포함되어 있으며, 이 과정은 약 15일 정도 소요됩니다."
+                },
+                {
+                    "QUESTION": "양수인은 어떤 기준을 준수해야 가맹점 운영권을 양도받을 수 있나요?",
+                    "ANSWER": "양수인은 가맹본부가 정한 가맹점 운영 기준을 준수해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306373998552750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507027501",
+            "KORN_ATTRB_NM": "2) 가맹점운영권의 양도",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 2) 가맹점운영권의 양도\n* 양수인은 반드시 교육을 받아야 하며, 당사에게 교육비와 계약이행보증금을 지급하여야 합니다. 다만, 양수인이 신규가맹계약 체결을 원할 경우에는 가맹비와 교육비, 계약이행보증금을 지급하여야 합니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 가맹점운영권 양도 조건:\n  - 양수인은 반드시 교육을 받아야 하며, 교육비와 계약이행보증금을 지급해야 함.\n  - 신규가맹계약 체결 시 가맹비, 교육비, 계약이행보증금을 지급해야 함.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n2) 가맹점운영권 양도:  \n- 양수인은 반드시 교육을 받아야 하며, 교육비와 계약이행보증금을 지급해야 합니다.  \n- 신규가맹계약 체결을 원할 경우, 가맹비와 교육비, 계약이행보증금을 지급해야 합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB 브랜드의 가맹점 운영권은 어떻게 양도되나요?",
+                    "ANSWER": "가맹점 운영권을 양도하기 위해서는 양수인이 반드시 교육을 받아야 하며, 가맹본부에 교육비와 계약이행보증금을 지급해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영권을 양도할 때 양수인이 신규가맹계약을 원할 경우 어떤 비용이 발생하나요?",
+                    "ANSWER": "양수인이 신규가맹계약을 체결하고자 할 경우에는 가맹비와 교육비, 계약이행보증금을 지급해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영권 양도 시, 교육은 반드시 받아야 하나요?",
+                    "ANSWER": "네, 가맹점 운영권을 양도받으려는 양수인은 반드시 교육을 받아야 합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB 브랜드의 양수인이 지불해야 하는 보증금은 무엇인가요?",
+                    "ANSWER": "양수인은 계약이행보증금을 가맹본부에 지급해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306250541742750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "507037501",
+            "KORN_ATTRB_NM": "3) 가맹점운영권의 상속, 대리행사, 위탁 등",
+            "UP_ATTRB_MNNO": "507007501",
+            "KORN_UP_ATRB_NM": "7. 가맹점운영권의 환매ㆍ양도ㆍ상속 및 대리행사"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 3) 가맹점운영권의 상속, 대리행사, 위탁 등\n가맹점운영권은 원칙적으로 당사와 가맹계약을 체결한 귀하에게 주어집니다. 따라서 개인사정 등으로 가맹점운영권을 다른 사람에게 대리행사하게 하거나 상속하기 위해서는 당사에 서면으로 그 사실을 통지하여야 합니다. 가맹점사업자의 상속인은 가맹점 운영을 상속할 수 있으며, 이 경우 상속개시일 로부터 3개월 이내에 상속사실을 통지하여야 합니다. 다만, 상속인이 미성년자, 피성년후견인에 해당하거나 이에 준하는 사유가 있는 경우에는 가맹계약을 종료 합니다. 자세한 내용은 다음과 같습니다.<table><tr><td>구분</td><td>가능 여부(조건)</td><td>이전 범위</td><td>절차</td><td>비고</td></tr><tr><td>상속</td><td>가능</td><td>모든 권리의무</td><td>가맹점사업자의 상속인이 서면으로 승인 요청 → 당사 담당팀 검토(상속인 면담 포함,15일 가량 소요)→ 승인 여부 통지 → 가맹점운영권 이전 완료</td><td>직계 존비속에 한함</td></tr><tr><td>대리행사</td><td>발생 시 협의</td><td>-</td><td>-</td><td>-</td></tr><tr><td>업무위탁</td><td>가맹본부 승인시 가능</td><td>가맹점사업자가 지정한 범위 내의 권리 의무</td><td>가맹점사업자가 서면으로 위탁 승인 요청 → 당사 담당팀 검토(위탁자 면담 포함,10일 가량 소요)→ 승인 여부 통지 → 가맹점운영권 이전 완료</td><td>소정의 교육을 이수하여야 함</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n1. **가맹점운영권 상속, 대리행사, 위탁 등:**\n   - 가맹점운영권은 가맹계약 체결자에게 부여되며, 대리행사나 상속 시 서면 통지가 필요.\n   - 상속인은 가맹점 운영을 상속 가능, 상속 개시일로부터 3개월 이내에 통지해야 함. 미성년자나 피성년후견인은 가맹계약 종료.\n\n| 구분     | 가능 여부(조건)          | 이전 범위               | 절차                                                  | 비고                   |\n|----------|------------------------|----------------------|-----------------------------------------------------|-----------------------|\n| 상속     | 가능                   | 모든 권리의무         | 상속인이 서면으로 승인 요청 → 검토(상속인 면담 포함, 약 15일) → 승인 통지 → 이전 완료 | 직계 존비속에 한함      |\n| 대리행사 | 발생 시 협의            | -                    | -                                                    | -                     |\n| 업무위탁 | 가맹본부 승인 시 가능   | 지정한 범위 내 권리 의무 | 서면으로 위탁 승인 요청 → 검토(위탁자 면담 포함, 약 10일) → 승인 통지 → 이전 완료 | 소정의 교육 이수 필요   |",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD'EM & EVENT PUB입니다. 가맹점운영권은 계약 체결자에게 부여되며, 대리행사나 상속 시 서면 통지가 필요합니다. 상속인은 운영권을 상속할 수 있지만, 미성년자 등은 가맹계약이 종료됩니다. \n\n상속 절차는 다음과 같습니다:\n- 상속 가능: 모든 권리 의무 이전\n- 절차: 서면 승인 요청 → 검토(약 15일) → 승인 통지 → 이전 완료\n- 비고: 직계 존비속에 한정됨\n\n대리행사 시 협의가 필요하며, 업무 위탁은 가맹본부 승인 후 가능합니다. 위탁 절차는 승인 요청 → 검토(약 10일) → 승인 통지 → 이전 완료로 진행되며, 교육 이수 필수입니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB 가맹점 운영권을 상속할 때 필요한 절차는 무엇인가요?",
+                    "ANSWER": "가맹점사업자의 상속인이 서면으로 승인 요청을 해야 하며, 이후 담당팀의 검토가 이루어집니다. 검토 과정에는 상속인 면담도 포함되며, 이 과정은 약 15일이 소요됩니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영권의 상속은 어떤 조건이 필요한가요?",
+                    "ANSWER": "가맹점 운영권의 상속은 직계 존비속에 한하여 가능하며, 상속개시일로부터 3개월 이내에 상속사실을 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "대리행사를 할 경우 어떤 절차가 필요한가요?",
+                    "ANSWER": "대리행사를 원할 경우, 특별한 조건이 발생했을 때 협의를 통해 진행해야 하며, 구체적인 절차는 사전에 협의하여 결정됩니다."
+                },
+                {
+                    "QUESTION": "업무 위탁을 하고 싶은 경우 어떤 조건이 있어야 하나요?",
+                    "ANSWER": "업무 위탁은 가맹본부의 승인이 필요하며, 가맹점사업자가 지정한 범위 내에서의 권리와 의무가 포함됩니다. 또한 소정의 교육을 이수해야 합니다."
+                },
+                {
+                    "QUESTION": "상속인의 경우 미성년자일 때 가맹점 운영권은 어떻게 되나요?",
+                    "ANSWER": "상속인이 미성년자, 피성년후견인에 해당하는 경우에는 가맹계약이 종료됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306384428760750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508017501",
+            "KORN_ATTRB_NM": "1) 경업금지의 범위",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 1) 경업금지의 범위\n당사는 계약기간 존속 중 [KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)]과 동일한 업종의 영업을 하는 행위를 금지하고 있습니다. 만약 귀하가 그러한 행위를 하기 위해서는 사전에 가맹본부에 서면으로 그 사실을 통지하여야 합니다. 자세한 내용은 다음과 같습니다.<table><tr><td>경업금지 되는 업종</td><td>경업허가 절차</td><td>비고</td></tr><tr><td>홀덤펍, 홀덤 스튜디오 등</td><td>당사는 계약기간 존속 중 경업을 허가 하지 않습니다. </td><td></td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n\n1) **경업금지의 범위**:\n   - 계약기간 동안 동일 업종의 영업 금지.\n   - 경업행위 시 사전 서면 통지 필요.\n\n2) **경업금지 되는 업종**:\n   - 홀덤펍, 홀덤 스튜디오 등\n\n3) **경업허가 절차**:\n   - 계약기간 동안 경업 허가 없음. \n\n4) **비고**: 해당 사항 없음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)입니다. 경업금지 조항에 따르면, 계약 기간 동안 동일 업종의 영업을 금지하며, 경업을 원할 경우 사전 서면 통지가 필요합니다. 경업 금지 업종으로는 홀덤펍과 홀덤 스튜디오가 있으며, 계약 기간 중 경업 허가는 허용되지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB과 동일한 업종의 영업을 하고 싶다면 어떻게 해야 하나요?",
+                    "ANSWER": "가맹본부에 서면으로 그 사실을 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "경업금지 대상 업종에는 어떤 것이 있나요?",
+                    "ANSWER": "홀덤펍, 홀덤 스튜디오 등과 같은 업종이 포함됩니다."
+                },
+                {
+                    "QUESTION": "가맹계약 기간 중 경업을 허가 받을 수 있나요?",
+                    "ANSWER": "계약 기간 중에는 경업을 허가하지 않습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 경업금지 조항은 어떤 내용을 포함하고 있나요?",
+                    "ANSWER": "가맹계약 기간 동안 동일 업종의 영업을 금지하며, 이를 원할 경우 반드시 사전에 가맹본부에 통지해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306750794613750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508027501",
+            "KORN_ATTRB_NM": "2) 영업시간 및 영업일수 제한",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 2) 영업시간 및 영업일수 제한\n당사는 [KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)]의 영업시간 및 영업일수를 제한하고 있습니다. 자세한 내용은 다음과 같습니다.<table><tr><td>영업시간</td><td>영업일수</td><td>비고</td></tr><tr><td>일 8시간 이상 자율영업</td><td>연중 무휴</td><td>설 및 추석은 재량 휴무</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- **영업시간**: 일 8시간 이상 자율영업\n- **영업일수**: 연중 무휴 (설 및 추석은 재량 휴무)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)  \n\n영업시간 및 영업일수:\n- 영업시간: 일 8시간 이상 자율영업  \n- 영업일수: 연중 무휴 (설 및 추석은 재량 휴무)  ",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 영업시간은 어떻게 되나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB은 일 8시간 이상 자율 영업을 운영하고 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 영업일수는 어떻게 되나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB은 연중 무휴로 운영되며, 설과 추석은 재량에 따라 휴무할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점에서 KMGM HOLD’EM & EVENT PUB의 영업시간을 변경할 수 있나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB은 일 8시간 이상의 자율 영업을 허용하지만, 저희 가맹본부의 기준 내에서 운영해야 합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB에서 설과 추석에 휴무가 가능한가요?",
+                    "ANSWER": "네, KMGM HOLD’EM & EVENT PUB에서는 설과 추석에 재량에 따라 휴무가 가능합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306750794925750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508027501",
+            "KORN_ATTRB_NM": "2) 영업시간 및 영업일수 제한",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 2) 영업시간 및 영업일수 제한\n※ 귀하가 개인 사정 등으로 연속하여 4일 이상 영업을 불가피하게 중단하거나 영업시간을 조 정해야 할 경우에는 사전에 담당팀에 통지하시기 바랍니다.※ 가맹사업거래의 공정화에 관한 법률 시행령 제15조제10호에 따라 귀하가 정당한 사유없이연속하여 7일 이상 영업을 중단한 경우 가맹계약 해지가 될 수 있으므로 주의하시기 바랍니다.[귀하는 가맹사업거래의 공정화에 관한 법률 제12조의3에 의거 오전 0시 또는 1시부터 오전 3시까지의 매출이 영업에 소요되는 비용에 비하여 저조하여 3개월간영업손실이 발생하거나, 질병의 발생과 치료 등 불가피한 사유가 발생하는 경우 당사에 영업시간 단축을요청할 수 있으며 영업시간을 조정해야 할 경우에는 사전에 담당팀에 통지하시기 바랍니다.]",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n**영업시간 및 영업일수 제한:**\n- 연속 4일 이상 영업 중단 시 사전 통지 필요.\n- 정당한 사유 없이 7일 이상 영업 중단 시 가맹계약 해지 가능.\n- 오전 0시 또는 1시부터 오전 3시까지 매출이 저조하여 3개월간 영업손실 발생 시 영업시간 단축 요청 가능.\n- 영업시간 조정 시 사전 통지 필요.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD&rsquo;EM & EVENT PUB입니다. 영업시간 및 영업일수에 대한 제한 사항은 다음과 같습니다: \n\n- 연속 4일 이상 영업 중단 시 사전 통지 필요.\n- 정당한 사유 없이 7일 이상 영업 중단 시 가맹계약 해지 가능성 있음.\n- 오전 0시 또는 1시부터 오전 3시까지 매출이 저조하거나 불가피한 사유 발생 시 영업시간 단축 요청 가능, 사전 통지 필요.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 영업시간 조정 요청 시 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "영업시간을 조정해야 할 경우, 사전에 담당팀에 통지하셔야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점이 4일 이상 영업을 중단할 경우 어떻게 해야 하나요?",
+                    "ANSWER": "개인 사정 등으로 4일 이상 영업을 중단해야 하는 경우, 사전에 담당팀에 통지해야 합니다."
+                },
+                {
+                    "QUESTION": "연속하여 7일 이상 영업을 중단하면 어떤 결과가 발생하나요?",
+                    "ANSWER": "정당한 사유 없이 연속하여 7일 이상 영업을 중단하는 경우, 가맹계약 해지가 될 수 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 영업시간 단축 요청은 어떤 사유로 가능하나요?",
+                    "ANSWER": "오전 0시 또는 1시부터 오전 3시까지의 매출이 저조하여 3개월간 영업손실이 발생하거나, 질병의 발생과 치료 등 불가피한 사유가 발생할 경우 영업시간 단축을 요청할 수 있습니다."
+                },
+                {
+                    "QUESTION": "(주)엔케이코리아와의 계약에서 영업시간 조정 시 주의해야 할 점은 무엇인가요?",
+                    "ANSWER": "영업시간을 조정해야 할 경우, 반드시 사전에 담당팀에 통지해야 하며, 정당한 사유 없이 7일 이상 영업을 중단하면 계약 해지의 위험이 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306599444130750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508037501",
+            "KORN_ATTRB_NM": "3) 권장 종업원 수 및 영업장 근무 여부",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 3) 권장 종업원 수 및 영업장 근무 여부\n<table><tr><td>권장 종업원 수</td><td>가맹점사업자의 영업장 근무 여부</td></tr><tr><td>가맹점 및 지역 특성에 따라 상이하기때문에 별도의 제한을 두지 않음</td><td>가맹점사업자가 매장에 근무하도록 권장하지만 필수적으로 근무하도록 하고 있지는 않음</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n3) 권장 종업원 수 및 가맹점사업자의 영업장 근무 여부:\n- 권장 종업원 수: 가맹점 및 지역 특성에 따라 상이, 별도의 제한 없음\n- 가맹점사업자의 영업장 근무 여부: 매장에 근무하도록 권장하나 필수는 아님.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n- 권장 종업원 수: 가맹점 및 지역 특성에 따라 상이하므로 별도의 제한 없음  \n- 가맹점사업자의 영업장 근무 여부: 권장하나 필수는 아님",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB의 권장 종업원 수는 어떻게 되나요?",
+                    "ANSWER": "가맹점 및 지역 특성에 따라 권장 종업원 수는 상이하므로 별도의 제한이 없습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB 가맹점사업자는 영업장에 필수적으로 근무해야 하나요?",
+                    "ANSWER": "가맹점사업자는 매장 근무를 권장하지만, 필수적으로 근무할 필요는 없습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB의 가맹점 사업자가 영업장 근무를 권장하는 이유는 무엇인가요?",
+                    "ANSWER": "가맹점사업자가 매장에 근무하는 것을 권장하는 이유는 매장 운영에 직접 참여함으로써 고객 관리 및 운영 효율성을 높일 수 있기 때문입니다."
+                },
+                {
+                    "QUESTION": "가맹점 및 지역 특성에 따라 권장 종업원 수가 다르게 설정될 수 있나요?",
+                    "ANSWER": "네, 가맹점 및 지역 특성에 따라 권장 종업원 수는 상이할 수 있으며, 이로 인해 별도의 제한이 없습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306465907585750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "508047501",
+            "KORN_ATTRB_NM": "4) 가맹본부의 영업장 관리ㆍ감독",
+            "UP_ATTRB_MNNO": "508007501",
+            "KORN_UP_ATRB_NM": "8. 경업금지, 영업시간 제한, 가맹본부의 영업장 관리ㆍ감독"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 4) 가맹본부의 영업장 관리ㆍ감독\n<table><tr><td>관리ㆍ감독 항목</td><td>감독 절차</td><td>빈도 및 시기</td><td>비고</td></tr><tr><td>매장 청결</td><td>담당자 매장 방문 → 청결도 확인 → 가맹점방문기록표 작성→ 가맹점사업자 확인 및 서명 → 완료</td><td>수시</td><td></td></tr><tr><td>서비스 및 점포관리</td><td>담당자 매장 방문→서비스 및 관리 확인 →가맹점 방문기록표 작성→가맹점사업자확인 및 서명→완료</td><td>수시</td><td></td></tr><tr><td>제품의 표준화</td><td>담당자 매장 방문 → 매뉴얼 준수 및 사입 체크→ 가맹점방문기록표 작성 → 완료</td><td>수시</td><td></td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n### 가맹본부의 영업장 관리 감독\n\n| 관리ㆍ감독 항목       | 감독 절차                                                                                              | 빈도 및 시기 | 비고 |\n|---------------------|-------------------------------------------------------------------------------------------------------|---------------|------|\n| 매장 청결            | 담당자 매장 방문 → 청결도 확인 → 가맹점 방문기록표 작성 → 가맹점사업자 확인 및 서명 → 완료                   | 수시          |      |\n| 서비스 및 점포관리   | 담당자 매장 방문 → 서비스 및 관리 확인 → 가맹점 방문기록표 작성 → 가맹점사업자 확인 및 서명 → 완료       | 수시          |      |\n| 제품의 표준화        | 담당자 매장 방문 → 매뉴얼 준수 및 사입 체크 → 가맹점 방문기록표 작성 → 완료                               | 수시          |      |",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n**영업장 관리 감독 항목 및 절차**  \n1. **매장 청결**\n   - **감독 절차**: 담당자 매장 방문 → 청결도 확인 → 가맹점 방문기록표 작성 → 가맹점사업자 확인 및 서명 → 완료  \n   - **빈도 및 시기**: 수시  \n\n2. **서비스 및 점포관리**\n   - **감독 절차**: 담당자 매장 방문 → 서비스 및 관리 확인 → 가맹점 방문기록표 작성 → 가맹점사업자 확인 및 서명 → 완료  \n   - **빈도 및 시기**: 수시  \n\n3. **제품의 표준화**\n   - **감독 절차**: 담당자 매장 방문 → 매뉴얼 준수 및 사입 체크 → 가맹점 방문기록표 작성 → 완료  \n   - **빈도 및 시기**: 수시  ",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 매장 청결 관리는 어떻게 이루어지나요?",
+                    "ANSWER": "매장 청결 관리는 담당자가 직접 매장을 방문하여 청결도를 확인하고, 가맹점 방문기록표를 작성한 후 가맹점 사업자의 확인 및 서명을 받아 완료됩니다."
+                },
+                {
+                    "QUESTION": "가맹본부가 KMGM HOLD’EM & EVENT PUB의 서비스 및 점포 관리를 점검하는 빈도는 어떻게 되나요?",
+                    "ANSWER": "서비스 및 점포 관리는 수시로 진행되며, 담당자가 매장을 방문하여 서비스 및 관리를 확인하고 점검합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB에서 제품의 표준화 관리 절차는 무엇인가요?",
+                    "ANSWER": "제품의 표준화 관리는 담당자가 매장을 방문하여 매뉴얼 준수 여부 및 사입을 체크한 후 가맹점 방문기록표를 작성하여 완료됩니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 가맹본부는 매장 관리와 감독을 얼마나 자주 실시하나요?",
+                    "ANSWER": "가맹본부는 매장 관리 및 감독을 수시로 실시하여 매장 청결, 서비스 및 점포 관리, 제품의 표준화를 점검합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 가맹점 방문 시 작성하는 기록표는 어떤 역할을 하나요?",
+                    "ANSWER": "가맹점 방문 시 작성하는 기록표는 매장 청결도, 서비스 및 관리 확인 결과 등을 기록하여 가맹점 사업자의 확인과 서명을 받고, 감독 절차의 일환으로 이용됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306943988145750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "509017501",
+            "KORN_ATTRB_NM": "1) 가맹본부와 가맹점사업자의 비용 분담 기준",
+            "UP_ATTRB_MNNO": "509007501",
+            "KORN_UP_ATRB_NM": "9. 광고 및 판촉 활동"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 1) 가맹본부와 가맹점사업자의 비용 분담 기준\n당사는 [KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍) 영업표지 이미지 제고 및 매출액 증대를 위한 전국 단위의] 광고 및 판촉 활동을 위해 필요한 비용을 [가맹점사업자와 나누어 부담하고 있습니다.] 자세한 내용은 다음과 같습니다.<table><tr><td>구분</td><td>광고성격</td><td>부담비율</td><td>분담절차</td><td>비고</td></tr><tr><td>본사부담</td><td>가맹점부담</td></tr><tr><td>광고전체 행사</td><td>상품광고</td><td>광고비의 50%</td><td>광고비 50% 중 1/N(N:가맹점 수)</td><td>광고 계획 공고 → 가맹점의 광고참여 여부 결정 → 가맹점부담액 제시(명세서) </td><td>대중매체 광고명절, Day 이벤트 행사(전국 행사)</td></tr><tr><td>상품광고+가맹점모집광고</td><td>광고비의 50%</td><td>광고비 50% 중 1/N(N:가맹점 수)</td></tr><tr><td>가맹점모집광고</td><td>전액 부담 </td><td>없음</td></tr><tr><td>개별 행사</td><td>행사에 따라 달라짐</td><td>행사 계획 공고 → 가맹점부담액 제시 → 가맹점의 행사 참여 결정 → 행사 종료후 최종 분담금 확정</td><td>월별 판촉 행사</td></tr><tr><td>할인카드․멤버십제휴서비스</td><td>해당없음</td><td></td><td></td><td></td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명**: (주)엔케이코리아  \n**브랜드명**: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n**비용 분담 기준**: \n- 당사는 광고 및 판촉 활동을 위해 가맹점사업자와 비용을 나누어 부담. \n\n| 구분                          | 광고성격                       | 부담비율             | 분담절차                                                         | 비고                               |\n|-----------------------------|-----------------------------|------------------|-----------------------------------------------------------------|-----------------------------------|\n| 본사부담                     | 광고전체 행사                   | 광고비의 50%       | 광고비 50% 중 1/N (N: 가맹점 수) → 광고 계획 공고 → 가맹점 광고참여 여부 결정 → 가맹점 부담액 제시 | 대중매체 광고, 명절 및 Day 이벤트 행사 |\n| 상품광고                     | 상품광고                      | 광고비의 50%       | 광고비 50% 중 1/N (N: 가맹점 수)                                |                                   |\n| 가맹점모집광고               | 가맹점모집광고                  | 전액 부담          | 없음                                                           |                                   |\n| 개별 행사                    | 행사에 따라 달라짐              | 행사에 따라 다름    | 행사 계획 공고 → 가맹점 부담액 제시 → 가맹점 행사 참여 결정 → 행사 종료 후 최종 분담금 확정 | 월별 판촉 행사                   |\n| 할인카드․멤버십제휴서비스     | 해당없음                       | 해당없음          | 해당없음                                                      | 해당없음                          |",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM &amp; EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n비용 분담 기준:  \n당사는 광고 및 판촉 활동 비용을 가맹점사업자와 나누어 부담하며, 광고의 성격에 따라 부담 비율이 다릅니다.  \n\n| 구분           | 광고성격                 | 부담비율               | 분담절차                                           | 비고                                    |\n|----------------|---------------------------|------------------------|--------------------------------------------------|---------------------------------------|\n| 광고전체 행사  | 상품광고                  | 광고비의 50%           | 광고비 50% 중 1/N (N: 가맹점 수)               | 광고 계획 공고 후 가맹점 결정        | \n| 상품광고+가맹점모집광고 | 광고비의 50%            | 광고비 50% 중 1/N (N: 가맹점 수) | 광고 계획 공고 후 가맹점 결정                   | \n| 가맹점모집광고    | 전액 부담                | 없음                    |                                                 | \n| 개별 행사        | 행사에 따라 달라짐      | 행사 계획 공고 후 결정 | 행사 종료 후 최종 분담금 확정                    | 월별 판촉 행사                          | \n| 할인카드․멤버십제휴서비스 | 해당 없음                |                         |                                                  |                                        | \n\n각 광고의 구체적인 절차와 조건에 대한 설명이 포함되어 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 브랜드의 광고비용 분담 기준은 무엇인가요?",
+                    "ANSWER": "가맹본부는 KMGM HOLD’EM & EVENT PUB 브랜드의 광고비용을 가맹점사업자와 나누어 부담합니다. 본사와 가맹점의 부담비율은 광고 전체 행사 및 상품 광고의 경우 광고비의 50%를 나누어 부담하며, 가맹점 모집 광고는 전액 가맹점이 부담합니다."
+                },
+                {
+                    "QUESTION": "가맹점이 참여하는 광고의 분담 절차는 어떻게 되나요?",
+                    "ANSWER": "가맹점이 광고에 참여하는 경우, 광고 계획이 공고되면 가맹점은 광고 참여 여부를 결정한 후, 가맹점의 부담액이 명세서로 제시됩니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 브랜드의 개별 행사 광고비용은 어떻게 분담되나요?",
+                    "ANSWER": "개별 행사 광고비용은 행사에 따라 달라지며, 행사 계획이 공고된 후 가맹점이 부담액을 결정하고 행사 종료 후 최종 분담금이 확정됩니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB에서 가맹점 모집 광고는 어떻게 처리되나요?",
+                    "ANSWER": "가맹점 모집 광고는 전액 가맹점이 부담하며, 별도의 분담 절차는 없습니다."
+                },
+                {
+                    "QUESTION": "대중매체 광고와 관련된 비용 부담 비율은 어떻게 되나요?",
+                    "ANSWER": "대중매체 광고는 광고비의 50%를 본사가 부담하고, 나머지 50%는 가맹점 수에 따라 나누어 부담합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306943988334750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "509017501",
+            "KORN_ATTRB_NM": "1) 가맹본부와 가맹점사업자의 비용 분담 기준",
+            "UP_ATTRB_MNNO": "509007501",
+            "KORN_UP_ATRB_NM": "9. 광고 및 판촉 활동"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 1) 가맹본부와 가맹점사업자의 비용 분담 기준\n주)귀하가 비용의 전부 또는 일부를 부담하는 광고·판촉행사를 실시하려는 경우에는 사전에 다음의 두가지 절차를 준수하고 있습니다.① 사전 약정당사 및 귀하가 광고·판촉행사에 관한 약정을 체결하여 그 약정에 따라 광고·판촉행사를 실시할 수 있습니다. 다만, 그 약정은 가맹계약과는 별도로 체결 합니다.② 사전 동의당사는 전체 가맹점사업자 중 그 비용부담에 관하여 광고는 50% 이상, 판촉행사는 70% 이상의 사전 동의를 얻어 광고·판촉행사를 실시합니다. 다만, 판촉행사의 경우 70% 이상의 동의를 얻지 못하였을 때 동의한 가맹점사업자만 참여하는 분리 판촉행사를 실시할 수 있습니다. 이 때, 당사는 문서, 내용증명우편, 전자우편, 인터넷 홈페이지, 어플리케이션, POS 등 동의 시점을 객관적으로 확인할 수 있는 방법으로 동의를 얻고 있습니다.주)위 1항 및 2항의 절차를 거친 공동광고는 전체 가맹점의 매출활성화를 위하여 정당한 사유가 없는 한 반드시 참여하여야 합니다. 또한 당사의 요청이 있는 경우 당사가 계획, 주관하여 당사가 배포한 상품교환권과 무료이용권 및 할인권에 대한 판매, 사용 등의 공동판촉활동에 참여하여야 합니다. 다만, 귀하에게 정당한 사유가 있을 때에는 그 내용을 사전에 당사에 서면 신청하여야 합니다.*지역 광고일 경우에는 해당 지역내 가맹점사업자가 가맹점부담액 부분을 분담합니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD&rsquo;EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n\n1) **비용 분담 기준**:\n   - 광고·판촉행사 실시 시 사전 약정 및 동의 필요.\n   - **약정 체결**: 광고·판촉행사에 관한 별도 약정.\n   - **사전 동의**: \n     - 광고: 50% 이상의 동의 필요.\n     - 판촉행사: 70% 이상의 동의 필요.\n     - 동의 미비 시 분리 판촉행사 가능.\n   - **참여 의무**: 공동광고는 모든 가맹점이 참여해야 하며, 요청 시 공동판촉활동에 참여해야 함.\n   - **지역 광고**: 해당 지역 내 가맹점사업자가 비용 분담. \n\n2) **기타 사항**: \n   - 동의 시점을 객관적으로 확인해야 함. \n   - 정당한 사유가 있을 경우 서면 신청 필요.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD'EM & EVENT PUB입니다. 가맹점사업자는 광고 및 판촉행사에 대한 비용 분담 기준을 준수해야 하며, 광고는 50% 이상, 판촉행사는 70% 이상의 사전 동의를 받아야 합니다. 동의를 얻지 못할 경우, 동의한 가맹점사업자만 참여하는 분리 판촉행사를 진행할 수 있습니다. 모든 가맹점은 공동 광고에 참여해야 하며, 당사의 요청에 따라 상품교환권 및 할인권 판매에 참여해야 합니다. 지역 광고는 해당 지역 가맹점사업자가 비용을 분담합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 브랜드의 광고·판촉행사를 위해 가맹점사업자가 따라야 할 절차는 무엇인가요?",
+                    "ANSWER": "가맹점사업자는 광고·판촉행사를 실시하기 위해 두 가지 절차를 따라야 합니다. 첫째, 사전 약정을 체결하여야 하며, 이 약정은 가맹계약과는 별도로 작성됩니다. 둘째, 전체 가맹점사업자의 50% 이상이 광고비용, 70% 이상이 판촉비용에 관한 사전 동의를 얻어야 광고·판촉행사를 진행할 수 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 판촉행사에서 70% 미만의 동의를 얻으면 어떻게 되나요?",
+                    "ANSWER": "판촉행사에서 70% 이상의 동의를 얻지 못하는 경우, 동의한 가맹점사업자만 참여할 수 있는 분리 판촉행사가 실시될 수 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 브랜드의 공동광고에 대한 가맹점 의무는 무엇인가요?",
+                    "ANSWER": "공동광고에 참여하는 것은 전체 가맹점의 매출 활성화를 위하여 정당한 사유가 없는 한 반드시 참여해야 하며, 요청이 있을 경우 당사가 계획하고 주관하는 공동판촉활동에도 참여해야 합니다. 정당한 사유가 있을 경우에는 사전에 서면으로 신청해야 합니다."
+                },
+                {
+                    "QUESTION": "지역 광고 시 가맹점사업자는 어떻게 비용을 분담하나요?",
+                    "ANSWER": "지역 광고 시에는 해당 지역 내 가맹점사업자가 가맹점 부담액 부분을 분담하게 됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306753478776750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "509027501",
+            "KORN_ATTRB_NM": "2) 가맹점사업자의 독자적 광고ㆍ판촉 활동",
+            "UP_ATTRB_MNNO": "509007501",
+            "KORN_UP_ATRB_NM": "9. 광고 및 판촉 활동"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 2) 가맹점사업자의 독자적 광고ㆍ판촉 활동\n가맹점사업자는 가맹점 영업의 활성화를 위하여 자기의 비용으로 자기의 영업지역 내에서 당사와 별개로 광고․판촉활동을 실시할 수 있습니다. 다만, 이 경우 판촉활동 등을 위한 팜플렛, 카다로그, 쿠폰 등의 내용은 브랜드의 통일성 및 이미지 유지를 위하여 당사의 사전승인을 얻어야 합니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- **가맹점 광고∙판촉 활동**: \n  - 가맹점사업자는 자기 비용으로 영업지역 내에서 별개로 광고 및 판촉활동 가능.\n  - 판촉활동 자료(팜플렛, 카달로그, 쿠폰 등)는 브랜드 통일성 및 이미지 유지를 위해 사전승인 필요.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n가맹점사업자는 자신의 비용으로 광고 및 판촉활동을 할 수 있으며, 이러한 활동은 브랜드의 통일성과 이미지 유지를 위해 사전 승인이 필요합니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 가맹점사업자는 어떤 광고 및 판촉 활동을 할 수 있나요?",
+                    "ANSWER": "가맹점사업자는 본인의 비용으로 영업지역 내에서 독자적으로 광고 및 판촉 활동을 실시할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 광고 활동을 할 때 주의해야 할 점은 무엇인가요?",
+                    "ANSWER": "가맹점사업자는 판촉활동에 사용되는 팜플렛, 카탈로그, 쿠폰 등의 내용을 브랜드의 통일성과 이미지 유지를 위해 미리 가맹본부의 사전 승인을 받아야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 KMGM HOLD’EM & EVENT PUB 브랜드와 별개로 판촉활동을 하려면 어떻게 해야 하나요?",
+                    "ANSWER": "가맹점사업자는 본인의 비용으로 판촉활동을 할 수 있지만, 관련 자료의 내용은 가맹본부의 사전 승인이 필요합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 광고 및 판촉 활동에 대한 규정은 어떻게 되나요?",
+                    "ANSWER": "가맹점사업자는 가맹본부와 별개로 광고 및 판촉 활동을 할 수 있으나, 사용되는 자료의 내용은 브랜드의 통일성 유지를 위해 사전 승인을 받아야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306997366795750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "510007501",
+            "KORN_ATTRB_NM": "10. 영업비밀 보호에 관한 사항",
+            "UP_ATTRB_MNNO": "500007501",
+            "KORN_UP_ATRB_NM": "Ⅴ. 영업활동에 대한 조건 및 제한"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 10. 영업비밀 보호에 관한 사항\n당사의 영업비밀이란, 공공연히 알려져 있지 아니하고 독립된 경제적 가치를 가지는 것으로서, 가맹본부의 상당한 노력에 의하여 비밀로 유지된 생산방법, 판매방법, 그 밖에 영업활동에 유용한 기술상 또는 경영상의 정보를 말합니다.귀하는 계약체결 및 가맹점 운영상 알게 된 가맹본부의 영업비밀을 계약기간은 물론 계약종료 후에도 제3자에게 누설해서는 안 됩니다. 가맹본부의 허락 없이 교육과 세미나자료 기타 가맹점운영과 관련하여 영업비밀이 담긴 관계서류의 내용을 인쇄 또는 복사할 수 없습니다.당사의 영업비밀을 무단으로 유출할 경우 부정경쟁방지 및 영업비밀보호에 관한 법률에 의해 처벌 받을 수 있음을 알려드립니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n**영업비밀 보호 사항:**\n- 영업비밀 정의: 공공연히 알려지지 않고 독립된 경제적 가치를 가지며, 비밀로 유지된 정보(생산방법, 판매방법 등)\n- 계약기간 및 종료 후 영업비밀 누설 금지\n- 가맹본부의 허락 없이 영업비밀이 담긴 자료의 인쇄 및 복사 금지\n- 무단 유출 시 부정경쟁방지 및 영업비밀 보호 법률에 의해 처벌 가능성 있음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n10. 영업비밀 보호에 관한 사항  \n당사의 영업비밀은 공공에 알려지지 않고 독립된 경제적 가치를 가지며, 가맹본부의 상당한 노력으로 비밀로 유지된 정보를 포함합니다. 귀하는 계약 체결 및 운영 중 알게 된 영업비밀을 계약 기간 및 종료 후 제3자에게 누설해서는 안 되며, 가맹본부의 허락 없이 관련 서류를 인쇄하거나 복사할 수 없습니다. 무단 유출 시 부정경쟁방지 및 영업비밀 보호 법률에 따라 처벌받을 수 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 영업비밀에 대한 정의는 무엇인가요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 영업비밀은 공공연히 알려지지 않고 경제적 가치를 가지며, 가맹본부의 상당한 노력에 의해 비밀로 유지된 정보들입니다."
+                },
+                {
+                    "QUESTION": "가맹점 운영 중 알게 된 영업비밀을 누설하면 어떻게 되나요?",
+                    "ANSWER": "가맹점 운영 중 알게 된 영업비밀을 누설할 경우, 계약기간 중 및 종료 후에도 이는 금지되며, 부정경쟁방지 및 영업비밀보호에 관한 법률에 의해 처벌 받을 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부의 허락 없이 영업비밀 관련 서류를 복사할 수 있나요?",
+                    "ANSWER": "영업비밀이 담긴 관계서류의 내용을 가맹본부의 허락 없이 인쇄하거나 복사하는 것은 금지됩니다."
+                },
+                {
+                    "QUESTION": "영업비밀을 보호하기 위해 가맹점주가 해야 할 의무는 무엇인가요?",
+                    "ANSWER": "가맹점주는 계약체결 및 가맹점 운영과 관련하여 알게 된 영업비밀을 제3자에게 누설해서는 안 되며, 이를 지켜야 합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 영업비밀 보호와 관련된 법적 조치는 무엇인가요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 영업비밀을 무단으로 유출할 경우, 부정경쟁방지 및 영업비밀보호에 관한 법률에 따라 법적 처벌을 받을 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306476542988750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "601007501",
+            "KORN_ATTRB_NM": "1. 상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약",
+            "UP_ATTRB_MNNO": "600007501",
+            "KORN_UP_ATRB_NM": "Ⅵ. 가맹사업의 영업 개시에 관한 상세한 절차와 소요기간"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 1. 상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약\n귀하가 당사와 가맹계약을 체결할 경우 상담일로부터 실제 가맹점이 개설될 때까지 걸리는 시간과 필요한 절차는 다음과 같습니다.<table><tr><td>구 분</td><td>내 용</td><td>소요기간 </td><td>비고</td></tr><tr><td>가맹희망자 문의</td><td>- 전화문의. 방문- 인터넷 홈페이지</td><td>즉시</td><td>Ⅳ.가맹점사업자의 부담1. 영업개시이전 부담금전지급 방법 참조</td></tr><tr><td>1차 상담</td><td>- 전화상담 / 본사방문상담-인근10개가맹점현황문서제공</td><td>즉시</td></tr><tr><td>정보공개서 및 가맹계약서 제공</td><td>-정보공개 사항 및 계약 내용 검토</td><td>제공 14일 이후 계약</td></tr><tr><td>가맹 계약 및 계약금 지급(예치포함)</td><td>-가맹 계약 체결-가맹계약서 1부 교부 보관-[국민은행]에 가맹금 예치</td><td>14일 이상</td></tr><tr><td>점포 계약</td><td>- 점포입지 선정- 점포개발 착수- 상권분석</td><td>필요시 실시</td></tr><tr><td>점포실측/설계</td><td>- 매장 내.외부 중심선 기준 실측/ 평수 계산(소수점 첫째자리)</td><td>2 일</td></tr><tr><td>도면 작성</td><td>- 인테리어 / 별도 / 추가공사 도면협의</td><td>2일</td></tr><tr><td>인테리어 공사</td><td>-인테리어 공사 실시</td><td>30일</td></tr><tr><td>기자재 및 소품설치</td><td>-기자재 및 소품 설치</td><td>3일</td></tr><tr><td>교육</td><td>- 교육- 아르바이트교육, 점주교육</td><td>4일</td></tr><tr><td>오픈</td><td>- 오픈 리허설(담당운영과장 판단 후 오픈결정)- 오프닝 행사(담당운영과장 판단)</td><td>D-day</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n**가맹점 개설 절차 요약:**\n\n1. **가맹희망자 문의**\n   - 방법: 전화, 방문, 인터넷 홈페이지\n   - 소요기간: 즉시\n\n2. **1차 상담**\n   - 방법: 전화상담, 본사 방문 상담\n   - 소요기간: 즉시\n\n3. **정보공개서 및 가맹계약서 제공**\n   - 내용: 정보공개 사항 및 계약 내용 검토\n   - 소요기간: 제공 후 14일 이후 계약\n\n4. **가맹 계약 및 계약금 지급 (예치 포함)**\n   - 내용: 가맹 계약 체결 및 계약금 예치\n   - 소요기간: 14일 이상\n\n5. **점포 계약**\n   - 내용: 점포 입지 선정, 점포 개발 착수, 상권 분석\n   - 소요기간: 필요 시 실시\n\n6. **점포 실측/설계**\n   - 내용: 매장 실측 및 평수 계산\n   - 소요기간: 2일\n\n7. **도면 작성**\n   - 내용: 인테리어, 추가 공사 도면 협의\n   - 소요기간: 2일\n\n8. **인테리어 공사**\n   - 내용: 인테리어 공사 실시\n   - 소요기간: 30일\n\n9. **기자재 및 소품 설치**\n   - 내용: 기자재 및 소품 설치\n   - 소요기간: 3일\n\n10. **교육**\n    - 내용: 아르바이트 교육, 점주 교육\n    - 소요기간: 4일\n\n11. **오픈**\n    - 내용: 리허설 및 오프닝 행사\n    - 소요기간: D-day\n\n**총 소요기간:** \n- 상담일로부터 가맹점 개설까지 약 6주간 소요. \n\n**비고:** \n- 영업개시 이전 부담금 전지급 방법 참조.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD'EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)입니다. 가맹점 개설 과정은 다음과 같습니다:\n\n1. **가맹희망자 문의**: 즉시 (전화, 방문, 인터넷)\n2. **1차 상담**: 즉시 (전화/방문 상담)\n3. **정보공개서 및 가맹계약서 제공**: 계약 14일 이후 제공\n4. **가맹 계약 및 계약금 지급**: 14일 이상 소요\n5. **점포 계약**: 필요 시 실시\n6. **점포 실측/설계**: 2일 소요\n7. **도면 작성**: 2일 소요\n8. **인테리어 공사**: 30일 소요\n9. **기자재 및 소품 설치**: 3일 소요\n10. **교육**: 4일 소요\n11. **오픈**: D-day 진행\n\n총 소요 기간은 약 60일에서 70일로 예상됩니다. 각 단계에 대한 자세한 내용은 제공된 표를 참고하시기 바랍니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD&rsquo;EM &amp; EVENT PUB의 가맹점 개설까지의 상담 및 절차는 어떻게 되나요?",
+                    "ANSWER": "가맹점 개설까지의 절차는 다음과 같습니다: 가맹희망자가 문의 후 1차 상담을 진행하고, 정보공개서 및 가맹계약서를 제공받습니다. 그 후 가맹 계약 및 계약금을 지급한 후 점포 계약을 진행하고, 점포 실측 및 설계를 실시합니다. 이어서 인테리어 공사와 기자재 설치를 마친 후 교육을 받고, D-day에 오픈합니다."
+                },
+                {
+                    "QUESTION": "가맹 희망자가 KMGM HOLD&rsquo;EM &amp; EVENT PUB에 문의하면 얼마나 빠르게 상담이 이루어지나요?",
+                    "ANSWER": "가맹 희망자가 전화, 방문, 인터넷 홈페이지로 문의하면 즉시 상담이 이루어집니다."
+                },
+                {
+                    "QUESTION": "정보공개서는 언제 제공되며, 계약은 얼마나 걸립니까?",
+                    "ANSWER": "정보공개서는 제공된 후 14일 후에 계약이 진행됩니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD&rsquo;EM &amp; EVENT PUB의 점포 계약은 언제 진행되며, 추가 소요 기간은 어떻게 되나요?",
+                    "ANSWER": "점포 계약은 점포 입지 선정 후 필요시 실시되며, 소요 기간은 상황에 따라 다를 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점 오픈 준비 과정에서 인테리어 공사는 얼마나 시간이 소요되나요?",
+                    "ANSWER": "인테리어 공사는 30일이 소요됩니다."
+                },
+                {
+                    "QUESTION": "점포 실측 및 설계를 하는데 걸리는 시간은 얼마인가요?",
+                    "ANSWER": "점포 실측 및 설계는 2일 소요됩니다."
+                },
+                {
+                    "QUESTION": "교육 과정은 KMGM HOLD&rsquo;EM &amp; EVENT PUB에서 얼마나 걸리나요?",
+                    "ANSWER": "교육 과정은 4일 동안 진행됩니다."
+                },
+                {
+                    "QUESTION": "가맹 계약 체결 후 계약금은 어떻게 지급하나요?",
+                    "ANSWER": "가맹 계약 체결 후 계약금은 국민은행에 가맹금으로 예치해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306476543375750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "601007501",
+            "KORN_ATTRB_NM": "1. 상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약",
+            "UP_ATTRB_MNNO": "600007501",
+            "KORN_UP_ATRB_NM": "Ⅵ. 가맹사업의 영업 개시에 관한 상세한 절차와 소요기간"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 1. 상담ㆍ협의 과정에서부터 가맹점 영업 시작까지 필요한 절차 요약\n※ 위 표에 따른 소요기간은 평균적인 가맹점을 기준으로 작성된 것으로, 협의 과정에서 시장 상황 등에 따라 그 기간이 늘어날 수 있습니다.* 귀하는 본사와 계약을 체결하는 과정에서 가맹거래사나 변호사의 자문을 받을 수 있습니다. 특히 정보공개서에 대하여 자문을 받으신 경우에는 계약체결일이 정보공개서 제공 14일 후에서 7일 후로 단축됩니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n1. 상담 및 협의 과정부터 가맹점 영업 시작까지 필요한 절차 요약:\n   - 소요기간은 평균적인 가맹점을 기준으로 하며, 협의 과정에서 시장 상황에 따라 기간이 늘어날 수 있음.\n   - 계약 체결 시 가맹거래사나 변호사 자문 가능.\n   - 정보공개서에 대한 자문을 받을 경우 계약체결일이 정보공개서 제공 14일 후에서 7일 후로 단축됨.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD'EM & EVENT PUB입니다. 가맹점 영업 시작까지의 절차는 상담과 협의로 시작하여, 소요기간은 평균적인 기준으로 작성되었으며, 시장 상황에 따라 달라질 수 있습니다. 계약 체결 시 가맹거래사나 변호사의 자문을 받을 수 있으며, 정보공개서 자문을 받으면 계약 체결일이 단축됩니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 가맹 계약을 체결하기까지 평균적으로 어느 정도의 시간이 소요되나요?",
+                    "ANSWER": "가맹 계약 체결까지의 소요 기간은 평균적으로 상담 및 협의 과정에서부터 시작하여 시장 상황에 따라 달라질 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점 영업을 시작하기 전에 어떤 절차가 필요한가요?",
+                    "ANSWER": "가맹점 영업 시작 전에는 상담 및 협의 과정을 거쳐 계약 체결까지 도달해야 하며, 이 과정은 시장 상황에 따라 차이가 있을 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹 계약을 체결할 때 변호사나 가맹거래사로부터 자문을 받는 것이 가능한가요?",
+                    "ANSWER": "예, 가맹 계약 체결 과정에서 가맹거래사나 변호사의 자문을 받을 수 있습니다."
+                },
+                {
+                    "QUESTION": "정보공개서를 자문받은 경우 계약 체결일이 어떻게 변경되나요?",
+                    "ANSWER": "정보공개서에 대한 자문을 받는 경우 계약 체결일이 정보공개서 제공 14일 후에서 7일 후로 단축됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306543538013750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "602007501",
+            "KORN_ATTRB_NM": "2. 가맹본부와의 분쟁 해결 절차 ",
+            "UP_ATTRB_MNNO": "600007501",
+            "KORN_UP_ATRB_NM": "Ⅵ. 가맹사업의 영업 개시에 관한 상세한 절차와 소요기간"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 2. 가맹본부와의 분쟁 해결 절차 \n[가맹계약 당사자는 계약의 해석 또는 계약에 의해 명시되지 아니한 사항에 관하여 다툼이 있을 경우 법적 절차에 이르기 전까지 우선적으로 대화와 협상을 통해 분쟁을 해결하도록 합니다.][대화와 협상으로 분쟁이 해결되지 아니할 경우, 가맹사업거래의 공정화에 관한 법률제22조에 따라 한국공정거래조정원의 가맹사업거래분쟁조정협의회(연락처: 1588-1490, 홈페이지: http://www.kofair.or.kr) 또는 시ㆍ도의 분쟁조정협의회에조정을 신청하거나다른 법령에 의해설치된 중재기관에 중재를 신청할 수 있습니다.][중재를 신청하지 아니한 경우, 법적 분쟁에 관한 소송은 민사소송법상의 관할법원에 제기합니다. 단, 가맹본부와 가맹점사업자가 관할법원에 대해 약정할 경우에는 그러하지 아니합니다.]",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n**분쟁 해결 절차:**\n1. 계약 해석 및 미비 사항에 대한 다툼 발생 시, 법적 절차 전에 대화와 협상 우선.\n2. 대화와 협상으로 해결되지 않을 경우:\n   - 한국공정거래조정원 또는 시·도의 분쟁조정협의회에 조정 신청 가능.\n   - 다른 법령에 의해 설치된 중재기관에 중재 신청 가능.\n3. 중재 신청하지 않은 경우, 민사소송법에 따라 관할법원에 소송 제기. \n   - 가맹본부와 가맹점사업자가 약정한 관할법원에 따르면 예외. \n\n**연락처:** 한국공정거래조정원 (1588-1490)  \n**홈페이지:** [kofair.or.kr](http://www.kofair.or.kr)",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n2. 분쟁 해결 절차:  \n가맹계약 당사자는 계약 해석이나 명시되지 않은 사항에 대한 분쟁 시 법적 절차 이전에 대화와 협상을 통해 해결해야 합니다. 대화로 해결되지 않으면, 한국공정거래조정원 또는 시ㆍ도의 분쟁조정협의회에 조정을 신청할 수 있으며, 중재기관에 중재를 요청할 수도 있습니다. 중재를 신청하지 않을 경우, 민사소송법에 따라 관할법원에 소송을 제기하되, 양 당사자가 관할법원에 대해 합의할 경우 예외입니다.",
+            "QAs": [
+                {
+                    "QUESTION": "가맹점 주가 KMGM HOLD&rsquo;EM &amp; EVENT PUB의 가맹계약 해석에 대해 분쟁이 발생했을 때 첫 번째 해결 방법은 무엇인가요?",
+                    "ANSWER": "가맹점주는 계약의 해석 또는 명시되지 않은 사항에 대해 분쟁이 발생할 경우 우선적으로 대화와 협상을 통해 문제를 해결하도록 해야 합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD&rsquo;EM &amp; EVENT PUB의 가맹본부와의 분쟁이 대화와 협상으로 해결되지 않으면 어떤 절차를 따라야 하나요?",
+                    "ANSWER": "분쟁이 대화와 협상으로 해결되지 않을 경우, 가맹사업거래의 공정화에 관한 법률 제22조에 따라 한국공정거래조정원의 가맹사업거래분쟁조정협의회 또는 시ㆍ도의 분쟁조정협의회에 조정을 신청할 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹본부인 (주)엔케이코리아와의 법적 분쟁이 발생했을 때 소송은 어느 법원에 제기해야 하나요?",
+                    "ANSWER": "법적 분쟁이 발생한 경우, 민사소송법상의 관할법원에 소송을 제기해야 합니다. 다만, 가맹본부와 가맹점사업자가 관할법원에 대해 약정할 경우에는 해당 규정이 적용되지 않습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD&rsquo;EM &amp; EVENT PUB의 분쟁 해결 절차에 대해 알고 싶은데, 조정기관의 연락처는 어떻게 되나요?",
+                    "ANSWER": "조정기관인 한국공정거래조정원의 연락처는 1588-1490입니다."
+                },
+                {
+                    "QUESTION": "가맹점이 KMGM HOLD&rsquo;EM &amp; EVENT PUB과의 계약 분쟁 해결을 위해 신청할 수 있는 중재기관은 무엇인가요?",
+                    "ANSWER": "가맹점은 다른 법령에 의해 설치된 중재기관에 중재를 신청할 수 있습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306483563235750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "702007501",
+            "KORN_ATTRB_NM": "2. 판매촉진행사 시 인력지원 등 내역",
+            "UP_ATTRB_MNNO": "700007501",
+            "KORN_UP_ATRB_NM": "Ⅶ. 가맹본부의 경영 및 영업활동 등에 대한 지원"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 2. 판매촉진행사 시 인력지원 등 내역\n[당사는 가맹점을 개설 또는 운영함에 있어 다음과 같은 지원제도를 운영하고 있습니다. 다만, 해당 지원제도는 가맹본부의 경영사정 등에 의하여 가맹계약 기간 중이라도 지원여부 및 그 범위가 변경 또는 추가될 수 있습니다.](단위 : 천원, 부가세 포함)<table><tr><td>지원정책</td><td>주요 내용</td><td>지원조건</td><td>지원기간</td><td>지원금액</td><td>비고</td></tr><tr><td>개점행사비</td><td>해당없음</td><td></td><td></td><td></td><td></td></tr><tr><td>판촉장려금</td><td>해당없음</td><td></td><td></td><td></td><td></td></tr><tr><td>판촉지원</td><td>해당없음</td><td></td><td></td><td></td><td></td></tr><tr><td>판매용 집기 무상대여</td><td>해당없음</td><td></td><td></td><td></td><td></td></tr><tr><td>반품지원</td><td>해당없음</td><td></td><td></td><td></td><td></td></tr><tr><td>마일리지</td><td>해당없음</td><td></td><td></td><td></td><td></td></tr><tr><td>CRM</td><td>해당없음</td><td></td><td></td><td></td><td></td></tr><tr><td>테스터</td><td>해당없음</td><td></td><td></td><td></td><td></td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n2. **판매촉진행사 시 인력지원 등 내역:**\n- 가맹점 개설 및 운영에 대한 지원제도 운영\n- 지원 여부 및 범위는 경영사정에 따라 변경 가능\n\n| 지원정책       | 주요 내용 | 지원조건 | 지원기간 | 지원금액 | 비고 |\n|----------------|-----------|----------|----------|----------|------|\n| 개점행사비     | 해당없음  |          |          |          |      |\n| 판촉장려금     | 해당없음  |          |          |          |      |\n| 판촉지원       | 해당없음  |          |          |          |      |\n| 판매용 집기 무상대여 | 해당없음  |          |          |          |      |\n| 반품지원       | 해당없음  |          |          |          |      |\n| 마일리지       | 해당없음  |          |          |          |      |\n| CRM            | 해당없음  |          |          |          |      |\n| 테스터         | 해당없음  |          |          |          |      |",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD&rsquo;EM &amp; EVENT PUB입니다. 가맹점 개설 및 운영 시 지원제도를 운영하나, 지원 여부와 범위는 경영 사정에 따라 변경될 수 있습니다. 현재 지원 정책으로는 개점행사비, 판촉장려금, 판촉지원, 판매용 집기 무상대여, 반품지원, 마일리지, CRM, 테스터 등이 포함되지만, 모든 항목이 '해당없음'으로 기재되어 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "(주)엔케이코리아의 가맹점이 판매촉진 행사 시 지원을 받을 수 있는 제도가 있나요?",
+                    "ANSWER": "(주)엔케이코리아는 현재 판매촉진 행사에 대한 지원정책을 운영하고 있지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹점 개설 시 (주)엔케이코리아의 지원제도는 어떻게 되나요?",
+                    "ANSWER": "(주)엔케이코리아는 특정 지원제도를 운영하고 있으나, 현재 개점행사비 및 판촉장려금 등은 해당이 없습니다."
+                },
+                {
+                    "QUESTION": "(주)엔케이코리아에서 판매용 집기 무상대여를 지원하나요?",
+                    "ANSWER": "(주)엔케이코리아는 판매용 집기 무상대여를 포함한 지원정책이 없습니다."
+                },
+                {
+                    "QUESTION": "(주)엔케이코리아의 판촉지원은 어떤 내용인가요?",
+                    "ANSWER": "(주)엔케이코리아는 현재 판촉지원에 대한 정책을 제공하고 있지 않습니다."
+                },
+                {
+                    "QUESTION": "가맹점에서 반품지원을 받을 수 있는지 궁금합니다.",
+                    "ANSWER": "(주)엔케이코리아는 가맹점에 대한 반품지원이 없습니다."
+                },
+                {
+                    "QUESTION": "(주)엔케이코리아의 마일리지 프로그램이 있는지 알고 싶습니다.",
+                    "ANSWER": "(주)엔케이코리아는 가맹점에 대해 마일리지 지원을 운영하고 있지 않습니다."
+                },
+                {
+                    "QUESTION": "(주)엔케이코리아의 CRM 지원이 어떤 건가요?",
+                    "ANSWER": "(주)엔케이코리아는 현재 CRM에 대한 지원정책이 없습니다."
+                },
+                {
+                    "QUESTION": "가맹점이 테스트용 제품에 대한 지원을 받을 수 있나요?",
+                    "ANSWER": "(주)엔케이코리아는 테스트용 제품 지원이 포함된 정책을 운영하고 있지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306606919874750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "703007501",
+            "KORN_ATTRB_NM": "3. 경영활동 자문",
+            "UP_ATTRB_MNNO": "700007501",
+            "KORN_UP_ATRB_NM": "Ⅶ. 가맹본부의 경영 및 영업활동 등에 대한 지원"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 3. 경영활동 자문\n[당사는 가맹점사업자의 경영활성화를 위하여 가맹점사업자의 경영활동에 대한 경영지도를 하고 있으며 자세한 내용은 다음과 같습니다.]<table><tr><td>구 분</td><td>대상 및 내용</td><td>절 차</td><td>비용부담</td><td>비 고</td></tr><tr><td>가맹본부요청 시</td><td>상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도</td><td>가맹본부는 경영지도계획서(경영지도내용,기간, 경영진단 및 지도관계자의 성명, 소요비용 등 포함)를 가맹점사업자에게 제시 → 경영지도 후 [7]일 이내에 가맹본부 담당자가 가맹점사업자에게 직접 방문하여 경영지도 결과 및 경영개선방안을 서면으로 제시하고 이를 설명</td><td>가맹본부부담</td><td>문의: 가맹사업팀(1644-7861)</td></tr><tr><td>가맹점사업자요청 시</td><td>상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도</td><td>가맹점사업자 경영지도 요청 → 가맹본부는 경영지도계획서(경영지도내용, 기간, 경영진단 및 지도관계자의 성명, 소요비용 등 포함)를 가맹점사업자에게 제시 → 경영지도 후 [7]일 이내에 가맹본부 담당자가 가맹점사업자에게 직접 방문하여 경영지도 결과 및 경영개선방안을 서면으로 제시하고 이를 설명</td><td>가맹점부담(가맹금에 포함된 통상의 경영지도 비용을 초과한 부분에 한함)</td><td>문의: 가맹사업팀(1644-7861)</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n\n**경영활동 자문:**\n\n1. **대상 및 내용:** \n   - 상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도.\n\n2. **절차:** \n   - 가맹본부 또는 가맹점사업자가 요청 시 경영지도계획서를 제시하고, 경영지도 후 7일 이내에 결과 및 개선방안을 서면으로 설명.\n\n3. **비용부담:** \n   - 가맹본부 요청 시: 가맹본부 부담.\n   - 가맹점사업자 요청 시: 가맹점 부담 (가맹금에 포함된 통상의 경영지도 비용 초과 부분).\n\n4. **비고:** \n   - 문의: 가맹사업팀 (1644-7861).",
+            "ABSTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD&rsquo;EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)  \n\n**경영활동 자문:**\n- **가맹본부 요청 시:** 가맹점 운영 전반에 대한 경영지도를 제공하며, 경영지도계획서를 제시 후 7일 이내에 결과 및 개선방안을 설명합니다. 비용은 가맹본부가 부담합니다.\n- **가맹점사업자 요청 시:** 동일한 경영지도 내용을 요청하며, 경영지도계획서를 제시한 후 7일 이내에 결과 및 개선방안을 설명합니다. 이 경우 가맹점사업자가 비용을 부담하지만, 통상의 경영지도 비용을 초과하는 부분에 한합니다.  \n\n**문의:** 가맹사업팀 (1644-7861)",
+            "QAs": [
+                {
+                    "QUESTION": "가맹본부 요청 시 경영지도 비용은 어떻게 되나요?",
+                    "ANSWER": "가맹본부 요청 시 경영지도 비용은 가맹본부가 부담합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 요청한 경우, 경영지도 비용은 어떻게 청구되나요?",
+                    "ANSWER": "가맹점사업자가 요청한 경우, 경영지도 비용은 가맹점이 부담하며, 이는 가맹금에 포함된 통상의 경영지도 비용을 초과한 부분에 해당합니다."
+                },
+                {
+                    "QUESTION": "경영지도 서비스의 절차는 어떻게 되나요?",
+                    "ANSWER": "경영지도 서비스는 가맹본부가 경영지도계획서를 가맹점사업자에게 제시한 후 진행되며, 지도 후 7일 이내에 담당자가 직접 방문하여 결과 및 개선방안을 서면으로 제시하고 설명합니다."
+                },
+                {
+                    "QUESTION": "가맹본부는 어떤 경영지도 내용을 제공하나요?",
+                    "ANSWER": "가맹본부는 상품, 설비(집기), 판매촉진, 고객관리, 위생관리, 교육훈련, 회계 등 가맹점 운영 전반에 대한 경영지도를 제공합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 경영지도를 요청할 경우, 필요한 절차는 무엇인가요?",
+                    "ANSWER": "가맹점사업자가 경영지도를 요청할 경우, 요청서를 제출하고 이후 가맹본부의 경영지도계획서를 받게 됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306388990879750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "704007501",
+            "KORN_ATTRB_NM": "4. 신용 제공 등 내역",
+            "UP_ATTRB_MNNO": "700007501",
+            "KORN_UP_ATRB_NM": "Ⅶ. 가맹본부의 경영 및 영업활동 등에 대한 지원"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 4. 신용 제공 등 내역\n당사는 [KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)] 가맹점사업자를 위하여 신용 제공 또는 알선을 하고 있지 않습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n- 신용 제공 내역: 신용 제공 또는 알선 없음.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n신용 제공 내역: 당사는 KMGM HOLD’EM & EVENT PUB 가맹점사업자에게 신용 제공이나 알선을 하지 않습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 가맹점사업자를 위한 신용 제공 여부는 어떻게 되나요?",
+                    "ANSWER": "(주)엔케이코리아는 KMGM HOLD’EM & EVENT PUB 가맹점사업자를 위해 신용 제공 또는 알선을 하고 있지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306956581098750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "801007501",
+            "KORN_ATTRB_NM": "1. 교육ㆍ훈련의 주요내용",
+            "UP_ATTRB_MNNO": "800007501",
+            "KORN_UP_ATRB_NM": "Ⅷ. 교육ㆍ훈련에 대한 설명"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 1. 교육ㆍ훈련의 주요내용\n1) 개점 전 교육 프로그램당사는 KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍) 운영에 필요한 제반 지식 및 노하우를 귀하에게 전수하기 위하여 다음과 같은 개점 전 교육ㆍ훈련프로그램을 실시하고 있습니다. 자세한 내용은 다음과 같습니다.<table><tr><td>구분</td><td>주요내용</td><td>교육방식</td><td>기한</td><td>비고</td></tr><tr><td>개점전 교육</td><td>운영, 상품 교육</td><td>개별 또는 집단강의</td><td>가맹계약체결 후 1개월이내</td><td>필수교육</td></tr><tr><td>실 매장에서의 서비스 방법</td><td>실습교육</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD’EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n\n1. 교육∙훈련 주요 내용:\n   - 개점 전 교육 프로그램:\n     - **내용**: 운영 및 상품 교육\n     - **방식**: 개별 또는 집단 강의\n     - **기한**: 가맹계약 체결 후 1개월 이내\n     - **비고**: 필수 교육\n   - 실 매장에서의 서비스 방법: 실습 교육",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아로, 브랜드명은 KMGM HOLD'EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)입니다. 개점 전 교육 프로그램은 운영과 상품 교육을 포함하며, 개별 또는 집단 강의 방식으로 진행됩니다. 이 교육은 가맹계약 체결 후 1개월 이내에 필수적으로 이수해야 합니다. 또한 실 매장에서의 서비스 방법에 대한 실습 교육도 제공됩니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 브랜드의 개점 전 교육 프로그램은 어떤 내용을 포함하나요?",
+                    "ANSWER": "개점 전 교육 프로그램에서는 운영 및 상품 교육이 포함되어 있습니다."
+                },
+                {
+                    "QUESTION": "개점 전 교육은 언제까지 완료해야 하나요?",
+                    "ANSWER": "가맹계약 체결 후 1개월 이내에 개점 전 교육을 완료해야 합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 개점 전 교육 방식은 무엇인가요?",
+                    "ANSWER": "개점 전 교육은 개별 또는 집단강의 방식으로 진행됩니다."
+                },
+                {
+                    "QUESTION": "실 매장에서의 서비스 방법에 대한 교육은 어떤 형식으로 이루어지나요?",
+                    "ANSWER": "실 매장에서의 서비스 방법 교육은 실습교육으로 진행됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306956581352750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 2,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "801007501",
+            "KORN_ATTRB_NM": "1. 교육ㆍ훈련의 주요내용",
+            "UP_ATTRB_MNNO": "800007501",
+            "KORN_UP_ATRB_NM": "Ⅷ. 교육ㆍ훈련에 대한 설명"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 1. 교육ㆍ훈련의 주요내용\n2) 개점 후 교육 프로그램당사는 효율적인 KMGM HOLD’EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍) 가맹점 운영∙관리에 필요한 제반 지식 및 노하우를 귀하에게 전수하기 위하여 다음과 같은 개점 이후 교육ㆍ훈련프로그램을 실시하고 있습니다. 자세한 내용은 다음과 같습니다.<table><tr><td>구분</td><td>주요내용</td><td>교육방식</td><td>기한</td><td>비고</td></tr><tr><td>수시교육</td><td>가맹점통지사항 및 의견수렴</td><td>개별 또는 집단강의</td><td>개별협의</td><td>필수교육</td></tr><tr><td>특별교육</td><td>가맹점사업자의 요청 내용</td><td>개별교육</td><td>선택교육</td></tr><tr><td>재교육</td><td>가맹점관리 및 운영</td><td>개별교육</td><td>필수교육</td></tr></table>",
+            "EXTRACTED_SUMMARY_TEXT": "**가맹본부명:** (주)엔케이코리아  \n**브랜드명:** KMGM HOLD’EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n**교육∙훈련 주요 내용:**\n1. 개점 후 교육 프로그램: 효율적인 가맹점 운영∙관리에 필요한 지식 및 노하우 전수.\n\n| 구분       | 주요내용                     | 교육방식          | 기한       | 비고       |\n|------------|----------------------------|------------------|------------|------------|\n| 수시교육   | 가맹점통지사항 및 의견수렴 | 개별 또는 집단강의 | 개별협의    | 필수교육   |\n| 특별교육   | 가맹점사업자의 요청 내용  | 개별교육         | 선택교육   |            |\n| 재교육     | 가맹점관리 및 운영          | 개별교육         | 필수교육   |            |",
+            "ABSTRACTED_SUMMARY_TEXT": "**가맹본부명**: (주)엔케이코리아  \n**브랜드명**: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n\n### 교육∙훈련 주요 내용\n- **개점 후 교육 프로그램**: KMGM HOLD'EM & EVENT PUB 가맹점 운영∙관리에 필요한 지식 및 노하우 전수.\n- **교육 종류**:\n  1. **수시교육**\n     - **주요내용**: 가맹점 통지사항 및 의견 수렴\n     - **교육방식**: 개별 또는 집단 강의\n     - **기한**: 개별 협의\n     - **비고**: 필수 교육\n  2. **특별교육**\n     - **주요내용**: 가맹점 사업자의 요청 내용\n     - **교육방식**: 개별 교육\n     - **기한**: 선택 교육\n  3. **재교육**\n     - **주요내용**: 가맹점 관리 및 운영\n     - **교육방식**: 개별 교육\n     - **기한**: 필수 교육\n\n### 요약\nKMGM HOLD'EM & EVENT PUB의 가맹점 운영을 위한 다양한 교육 프로그램이 있으며, 수시 교육, 특별 교육, 재교육으로 구분됩니다. 교육은 필수 및 선택 교육으로 나뉘어 진행됩니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 가맹점은 어떤 종류의 교육 프로그램을 제공하나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB 브랜드는 개점 후 가맹점 운영 및 관리를 위한 수시교육과 특별교육, 재교육 프로그램을 제공합니다."
+                },
+                {
+                    "QUESTION": "가맹본부는 가맹점에게 어떤 방식으로 교육을 제공하나요?",
+                    "ANSWER": "가맹본부는 개별 또는 집단강의 형태의 수시교육과 개별교육 형태의 특별교육, 재교육을 제공합니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 필수 교육은 어떤 내용으로 이루어지나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB의 필수 교육은 가맹점 관리 및 운영에 중점을 두고 진행됩니다."
+                },
+                {
+                    "QUESTION": "특별교육의 경우, 가맹점이 요청할 수 있는 내용은 무엇인가요?",
+                    "ANSWER": "특별교육은 가맹점 사업자가 요청한 내용으로 진행되며, 선택 교육 방식으로 제공됩니다."
+                },
+                {
+                    "QUESTION": "가맹점이 필요할 때 재교육을 받을 수 있나요?",
+                    "ANSWER": "네, KMGM HOLD’EM & EVENT PUB 브랜드는 가맹점의 재교육을 필수 교육으로 제공합니다."
+                },
+                {
+                    "QUESTION": "교육 프로그램의 기한은 어떻게 되나요?",
+                    "ANSWER": "수시교육의 기한은 개별협의에 따라 정해지며, 재교육은 필수교육으로 진행됩니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306610682586750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "803007501",
+            "KORN_ATTRB_NM": "3. 교육ㆍ훈련의 주체 ",
+            "UP_ATTRB_MNNO": "800007501",
+            "KORN_UP_ATRB_NM": "Ⅷ. 교육ㆍ훈련에 대한 설명"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 3. 교육ㆍ훈련의 주체 \n교육∙훈련을 받아야 하는 주체는 가맹점사업자입니다. 다만 사정에 따라 당사와 사전협의 한 경우에는 타인으로 대체할 수 있습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 교육∙훈련 주체: 가맹점사업자\n- 대체 가능성: 사전협의 시 타인으로 대체 가능.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n교육∙훈련 주체: 가맹점사업자 (사전협의 시 타인으로 대체 가능)  ",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB 가맹점사업자는 어떤 교육·훈련을 받아야 하나요?",
+                    "ANSWER": "KMGM HOLD’EM & EVENT PUB 가맹점사업자는 브랜드에서 제공하는 교육·훈련을 반드시 이수해야 합니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 교육·훈련을 받을 때 타인으로 대체 가능하나요?",
+                    "ANSWER": "네, 가맹점사업자는 사정에 따라 가맹본부와 사전협의한 경우 타인으로 교육·훈련을 대체할 수 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD’EM & EVENT PUB의 교육·훈련은 누구에게 필요합니까?",
+                    "ANSWER": "교육·훈련은 가맹점사업자에게 필요합니다."
+                },
+                {
+                    "QUESTION": "가맹본부와 어떤 협의를 해야 교육·훈련의 주체를 변경할 수 있나요?",
+                    "ANSWER": "가맹점사업자가 교육·훈련의 주체를 변경하려면 반드시 가맹본부와 사전협의해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306326240045750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "804007501",
+            "KORN_ATTRB_NM": "4. 교육ㆍ훈련 불참시에 받을 수 있는 불이익",
+            "UP_ATTRB_MNNO": "800007501",
+            "KORN_UP_ATRB_NM": "Ⅷ. 교육ㆍ훈련에 대한 설명"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 브랜드: KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n 목차: 4. 교육ㆍ훈련 불참시에 받을 수 있는 불이익\n교육∙훈련을 받아야 할 가맹점사업자 또는 매장근무자가 정당한 사유없이 개점 전 교육을 이수하지 못할 경우 개점이 지연 될 수 있으며 개점 이후 전체적으로 실시되는 교육에 교육 대상자가 불참할 경우 가맹점운영권 제한 사유 및 계약 갱신 거절 사유가 될 수 있습니다",
+            "EXTRACTED_SUMMARY_TEXT": "- **가맹본부명**: (주)엔케이코리아\n- **브랜드명**: KMGM HOLD&rsquo;EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- **교육∙훈련 불참 시 불이익**: \n  - 개점 전 교육 미이수 시 개점 지연\n  - 개점 이후 교육 불참 시 가맹점운영권 제한 및 계약 갱신 거절 사유 발생.",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD&rsquo;EM & EVENT PUB입니다. 교육 및 훈련에 불참할 경우, 개점이 지연되거나 운영권 제한 및 계약 갱신 거절 사유가 될 수 있습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB의 교육에 불참할 경우 어떤 불이익이 있을까요?",
+                    "ANSWER": "교육을 정당한 사유없이 이수하지 못할 경우 개점이 지연될 수 있으며, 개점 이후 전체 교육에 불참할 경우 가맹점 운영권 제한 및 계약 갱신 거절 사유가 될 수 있습니다."
+                },
+                {
+                    "QUESTION": "가맹점사업자가 개점 전 교육에 불참하면 어떤 결과가 발생하나요?",
+                    "ANSWER": "개점 전 교육에 정당한 사유없이 불참하면 개점이 지연될 수 있습니다."
+                },
+                {
+                    "QUESTION": "KMGM HOLD'EM & EVENT PUB의 교육을 이수하지 않으면 계약 갱신이 어려운 이유는 무엇인가요?",
+                    "ANSWER": "가맹점사업자가 전체적으로 실시되는 교육에 불참할 경우, 가맹점 운영권 제한 및 계약 갱신 거절 사유가 될 수 있기 때문입니다."
+                },
+                {
+                    "QUESTION": "가맹점 포지션에서 교육 불참 시 어떤 사항을 유의해야 하나요?",
+                    "ANSWER": "교육 불참 시 개점 지연 뿐만 아니라, 가맹점 운영권 제한 및 계약 갱신 거절 가능성도 있으므로 주의해야 합니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306817603744750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "901007501",
+            "KORN_ATTRB_NM": "1. 바로 전 사업연도 말 기준 직영점의 명칭 및 소재지",
+            "UP_ATTRB_MNNO": "900007501",
+            "KORN_UP_ATRB_NM": "Ⅸ. 가맹본부의 직영점① 운영 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 1. 바로 전 사업연도 말 기준 직영점의 명칭 및 소재지\n해당 없습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD&rsquo;EM & EVENT PUB(케이엠지엠홀덤앤이벤트펍)\n- 직영점 명칭 및 소재지: 해당 없음",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부는 (주)엔케이코리아이며, 브랜드명은 KMGM HOLD'EM & EVENT PUB입니다. 직영점에 대한 정보는 없습니다.",
+            "QAs": [
+                {
+                    "QUESTION": "엔케이코리아의 직영점 관련 정보는 무엇인가요?",
+                    "ANSWER": "현재 엔케이코리아는 직영점을 운영하고 있지 않습니다."
+                }
+            ]
+        }
+    },
+    {
+        "LRN_DTIN_MNNO": "203306718545119750108",
+        "CHNK_NO": 1,
+        "SMRT_CHNK_NO": 1,
+        "JNG_INFO": {
+            "JNG_BIZ_CRTRA_YR": 2024,
+            "JNGHDQRTRS_CONM_NM": "(주)엔케이코리아",
+            "BRAND_NM": "KMGM HOLD&rsquo;EM &amp; EVENT PUB(케이엠지엠홀덤앤이벤트펍)",
+            "JNG_IFRMP_SN": 2033067501
+        },
+        "ATTRB_INFO": {
+            "ATTRB_MNNO": "902007501",
+            "KORN_ATTRB_NM": "2. 바로 전 사업연도 말 기준 전체 직영점의 평균 운영기간",
+            "UP_ATTRB_MNNO": "900007501",
+            "KORN_UP_ATRB_NM": "Ⅸ. 가맹본부의 직영점① 운영 현황"
+        },
+        "QL": {
+            "ORIGINAL_TEXT": "가맹본부: (주)엔케이코리아\n 목차: 2. 바로 전 사업연도 말 기준 전체 직영점의 평균 운영기간\n해당 없습니다.",
+            "EXTRACTED_SUMMARY_TEXT": "- 가맹본부명: (주)엔케이코리아\n- 브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)\n- 전체 직영점의 평균 운영기간: 해당 없음",
+            "ABSTRACTED_SUMMARY_TEXT": "가맹본부명: (주)엔케이코리아  \n브랜드명: KMGM HOLD'EM & EVENT PUB (케이엠지엠홀덤앤이벤트펍)  \n2. 직영점 평균 운영기간: 해당 없음.",
+            "QAs": [
+                {
+                    "QUESTION": "엔케이코리아의 직영점 평균 운영기간은 어떻게 되나요?",
+                    "ANSWER": "현재 엔케이코리아의 직영점 평균 운영기간은 해당 정보가 없습니다."
+                },
+                {
+                    "QUESTION": "엔케이코리아의 전체 직영점 운영기간은 확인할 수 있나요?",
+                    "ANSWER": "엔케이코리아의 전체 직영점 운영기간에 대한 정보는 현재 제공되지 않고 있습니다."
+                }
+            ]
+        }
+    }
+]

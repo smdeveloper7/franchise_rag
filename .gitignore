@@ -2,9 +2,9 @@
 app.log
 .env
 __pycache__/
-# */vector_db/*
-# **/vector_db/
-# /vector_db/*
+*/vector_db/*
+**/vector_db/
+/vector_db/*
 /venv
 convert_pdf.log
 /tmp/
@@ -78,5 +78,5 @@ dump/
 .aws/
 
 #data
-data/
+# data/
 venv/
