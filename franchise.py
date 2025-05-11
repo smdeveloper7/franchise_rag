@@ -29,8 +29,12 @@ class GeminiFranchiseService:
         
         genai.configure(api_key=api_key)
         self.vector_db_path = config.get("vector_db_path","")
+        self.collection_name = config.get("collection_name","contracts_collection")
         self.model = genai.GenerativeModel(config.get("model_name", "gemini-pro"))
         embedding_model_path = config.get("embedding_model_path","")
+
+        device = config.get("device","cpu")
+
         
         # 임베딩 모델 초기화 (로컬 모델 사용)
         logger.info(f"로컬 임베딩 모델 로드 중: {embedding_model_path}")
@@ -38,7 +42,7 @@ class GeminiFranchiseService:
             self.embeddings = HuggingFaceEmbeddings(
                 model_name=embedding_model_path,  # 로컬 경로 사용
                 model_kwargs={
-                    'device': 'cpu',
+                    'device': device,
                 }
             )
             logger.info("로컬 임베딩 모델 로드 성공")
@@ -47,7 +51,7 @@ class GeminiFranchiseService:
             # 실패 시 온라인 모델로 폴백
             self.embeddings = HuggingFaceEmbeddings(
                 model_name="nlpai-lab/KURE-v1",
-                model_kwargs={'device': 'cpu'}
+                model_kwargs={'device': device}
             )
         
         # Chroma 벡터 스토어 초기화
@@ -70,13 +74,13 @@ class GeminiFranchiseService:
             vectorstore = Chroma(
                 persist_directory=absolute_path,
                 embedding_function=self.embeddings,
-                collection_name="contracts_collection"
+                collection_name=self.collection_name
             )
             
             # 컬렉션 정보 확인
             collection = vectorstore._collection
             count = collection.count()
-            logger.info(f"벡터 스토어 로드 완료: {absolute_path}, 문서 수: {count}")
+            logger.info(f"벡터 스토어 로드 완료: {absolute_path},collection:{collection} 문서 수: {count}")
             
             # 문서가 없는 경우 경고
             if count == 0:

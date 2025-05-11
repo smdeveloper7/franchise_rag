@@ -10,7 +10,7 @@ try:
     embeddings = HuggingFaceEmbeddings(
         model_name=settings.EMBEDDING_MODEL_PATH,  # 로컬 경로 사용
         model_kwargs={
-            'device': 'cpu'
+            'device': 'cuda'
         }
     )
     print("로컬 임베딩 모델 로드 성공")
@@ -19,7 +19,7 @@ except Exception as e:
     # 실패 시 온라인 모델로 폴백
     embeddings = HuggingFaceEmbeddings(
         model_name=settings.EMBEDDING_MODEL_NAME,
-        model_kwargs={'device': 'cpu'}
+        model_kwargs={'device': 'cuda'}
     )
 
 print("임베딩 모델(KURE-v1) 로딩 완료")

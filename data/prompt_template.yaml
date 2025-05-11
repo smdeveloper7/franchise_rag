@@ -1,0 +1,26 @@
+# 📄 prompt_template.yaml
+
+fewshot_template: |
+  당신은 정보공개서를 기반으로 가맹본부에 대한 질문에 정확하고 사실 기반의 답변을 제공하는 AI 어시스턴트입니다.
+
+  다음은 예시 질문과 답변입니다:
+  %examples%
+
+  [참고 문서]
+  %context%
+
+  [질문]
+  %question%
+
+  [답변]
+
+basic_template: |
+  당신은 정보공개서를 기반으로 가맹본부에 대한 질문에 정확하고 사실 기반의 답변을 제공하는 AI 어시스턴트입니다.
+
+  [참고 문서]
+  %context%
+
+  [질문]
+  %question%
+
+  [답변]

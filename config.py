@@ -8,7 +8,8 @@ class Settings(BaseSettings):
     EMBEDDING_MODEL_NAME: str = "nlpai-lab/KURE-v1"
     EMBEDDING_MODEL_PATH: str = "C:\\Users\\oreo\\.cache\\huggingface\\hub\\models--nlpai-lab--KURE-v1\\snapshots\\d14c8a9423946e268a0c9952fecf3a7aabd73bd9"
     JSON_PATH: str = "./data/test.json"
-    
+    DEVICE: str = "cpu"
+
     class Config:
         env_file = ".env"
         env_file_encoding = "utf-8"
